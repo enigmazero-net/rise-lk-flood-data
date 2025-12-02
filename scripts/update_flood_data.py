@@ -5,15 +5,19 @@ Scrape Sri Lanka DMC Flood_Map ArcGIS service and build dashboard cards.
 - Loops selected layer IDs from the Flood_Map FeatureServer.
 - For each feature, normalises a few key fields into "cards".
 - Designed to be run by GitHub Actions on a schedule.
+- Configure layer IDs via FLOOD_LAYER_IDS (comma-separated) and base URL via FLOOD_ARCGIS_BASE_URL.
+- Fails fast if no cards are produced to avoid committing empty data.
 """
 
 import json
+import os
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, List
 
-import os
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 # ==== CONFIG =================================================================
 
@@ -26,8 +30,13 @@ DEFAULT_BASE_URL = (
 FLOOD_ARCGIS_BASE_URL = os.getenv("FLOOD_ARCGIS_BASE_URL", DEFAULT_BASE_URL)
 
 # Layer IDs you want to scrape – update this list to match the layers you care about.
-# Example: 11 = River_Basin (from your earlier JSON), adjust as necessary.
-LAYER_IDS = [11]  # add more like [11, 12, 13, 14, 16] when ready
+# You can override via env var FLOOD_LAYER_IDS="11,12,13".
+DEFAULT_LAYER_IDS = [11]
+
+# Timeouts / retries
+CONNECT_TIMEOUT = 5
+READ_TIMEOUT = 25
+MAX_RETRIES = 3
 
 # Output path
 REPO_ROOT = Path(__file__).resolve().parents[1]
@@ -37,7 +46,34 @@ OUTPUT_PATH = DATA_DIR / "flood_cards.json"
 
 # ==== HELPERS ================================================================
 
-def arcgis_query(layer_id: int) -> Dict[str, Any]:
+def build_session() -> requests.Session:
+    """Create a requests session with limited retries/backoff."""
+    retry = Retry(
+        total=MAX_RETRIES,
+        backoff_factor=1,
+        status_forcelist=[429, 500, 502, 503, 504],
+        allowed_methods=["GET"],
+        raise_on_status=False,
+    )
+    adapter = HTTPAdapter(max_retries=retry)
+    session = requests.Session()
+    session.mount("http://", adapter)
+    session.mount("https://", adapter)
+    return session
+
+
+def parse_layer_ids(raw: str) -> List[int]:
+    """Parse comma-separated layer IDs from env."""
+    ids: List[int] = []
+    for part in raw.split(","):
+        part = part.strip()
+        if not part:
+            continue
+        ids.append(int(part))
+    return ids
+
+
+def arcgis_query(session: requests.Session, layer_id: int) -> Dict[str, Any]:
     """
     Run a basic query on a Flood_Map layer:
     - where=1=1
@@ -54,7 +90,11 @@ def arcgis_query(layer_id: int) -> Dict[str, Any]:
     }
 
     print(f"[info] Requesting layer {layer_id}: {url}")
-    resp = requests.get(url, params=params, timeout=60)
+    resp = session.get(
+        url,
+        params=params,
+        timeout=(CONNECT_TIMEOUT, READ_TIMEOUT),
+    )
     resp.raise_for_status()
     data = resp.json()
 
@@ -150,15 +190,28 @@ def write_output(payload: Dict[str, Any]) -> None:
 
 
 def main() -> None:
-    all_cards: List[Dict[str, Any]] = []
+    raw_layer_ids = os.getenv("FLOOD_LAYER_IDS")
+    layer_ids = parse_layer_ids(raw_layer_ids) if raw_layer_ids else list(DEFAULT_LAYER_IDS)
 
-    for layer_id in LAYER_IDS:
+    if not layer_ids:
+        raise SystemExit("[error] No layer IDs configured (set FLOOD_LAYER_IDS).")
+
+    all_cards: List[Dict[str, Any]] = []
+    session = build_session()
+    print(f"[info] Using layers: {layer_ids}")
+
+    for layer_id in layer_ids:
         try:
-            data = arcgis_query(layer_id)
+            data = arcgis_query(session, layer_id)
             cards = extract_cards_from_layer(layer_id, data)
+            if not cards:
+                print(f"[warn] Layer {layer_id} returned 0 features.")
             all_cards.extend(cards)
-        except Exception as e:  # noqa: BLE001
-            print(f"[error] Failed to process layer {layer_id}: {e}")
+        except Exception as exc:  # noqa: BLE001
+            raise RuntimeError(f"Failed to process layer {layer_id}") from exc
+
+    if not all_cards:
+        raise SystemExit("[error] No cards extracted from any layer. Failing run.")
 
     payload = build_payload(all_cards)
     write_output(payload)

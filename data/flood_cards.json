@@ -1,7 +1,178 @@
 {
-  "last_updated_utc": null,
+  "last_updated_utc": "2025-12-02T18:44:21.374791+00:00",
   "source": "rise_lk_flood_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/Flood_Map/FeatureServer",
-  "card_count": 0,
-  "cards": []
+  "card_count": 10,
+  "cards": [
+    {
+      "id": "11-180",
+      "layer_id": 11,
+      "basin": "Gal_Oya",
+      "station": null,
+      "status": "UNKNOWN",
+      "raw": {
+        "OBJECTID": 180,
+        "Wshed_Name": "Gal_Oya",
+        "Wshed_No": 44,
+        "SubRivBasN": "Lower_Gal_Oya",
+        "Sub_RivBas": 10,
+        "Area": 491.41,
+        "Shape__Area": 491410046.64914703,
+        "Shape__Length": 188899.4101414493
+      }
+    },
+    {
+      "id": "11-181",
+      "layer_id": 11,
+      "basin": "Gal_Oya",
+      "station": null,
+      "status": "UNKNOWN",
+      "raw": {
+        "OBJECTID": 181,
+        "Wshed_Name": "Gal_Oya",
+        "Wshed_No": 44,
+        "SubRivBasN": "Upper_Gal_Oya",
+        "Sub_RivBas": 5,
+        "Area": 210.672,
+        "Shape__Area": 210671876.06632233,
+        "Shape__Length": 72848.07933193944
+      }
+    },
+    {
+      "id": "11-182",
+      "layer_id": 11,
+      "basin": "Gal_Oya",
+      "station": null,
+      "status": "UNKNOWN",
+      "raw": {
+        "OBJECTID": 182,
+        "Wshed_Name": "Gal_Oya",
+        "Wshed_No": 44,
+        "SubRivBasN": "Dahamala_Oya",
+        "Sub_RivBas": 6,
+        "Area": 162.465,
+        "Shape__Area": 162465172.73690414,
+        "Shape__Length": 72402.6734671676
+      }
+    },
+    {
+      "id": "11-183",
+      "layer_id": 11,
+      "basin": "Gal_Oya",
+      "station": null,
+      "status": "UNKNOWN",
+      "raw": {
+        "OBJECTID": 183,
+        "Wshed_Name": "Gal_Oya",
+        "Wshed_No": 44,
+        "SubRivBasN": "Lankiya_Oya",
+        "Sub_RivBas": 8,
+        "Area": 129.686,
+        "Shape__Area": 129685627.3167038,
+        "Shape__Length": 76578.40894556494
+      }
+    },
+    {
+      "id": "11-184",
+      "layer_id": 11,
+      "basin": "Gal_Oya",
+      "station": null,
+      "status": "UNKNOWN",
+      "raw": {
+        "OBJECTID": 184,
+        "Wshed_Name": "Gal_Oya",
+        "Wshed_No": 44,
+        "SubRivBasN": "Sengapodi_Aru",
+        "Sub_RivBas": 9,
+        "Area": 158.822,
+        "Shape__Area": 158821905.1407051,
+        "Shape__Length": 71707.60505510293
+      }
+    },
+    {
+      "id": "11-185",
+      "layer_id": 11,
+      "basin": "Gal_Oya",
+      "station": null,
+      "status": "UNKNOWN",
+      "raw": {
+        "OBJECTID": 185,
+        "Wshed_Name": "Gal_Oya",
+        "Wshed_No": 44,
+        "SubRivBasN": "Namal_Oya",
+        "Sub_RivBas": 2,
+        "Area": 98.2709,
+        "Shape__Area": 98270900.84517288,
+        "Shape__Length": 47833.36886290896
+      }
+    },
+    {
+      "id": "11-186",
+      "layer_id": 11,
+      "basin": "Gal_Oya",
+      "station": null,
+      "status": "UNKNOWN",
+      "raw": {
+        "OBJECTID": 186,
+        "Wshed_Name": "Gal_Oya",
+        "Wshed_No": 44,
+        "SubRivBasN": "Veeragoda_Ela",
+        "Sub_RivBas": 1,
+        "Area": 97.2442,
+        "Shape__Area": 97244167.88771057,
+        "Shape__Length": 53870.40254035091
+      }
+    },
+    {
+      "id": "11-187",
+      "layer_id": 11,
+      "basin": "Gal_Oya",
+      "station": null,
+      "status": "UNKNOWN",
+      "raw": {
+        "OBJECTID": 187,
+        "Wshed_Name": "Gal_Oya",
+        "Wshed_No": 44,
+        "SubRivBasN": "Damba_Oya",
+        "Sub_RivBas": 7,
+        "Area": 241.85,
+        "Shape__Area": 241850119.6689949,
+        "Shape__Length": 96255.1412318078
+      }
+    },
+    {
+      "id": "11-188",
+      "layer_id": 11,
+      "basin": "Gal_Oya",
+      "station": null,
+      "status": "UNKNOWN",
+      "raw": {
+        "OBJECTID": 188,
+        "Wshed_Name": "Gal_Oya",
+        "Wshed_No": 44,
+        "SubRivBasN": "Middle_Gal_Oya",
+        "Sub_RivBas": 4,
+        "Area": 181.26,
+        "Shape__Area": 181260379.02101898,
+        "Shape__Length": 81069.59032253247
+      }
+    },
+    {
+      "id": "11-189",
+      "layer_id": 11,
+      "basin": "Gal_Oya",
+      "station": null,
+      "status": "UNKNOWN",
+      "raw": {
+        "OBJECTID": 189,
+        "Wshed_Name": "Gal_Oya",
+        "Wshed_No": 44,
+        "SubRivBasN": "Waralwita_Oya",
+        "Sub_RivBas": 3,
+        "Area": 103.249,
+        "Shape__Area": 103248858.20323944,
+        "Shape__Length": 44702.41654586383
+      }
+    }
+  ]
 }
