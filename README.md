@@ -12,6 +12,7 @@ pip install requests
 # Optional overrides
 export FLOOD_ARCGIS_BASE_URL="https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/Flood_Map/FeatureServer"
 export FLOOD_LAYER_IDS="11,12,13"  # comma-separated layer IDs
+export FLOOD_MAX_AGE_DAYS="7"      # set "" to disable time filtering
 
 python scripts/update_flood_data.py
 cat data/flood_cards.json
@@ -23,6 +24,7 @@ The script fails fast if no cards are produced so CI does not commit empty data.
 
 - Scheduled every 10 minutes and manually triggerable via `workflow_dispatch`.
 - Configure repository variables `FLOOD_ARCGIS_BASE_URL` and `FLOOD_LAYER_IDS` if the DMC service changes.
+- Set `FLOOD_MAX_AGE_DAYS` (default 7) to drop stale features when timestamps exist; set to empty string to keep everything.
 - The workflow only commits when `card_count > 0` and `data/flood_cards.json` actually changed.
 
 ## Using in Next.js

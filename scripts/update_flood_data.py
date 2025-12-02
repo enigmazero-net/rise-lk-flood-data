@@ -7,11 +7,12 @@ Scrape Sri Lanka DMC Flood_Map ArcGIS service and build dashboard cards.
 - Designed to be run by GitHub Actions on a schedule.
 - Configure layer IDs via FLOOD_LAYER_IDS (comma-separated) and base URL via FLOOD_ARCGIS_BASE_URL.
 - Fails fast if no cards are produced to avoid committing empty data.
+- Filters out features older than FLOOD_MAX_AGE_DAYS (default 7) when timestamps are present.
 """
 
 import json
 import os
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any, Dict, List
 
@@ -38,10 +39,26 @@ CONNECT_TIMEOUT = 5
 READ_TIMEOUT = 25
 MAX_RETRIES = 3
 
+# Drop cards older than this (days). Set FLOOD_MAX_AGE_DAYS="" to disable filtering.
+DEFAULT_MAX_AGE_DAYS = 7
+
 # Output path
 REPO_ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = REPO_ROOT / "data"
 OUTPUT_PATH = DATA_DIR / "flood_cards.json"
+TIME_FIELDS = (
+    "timestamp",
+    "Timestamp",
+    "time",
+    "Time",
+    "date",
+    "Date",
+    "datetime",
+    "Datetime",
+    "DATETIME",
+    "last_update",
+    "LastUpdate",
+)
 
 
 # ==== HELPERS ================================================================
@@ -71,6 +88,65 @@ def parse_layer_ids(raw: str) -> List[int]:
             continue
         ids.append(int(part))
     return ids
+
+
+def parse_max_age_days() -> int | None:
+    raw = os.getenv("FLOOD_MAX_AGE_DAYS", str(DEFAULT_MAX_AGE_DAYS))
+    if raw == "":
+        return None
+    try:
+        return int(raw)
+    except ValueError as exc:
+        raise SystemExit(f"[error] Invalid FLOOD_MAX_AGE_DAYS: {raw}") from exc
+
+
+def coerce_datetime(value: Any) -> datetime | None:
+    """Try to parse ArcGIS-style timestamps (epoch ms/s) or ISO strings."""
+    if value is None:
+        return None
+    if isinstance(value, (int, float)):
+        seconds = float(value)
+        if seconds > 1e12:
+            seconds /= 1000.0
+        try:
+            return datetime.fromtimestamp(seconds, tz=timezone.utc)
+        except Exception:
+            return None
+    if isinstance(value, str):
+        stripped = value.strip()
+        if not stripped:
+            return None
+        try:
+            return datetime.fromisoformat(stripped.replace("Z", "+00:00"))
+        except Exception:
+            try:
+                seconds = float(stripped)
+                if seconds > 1e12:
+                    seconds /= 1000.0
+                return datetime.fromtimestamp(seconds, tz=timezone.utc)
+            except Exception:
+                return None
+    return None
+
+
+def extract_feature_time(attrs: Dict[str, Any]) -> datetime | None:
+    for key in TIME_FIELDS:
+        if key in attrs:
+            dt = coerce_datetime(attrs.get(key))
+            if dt:
+                return dt
+    return None
+
+
+def is_recent(attrs: Dict[str, Any], now_utc: datetime, max_age_days: int | None) -> bool:
+    """Keep features that are newer than max_age_days when a timestamp is available."""
+    if max_age_days is None:
+        return True
+    feature_time = extract_feature_time(attrs)
+    if feature_time is None:
+        return True  # no timestamp; keep
+    cutoff = now_utc - timedelta(days=max_age_days)
+    return feature_time >= cutoff
 
 
 def arcgis_query(session: requests.Session, layer_id: int) -> Dict[str, Any]:
@@ -104,7 +180,9 @@ def arcgis_query(session: requests.Session, layer_id: int) -> Dict[str, Any]:
     return data
 
 
-def extract_cards_from_layer(layer_id: int, data: Dict[str, Any]) -> List[Dict[str, Any]]:
+def extract_cards_from_layer(
+    layer_id: int, data: Dict[str, Any], now_utc: datetime, max_age_days: int | None
+) -> List[Dict[str, Any]]:
     """
     Turn ArcGIS features for one layer into cards.
 
@@ -119,6 +197,9 @@ def extract_cards_from_layer(layer_id: int, data: Dict[str, Any]) -> List[Dict[s
 
     for f in features:
         attrs = f.get("attributes", {}) or {}
+
+        if not is_recent(attrs, now_utc, max_age_days):
+            continue
 
         object_id = attrs.get("OBJECTID")
 
@@ -198,12 +279,15 @@ def main() -> None:
 
     all_cards: List[Dict[str, Any]] = []
     session = build_session()
+    max_age_days = parse_max_age_days()
     print(f"[info] Using layers: {layer_ids}")
+    print(f"[info] Max age days: {max_age_days if max_age_days is not None else 'disabled'}")
+    now_utc = datetime.now(timezone.utc)
 
     for layer_id in layer_ids:
         try:
             data = arcgis_query(session, layer_id)
-            cards = extract_cards_from_layer(layer_id, data)
+            cards = extract_cards_from_layer(layer_id, data, now_utc, max_age_days)
             if not cards:
                 print(f"[warn] Layer {layer_id} returned 0 features.")
             all_cards.extend(cards)

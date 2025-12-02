@@ -39,11 +39,11 @@ jobs:
           set -euo pipefail
           python scripts/update_flood_data.py
           CARD_COUNT=$(python - <<'PY'
-import json
-from pathlib import Path
-data = json.loads(Path("data/flood_cards.json").read_text())
-print(data.get("card_count", 0))
-PY
+          import json
+          from pathlib import Path
+          data = json.loads(Path("data/flood_cards.json").read_text())
+          print(data.get("card_count", 0))
+          PY
           )
           echo "card_count=${CARD_COUNT}" >> "$GITHUB_OUTPUT"
           if [ "$CARD_COUNT" -eq 0 ]; then
