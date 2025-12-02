@@ -111,6 +111,26 @@ def parse_layer_ids(raw: str) -> List[int]:
     return ids
 
 
+def discover_layer_ids(base_url: str) -> List[int]:
+    """Ask the FeatureServer root for its published layer IDs."""
+    url = f"{base_url}?f=json"
+    try:
+        resp = requests.get(url, timeout=(CONNECT_TIMEOUT, READ_TIMEOUT))
+        resp.raise_for_status()
+        data = resp.json()
+    except Exception as exc:  # noqa: BLE001
+        print(f"[warn] Failed to auto-discover layers from {url}: {exc}")
+        return []
+
+    layers = data.get("layers") or []
+    ids: List[int] = []
+    for layer in layers:
+        lid = layer.get("id")
+        if isinstance(lid, int):
+            ids.append(lid)
+    return ids
+
+
 def parse_max_age_days() -> int | None:
     raw = os.getenv("FLOOD_MAX_AGE_DAYS", str(DEFAULT_MAX_AGE_DAYS))
     if raw == "":
@@ -293,7 +313,16 @@ def write_output(payload: Dict[str, Any]) -> None:
 
 def main() -> None:
     raw_layer_ids = os.getenv("FLOOD_LAYER_IDS")
-    layer_ids = parse_layer_ids(raw_layer_ids) if raw_layer_ids else list(DEFAULT_LAYER_IDS)
+    if raw_layer_ids:
+        layer_ids = parse_layer_ids(raw_layer_ids)
+    else:
+        discovered = discover_layer_ids(FLOOD_ARCGIS_BASE_URL)
+        if discovered:
+            layer_ids = discovered
+            print(f"[info] Auto-discovered layers: {layer_ids}")
+        else:
+            layer_ids = list(DEFAULT_LAYER_IDS)
+            print(f"[warn] Discovery returned 0 layers; using default: {layer_ids}")
 
     if not layer_ids:
         raise SystemExit("[error] No layer IDs configured (set FLOOD_LAYER_IDS).")

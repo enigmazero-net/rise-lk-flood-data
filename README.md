@@ -9,9 +9,9 @@ python -m venv .venv
 source .venv/bin/activate
 pip install requests
 
-# Optional overrides
+# Optional overrides (defaults: auto-discover all layers from the service)
 export FLOOD_ARCGIS_BASE_URL="https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/Flood_Map/FeatureServer"
-export FLOOD_LAYER_IDS="11,12,13"  # comma-separated layer IDs
+export FLOOD_LAYER_IDS="11,12,13"  # comma-separated layer IDs to limit/override
 export FLOOD_MAX_AGE_DAYS="7"      # set "" to disable time filtering
 
 python scripts/update_flood_data.py
