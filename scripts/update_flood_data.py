@@ -28,7 +28,6 @@ DEFAULT_BASE_URL = (
     "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/"
     "Flood_Map/FeatureServer"
 )
-FLOOD_ARCGIS_BASE_URL = os.getenv("FLOOD_ARCGIS_BASE_URL", DEFAULT_BASE_URL)
 
 # Layer IDs you want to scrape – update this list to match the layers you care about.
 # You can override via env var FLOOD_LAYER_IDS="11,12,13".
@@ -59,6 +58,28 @@ TIME_FIELDS = (
     "last_update",
     "LastUpdate",
 )
+
+
+def _resolve_base_url() -> str:
+    raw = os.getenv("FLOOD_ARCGIS_BASE_URL")
+    if raw is None:
+        return DEFAULT_BASE_URL
+
+    cleaned = raw.strip()
+    if not cleaned:
+        print("[warn] FLOOD_ARCGIS_BASE_URL is empty; using default.")
+        return DEFAULT_BASE_URL
+
+    if "://" not in cleaned:
+        raise SystemExit(
+            "[error] FLOOD_ARCGIS_BASE_URL must include a scheme "
+            "(e.g. https://services3.arcgis.com/...)."
+        )
+
+    return cleaned.rstrip("/")
+
+
+FLOOD_ARCGIS_BASE_URL = _resolve_base_url()
 
 
 # ==== HELPERS ================================================================
