@@ -1,10 +1,70 @@
 {
-  "last_updated_utc": "2025-12-03T20:51:17.140324+00:00",
+  "last_updated_utc": "2025-12-03T21:10:59.683066+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 5443,
+  "record_count": 5446,
   "records": [
+    {
+      "objectid": 1243927,
+      "globalid": "b822e5a0-ca3f-49f9-b447-81c768dd27d7",
+      "basin": "Maha Oya",
+      "gauge": "Giriulla",
+      "water_level": 2.08,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-03T21:02:39.775000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-03T21:02:39.775000+00:00",
+      "Editor": "",
+      "alertpull": 5.5,
+      "minorpull": 6.5,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1243926,
+      "globalid": "8f04d629-ec6d-4f39-8752-d711279cfef1",
+      "basin": "Kumbukkan Oya",
+      "gauge": "Nakkala",
+      "water_level": 1.39,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-03T21:02:03.713000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-03T21:02:03.713000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1243925,
+      "globalid": "60a70f65-e231-4561-8ee7-fd4f23f13e43",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 1.6,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-03T20:55:29.842000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-03T20:55:29.842000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1243924,
+      "globalid": "3c3e5d4b-5091-4002-bc92-48b7a9591ab4",
+      "basin": "Menik Ganga",
+      "gauge": "Katharagama",
+      "water_level": 0.62,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-03T20:51:26.406000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-03T20:51:26.406000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 4.6,
+      "majorpull": 6.5
+    },
     {
       "objectid": 1243923,
       "globalid": "87f1d268-78e4-463a-86f8-6766949bc516",
@@ -81634,21 +81694,6 @@
       "alertpull": 1.4,
       "minorpull": 1.7,
       "majorpull": 2.8
-    },
-    {
-      "objectid": 1238407,
-      "globalid": "2fc0612b-ab46-4fcb-9e08-0ab00dfe23f8",
-      "basin": "Kalu Ganga",
-      "gauge": "Kalawellawa (Millakanda)",
-      "water_level": 4.76,
-      "rain_fall": 1.8,
-      "CreationDate": "2025-11-26T20:54:47.198000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-26T20:54:47.198000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.5,
-      "majorpull": 8
     }
   ]
 }
