@@ -32,36 +32,35 @@ jobs:
       - name: Run update_flood_data.py
         id: scrape
         env:
-          # Optional – override if DMC changes base URL / layer IDs
-          FLOOD_ARCGIS_BASE_URL: ${{ vars.FLOOD_ARCGIS_BASE_URL }}
-          FLOOD_LAYER_IDS: ${{ vars.FLOOD_LAYER_IDS }}
+          GAUGE_FEATURE_LAYER_URL: ${{ vars.GAUGE_FEATURE_LAYER_URL }}
+          GAUGE_WHERE: ${{ vars.GAUGE_WHERE }}
         run: |
           set -euo pipefail
           python scripts/update_flood_data.py
-          CARD_COUNT=$(python - <<'PY'
+          RECORD_COUNT=$(python - <<'PY'
           import json
           from pathlib import Path
-          data = json.loads(Path("data/flood_cards.json").read_text())
-          print(data.get("card_count", 0))
+          data = json.loads(Path("data/gauges_2_view.json").read_text())
+          print(data.get("record_count", 0))
           PY
           )
-          echo "card_count=${CARD_COUNT}" >> "$GITHUB_OUTPUT"
-          if [ "$CARD_COUNT" -eq 0 ]; then
-            echo "Card count is 0; failing run to avoid committing empty data."
+          echo "record_count=${RECORD_COUNT}" >> "$GITHUB_OUTPUT"
+          if [ "$RECORD_COUNT" -eq 0 ]; then
+            echo "Record count is 0; failing run to avoid committing empty data."
             exit 1
           fi
 
-      - name: Commit and push if flood_cards.json changed
-        if: steps.scrape.outputs.card_count != '0'
+      - name: Commit and push if gauge data changed
+        if: steps.scrape.outputs.record_count != '0'
         run: |
           set -euo pipefail
-          if [[ -n "$(git status --porcelain data/flood_cards.json)" ]]; then
-            echo "Changes detected in data/flood_cards.json, committing..."
+          if [[ -n "$(git status --porcelain data/gauges_2_view.json data/gauges_2_view.csv)" ]]; then
+            echo "Changes detected in gauge data, committing..."
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add data/flood_cards.json
-            git commit -m "chore: update flood cards from DMC ArcGIS"
+            git add data/gauges_2_view.json data/gauges_2_view.csv
+            git commit -m "chore: update gauges_2_view data"
             git push
           else
-            echo "No changes in data/flood_cards.json"
+            echo "No changes in gauge data"
           fi

@@ -1,8 +1,9 @@
 # rise-lk-flood-data
 
-Realtime water-level scraper for Sri Lanka DMC Flood_Map (ArcGIS) that produces:
-- `data/flood_cards.json` (Flood_Map layers)
-- `data/alert_level_stations.json` (gauges above alert/minor/major thresholds from the public dashboard)
+Realtime water-level scraper for Sri Lanka DMC’s public `gauges_2_view` layer.  
+Outputs every 10 minutes (via GitHub Actions):
+- `data/gauges_2_view.json` — metadata + all gauge rows
+- `data/gauges_2_view.csv` — same data as CSV
 
 ## Running locally
 
@@ -11,55 +12,47 @@ python -m venv .venv
 source .venv/bin/activate
 pip install requests
 
-# Optional overrides (defaults: auto-discover all layers from the service)
-export FLOOD_ARCGIS_BASE_URL="https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/Flood_Map/FeatureServer"
-export FLOOD_LAYER_IDS="11,12,13"  # comma-separated layer IDs to limit/override
-export FLOOD_MAX_AGE_DAYS="7"      # set "" to disable time filtering
+# Optional overrides
 export GAUGE_FEATURE_LAYER_URL="https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0"
-export ALERT_LEVEL_LOOKBACK_DAYS="4"  # set "" to disable time filtering for alert feed
+export GAUGE_WHERE="1=1"  # set a custom where clause if you need filtering
 
 python scripts/update_flood_data.py
-cat data/flood_cards.json
-cat data/alert_level_stations.json
+cat data/gauges_2_view.json
+head data/gauges_2_view.csv
 ```
 
-The script fails fast if no cards are produced so CI does not commit empty data.
+The script fails fast if no rows are returned to avoid committing empty data.
 
 ## GitHub Actions
 
 - Scheduled every 10 minutes and manually triggerable via `workflow_dispatch`.
-- Configure repository variables `FLOOD_ARCGIS_BASE_URL` and `FLOOD_LAYER_IDS` if the DMC service changes.
-- Set `FLOOD_MAX_AGE_DAYS` (default 7) to drop stale features when timestamps exist; set to empty string to keep everything.
-- Alert-level feed: override `GAUGE_FEATURE_LAYER_URL` or `ALERT_LEVEL_LOOKBACK_DAYS` if the gauges service changes.
-- The workflow only commits when `card_count > 0` and `data/flood_cards.json` actually changed.
+- Configure repository variables `GAUGE_FEATURE_LAYER_URL` or `GAUGE_WHERE` if the service changes.
+- The workflow only commits when `record_count > 0` and output files actually changed.
 
 ## Using in Next.js
 
-Fetch the published JSON (e.g. from `raw.githubusercontent.com/<owner>/<repo>/main/data/flood_cards.json`) and render the cards:
+Fetch the published JSON (e.g. from `raw.githubusercontent.com/<owner>/<repo>/main/data/gauges_2_view.json`) and render the gauges:
 
 ```ts
-export type FloodCard = {
-  id: string;
-  layer_id: number;
+export type GaugeRecord = {
+  objectid: number;
   basin: string | null;
-  station: string | null;
-  status: string;
-  raw: Record<string, unknown>;
+  gauge: string | null;
+  water_level: number | null;
+  rain_fall: number | null;
+  CreationDate?: string;
+  [key: string]: unknown;
 };
 
-export async function getFloodCards(): Promise<FloodCard[]> {
+export async function getGaugeRecords(): Promise<GaugeRecord[]> {
   const res = await fetch(
-    "https://raw.githubusercontent.com/<owner>/<repo>/main/data/flood_cards.json",
+    "https://raw.githubusercontent.com/<owner>/<repo>/main/data/gauges_2_view.json",
     { next: { revalidate: 120 } } // ISR-friendly
   );
-  if (!res.ok) throw new Error("Failed to load flood cards");
+  if (!res.ok) throw new Error("Failed to load gauge data");
   const data = await res.json();
-  return data.cards ?? [];
+  return data.records ?? [];
 }
 ```
 
-Alert-level feed (`data/alert_level_stations.json`) contains `records` with:
-
-- `station`, `basin`, `water_level_m`, `alert_threshold_m`, `minor_threshold_m`, `major_threshold_m`
-- `severity` (`alert` | `minor` | `major`) based on the thresholds above
-- `observed_at_utc` ISO timestamp and `raw` attributes from `gauges_2_view`
+All timestamp-ish fields (e.g. `CreationDate`, `EditDate`) are normalised to ISO 8601 strings.
