@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-04T09:44:09.907011+00:00",
+  "last_updated_utc": "2025-12-04T09:54:31.665428+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 5417,
+  "record_count": 5416,
   "records": [
+    {
+      "objectid": 1244406,
+      "globalid": "283ef10d-283f-4bab-9da3-0d8b2e350f6d",
+      "basin": "Kelani Ganga",
+      "gauge": "Glencourse",
+      "water_level": 10.37,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-04T09:47:32.096000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-04T09:47:32.096000+00:00",
+      "Editor": "",
+      "alertpull": 15,
+      "minorpull": 16.5,
+      "majorpull": 19
+    },
     {
       "objectid": 1244405,
       "globalid": "ae2008bf-0bf9-4c62-a425-0cfa2923e3b8",
@@ -81229,36 +81244,6 @@
       "alertpull": 4,
       "minorpull": 5,
       "majorpull": 5.5
-    },
-    {
-      "objectid": 1238921,
-      "globalid": "158aad9b-80e6-4f19-89bf-a4612e5a3a67",
-      "basin": "Maha Oya",
-      "gauge": "Badalgama",
-      "water_level": 7.6,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-27T09:46:48.709000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-27T09:46:48.709000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.2,
-      "majorpull": 9.6
-    },
-    {
-      "objectid": 1238920,
-      "globalid": "88108bd0-6d9a-49e3-9e9a-a7e1ebb104ed",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 5.35,
-      "rain_fall": null,
-      "CreationDate": "2025-11-27T09:45:24.827000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-27T09:45:24.827000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
