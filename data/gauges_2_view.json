@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-04T18:52:14.575849+00:00",
+  "last_updated_utc": "2025-12-04T19:11:54.590272+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 5403,
+  "record_count": 5404,
   "records": [
+    {
+      "objectid": 1244731,
+      "globalid": "cc671cac-dcf2-41e1-8729-8cb64e479e1e",
+      "basin": "Kelani Ganga",
+      "gauge": "Glencourse",
+      "water_level": 10.65,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-04T18:53:31.648000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-04T18:53:31.648000+00:00",
+      "Editor": "",
+      "alertpull": 15,
+      "minorpull": 16.5,
+      "majorpull": 19
+    },
+    {
+      "objectid": 1244730,
+      "globalid": "3555fd8e-756f-4495-840b-7b3cdfc41e18",
+      "basin": "Kelani Ganga",
+      "gauge": "Glencourse",
+      "water_level": 10.65,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-04T18:53:29.605000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-04T18:53:29.605000+00:00",
+      "Editor": "",
+      "alertpull": 15,
+      "minorpull": 16.5,
+      "majorpull": 19
+    },
     {
       "objectid": 1244729,
       "globalid": "dcc3afcd-8f2d-4bb9-a9de-d26f2e832af2",
@@ -81034,21 +81064,6 @@
       "alertpull": 5,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1239261,
-      "globalid": "4d8d7163-beec-4a0b-b8af-0b9dd3d4c164",
-      "basin": "Kelani Ganga",
-      "gauge": "Kithulgala",
-      "water_level": 6.18,
-      "rain_fall": 28,
-      "CreationDate": "2025-11-27T18:57:49.765000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-27T18:57:49.765000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 6
     }
   ]
 }
