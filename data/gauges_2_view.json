@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-04T19:44:30.685491+00:00",
+  "last_updated_utc": "2025-12-04T19:52:12.998871+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 5399,
+  "record_count": 5401,
   "records": [
+    {
+      "objectid": 1244760,
+      "globalid": "38f0a6d7-d986-45d8-b88f-7afc00ac05d7",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.9,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-04T19:52:07.851000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-04T19:52:07.851000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1244759,
+      "globalid": "ad9388f5-0c1d-4ac1-8ee5-5eb2c49995d8",
+      "basin": "Gin Ganga",
+      "gauge": "Thawalama",
+      "water_level": 2.28,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-04T19:46:23.774000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-04T19:46:23.774000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1244758,
       "globalid": "6b376cb6-f04b-491e-8f5f-c80e85ea41a3",
