@@ -1,10 +1,70 @@
 {
-  "last_updated_utc": "2025-12-04T22:09:18.245369+00:00",
+  "last_updated_utc": "2025-12-04T22:31:24.214686+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 5400,
+  "record_count": 5403,
   "records": [
+    {
+      "objectid": 1244832,
+      "globalid": "cc786a5b-2f80-4708-b7c3-b93b6c9eef5a",
+      "basin": "Kelani Ganga",
+      "gauge": "Kithulgala",
+      "water_level": 1.96,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-04T22:31:15.940000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-04T22:31:15.940000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1244831,
+      "globalid": "003cecfc-05d7-4640-8220-a5ee3d5808f3",
+      "basin": "Gin Ganga",
+      "gauge": "Thawalama",
+      "water_level": 2,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-04T22:30:39.736000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-04T22:30:39.736000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1244830,
+      "globalid": "a1d82056-1cfe-4434-8bc8-ca9005356737",
+      "basin": "Gal Oya",
+      "gauge": "Ampara",
+      "water_level": 0,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-04T22:30:26.205000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-04T22:30:26.205000+00:00",
+      "Editor": "",
+      "alertpull": null,
+      "minorpull": null,
+      "majorpull": null
+    },
+    {
+      "objectid": 1244829,
+      "globalid": "47335c1b-1c13-4863-bafc-3bbeac6cc8b3",
+      "basin": "Heda Oya",
+      "gauge": "Siyambalanduwa",
+      "water_level": 0.94,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-04T22:30:11.476000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-04T22:30:11.476000+00:00",
+      "Editor": "",
+      "alertpull": 4.5,
+      "minorpull": 6,
+      "majorpull": 7
+    },
     {
       "objectid": 1244828,
       "globalid": "3afc3b25-057c-4c14-940e-e32eec53e05a",
@@ -14929,6 +14989,21 @@
       "alertpull": 1.4,
       "minorpull": 1.7,
       "majorpull": 2.8
+    },
+    {
+      "objectid": 1243832,
+      "globalid": "e372c724-d82a-43d5-b2be-8e19e27bbb53",
+      "basin": "Yan Oya",
+      "gauge": "Horowpothana",
+      "water_level": 2.71,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-03T17:45:39.386000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-03T17:45:39.386000+00:00",
+      "Editor": "",
+      "alertpull": 6,
+      "minorpull": 7.5,
+      "majorpull": 10.5
     },
     {
       "objectid": 1243832,
@@ -80974,36 +81049,6 @@
       "alertpull": 3,
       "minorpull": 3.4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1239364,
-      "globalid": "1683285e-eb50-4181-9674-68c2b48b975a",
-      "basin": "Walawe Ganga",
-      "gauge": "Moraketiya",
-      "water_level": 4.15,
-      "rain_fall": 2.5,
-      "CreationDate": "2025-11-27T22:31:06.960000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-27T22:31:06.960000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 5,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1239363,
-      "globalid": "9a22eab9-6115-4aad-bdc3-75d404885b9b",
-      "basin": "Gin Ganga",
-      "gauge": "Thawalama",
-      "water_level": 2.84,
-      "rain_fall": 2.2,
-      "CreationDate": "2025-11-27T22:30:49.636000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-27T22:30:49.636000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
