@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-04T14:44:59.984177+00:00",
+  "last_updated_utc": "2025-12-04T14:57:02.962184+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 5414,
+  "record_count": 5413,
   "records": [
+    {
+      "objectid": 1244592,
+      "globalid": "b0d5600e-2bf5-4c67-9361-84f1a9dff3c7",
+      "basin": "Yan Oya",
+      "gauge": "Horowpothana",
+      "water_level": 2.3,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-04T14:55:57.887000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-04T14:55:57.887000+00:00",
+      "Editor": "",
+      "alertpull": 6,
+      "minorpull": 7.5,
+      "majorpull": 10.5
+    },
     {
       "objectid": 1244591,
       "globalid": "537d7b71-997d-45b4-9497-3cc6d57d1621",
@@ -49,21 +64,6 @@
       "alertpull": 1.4,
       "minorpull": 1.7,
       "majorpull": 2.8
-    },
-    {
-      "objectid": 1244588,
-      "globalid": "cfb3f438-566c-4813-8820-a562c5dbd2ab",
-      "basin": "Maha Oya",
-      "gauge": "Giriulla",
-      "water_level": 2.93,
-      "rain_fall": 5.3,
-      "CreationDate": "2025-12-04T14:38:26.463000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-04T14:38:26.463000+00:00",
-      "Editor": "",
-      "alertpull": 5.5,
-      "minorpull": 6.5,
-      "majorpull": 7.5
     },
     {
       "objectid": 1244587,
@@ -81198,21 +81198,6 @@
       "Editor": "",
       "alertpull": 4,
       "minorpull": 5,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1239111,
-      "globalid": "83620f16-ed68-45f1-955d-40b08867cd5a",
-      "basin": "Kelani Ganga",
-      "gauge": "Kithulgala",
-      "water_level": 3.94,
-      "rain_fall": 21.2,
-      "CreationDate": "2025-11-27T14:46:22.589000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-27T14:46:22.589000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
       "majorpull": 6
     }
   ]
