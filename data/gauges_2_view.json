@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-04T07:42:18.157868+00:00",
+  "last_updated_utc": "2025-12-04T07:52:10.186879+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 5414,
+  "record_count": 5416,
   "records": [
+    {
+      "objectid": 1244329,
+      "globalid": "58392e17-8d27-41cb-b9d2-3e32aab8aa6a",
+      "basin": "Kalu Ganga",
+      "gauge": "Kalawellawa (Millakanda)",
+      "water_level": 2.78,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-04T07:48:22.678000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-04T07:48:22.678000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.5,
+      "majorpull": 8
+    },
+    {
+      "objectid": 1244328,
+      "globalid": "f34232fe-9918-47d6-91d8-7fd32e4d590a",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Weraganthota",
+      "water_level": -0.85,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-04T07:42:47.093000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-04T07:42:47.093000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 8
+    },
     {
       "objectid": 1244327,
       "globalid": "d46ca0d4-afeb-4b37-b0f7-a7e0bb16ec59",
