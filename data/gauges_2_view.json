@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-04T13:47:55.205942+00:00",
+  "last_updated_utc": "2025-12-04T13:58:40.787975+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 5410,
   "records": [
+    {
+      "objectid": 1244552,
+      "globalid": "73c64dcb-9682-494e-8b38-56242980d7b7",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": 2.26,
+      "rain_fall": null,
+      "CreationDate": "2025-12-04T13:54:44.993000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-04T13:54:44.993000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
     {
       "objectid": 1244551,
       "globalid": "068349de-46c8-4fd8-b97c-03d31dacbd9f",
@@ -81139,21 +81154,6 @@
       "alertpull": 4.4,
       "minorpull": 5.4,
       "majorpull": 5.9
-    },
-    {
-      "objectid": 1239074,
-      "globalid": "ee2c98d2-ebb2-4c1c-95cc-8be54088cad6",
-      "basin": "Maduru Oya",
-      "gauge": "Padiyathalawa",
-      "water_level": 6.65,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-27T13:48:02.977000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-27T13:48:02.977000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 4.5,
-      "majorpull": 6
     }
   ]
 }
