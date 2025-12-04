@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2025-12-04T03:44:07.304958+00:00",
+  "last_updated_utc": "2025-12-04T04:17:20.451766+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 5425,
   "records": [
+    {
+      "objectid": 1244180,
+      "globalid": "c9316923-ccfc-418d-a855-170631d17b87",
+      "basin": "Malwathu Oya",
+      "gauge": "Thanthirimale",
+      "water_level": 6.24,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-04T04:11:57.472000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-04T04:11:57.472000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.8,
+      "majorpull": 7.8
+    },
+    {
+      "objectid": 1244179,
+      "globalid": "f19dde55-f9f7-47d9-8854-1cb5ca6da2dd",
+      "basin": "Kelani Ganga",
+      "gauge": "Glencourse",
+      "water_level": 10.69,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-04T03:51:46.361000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-04T03:51:46.361000+00:00",
+      "Editor": "",
+      "alertpull": 15,
+      "minorpull": 16.5,
+      "majorpull": 19
+    },
+    {
+      "objectid": 1244178,
+      "globalid": "9273a32a-6c28-479c-8153-1a6dbe57f3a5",
+      "basin": "Kirindi Oya",
+      "gauge": "Thanamalwila",
+      "water_level": 1.39,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-04T03:51:24.584000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-04T03:51:24.584000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 5.5
+    },
     {
       "objectid": 1244177,
       "globalid": "54287559-3f34-4c69-8508-85b054444085",
@@ -81334,51 +81379,6 @@
       "alertpull": 4.75,
       "minorpull": 6,
       "majorpull": 7
-    },
-    {
-      "objectid": 1238684,
-      "globalid": "0a1d0064-28b3-402c-bdb0-039be4997d52",
-      "basin": "Malwathu Oya",
-      "gauge": "Thanthirimale",
-      "water_level": 7.84,
-      "rain_fall": 5.6,
-      "CreationDate": "2025-11-27T04:11:48.520000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-27T04:11:48.520000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.8,
-      "majorpull": 7.8
-    },
-    {
-      "objectid": 1238683,
-      "globalid": "91e9ba30-8678-4512-92b3-b83f8c4edb48",
-      "basin": "Kirindi Oya",
-      "gauge": "Thanamalwila",
-      "water_level": 5.42,
-      "rain_fall": 3,
-      "CreationDate": "2025-11-27T04:02:02.400000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-27T04:56:45.039000+00:00",
-      "Editor": "IEHydrology",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 5.5
-    },
-    {
-      "objectid": 1238682,
-      "globalid": "90675e79-a998-4e7f-8b35-c8692928a58a",
-      "basin": "Mee Oya",
-      "gauge": "Galgamuwa",
-      "water_level": 4.81,
-      "rain_fall": 10.9,
-      "CreationDate": "2025-11-27T03:48:11.391000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-27T04:13:07.646000+00:00",
-      "Editor": "IEHydrology",
-      "alertpull": 4.84,
-      "minorpull": 5.94,
-      "majorpull": 8
     }
   ]
 }
