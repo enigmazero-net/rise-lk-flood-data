@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-04T20:57:21.816537+00:00",
+  "last_updated_utc": "2025-12-04T21:15:57.338985+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 5396,
+  "record_count": 5394,
   "records": [
+    {
+      "objectid": 1244789,
+      "globalid": "6855b4dd-66df-4b8c-a362-f15ca74c489e",
+      "basin": "Gal Oya",
+      "gauge": "Ampara",
+      "water_level": 0,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-04T20:59:15.474000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-04T20:59:15.474000+00:00",
+      "Editor": "",
+      "alertpull": null,
+      "minorpull": null,
+      "majorpull": null
+    },
     {
       "objectid": 1244788,
       "globalid": "a62ce998-4ca7-4cf1-a6b8-444f3abffd43",
@@ -80899,51 +80914,6 @@
       "alertpull": 1.4,
       "minorpull": 1.7,
       "majorpull": 2.8
-    },
-    {
-      "objectid": 1239329,
-      "globalid": "8b8f1cba-3328-4d2c-8f70-44cee66f18d1",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 1.97,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-27T21:00:37.583000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-27T21:00:37.583000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
-    },
-    {
-      "objectid": 1239328,
-      "globalid": "11e66a35-a8c8-4db5-9be0-3b1909b19893",
-      "basin": "Nilwala Ganga",
-      "gauge": "Urawa",
-      "water_level": 1.45,
-      "rain_fall": 1.8,
-      "CreationDate": "2025-11-27T20:59:32.333000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-27T20:59:32.333000+00:00",
-      "Editor": "",
-      "alertpull": 2.5,
-      "minorpull": 4,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1239327,
-      "globalid": "3d16cd00-7f51-435b-80bb-038ba9532974",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 5.16,
-      "rain_fall": null,
-      "CreationDate": "2025-11-27T20:59:02.901000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-27T20:59:02.901000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
