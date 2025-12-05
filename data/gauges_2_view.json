@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-05T16:44:29.641896+00:00",
+  "last_updated_utc": "2025-12-05T16:57:53.845796+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 5566,
   "records": [
+    {
+      "objectid": 1245524,
+      "globalid": "1d62305f-bec2-427e-a621-89644de69f3a",
+      "basin": "Yan Oya",
+      "gauge": "Horowpothana",
+      "water_level": 2.07,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-05T16:54:19.136000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-05T16:54:19.136000+00:00",
+      "Editor": "",
+      "alertpull": 6,
+      "minorpull": 7.5,
+      "majorpull": 10.5
+    },
     {
       "objectid": 1245523,
       "globalid": "44c2187b-4531-40a4-abf1-5701ed192bbf",
@@ -83479,21 +83494,6 @@
       "alertpull": 3,
       "minorpull": 5,
       "majorpull": 7
-    },
-    {
-      "objectid": 1239891,
-      "globalid": "76248434-eda8-47be-96e1-0a940b1fbb6e",
-      "basin": "Maha Oya",
-      "gauge": "Badalgama",
-      "water_level": 12.38,
-      "rain_fall": 6.9,
-      "CreationDate": "2025-11-28T16:46:02.035000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-28T16:46:02.035000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.2,
-      "majorpull": 9.6
     }
   ]
 }
