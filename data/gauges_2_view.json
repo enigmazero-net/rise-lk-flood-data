@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2025-12-05T19:37:20.647180+00:00",
+  "last_updated_utc": "2025-12-05T19:44:08.339763+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 5588,
+  "record_count": 5589,
   "records": [
+    {
+      "objectid": 1245615,
+      "globalid": "6c497fee-8bb7-4714-9f9f-342d72e7ebfe",
+      "basin": "Kalu Ganga",
+      "gauge": "Rathnapura",
+      "water_level": 2.75,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-05T19:40:01.548000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-05T19:40:01.548000+00:00",
+      "Editor": "",
+      "alertpull": 5.2,
+      "minorpull": 7.5,
+      "majorpull": 9.5
+    },
+    {
+      "objectid": 1245614,
+      "globalid": "7ac0aeed-a9ce-44da-a102-90c42babdbd4",
+      "basin": "Kalu Ganga",
+      "gauge": "Ellagawa",
+      "water_level": 6.39,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-05T19:39:32.813000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-05T19:39:32.813000+00:00",
+      "Editor": "",
+      "alertpull": 10,
+      "minorpull": 10.7,
+      "majorpull": 12.2
+    },
+    {
+      "objectid": 1245613,
+      "globalid": "4f56aa7b-0283-4e5d-9c2b-19fda7866849",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 1.05,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-05T19:38:32.615000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-05T19:38:32.615000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
     {
       "objectid": 1245612,
       "globalid": "f48aaf0e-d223-43eb-bb16-c988d934e7c1",
@@ -83794,36 +83839,6 @@
       "alertpull": null,
       "minorpull": null,
       "majorpull": null
-    },
-    {
-      "objectid": 1239958,
-      "globalid": "780d9153-5466-4b0a-b3bd-3a13b66f66f4",
-      "basin": "Maha Oya",
-      "gauge": "Giriulla",
-      "water_level": 12.45,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-28T19:43:51.903000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-28T19:43:51.903000+00:00",
-      "Editor": "",
-      "alertpull": 5.5,
-      "minorpull": 6.5,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1239957,
-      "globalid": "beb7f09e-6aa6-45ed-842d-e28792819f4d",
-      "basin": "Kirindi Oya",
-      "gauge": "Thanamalwila",
-      "water_level": 2.73,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-28T19:39:56.903000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-28T19:39:56.903000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 5.5
     }
   ]
 }
