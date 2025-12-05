@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2025-12-05T18:44:42.558069+00:00",
+  "last_updated_utc": "2025-12-05T18:56:46.374732+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 5587,
+  "record_count": 5589,
   "records": [
+    {
+      "objectid": 1245593,
+      "globalid": "dd3b756d-905b-4db6-be43-0dff9a32f4cb",
+      "basin": "Kalu Ganga",
+      "gauge": "Kalawellawa (Millakanda)",
+      "water_level": 3.94,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-05T18:46:19.383000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-05T18:46:19.383000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.5,
+      "majorpull": 8
+    },
+    {
+      "objectid": 1245592,
+      "globalid": "380a7e93-e12d-4637-90e4-2c45a76144ea",
+      "basin": "Gin Ganga",
+      "gauge": "Thawalama",
+      "water_level": 3.3,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-05T18:45:50.697000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-05T18:45:50.697000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1245591,
+      "globalid": "957d2d06-1975-438c-9e8f-def49ec4709c",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": 0.74,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-05T18:45:20.996000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-05T18:45:20.996000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
     {
       "objectid": 1245590,
       "globalid": "1b8188fe-91b2-4790-a158-8bef1dbad50a",
@@ -83794,21 +83839,6 @@
       "alertpull": null,
       "minorpull": null,
       "majorpull": null
-    },
-    {
-      "objectid": 1239937,
-      "globalid": "b8f24d4e-ced1-442a-a2f1-a2a5eed45dc9",
-      "basin": "Kalu Ganga",
-      "gauge": "Kalawellawa (Millakanda)",
-      "water_level": 7.64,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-28T18:47:19.889000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-28T18:47:19.889000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.5,
-      "majorpull": 8
     }
   ]
 }
