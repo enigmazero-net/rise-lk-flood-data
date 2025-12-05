@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-05T22:52:00.156012+00:00",
+  "last_updated_utc": "2025-12-05T23:10:58.066003+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 5628,
+  "record_count": 5627,
   "records": [
+    {
+      "objectid": 1245720,
+      "globalid": "87a495ea-3ffc-404f-844e-ba3bb54bf04f",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 1.16,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-05T22:58:10.427000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-05T22:58:10.427000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
     {
       "objectid": 1245719,
       "globalid": "2c743eee-c5d3-435c-874d-d33b5f21e262",
@@ -84394,36 +84409,6 @@
       "alertpull": 3,
       "minorpull": 5,
       "majorpull": 7
-    },
-    {
-      "objectid": 1240025,
-      "globalid": "395acd0a-8436-47da-8d1f-d6c4f871dad6",
-      "basin": "Yan Oya",
-      "gauge": "Horowpothana",
-      "water_level": 7.8,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-28T22:58:38.839000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-28T22:58:38.839000+00:00",
-      "Editor": "",
-      "alertpull": 6,
-      "minorpull": 7.5,
-      "majorpull": 10.5
-    },
-    {
-      "objectid": 1240024,
-      "globalid": "ccaaf048-66b1-4dfc-abfc-ce3ce4796c05",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 5.35,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-28T22:52:36.621000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-28T22:52:36.621000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
