@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-05T08:43:59.452213+00:00",
+  "last_updated_utc": "2025-12-05T08:58:18.016722+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 5497,
+  "record_count": 5496,
   "records": [
+    {
+      "objectid": 1245241,
+      "globalid": "2683f1e8-1560-4282-830c-56b3972faf05",
+      "basin": "Ma Oya",
+      "gauge": "Yaka Wewa",
+      "water_level": 0.9,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-05T08:47:52.063000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-05T08:47:52.063000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1245240,
+      "globalid": "9851518e-4d00-4391-8c33-089a7cbf99d3",
+      "basin": "Kirindi Oya",
+      "gauge": "Kuda Oya",
+      "water_level": 1.6,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-05T08:44:36.319000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-05T08:44:36.319000+00:00",
+      "Editor": "",
+      "alertpull": 6.9,
+      "minorpull": 8.4,
+      "majorpull": 8.8
+    },
     {
       "objectid": 1245239,
       "globalid": "94607594-5f01-498b-a1ff-344add297acf",
@@ -82414,51 +82444,6 @@
       "alertpull": 5,
       "minorpull": 6.8,
       "majorpull": 7.8
-    },
-    {
-      "objectid": 1239679,
-      "globalid": "e7b4053d-fda5-4680-a4df-1b59acd48f68",
-      "basin": "Malwathu Oya",
-      "gauge": "Thanthirimale",
-      "water_level": 10.23,
-      "rain_fall": 12.6,
-      "CreationDate": "2025-11-28T08:48:39.921000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-28T08:48:39.921000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.8,
-      "majorpull": 7.8
-    },
-    {
-      "objectid": 1239678,
-      "globalid": "35a513bf-31d2-4c45-9a17-55e6bf4d7c9b",
-      "basin": "Maha Oya",
-      "gauge": "Giriulla",
-      "water_level": 11.66,
-      "rain_fall": 16.5,
-      "CreationDate": "2025-11-28T08:47:15.239000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-28T08:47:15.239000+00:00",
-      "Editor": "",
-      "alertpull": 5.5,
-      "minorpull": 6.5,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1239677,
-      "globalid": "e28b7f17-3bab-4eba-ae5e-75617f23f96d",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 5.81,
-      "rain_fall": 25.3,
-      "CreationDate": "2025-11-28T08:44:50.778000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-28T08:44:50.778000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
     }
   ]
 }
