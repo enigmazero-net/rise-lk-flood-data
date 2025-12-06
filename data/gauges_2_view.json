@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-06T17:46:24.607433+00:00",
+  "last_updated_utc": "2025-12-06T17:52:42.793115+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 5790,
+  "record_count": 5791,
   "records": [
+    {
+      "objectid": 1246414,
+      "globalid": "7d1d0f00-264c-4a9b-ba03-81d43eb06313",
+      "basin": "Kumbukkan Oya",
+      "gauge": "Nakkala",
+      "water_level": 1.28,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-06T17:52:16.608000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-06T17:52:16.608000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1246413,
       "globalid": "927c7077-6875-4b28-b914-959acb184835",
