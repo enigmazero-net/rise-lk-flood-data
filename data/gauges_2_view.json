@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-06T20:44:29.888500+00:00",
+  "last_updated_utc": "2025-12-06T20:52:15.057325+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 5789,
   "records": [
+    {
+      "objectid": 1246504,
+      "globalid": "620766b9-37ef-417e-afa6-7194cf9abb66",
+      "basin": "Walawe Ganga",
+      "gauge": "Moraketiya",
+      "water_level": 1.12,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-06T20:50:36.414000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-06T20:50:36.414000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 5,
+      "majorpull": 7
+    },
     {
       "objectid": 1246503,
       "globalid": "32c515c7-bd2b-4185-9d8d-d909e3069fcf",
@@ -86824,21 +86839,6 @@
       "alertpull": 4,
       "minorpull": 5,
       "majorpull": 6.5
-    },
-    {
-      "objectid": 1240690,
-      "globalid": "bce4468f-9f5c-4875-ad97-9d715082aa36",
-      "basin": "Kelani Ganga",
-      "gauge": "Hanwella",
-      "water_level": 10.9,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-29T20:44:34.174000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-29T20:44:34.174000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
     }
   ]
 }
