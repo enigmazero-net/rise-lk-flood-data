@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-06T09:43:42.004458+00:00",
+  "last_updated_utc": "2025-12-06T09:52:05.184112+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 5757,
+  "record_count": 5756,
   "records": [
+    {
+      "objectid": 1246134,
+      "globalid": "e3fdbf95-c0e0-41a2-bb37-42d385632564",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Manampitiya",
+      "water_level": 2.35,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-06T09:51:18.627000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-06T09:51:18.627000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4.3,
+      "majorpull": 6
+    },
     {
       "objectid": 1246133,
       "globalid": "630203e0-8a5e-45e4-a476-61ffa3bc10d6",
@@ -86328,36 +86343,6 @@
       "Editor": "",
       "alertpull": 3,
       "minorpull": 5,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1240334,
-      "globalid": "0cfa1b0e-927b-4810-9bd3-8de9dd2ce178",
-      "basin": "Gal Oya",
-      "gauge": "Ampara",
-      "water_level": 0,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-29T09:48:58.759000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-29T09:48:58.759000+00:00",
-      "Editor": "",
-      "alertpull": null,
-      "minorpull": null,
-      "majorpull": null
-    },
-    {
-      "objectid": 1240333,
-      "globalid": "8610f5be-f1de-4a4a-8a54-0d1427f87b49",
-      "basin": "Heda Oya",
-      "gauge": "Siyambalanduwa",
-      "water_level": 1.62,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-29T09:44:57.511000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-29T09:44:57.511000+00:00",
-      "Editor": "",
-      "alertpull": 4.5,
-      "minorpull": 6,
       "majorpull": 7
     }
   ]
