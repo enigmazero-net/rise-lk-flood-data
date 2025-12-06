@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2025-12-06T14:40:03.722854+00:00",
+  "last_updated_utc": "2025-12-06T14:46:58.033098+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 5793,
+  "record_count": 5788,
   "records": [
     {
       "objectid": 1246319,
@@ -86824,81 +86824,6 @@
       "alertpull": 3,
       "minorpull": 3.4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1240505,
-      "globalid": "23d38898-508e-4bd8-832e-9204689e2be5",
-      "basin": "Gin Ganga",
-      "gauge": "Thawalama",
-      "water_level": 2.42,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-29T14:44:52.307000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-29T14:44:52.307000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1240504,
-      "globalid": "a13079c9-9096-40b1-9de1-32d7688daf26",
-      "basin": "Kelani Ganga",
-      "gauge": "Holombuwa",
-      "water_level": 2.38,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-29T14:43:16.683000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-29T14:43:16.683000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 3.4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1240503,
-      "globalid": "869b299a-20c9-4bab-b204-ca740b736d59",
-      "basin": "Yan Oya",
-      "gauge": "Horowpothana",
-      "water_level": 7.67,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-29T14:43:00.998000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-29T14:43:00.998000+00:00",
-      "Editor": "",
-      "alertpull": 6,
-      "minorpull": 7.5,
-      "majorpull": 10.5
-    },
-    {
-      "objectid": 1240502,
-      "globalid": "fb30842d-5c68-43e5-92d6-b58ef451382e",
-      "basin": "Kelani Ganga",
-      "gauge": "Kithulgala",
-      "water_level": 2.8,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-29T14:41:02.524000+00:00",
-      "Creator": "IEHydrology",
-      "EditDate": "2025-11-29T14:41:02.524000+00:00",
-      "Editor": "IEHydrology",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1240501,
-      "globalid": "1f8bd8a0-f73e-4420-8425-449a294881a0",
-      "basin": "Maha Oya",
-      "gauge": "Giriulla",
-      "water_level": 10.22,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-29T14:40:27.599000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-29T14:40:27.599000+00:00",
-      "Editor": "",
-      "alertpull": 5.5,
-      "minorpull": 6.5,
-      "majorpull": 7.5
     }
   ]
 }
