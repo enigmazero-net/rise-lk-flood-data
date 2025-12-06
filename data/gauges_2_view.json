@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-06T15:44:58.955474+00:00",
+  "last_updated_utc": "2025-12-06T15:52:13.398321+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 5784,
   "records": [
+    {
+      "objectid": 1246349,
+      "globalid": "02fcb238-041c-4df3-91cb-04dc00b6bfc9",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 0.91,
+      "rain_fall": 0.6,
+      "CreationDate": "2025-12-06T15:50:32.607000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-06T15:50:32.607000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
     {
       "objectid": 1246348,
       "globalid": "91bdb55b-3e2e-40fb-ac28-fb3a77b0d32d",
@@ -86746,21 +86761,6 @@
       "Creator": "",
       "EditDate": "2025-11-29T16:28:44.823000+00:00",
       "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1240539,
-      "globalid": "f79d9f68-f26a-453b-8668-a40f90933aa6",
-      "basin": "Kelani Ganga",
-      "gauge": "Kithulgala",
-      "water_level": 2.7,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-29T15:46:05.659000+00:00",
-      "Creator": "IEHydrology",
-      "EditDate": "2025-11-29T15:46:05.659000+00:00",
-      "Editor": "IEHydrology",
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 6
