@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2025-12-06T19:51:29.443902+00:00",
+  "last_updated_utc": "2025-12-06T20:11:45.339271+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 5795,
+  "record_count": 5793,
   "records": [
     {
       "objectid": 1246479,
@@ -86899,36 +86899,6 @@
       "alertpull": 4.4,
       "minorpull": 5.4,
       "majorpull": 5.9
-    },
-    {
-      "objectid": 1240661,
-      "globalid": "2657bed4-f1f3-4485-9b60-08c969044644",
-      "basin": "Gal Oya",
-      "gauge": "Ampara",
-      "water_level": 0,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-29T19:57:08.958000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-29T19:57:08.958000+00:00",
-      "Editor": "",
-      "alertpull": null,
-      "minorpull": null,
-      "majorpull": null
-    },
-    {
-      "objectid": 1240660,
-      "globalid": "db0230e8-74c5-48ad-9dec-30e66bb9418c",
-      "basin": "Yan Oya",
-      "gauge": "Horowpothana",
-      "water_level": 7.63,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-29T19:51:33.840000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-29T19:51:33.840000+00:00",
-      "Editor": "",
-      "alertpull": 6,
-      "minorpull": 7.5,
-      "majorpull": 10.5
     }
   ]
 }
