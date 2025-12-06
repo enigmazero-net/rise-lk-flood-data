@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2025-12-06T07:43:55.480130+00:00",
+  "last_updated_utc": "2025-12-06T07:52:03.746647+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 5734,
+  "record_count": 5736,
   "records": [
+    {
+      "objectid": 1246056,
+      "globalid": "07543a75-772e-44eb-a708-e5f1295366cc",
+      "basin": "Malwathu Oya",
+      "gauge": "Thanthirimale",
+      "water_level": 6.9,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-06T07:49:48.009000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-06T07:49:48.009000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.8,
+      "majorpull": 7.8
+    },
+    {
+      "objectid": 1246055,
+      "globalid": "ba085d4b-d2e6-4b85-b863-4468d324071b",
+      "basin": "Maha Oya",
+      "gauge": "Badalgama",
+      "water_level": 2.98,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-06T07:49:39.317000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-06T07:49:39.317000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.2,
+      "majorpull": 9.6
+    },
+    {
+      "objectid": 1246054,
+      "globalid": "86b02352-f479-46f6-950b-81ab6eb0bd66",
+      "basin": "Kalu Ganga",
+      "gauge": "Kalawellawa (Millakanda)",
+      "water_level": 4.2,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-06T07:47:36.702000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-06T07:47:36.702000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.5,
+      "majorpull": 8
+    },
     {
       "objectid": 1246053,
       "globalid": "57cf7c99-1c0f-43be-b598-ec0415118685",
@@ -85999,21 +86044,6 @@
       "alertpull": 4.5,
       "minorpull": 6,
       "majorpull": 7
-    },
-    {
-      "objectid": 1240275,
-      "globalid": "d528b2e9-0fad-4456-b8ba-a2fdd664f578",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 4.54,
-      "rain_fall": null,
-      "CreationDate": "2025-11-29T07:44:27.819000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-29T07:44:27.819000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
