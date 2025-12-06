@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2025-12-06T11:52:04.945249+00:00",
+  "last_updated_utc": "2025-12-06T12:19:19.947237+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 5777,
+  "record_count": 5772,
   "records": [
     {
       "objectid": 1246212,
@@ -86584,81 +86584,6 @@
       "alertpull": 3,
       "minorpull": 5,
       "majorpull": 7
-    },
-    {
-      "objectid": 1240398,
-      "globalid": "20aa74fc-cbc9-4791-bd16-849f4029fd3b",
-      "basin": "Ma Oya",
-      "gauge": "Yaka Wewa",
-      "water_level": 2.11,
-      "rain_fall": 0.5,
-      "CreationDate": "2025-11-29T11:57:03.750000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-29T11:57:03.750000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1240397,
-      "globalid": "e470f061-bd36-4893-8813-e99e177d2218",
-      "basin": "Ma Oya",
-      "gauge": "Yaka Wewa",
-      "water_level": 5.74,
-      "rain_fall": 2.6,
-      "CreationDate": "2025-11-29T11:57:00.342000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-29T11:57:00.342000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1240396,
-      "globalid": "442bc5da-759e-4c5b-aa03-91ed796a2790",
-      "basin": "Ma Oya",
-      "gauge": "Yaka Wewa",
-      "water_level": 5.73,
-      "rain_fall": 1.4,
-      "CreationDate": "2025-11-29T11:56:57.538000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-29T11:56:57.538000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1240395,
-      "globalid": "a0b42a36-31de-476e-b012-2b7714e8ab16",
-      "basin": "Ma Oya",
-      "gauge": "Yaka Wewa",
-      "water_level": 5.71,
-      "rain_fall": 1.5,
-      "CreationDate": "2025-11-29T11:56:52.243000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-29T11:56:52.243000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1240394,
-      "globalid": "fb91144b-2fff-4898-8a0f-3142242c9e74",
-      "basin": "Kelani Ganga",
-      "gauge": "Kithulgala",
-      "water_level": 3.35,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-29T11:56:26.066000+00:00",
-      "Creator": "IEHydrology",
-      "EditDate": "2025-11-29T11:56:26.066000+00:00",
-      "Editor": "IEHydrology",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 6
     }
   ]
 }
