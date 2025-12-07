@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-07T08:55:36.626017+00:00",
+  "last_updated_utc": "2025-12-07T09:11:41.119100+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 5887,
   "records": [
+    {
+      "objectid": 1246957,
+      "globalid": "cebc59e0-0b27-4924-8056-ce6e9535a6e5",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Manampitiya",
+      "water_level": 1.85,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-07T09:00:05.340000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-07T09:00:05.340000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4.3,
+      "majorpull": 6
+    },
     {
       "objectid": 1246956,
       "globalid": "435ce234-5dec-4fc2-81c5-3d2672b8d573",
@@ -88294,21 +88309,6 @@
       "alertpull": 5,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1241051,
-      "globalid": "6b5cfb45-3671-4954-baae-1f3f04556ef7",
-      "basin": "Kelani Ganga",
-      "gauge": "Kithulgala",
-      "water_level": 2.29,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-30T09:09:41.807000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-30T09:09:41.807000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 6
     }
   ]
 }
