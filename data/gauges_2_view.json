@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-07T05:44:11.654935+00:00",
+  "last_updated_utc": "2025-12-07T05:51:36.219017+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 5866,
+  "record_count": 5865,
   "records": [
+    {
+      "objectid": 1246842,
+      "globalid": "105ac50b-edff-4ed3-abcf-497711769f81",
+      "basin": "Maduru Oya",
+      "gauge": "Padiyathalawa",
+      "water_level": 0.81,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-07T05:47:12.989000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-07T05:47:12.989000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 4.5,
+      "majorpull": 6
+    },
     {
       "objectid": 1246841,
       "globalid": "14cdf363-3a63-4cbd-accc-2ded4c7eaf33",
@@ -87964,36 +87979,6 @@
       "alertpull": 5,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1240956,
-      "globalid": "d700c90c-026d-4a16-b8f2-7e96dd78e9f7",
-      "basin": "Kirindi Oya",
-      "gauge": "Kuda Oya",
-      "water_level": 2.08,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-30T05:50:48.464000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-30T05:50:48.464000+00:00",
-      "Editor": "",
-      "alertpull": 6.9,
-      "minorpull": 8.4,
-      "majorpull": 8.8
-    },
-    {
-      "objectid": 1240955,
-      "globalid": "0bcaa4e6-1035-4808-9e65-fc30e4d4fc57",
-      "basin": "Menik Ganga",
-      "gauge": "Katharagama",
-      "water_level": 1.25,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-30T05:44:48.797000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-30T05:44:48.797000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 4.6,
-      "majorpull": 6.5
     }
   ]
 }
