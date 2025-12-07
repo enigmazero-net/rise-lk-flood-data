@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-07T20:51:47.945471+00:00",
+  "last_updated_utc": "2025-12-07T21:08:51.546170+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 5892,
+  "record_count": 5894,
   "records": [
+    {
+      "objectid": 1247372,
+      "globalid": "f3ac0f26-c601-4f4a-85a7-356f434ab4c3",
+      "basin": "Kirindi Oya",
+      "gauge": "Kuda Oya",
+      "water_level": 1.53,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-07T21:06:52.878000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-07T21:06:52.878000+00:00",
+      "Editor": "",
+      "alertpull": 6.9,
+      "minorpull": 8.4,
+      "majorpull": 8.8
+    },
+    {
+      "objectid": 1247371,
+      "globalid": "3bb92b12-03bb-41fc-ab4d-e27d4d1f3b8c",
+      "basin": "Kelani Ganga",
+      "gauge": "Hanwella",
+      "water_level": 2.4,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-07T21:00:50.454000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-07T21:00:50.454000+00:00",
+      "Editor": "",
+      "alertpull": 7,
+      "minorpull": 8,
+      "majorpull": 10
+    },
     {
       "objectid": 1247370,
       "globalid": "9ee2ba19-6f71-478e-8d00-86b8278fb911",
