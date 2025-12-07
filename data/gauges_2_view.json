@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-07T07:44:49.563146+00:00",
+  "last_updated_utc": "2025-12-07T07:51:59.288847+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 5880,
   "records": [
+    {
+      "objectid": 1246918,
+      "globalid": "eaf53052-2cfb-404f-aa76-aa0a8455592d",
+      "basin": "Mee Oya",
+      "gauge": "Galgamuwa",
+      "water_level": 1.4,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-07T07:46:46.882000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-07T07:46:46.882000+00:00",
+      "Editor": "",
+      "alertpull": 4.84,
+      "minorpull": 5.94,
+      "majorpull": 8
+    },
     {
       "objectid": 1246917,
       "globalid": "deaf80a3-e974-4cc3-bec5-5bcac6ed3232",
@@ -88189,21 +88204,6 @@
       "alertpull": 5.5,
       "minorpull": 6.5,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1241019,
-      "globalid": "9bad4bab-84b8-48b5-b310-a2c74105591f",
-      "basin": "Kelani Ganga",
-      "gauge": "Kithulgala",
-      "water_level": 2.25,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-30T07:45:13.694000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-30T07:45:13.694000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 6
     }
   ]
 }
