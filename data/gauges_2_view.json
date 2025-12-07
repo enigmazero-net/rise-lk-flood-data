@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-07T15:43:12.363540+00:00",
+  "last_updated_utc": "2025-12-07T15:52:19.849233+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 5881,
+  "record_count": 5880,
   "records": [
+    {
+      "objectid": 1247212,
+      "globalid": "d4973134-2a85-42cb-9b6b-80c32923637c",
+      "basin": "Walawe Ganga",
+      "gauge": "Moraketiya",
+      "water_level": 1.04,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-07T15:48:13.699000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-07T15:48:13.699000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 5,
+      "majorpull": 7
+    },
     {
       "objectid": 1247211,
       "globalid": "dc0311ee-690b-43da-9e2a-216e72c4fe68",
@@ -88189,36 +88204,6 @@
       "alertpull": 4.4,
       "minorpull": 5.4,
       "majorpull": 5.9
-    },
-    {
-      "objectid": 1241314,
-      "globalid": "2b03f8c7-305f-48cd-ba00-da8a30a39102",
-      "basin": "Yan Oya",
-      "gauge": "Horowpothana",
-      "water_level": 7.49,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-30T15:46:01.410000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-30T15:46:01.410000+00:00",
-      "Editor": "",
-      "alertpull": 6,
-      "minorpull": 7.5,
-      "majorpull": 10.5
-    },
-    {
-      "objectid": 1241313,
-      "globalid": "2e0dce79-e461-40c7-9e7c-677bddf6578b",
-      "basin": "Maha Oya",
-      "gauge": "Giriulla",
-      "water_level": 3.84,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-30T15:44:08.394000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-30T15:44:08.394000+00:00",
-      "Editor": "",
-      "alertpull": 5.5,
-      "minorpull": 6.5,
-      "majorpull": 7.5
     }
   ]
 }
