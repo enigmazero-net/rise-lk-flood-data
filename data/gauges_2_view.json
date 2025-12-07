@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-07T18:41:36.311475+00:00",
+  "last_updated_utc": "2025-12-07T18:53:45.813401+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 5890,
   "records": [
+    {
+      "objectid": 1247314,
+      "globalid": "a432a0e8-c1ee-4f3a-bd4a-49e26e87b2ea",
+      "basin": "Yan Oya",
+      "gauge": "Horowpothana",
+      "water_level": 1.71,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-07T18:46:45.028000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-07T18:46:45.028000+00:00",
+      "Editor": "",
+      "alertpull": 6,
+      "minorpull": 7.5,
+      "majorpull": 10.5
+    },
+    {
+      "objectid": 1247313,
+      "globalid": "ab874440-104c-463a-b578-c39bafaed160",
+      "basin": "Kirindi Oya",
+      "gauge": "Kuda Oya",
+      "water_level": 1.53,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-07T18:42:01.121000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-07T18:42:01.121000+00:00",
+      "Editor": "",
+      "alertpull": 6.9,
+      "minorpull": 8.4,
+      "majorpull": 8.8
+    },
     {
       "objectid": 1247312,
       "globalid": "b0a5a1b7-e0ac-459c-8530-a7da684a3ed7",
@@ -88324,36 +88354,6 @@
       "alertpull": 5,
       "minorpull": 6.2,
       "majorpull": 9.6
-    },
-    {
-      "objectid": 1241406,
-      "globalid": "939ee005-8234-4b20-80e9-02e3df41f000",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 1.15,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-30T18:52:22.387000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-30T18:52:22.387000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
-    },
-    {
-      "objectid": 1241405,
-      "globalid": "23bc058f-2879-4183-b256-0de96df0f5a4",
-      "basin": "Maha Oya",
-      "gauge": "Giriulla",
-      "water_level": 3.7,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-30T18:50:00.666000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-30T18:50:00.666000+00:00",
-      "Editor": "",
-      "alertpull": 5.5,
-      "minorpull": 6.5,
-      "majorpull": 7.5
     }
   ]
 }
