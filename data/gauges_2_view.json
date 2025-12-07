@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2025-12-07T17:43:48.793950+00:00",
+  "last_updated_utc": "2025-12-07T17:52:13.715142+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 5884,
+  "record_count": 5886,
   "records": [
+    {
+      "objectid": 1247277,
+      "globalid": "bb9c222d-288c-446c-bc8d-f5b8ed82f66f",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.8,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-07T17:50:21.512000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-07T17:50:21.512000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1247276,
+      "globalid": "66dce1b6-a42c-463a-8db9-36f09503219c",
+      "basin": "Menik Ganga",
+      "gauge": "Katharagama",
+      "water_level": 0.33,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-07T17:48:09.563000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-07T17:48:09.563000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 4.6,
+      "majorpull": 6.5
+    },
+    {
+      "objectid": 1247275,
+      "globalid": "b858ce57-879b-4e25-b41f-776a3ecd37ab",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.65,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-07T17:46:43.967000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-07T17:46:43.967000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
     {
       "objectid": 1247274,
       "globalid": "7fea916a-010d-4bbc-86a8-63c0c8ed7ba2",
@@ -88249,21 +88294,6 @@
       "alertpull": 3,
       "minorpull": 5,
       "majorpull": 7
-    },
-    {
-      "objectid": 1241373,
-      "globalid": "ea891d7e-79a3-49c7-889b-1ff24c5cb771",
-      "basin": "Kalu Ganga",
-      "gauge": "Kalawellawa (Millakanda)",
-      "water_level": 7.6,
-      "rain_fall": 0,
-      "CreationDate": "2025-11-30T17:44:47.580000+00:00",
-      "Creator": "",
-      "EditDate": "2025-11-30T17:44:47.580000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.5,
-      "majorpull": 8
     }
   ]
 }
