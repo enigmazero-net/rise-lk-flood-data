@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-08T11:52:05.690151+00:00",
+  "last_updated_utc": "2025-12-08T12:22:31.523066+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 5969,
+  "record_count": 5970,
   "records": [
+    {
+      "objectid": 1247943,
+      "globalid": "1148c922-acaf-4d68-b0e2-25fb9311552d",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.7,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-08T12:03:40.093000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-08T12:03:40.093000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
+    {
+      "objectid": 1247942,
+      "globalid": "f49b7e17-23b0-4308-b96d-3d0c2931d204",
+      "basin": "Malwathu Oya",
+      "gauge": "Thanthirimale",
+      "water_level": 4.15,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-08T11:59:23.105000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-08T11:59:23.105000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.8,
+      "majorpull": 7.8
+    },
     {
       "objectid": 1247941,
       "globalid": "2a714bb2-b777-4c55-b09c-87b18ccae6bd",
@@ -89524,21 +89554,6 @@
       "alertpull": 4.4,
       "minorpull": 5.4,
       "majorpull": 5.9
-    },
-    {
-      "objectid": 1241954,
-      "globalid": "fac59768-97dd-41e0-ae0f-b67a2a63d6d6",
-      "basin": "Maha Oya",
-      "gauge": "Badalgama",
-      "water_level": 3.96,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-01T11:52:39.351000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-01T11:52:39.351000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.2,
-      "majorpull": 9.6
     }
   ]
 }
