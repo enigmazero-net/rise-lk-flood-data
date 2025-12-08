@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2025-12-08T16:45:39.563305+00:00",
+  "last_updated_utc": "2025-12-08T17:00:27.606887+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 5983,
+  "record_count": 5978,
   "records": [
     {
       "objectid": 1248121,
@@ -89674,81 +89674,6 @@
       "alertpull": 4.4,
       "minorpull": 5.4,
       "majorpull": 5.9
-    },
-    {
-      "objectid": 1242125,
-      "globalid": "389a422d-8c38-4f06-a804-008396a0a314",
-      "basin": "Nilwala Ganga",
-      "gauge": "Urawa",
-      "water_level": 0.65,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-01T16:50:55.607000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-01T16:50:55.607000+00:00",
-      "Editor": "",
-      "alertpull": 2.5,
-      "minorpull": 4,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1242124,
-      "globalid": "a6c8ba4e-2265-4fcf-8be2-5128e60ebd55",
-      "basin": "Maduru Oya",
-      "gauge": "Padiyathalawa",
-      "water_level": 0.94,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-01T16:49:44.363000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-01T16:49:44.363000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 4.5,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1242123,
-      "globalid": "6f9b8f35-dc8b-47aa-86c3-0f3ec25beef2",
-      "basin": "Maduru Oya",
-      "gauge": "Padiyathalawa",
-      "water_level": 0.96,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-01T16:49:42.518000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-01T16:49:42.518000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 4.5,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1242122,
-      "globalid": "fd0803c1-a7e2-41b2-9aa0-faa2127da0fb",
-      "basin": "Maduru Oya",
-      "gauge": "Padiyathalawa",
-      "water_level": 1.04,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-01T16:49:40.544000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-01T16:49:40.544000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 4.5,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1242121,
-      "globalid": "a3aa9fb9-1f28-423c-ae9b-47b99bd1d51b",
-      "basin": "Maduru Oya",
-      "gauge": "Padiyathalawa",
-      "water_level": 1.08,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-01T16:49:38.254000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-01T16:49:38.254000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 4.5,
-      "majorpull": 6
     }
   ]
 }
