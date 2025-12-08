@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2025-12-08T03:46:36.786486+00:00",
+  "last_updated_utc": "2025-12-08T04:20:53.244576+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 5938,
+  "record_count": 5935,
   "records": [
     {
       "objectid": 1247630,
@@ -89029,51 +89029,6 @@
       "alertpull": 5,
       "minorpull": 6.8,
       "majorpull": 7.8
-    },
-    {
-      "objectid": 1241679,
-      "globalid": "4d7f07b0-5378-4dbd-bb4d-3d623be62a3f",
-      "basin": "Mee Oya",
-      "gauge": "Galgamuwa",
-      "water_level": 4.45,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-01T04:11:19.997000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-01T04:11:19.997000+00:00",
-      "Editor": "",
-      "alertpull": 4.84,
-      "minorpull": 5.94,
-      "majorpull": 8
-    },
-    {
-      "objectid": 1241678,
-      "globalid": "3828623e-6e2e-4f6c-a336-4e66cf1d69a9",
-      "basin": "Maha Oya",
-      "gauge": "Badalgama",
-      "water_level": 4.19,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-01T03:52:17.672000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-01T03:52:17.672000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.2,
-      "majorpull": 9.6
-    },
-    {
-      "objectid": 1241677,
-      "globalid": "0adfd3bd-b3fa-426d-a005-b9f9a2048eae",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 4.16,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-01T03:48:32.638000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-01T03:48:32.638000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
     }
   ]
 }
