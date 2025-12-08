@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-08T11:13:18.605820+00:00",
+  "last_updated_utc": "2025-12-08T11:31:12.734960+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 5966,
   "records": [
+    {
+      "objectid": 1247906,
+      "globalid": "49ad1afd-3cef-42e6-a050-d324e345d933",
+      "basin": "Gal Oya",
+      "gauge": "Ampara",
+      "water_level": 0,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-08T11:31:02.128000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-08T11:31:02.128000+00:00",
+      "Editor": "",
+      "alertpull": null,
+      "minorpull": null,
+      "majorpull": null
+    },
+    {
+      "objectid": 1247905,
+      "globalid": "00d36d5b-294c-4b66-847e-65d567822095",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Nawalapitiya",
+      "water_level": 1.22,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-08T11:30:23.163000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-08T11:30:23.163000+00:00",
+      "Editor": "",
+      "alertpull": 3.5,
+      "minorpull": 5,
+      "majorpull": 6
+    },
     {
       "objectid": 1247904,
       "globalid": "3c1eeac1-0c97-4405-bacc-c9f4a059c79d",
@@ -89464,36 +89494,6 @@
       "alertpull": 4.4,
       "minorpull": 5.4,
       "majorpull": 5.9
-    },
-    {
-      "objectid": 1241921,
-      "globalid": "4a088310-2b31-46df-ad86-0b42d82a2275",
-      "basin": "Gal Oya",
-      "gauge": "Ampara",
-      "water_level": 0,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-01T11:30:55.122000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-01T11:30:55.122000+00:00",
-      "Editor": "",
-      "alertpull": null,
-      "minorpull": null,
-      "majorpull": null
-    },
-    {
-      "objectid": 1241920,
-      "globalid": "3dc3822f-034b-474d-9949-429d96256b1d",
-      "basin": "Kumbukkan Oya",
-      "gauge": "Nakkala",
-      "water_level": 1.61,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-01T11:30:12.800000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-01T11:30:12.800000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
