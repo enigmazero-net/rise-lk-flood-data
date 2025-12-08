@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2025-12-08T20:49:35.191479+00:00",
+  "last_updated_utc": "2025-12-08T20:56:34.729533+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 5989,
+  "record_count": 5987,
   "records": [
     {
       "objectid": 1248250,
@@ -89809,36 +89809,6 @@
       "alertpull": 2.5,
       "minorpull": 4,
       "majorpull": 6
-    },
-    {
-      "objectid": 1242245,
-      "globalid": "036afd20-5763-4e48-a615-394c57090c30",
-      "basin": "Maha Oya",
-      "gauge": "Giriulla",
-      "water_level": 2.66,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-01T20:56:22.688000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-01T20:56:22.688000+00:00",
-      "Editor": "",
-      "alertpull": 5.5,
-      "minorpull": 6.5,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1242244,
-      "globalid": "bda60ef6-e8c0-45de-8e70-e9d441940036",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 3.15,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-01T20:54:17.286000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-01T20:54:17.286000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
     }
   ]
 }
