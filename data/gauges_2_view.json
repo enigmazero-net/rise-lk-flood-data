@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2025-12-08T05:50:37.844047+00:00",
+  "last_updated_utc": "2025-12-08T06:20:14.475742+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 5946,
+  "record_count": 5943,
   "records": [
     {
       "objectid": 1247708,
@@ -3426,21 +3426,6 @@
       "majorpull": 7
     },
     {
-      "objectid": 1247480,
-      "globalid": "da3395ff-206b-44f7-bf4e-56c2aca3e5ac",
-      "basin": "Kalu Ganga",
-      "gauge": "Kalawellawa (Millakanda)",
-      "water_level": 2.71,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-08T00:28:34.111000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-08T00:28:34.111000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.5,
-      "majorpull": 8
-    },
-    {
       "objectid": 1247479,
       "globalid": "e1d0a02f-c59f-4fb2-8086-8817422e88a9",
       "basin": "Maduru Oya",
@@ -3960,21 +3945,6 @@
       "CreationDate": "2025-12-07T23:28:11.889000+00:00",
       "Creator": "",
       "EditDate": "2025-12-07T23:28:11.889000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.5,
-      "majorpull": 8
-    },
-    {
-      "objectid": 1247444,
-      "globalid": "44254b01-db29-4752-a0ef-31b0ca9a7c3f",
-      "basin": "Kalu Ganga",
-      "gauge": "Kalawellawa (Millakanda)",
-      "water_level": 2.88,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-07T23:27:49.770000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-07T23:27:49.770000+00:00",
       "Editor": "",
       "alertpull": 5,
       "minorpull": 6.5,
@@ -4594,21 +4564,6 @@
       "alertpull": 3,
       "minorpull": 3.4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1247402,
-      "globalid": "e1540380-aec2-4b11-a5e9-464e4e66997f",
-      "basin": "Kalu Ganga",
-      "gauge": "Kalawellawa (Millakanda)",
-      "water_level": 2.78,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-07T21:36:24.163000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-07T21:36:24.163000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.5,
-      "majorpull": 8
     },
     {
       "objectid": 1247401,
