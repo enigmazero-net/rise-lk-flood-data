@@ -1,10 +1,70 @@
 {
-  "last_updated_utc": "2025-12-09T11:13:01.345549+00:00",
+  "last_updated_utc": "2025-12-09T11:31:23.238741+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6022,
+  "record_count": 6026,
   "records": [
+    {
+      "objectid": 1248787,
+      "globalid": "fc741067-2716-4b26-b53a-3d63503ccb47",
+      "basin": "Walawe Ganga",
+      "gauge": "Moraketiya",
+      "water_level": 1.01,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-09T11:31:16.334000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-09T11:31:16.334000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 5,
+      "majorpull": 7
+    },
+    {
+      "objectid": 1248786,
+      "globalid": "f6398fc3-209c-4f70-8507-0836f135eadf",
+      "basin": "Kalu Ganga",
+      "gauge": "Magura",
+      "water_level": 1.79,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-09T11:31:11.937000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-09T11:31:11.937000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1248785,
+      "globalid": "dd2627ae-6040-4cdd-b48d-67c32b474d84",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Weraganthota",
+      "water_level": -1.15,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-09T11:31:00.835000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-09T11:31:00.835000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 8
+    },
+    {
+      "objectid": 1248784,
+      "globalid": "1c1409d2-86db-426d-b3f8-cf005eb2f399",
+      "basin": "Gal Oya",
+      "gauge": "Ampara",
+      "water_level": 0,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-09T11:30:25.833000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-09T11:30:25.833000+00:00",
+      "Editor": "",
+      "alertpull": null,
+      "minorpull": null,
+      "majorpull": null
+    },
     {
       "objectid": 1248783,
       "globalid": "f762abb1-ac7f-497f-95f5-37dcc4a94922",
@@ -14929,6 +14989,21 @@
       "alertpull": 2.5,
       "minorpull": 4,
       "majorpull": 6
+    },
+    {
+      "objectid": 1247788,
+      "globalid": "e570f958-0815-4c2d-bb63-6a82d861b1fa",
+      "basin": "Kalu Ganga",
+      "gauge": "Magura",
+      "water_level": 2.27,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-08T07:48:27.579000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-08T07:48:27.579000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
     },
     {
       "objectid": 1247788,
@@ -90319,21 +90394,6 @@
       "alertpull": 4.5,
       "minorpull": 6,
       "majorpull": 7
-    },
-    {
-      "objectid": 1242748,
-      "globalid": "7a37b54c-fe08-4641-b0a9-81a50958264c",
-      "basin": "Gal Oya",
-      "gauge": "Ampara",
-      "water_level": 0,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-02T11:30:32.476000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-02T11:30:32.476000+00:00",
-      "Editor": "",
-      "alertpull": null,
-      "minorpull": null,
-      "majorpull": null
     }
   ]
 }
