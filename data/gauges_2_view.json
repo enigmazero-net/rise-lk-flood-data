@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-09T15:53:35.420045+00:00",
+  "last_updated_utc": "2025-12-09T16:15:30.652894+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6032,
+  "record_count": 6031,
   "records": [
+    {
+      "objectid": 1248964,
+      "globalid": "063b68f8-9986-4571-b3fa-5001438a8163",
+      "basin": "Aththanagalu Oya",
+      "gauge": "Dunamale",
+      "water_level": 1.38,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-09T15:56:10.069000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-09T15:56:10.069000+00:00",
+      "Editor": "",
+      "alertpull": 3.3,
+      "minorpull": 4.4,
+      "majorpull": 5.5
+    },
     {
       "objectid": 1248963,
       "globalid": "3e89e263-7ce1-412e-bc69-579cb36036c6",
@@ -90454,36 +90469,6 @@
       "alertpull": 4.4,
       "minorpull": 5.4,
       "majorpull": 5.9
-    },
-    {
-      "objectid": 1242920,
-      "globalid": "f3e5d20a-a230-47fe-b09e-89c44061e726",
-      "basin": "Walawe Ganga",
-      "gauge": "Moraketiya",
-      "water_level": 1.49,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-02T15:56:59.976000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-02T15:56:59.976000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 5,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1242919,
-      "globalid": "15352c38-038b-4b8f-a9dc-1226793a9eb0",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 1.85,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-02T15:54:36.576000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-02T15:54:36.576000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
