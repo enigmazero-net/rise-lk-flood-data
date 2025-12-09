@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-09T19:52:15.326021+00:00",
+  "last_updated_utc": "2025-12-09T20:11:54.615900+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6022,
+  "record_count": 6020,
   "records": [
+    {
+      "objectid": 1249084,
+      "globalid": "58a4fc80-b43f-4315-a0b2-ae33d1cc6c32",
+      "basin": "Kalu Ganga",
+      "gauge": "Kalawellawa (Millakanda)",
+      "water_level": 3,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-09T20:08:02.832000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-09T20:08:02.832000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.5,
+      "majorpull": 8
+    },
     {
       "objectid": 1249083,
       "globalid": "f2c7eebd-6168-4e60-a3a9-6a7b3ae69af8",
@@ -90289,51 +90304,6 @@
       "alertpull": 4.4,
       "minorpull": 5.4,
       "majorpull": 5.9
-    },
-    {
-      "objectid": 1243052,
-      "globalid": "3b2b4942-ad82-4531-89f3-c8d7544bb812",
-      "basin": "Kalu Ganga",
-      "gauge": "Ellagawa",
-      "water_level": 8.7,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-02T20:00:23.916000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-02T20:00:23.916000+00:00",
-      "Editor": "",
-      "alertpull": 10,
-      "minorpull": 10.7,
-      "majorpull": 12.2
-    },
-    {
-      "objectid": 1243051,
-      "globalid": "bd2cc46b-dc77-4434-8f49-0cc2060c0463",
-      "basin": "Walawe Ganga",
-      "gauge": "Moraketiya",
-      "water_level": 1.27,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-02T20:00:18.383000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-02T20:00:18.383000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 5,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1243050,
-      "globalid": "b86496d8-5273-4d3d-845f-43a756118342",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Nawalapitiya",
-      "water_level": 1.6,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-02T19:54:14.099000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-02T19:54:14.099000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
-      "minorpull": 5,
-      "majorpull": 6
     }
   ]
 }
