@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2025-12-09T07:45:56.625033+00:00",
+  "last_updated_utc": "2025-12-09T07:53:04.500802+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6010,
+  "record_count": 6011,
   "records": [
+    {
+      "objectid": 1248665,
+      "globalid": "0e3d2da1-5b26-438f-a6ff-73817180cac2",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.7,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-09T07:51:28.699000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-09T07:51:28.699000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
+    {
+      "objectid": 1248664,
+      "globalid": "3c38046f-a6ff-4a80-be17-67718bdd3548",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": 0.56,
+      "rain_fall": 20.5,
+      "CreationDate": "2025-12-09T07:48:20.596000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-09T07:48:20.596000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1248663,
+      "globalid": "22a8b846-12ec-4367-b3ec-742e72fccfe9",
+      "basin": "Kumbukkan Oya",
+      "gauge": "Nakkala",
+      "water_level": 1.49,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-09T07:47:52.830000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-09T07:47:52.830000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1248662,
       "globalid": "4b203def-8f6f-4fcf-b2e9-b52aeb096745",
@@ -90124,36 +90169,6 @@
       "alertpull": 4.5,
       "minorpull": 6,
       "majorpull": 7
-    },
-    {
-      "objectid": 1242639,
-      "globalid": "177d78e6-4bc2-454f-8ea8-ec365dc46e73",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Manampitiya",
-      "water_level": 2.95,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-02T07:50:19.926000+00:00",
-      "Creator": "IEHydrology",
-      "EditDate": "2025-12-02T07:50:19.926000+00:00",
-      "Editor": "IEHydrology",
-      "alertpull": 3,
-      "minorpull": 4.3,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1242638,
-      "globalid": "f30ff633-f6e9-469e-a141-c42f4d329541",
-      "basin": "Mee Oya",
-      "gauge": "Galgamuwa",
-      "water_level": 3.02,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-02T07:46:48.909000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-02T07:46:48.909000+00:00",
-      "Editor": "",
-      "alertpull": 4.84,
-      "minorpull": 5.94,
-      "majorpull": 8
     }
   ]
 }
