@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2025-12-10T13:47:54.959730+00:00",
+  "last_updated_utc": "2025-12-10T13:59:57.822229+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6050,
+  "record_count": 6052,
   "records": [
+    {
+      "objectid": 1249763,
+      "globalid": "f028bed0-b291-463a-bb6d-fe4fdbd71b88",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Thaldena",
+      "water_level": 0.68,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-10T13:58:20.951000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-10T13:58:20.951000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1249762,
+      "globalid": "f5db19c5-2391-4cd5-9559-89dd0ffa7661",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Thaldena",
+      "water_level": 0.67,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-10T13:57:50.140000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-10T13:57:50.140000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1249761,
+      "globalid": "a5a2dab6-ce87-4a71-8f4a-1cbd568b08c3",
+      "basin": "Maduru Oya",
+      "gauge": "Padiyathalawa",
+      "water_level": 0.94,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-10T13:51:52.884000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-10T13:51:52.884000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 4.5,
+      "majorpull": 6
+    },
     {
       "objectid": 1249760,
       "globalid": "2171ba7f-ef5c-49b9-9554-ab9589de2404",
@@ -90739,21 +90784,6 @@
       "alertpull": 6,
       "minorpull": 7.5,
       "majorpull": 10.5
-    },
-    {
-      "objectid": 1243700,
-      "globalid": "e771067b-4fa2-478b-ac54-da3db2a338f3",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.55,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-03T13:50:47.585000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-03T13:50:47.585000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
     }
   ]
 }
