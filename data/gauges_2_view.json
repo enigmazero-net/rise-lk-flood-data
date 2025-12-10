@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2025-12-10T14:59:44.050329+00:00",
+  "last_updated_utc": "2025-12-10T15:27:47.862371+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6055,
+  "record_count": 6051,
   "records": [
     {
       "objectid": 1249800,
@@ -90769,66 +90769,6 @@
       "alertpull": null,
       "minorpull": null,
       "majorpull": null
-    },
-    {
-      "objectid": 1243738,
-      "globalid": "6e5b2a47-d7a1-44a0-83cd-41a1d6a5b830",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.9,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-03T15:10:07.019000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-03T15:10:07.019000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
-    },
-    {
-      "objectid": 1243737,
-      "globalid": "ff25cfb2-8e9a-4acd-8458-f66af4107d71",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.9,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-03T15:07:43.938000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-03T15:07:43.938000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
-    },
-    {
-      "objectid": 1243736,
-      "globalid": "5140018b-eded-4ed4-b317-617206076149",
-      "basin": "Malwathu Oya",
-      "gauge": "Thanthirimale",
-      "water_level": 6.84,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-03T15:01:51.517000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-03T15:01:51.517000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.8,
-      "majorpull": 7.8
-    },
-    {
-      "objectid": 1243735,
-      "globalid": "adb7f312-ad10-4990-a708-84bdaf4e1640",
-      "basin": "Malwathu Oya",
-      "gauge": "Thanthirimale",
-      "water_level": 6.88,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-03T15:01:32.578000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-03T15:01:32.578000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.8,
-      "majorpull": 7.8
     }
   ]
 }
