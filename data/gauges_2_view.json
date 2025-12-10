@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2025-12-10T19:52:44.093163+00:00",
+  "last_updated_utc": "2025-12-10T20:13:24.004488+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6059,
+  "record_count": 6061,
   "records": [
+    {
+      "objectid": 1249964,
+      "globalid": "ec24ff94-c011-4506-940d-99e396a349ca",
+      "basin": "Kirindi Oya",
+      "gauge": "Thanamalwila",
+      "water_level": 1.12,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-10T20:05:23.482000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-10T20:05:23.482000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 5.5
+    },
+    {
+      "objectid": 1249963,
+      "globalid": "3c38c974-c6ed-4135-bf3b-d874da55fcb0",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.65,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-10T19:57:58.672000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-10T19:57:58.672000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1249962,
+      "globalid": "05a84685-dff2-41ce-9b9c-e53be480b75b",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 3.26,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-10T19:56:52.262000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-10T19:56:52.262000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1249961,
       "globalid": "06ce3bf1-3962-4bc0-b6fa-d547efdc2b40",
@@ -90874,21 +90919,6 @@
       "alertpull": 2.5,
       "minorpull": 4,
       "majorpull": 6
-    },
-    {
-      "objectid": 1243892,
-      "globalid": "5dadcab5-b7b3-4dad-8679-31b045b0a14e",
-      "basin": "Kelani Ganga",
-      "gauge": "Nagalagam Street",
-      "water_level": 3.45,
-      "rain_fall": null,
-      "CreationDate": "2025-12-03T20:09:01.789000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-03T20:09:01.789000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 7
     }
   ]
 }
