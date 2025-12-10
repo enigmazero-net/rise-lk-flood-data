@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-10T21:46:55.305540+00:00",
+  "last_updated_utc": "2025-12-10T21:54:03.480357+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6049,
   "records": [
+    {
+      "objectid": 1250025,
+      "globalid": "b0452194-12dc-4d83-af6d-555bd2c948bd",
+      "basin": "Kelani Ganga",
+      "gauge": "Kithulgala",
+      "water_level": 1.79,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-10T21:49:35.612000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-10T21:49:35.612000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 6
+    },
     {
       "objectid": 1250024,
       "globalid": "802842db-6e05-4751-b9e3-57d0a2442b5a",
@@ -90724,21 +90739,6 @@
       "alertpull": 5,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1243965,
-      "globalid": "cc6627d7-10f8-490a-b317-80d007eebd53",
-      "basin": "Kelani Ganga",
-      "gauge": "Deraniyagala",
-      "water_level": 0.9,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-03T21:47:00.735000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-03T21:47:00.735000+00:00",
-      "Editor": "",
-      "alertpull": 4.8,
-      "minorpull": 5.8,
-      "majorpull": 6.4
     }
   ]
 }
