@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-11T13:51:30.021478+00:00",
+  "last_updated_utc": "2025-12-11T14:15:06.706802+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6069,
+  "record_count": 6067,
   "records": [
+    {
+      "objectid": 1250633,
+      "globalid": "78b253f1-185a-4f8b-a63b-87be5f273cc7",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.63,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-11T14:00:45.797000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-11T14:00:45.797000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
     {
       "objectid": 1250632,
       "globalid": "d3d4062a-4edb-48b9-9078-e5d0530307ca",
@@ -90994,51 +91009,6 @@
       "alertpull": null,
       "minorpull": null,
       "majorpull": null
-    },
-    {
-      "objectid": 1244554,
-      "globalid": "e040341a-a7fe-4c71-a5ee-805c50db0165",
-      "basin": "Kalu Ganga",
-      "gauge": "Ellagawa",
-      "water_level": 5.8,
-      "rain_fall": 2.2,
-      "CreationDate": "2025-12-04T14:04:16.614000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-04T14:04:16.614000+00:00",
-      "Editor": "",
-      "alertpull": 10,
-      "minorpull": 10.7,
-      "majorpull": 12.2
-    },
-    {
-      "objectid": 1244553,
-      "globalid": "7e16fe75-ba3c-4ef6-ba1a-05a95300253e",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Manampitiya",
-      "water_level": 2.25,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-04T14:03:02.085000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-04T14:03:02.085000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4.3,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1244552,
-      "globalid": "73c64dcb-9682-494e-8b38-56242980d7b7",
-      "basin": "Nilwala Ganga",
-      "gauge": "Urawa",
-      "water_level": 2.26,
-      "rain_fall": null,
-      "CreationDate": "2025-12-04T13:54:44.993000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-04T13:54:44.993000+00:00",
-      "Editor": "",
-      "alertpull": 2.5,
-      "minorpull": 4,
-      "majorpull": 6
     }
   ]
 }
