@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2025-12-11T04:52:07.629712+00:00",
+  "last_updated_utc": "2025-12-11T05:15:21.129697+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6058,
+  "record_count": 6057,
   "records": [
     {
       "objectid": 1250284,
@@ -90859,21 +90859,6 @@
       "alertpull": null,
       "minorpull": null,
       "majorpull": null
-    },
-    {
-      "objectid": 1244216,
-      "globalid": "357e3b8d-1525-4b09-b50d-29d576c6438d",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Weraganthota",
-      "water_level": -0.45,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-04T04:54:16.623000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-04T04:54:16.623000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 8
     }
   ]
 }
