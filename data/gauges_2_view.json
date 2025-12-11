@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-11T22:49:15.735934+00:00",
+  "last_updated_utc": "2025-12-11T22:56:07.437034+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6078,
+  "record_count": 6077,
   "records": [
+    {
+      "objectid": 1250944,
+      "globalid": "d0ee3464-8c83-45c4-8082-63c63658a5fd",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 4.21,
+      "rain_fall": null,
+      "CreationDate": "2025-12-11T22:55:39.038000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-11T22:55:39.038000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1250943,
       "globalid": "2c595a8a-0c79-4d8d-ac9a-5d0285686bb0",
@@ -91144,36 +91159,6 @@
       "alertpull": 4,
       "minorpull": 5,
       "majorpull": 6.5
-    },
-    {
-      "objectid": 1244856,
-      "globalid": "9e8cc6c4-853e-4bed-b494-cf949d8fa53b",
-      "basin": "Kalu Ganga",
-      "gauge": "Putupaula",
-      "water_level": 0.97,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-04T22:55:00.323000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-04T22:55:00.323000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1244855,
-      "globalid": "0a17d95d-8c34-44e6-b9fe-fdcae4e10788",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Nawalapitiya",
-      "water_level": 1.4,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-04T22:51:20.037000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-04T22:51:20.037000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
-      "minorpull": 5,
-      "majorpull": 6
     }
   ]
 }
