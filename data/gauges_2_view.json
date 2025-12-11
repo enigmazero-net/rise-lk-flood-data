@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2025-12-11T18:48:43.025577+00:00",
+  "last_updated_utc": "2025-12-11T19:02:03.922858+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6069,
+  "record_count": 6067,
   "records": [
     {
       "objectid": 1250809,
@@ -91009,36 +91009,6 @@
       "alertpull": 6,
       "minorpull": 7.5,
       "majorpull": 10.5
-    },
-    {
-      "objectid": 1244731,
-      "globalid": "cc671cac-dcf2-41e1-8729-8cb64e479e1e",
-      "basin": "Kelani Ganga",
-      "gauge": "Glencourse",
-      "water_level": 10.65,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-04T18:53:31.648000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-04T18:53:31.648000+00:00",
-      "Editor": "",
-      "alertpull": 15,
-      "minorpull": 16.5,
-      "majorpull": 19
-    },
-    {
-      "objectid": 1244730,
-      "globalid": "3555fd8e-756f-4495-840b-7b3cdfc41e18",
-      "basin": "Kelani Ganga",
-      "gauge": "Glencourse",
-      "water_level": 10.65,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-04T18:53:29.605000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-04T18:53:29.605000+00:00",
-      "Editor": "",
-      "alertpull": 15,
-      "minorpull": 16.5,
-      "majorpull": 19
     }
   ]
 }
