@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-11T21:44:49.114028+00:00",
+  "last_updated_utc": "2025-12-11T21:52:14.537717+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6072,
+  "record_count": 6071,
   "records": [
+    {
+      "objectid": 1250910,
+      "globalid": "56e4bef7-e530-49e7-bab8-f16b01e6f040",
+      "basin": "Maha Oya",
+      "gauge": "Badalgama",
+      "water_level": 2.54,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-11T21:45:18.506000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-11T21:45:18.506000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.2,
+      "majorpull": 9.6
+    },
     {
       "objectid": 1250909,
       "globalid": "fbc48ff4-3ad0-4758-985b-ab54632cd2e9",
@@ -91054,36 +91069,6 @@
       "alertpull": 4.5,
       "minorpull": 6,
       "majorpull": 7
-    },
-    {
-      "objectid": 1244828,
-      "globalid": "3afc3b25-057c-4c14-940e-e32eec53e05a",
-      "basin": "Kelani Ganga",
-      "gauge": "Glencourse",
-      "water_level": 10.9,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-04T21:45:02.793000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-04T21:45:02.793000+00:00",
-      "Editor": "",
-      "alertpull": 15,
-      "minorpull": 16.5,
-      "majorpull": 19
-    },
-    {
-      "objectid": 1244827,
-      "globalid": "4c1c99af-fef7-4a8c-a241-32ee49ef3abb",
-      "basin": "Kelani Ganga",
-      "gauge": "Glencourse",
-      "water_level": 10.95,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-04T21:44:59.349000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-04T21:44:59.349000+00:00",
-      "Editor": "",
-      "alertpull": 15,
-      "minorpull": 16.5,
-      "majorpull": 19
     }
   ]
 }
