@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-11T08:46:48.261555+00:00",
+  "last_updated_utc": "2025-12-11T09:01:11.150287+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6061,
+  "record_count": 6063,
   "records": [
+    {
+      "objectid": 1250443,
+      "globalid": "03a542ef-a238-43d1-8441-331e94efdfcb",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Weraganthota",
+      "water_level": -1.38,
+      "rain_fall": 3.8,
+      "CreationDate": "2025-12-11T08:56:42.861000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-11T08:56:42.861000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 8
+    },
+    {
+      "objectid": 1250442,
+      "globalid": "53120af2-2bcf-4fe2-a995-b0eac7f12f0d",
+      "basin": "Maduru Oya",
+      "gauge": "Padiyathalawa",
+      "water_level": 0.91,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-11T08:48:30.038000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-11T08:48:30.038000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 4.5,
+      "majorpull": 6
+    },
     {
       "objectid": 1250441,
       "globalid": "8034d095-a5b1-4bc5-b52c-cbd0c6ff5312",
