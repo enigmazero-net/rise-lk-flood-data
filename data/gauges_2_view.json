@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-11T20:46:23.128434+00:00",
+  "last_updated_utc": "2025-12-11T20:53:26.361231+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6071,
+  "record_count": 6070,
   "records": [
+    {
+      "objectid": 1250869,
+      "globalid": "070fdf48-1751-41dc-a973-a0507c3d465a",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": 1.5,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-11T20:50:03.111000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-11T20:50:03.111000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
     {
       "objectid": 1250868,
       "globalid": "c7066c33-569b-4c35-be76-ccd8dc74e80c",
@@ -91039,36 +91054,6 @@
       "alertpull": null,
       "minorpull": null,
       "majorpull": null
-    },
-    {
-      "objectid": 1244788,
-      "globalid": "a62ce998-4ca7-4cf1-a6b8-444f3abffd43",
-      "basin": "Kirindi Oya",
-      "gauge": "Thanamalwila",
-      "water_level": 1.37,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-04T20:51:34.279000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-04T20:51:34.279000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 5.5
-    },
-    {
-      "objectid": 1244787,
-      "globalid": "3b714a30-89d5-418b-9c4d-0c8d4a6bb146",
-      "basin": "Kalu Ganga",
-      "gauge": "Rathnapura",
-      "water_level": 3.1,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-04T20:47:09.930000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-04T20:47:09.930000+00:00",
-      "Editor": "",
-      "alertpull": 5.2,
-      "minorpull": 7.5,
-      "majorpull": 9.5
     }
   ]
 }
