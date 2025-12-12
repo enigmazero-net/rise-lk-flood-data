@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-12T17:54:01.836085+00:00",
+  "last_updated_utc": "2025-12-12T18:17:50.594807+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6116,
   "records": [
+    {
+      "objectid": 1251685,
+      "globalid": "bd7864ec-543a-4272-823a-fe2767dd06d5",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 0.97,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-12T17:54:51.855000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-12T17:54:51.855000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
     {
       "objectid": 1251684,
       "globalid": "bfaca4fe-c778-474c-9e95-c757e3572a04",
@@ -91729,21 +91744,6 @@
       "alertpull": 3.5,
       "minorpull": 5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1245557,
-      "globalid": "688fdf59-061c-419f-8edd-0af39438b385",
-      "basin": "Gin Ganga",
-      "gauge": "Baddegama",
-      "water_level": 2.28,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-05T17:57:41.132000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-05T17:57:41.132000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
-      "minorpull": 4,
-      "majorpull": 5
     }
   ]
 }
