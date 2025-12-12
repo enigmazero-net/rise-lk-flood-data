@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-12T15:48:55.038218+00:00",
+  "last_updated_utc": "2025-12-12T15:56:58.602978+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6110,
   "records": [
+    {
+      "objectid": 1251611,
+      "globalid": "b55cc3ed-9af6-4e5c-91b8-2fcabbaf5dfb",
+      "basin": "Kalu Ganga",
+      "gauge": "Kalawellawa (Millakanda)",
+      "water_level": 3.09,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-12T15:55:14.527000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-12T15:55:14.527000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.5,
+      "majorpull": 8
+    },
     {
       "objectid": 1251610,
       "globalid": "d098d270-63fd-4e4a-802a-6f8c0ecc10e6",
@@ -91639,21 +91654,6 @@
       "alertpull": 4,
       "minorpull": 4.5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1245489,
-      "globalid": "043fdcb1-9486-4b9f-b591-0a1259a9b051",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 2.27,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-05T15:53:32.871000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-05T15:53:32.871000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
     }
   ]
 }
