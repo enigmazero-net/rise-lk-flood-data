@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2025-12-12T16:43:22.987100+00:00",
+  "last_updated_utc": "2025-12-12T16:54:54.071308+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6111,
+  "record_count": 6113,
   "records": [
+    {
+      "objectid": 1251650,
+      "globalid": "fc21c852-5da8-4a8a-885e-d25b14bf77e1",
+      "basin": "Kalu Ganga",
+      "gauge": "Kalawellawa (Millakanda)",
+      "water_level": 3.07,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-12T16:48:53.891000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-12T16:48:53.891000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.5,
+      "majorpull": 8
+    },
+    {
+      "objectid": 1251649,
+      "globalid": "067364aa-1fd7-4b3e-a01e-53e89b527ee3",
+      "basin": "Kalu Ganga",
+      "gauge": "Magura",
+      "water_level": 2.4,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-12T16:47:21.827000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-12T16:47:21.827000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1251648,
+      "globalid": "c4b644fb-a042-4e19-9ed9-a92b601d4721",
+      "basin": "Aththanagalu Oya",
+      "gauge": "Dunamale",
+      "water_level": 1.18,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-12T16:43:58.517000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-12T16:43:58.517000+00:00",
+      "Editor": "",
+      "alertpull": 3.3,
+      "minorpull": 4.4,
+      "majorpull": 5.5
+    },
     {
       "objectid": 1251647,
       "globalid": "4a6bb9d1-44df-4668-9532-de14b19a0864",
@@ -91654,21 +91699,6 @@
       "alertpull": 4.4,
       "minorpull": 5.4,
       "majorpull": 5.9
-    },
-    {
-      "objectid": 1245524,
-      "globalid": "1d62305f-bec2-427e-a621-89644de69f3a",
-      "basin": "Yan Oya",
-      "gauge": "Horowpothana",
-      "water_level": 2.07,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-05T16:54:19.136000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-05T16:54:19.136000+00:00",
-      "Editor": "",
-      "alertpull": 6,
-      "minorpull": 7.5,
-      "majorpull": 10.5
     }
   ]
 }
