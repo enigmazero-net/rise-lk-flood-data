@@ -1,10 +1,70 @@
 {
-  "last_updated_utc": "2025-12-12T14:45:32.855530+00:00",
+  "last_updated_utc": "2025-12-12T14:52:54.663831+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6100,
+  "record_count": 6103,
   "records": [
+    {
+      "objectid": 1251573,
+      "globalid": "5bd9b084-c368-466f-a9a0-253de036f49b",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 3.73,
+      "rain_fall": null,
+      "CreationDate": "2025-12-12T14:52:10.850000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-12T14:52:10.850000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1251572,
+      "globalid": "9c3fbefb-0a3e-432a-9aed-bc2c82197e0e",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Thaldena",
+      "water_level": 0.81,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-12T14:51:51.156000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-12T14:51:51.156000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1251571,
+      "globalid": "4cdbb58b-a775-447a-a822-dc654bbcdd70",
+      "basin": "Kelani Ganga",
+      "gauge": "Kithulgala",
+      "water_level": 0.81,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-12T14:51:15.180000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-12T14:51:15.180000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1251570,
+      "globalid": "e03a79f3-2d00-4d92-aefa-4cfb6ae20843",
+      "basin": "Yan Oya",
+      "gauge": "Horowpothana",
+      "water_level": 6.38,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-12T14:48:58.161000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-12T14:48:58.161000+00:00",
+      "Editor": "",
+      "alertpull": 6,
+      "minorpull": 7.5,
+      "majorpull": 10.5
+    },
     {
       "objectid": 1251569,
       "globalid": "382e630a-56d9-48b1-80f8-3c3f4fdd7dd6",
@@ -91489,21 +91549,6 @@
       "alertpull": 4.4,
       "minorpull": 5.4,
       "majorpull": 5.9
-    },
-    {
-      "objectid": 1245458,
-      "globalid": "77b56343-adac-4324-9cef-397faefad567",
-      "basin": "Yan Oya",
-      "gauge": "Horowpothana",
-      "water_level": 2.06,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-05T14:46:20.843000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-05T14:46:20.843000+00:00",
-      "Editor": "",
-      "alertpull": 6,
-      "minorpull": 7.5,
-      "majorpull": 10.5
     }
   ]
 }
