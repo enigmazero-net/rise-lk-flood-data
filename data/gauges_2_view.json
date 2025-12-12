@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-12T13:57:29.272290+00:00",
+  "last_updated_utc": "2025-12-12T14:16:49.408567+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6096,
+  "record_count": 6098,
   "records": [
+    {
+      "objectid": 1251535,
+      "globalid": "fcd26437-8f24-4ef9-88ae-92063c44e272",
+      "basin": "Kelani Ganga",
+      "gauge": "Glencourse",
+      "water_level": 9.87,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-12T14:16:41.903000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-12T14:16:41.903000+00:00",
+      "Editor": "",
+      "alertpull": 15,
+      "minorpull": 16.5,
+      "majorpull": 19
+    },
+    {
+      "objectid": 1251534,
+      "globalid": "9a045f12-6722-4725-b80e-561116ffe525",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Thaldena",
+      "water_level": 0.81,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-12T14:11:42.729000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-12T14:11:42.729000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
     {
       "objectid": 1251533,
       "globalid": "25e8871e-ac37-4e79-b02b-f8577216bff3",
