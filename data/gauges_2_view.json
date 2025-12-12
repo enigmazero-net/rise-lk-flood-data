@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-12T21:12:50.398978+00:00",
+  "last_updated_utc": "2025-12-12T21:31:00.313260+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6124,
+  "record_count": 6125,
   "records": [
+    {
+      "objectid": 1251792,
+      "globalid": "1af49f38-6903-4168-9aa2-22372f70e6cb",
+      "basin": "Yan Oya",
+      "gauge": "Horowpothana",
+      "water_level": 6.23,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-12T21:30:36.891000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-12T21:30:36.891000+00:00",
+      "Editor": "",
+      "alertpull": 6,
+      "minorpull": 7.5,
+      "majorpull": 10.5
+    },
+    {
+      "objectid": 1251791,
+      "globalid": "24daa74e-b34d-4196-834c-5d49a38044d7",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Nawalapitiya",
+      "water_level": 1.09,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-12T21:30:17.213000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-12T21:30:17.213000+00:00",
+      "Editor": "",
+      "alertpull": 3.5,
+      "minorpull": 5,
+      "majorpull": 6
+    },
     {
       "objectid": 1251790,
       "globalid": "7f9172ae-152e-46f3-baac-0a4e5accb71e",
@@ -91849,21 +91879,6 @@
       "alertpull": 5,
       "minorpull": 6.2,
       "majorpull": 9.6
-    },
-    {
-      "objectid": 1245655,
-      "globalid": "a7b49f2f-e855-46b1-ac8a-69a24bb84b5e",
-      "basin": "Kirindi Oya",
-      "gauge": "Wellawaya",
-      "water_level": 1.13,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-05T21:30:42.558000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-05T21:30:42.558000+00:00",
-      "Editor": "",
-      "alertpull": 4.4,
-      "minorpull": 5.4,
-      "majorpull": 5.9
     }
   ]
 }
