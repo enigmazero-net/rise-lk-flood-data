@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-12T19:52:11.401747+00:00",
+  "last_updated_utc": "2025-12-12T20:12:35.881226+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6122,
   "records": [
+    {
+      "objectid": 1251752,
+      "globalid": "54f4ec7a-1c51-4a83-b74f-d658d00c4893",
+      "basin": "Kelani Ganga",
+      "gauge": "Nagalagam Street",
+      "water_level": 1.7,
+      "rain_fall": null,
+      "CreationDate": "2025-12-12T20:02:49.718000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-12T20:02:49.718000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 7
+    },
     {
       "objectid": 1251751,
       "globalid": "b1d7801d-0fa0-4a5b-baf8-554ac8eedb55",
@@ -91819,21 +91834,6 @@
       "alertpull": 1.4,
       "minorpull": 1.7,
       "majorpull": 2.8
-    },
-    {
-      "objectid": 1245618,
-      "globalid": "4c1c6b5d-6ccd-44d4-9e59-90654174678b",
-      "basin": "Nilwala Ganga",
-      "gauge": "Urawa",
-      "water_level": 0.73,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-05T20:10:24.607000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-05T20:10:24.607000+00:00",
-      "Editor": "",
-      "alertpull": 2.5,
-      "minorpull": 4,
-      "majorpull": 6
     }
   ]
 }
