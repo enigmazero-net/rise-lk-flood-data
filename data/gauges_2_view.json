@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2025-12-12T20:56:25.031220+00:00",
+  "last_updated_utc": "2025-12-12T21:12:50.398978+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6122,
+  "record_count": 6124,
   "records": [
+    {
+      "objectid": 1251790,
+      "globalid": "7f9172ae-152e-46f3-baac-0a4e5accb71e",
+      "basin": "Kelani Ganga",
+      "gauge": "Glencourse",
+      "water_level": 9.6,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-12T21:02:59.392000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-12T21:02:59.392000+00:00",
+      "Editor": "",
+      "alertpull": 15,
+      "minorpull": 16.5,
+      "majorpull": 19
+    },
+    {
+      "objectid": 1251789,
+      "globalid": "21ecd46c-5e64-45ad-9b16-9c9dcbaa1853",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 0.96,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-12T20:59:04.637000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-12T20:59:04.637000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
+    {
+      "objectid": 1251788,
+      "globalid": "9fc17001-4baf-4d54-bec8-c5549895ef71",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 0.96,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-12T20:59:02.928000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-12T20:59:02.928000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
     {
       "objectid": 1251787,
       "globalid": "ee3798f3-9f84-4a9b-b4c3-73c20d9414a9",
@@ -91819,21 +91864,6 @@
       "alertpull": 4.4,
       "minorpull": 5.4,
       "majorpull": 5.9
-    },
-    {
-      "objectid": 1245654,
-      "globalid": "520927a4-c53a-48b0-8784-066aee6eff4d",
-      "basin": "Kalu Ganga",
-      "gauge": "Putupaula",
-      "water_level": 1.1,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-05T21:04:09.314000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-05T21:04:09.314000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
     }
   ]
 }
