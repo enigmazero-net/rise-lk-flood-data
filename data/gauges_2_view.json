@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2025-12-13T18:41:50.160172+00:00",
+  "last_updated_utc": "2025-12-13T18:54:32.959441+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6192,
+  "record_count": 6193,
   "records": [
+    {
+      "objectid": 1252657,
+      "globalid": "a8210d06-4697-43e7-b843-038ebfa61121",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.7,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-13T18:51:38.431000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-13T18:51:38.431000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
+    {
+      "objectid": 1252656,
+      "globalid": "5c3eaec5-9b66-4443-a05d-7f09a933af4b",
+      "basin": "Kelani Ganga",
+      "gauge": "Holombuwa",
+      "water_level": 0.64,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-13T18:45:08.948000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-13T18:45:08.948000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 3.4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1252655,
+      "globalid": "502ee4a3-e3d1-4070-aa30-01b378acfec0",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 1.05,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-13T18:43:30.915000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-13T18:43:30.915000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
     {
       "objectid": 1252654,
       "globalid": "483565d5-5629-4add-8d2a-4825bdea1582",
@@ -92854,36 +92899,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1246449,
-      "globalid": "02a76ef4-39ed-4d47-9749-5abb596d193d",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.94,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-06T18:47:41.852000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-06T18:47:41.852000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
-    },
-    {
-      "objectid": 1246448,
-      "globalid": "9c3d61d6-cac8-40c4-8edd-96264205b73d",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.9,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-06T18:42:58.404000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-06T18:42:58.404000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
     }
   ]
 }
