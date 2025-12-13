@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-13T07:43:20.409183+00:00",
+  "last_updated_utc": "2025-12-13T07:52:06.283360+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6154,
+  "record_count": 6153,
   "records": [
+    {
+      "objectid": 1252223,
+      "globalid": "6d1fd23e-3101-4a4c-b47b-b13a355d17fa",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.67,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-13T07:50:41.328000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-13T07:50:41.328000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
+    {
+      "objectid": 1252222,
+      "globalid": "79f7480c-de3d-4f00-a6d5-ea0d1b7c5e1d",
+      "basin": "Aththanagalu Oya",
+      "gauge": "Dunamale",
+      "water_level": 1.26,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-13T07:47:45.759000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-13T07:47:45.759000+00:00",
+      "Editor": "",
+      "alertpull": 3.3,
+      "minorpull": 4.4,
+      "majorpull": 5.5
+    },
     {
       "objectid": 1252221,
       "globalid": "0d3c6d3b-844c-4890-ac5e-851dd6d2f54c",
@@ -92269,51 +92299,6 @@
       "alertpull": null,
       "minorpull": null,
       "majorpull": null
-    },
-    {
-      "objectid": 1246056,
-      "globalid": "07543a75-772e-44eb-a708-e5f1295366cc",
-      "basin": "Malwathu Oya",
-      "gauge": "Thanthirimale",
-      "water_level": 6.9,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-06T07:49:48.009000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-06T07:49:48.009000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.8,
-      "majorpull": 7.8
-    },
-    {
-      "objectid": 1246055,
-      "globalid": "ba085d4b-d2e6-4b85-b863-4468d324071b",
-      "basin": "Maha Oya",
-      "gauge": "Badalgama",
-      "water_level": 2.98,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-06T07:49:39.317000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-06T07:49:39.317000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.2,
-      "majorpull": 9.6
-    },
-    {
-      "objectid": 1246054,
-      "globalid": "86b02352-f479-46f6-950b-81ab6eb0bd66",
-      "basin": "Kalu Ganga",
-      "gauge": "Kalawellawa (Millakanda)",
-      "water_level": 4.2,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-06T07:47:36.702000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-06T07:47:36.702000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.5,
-      "majorpull": 8
     }
   ]
 }
