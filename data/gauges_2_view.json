@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2025-12-13T22:45:33.928047+00:00",
+  "last_updated_utc": "2025-12-13T22:52:02.713209+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6209,
+  "record_count": 6211,
   "records": [
+    {
+      "objectid": 1252799,
+      "globalid": "d99e1bdd-01ab-42d0-aac4-28b2f3cd1b37",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 1.25,
+      "rain_fall": null,
+      "CreationDate": "2025-12-13T22:50:33.739000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-13T22:50:33.739000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
+    {
+      "objectid": 1252798,
+      "globalid": "53e9c4fe-b12f-4f43-a319-5b88036f595f",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 1.17,
+      "rain_fall": null,
+      "CreationDate": "2025-12-13T22:50:12.066000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-13T22:50:12.066000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
+    {
+      "objectid": 1252797,
+      "globalid": "8e65ac7e-497c-4736-97cb-cedc662f4a45",
+      "basin": "Kirindi Oya",
+      "gauge": "Thanamalwila",
+      "water_level": 1.14,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-13T22:47:25.155000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-13T22:47:25.155000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 5.5
+    },
     {
       "objectid": 1252796,
       "globalid": "806845fa-c4de-4b26-abea-ea5f11821bf8",
@@ -93123,21 +93168,6 @@
       "Editor": "",
       "alertpull": 3,
       "minorpull": 3.4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1246573,
-      "globalid": "9a712ab6-e85b-4f16-9d91-2ad6467a401d",
-      "basin": "Kalu Ganga",
-      "gauge": "Putupaula",
-      "water_level": 1.15,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-06T22:48:44.132000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-06T22:48:44.132000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
       "majorpull": 5
     }
   ]
