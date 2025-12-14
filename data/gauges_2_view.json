@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-14T17:51:40.099407+00:00",
+  "last_updated_utc": "2025-12-14T18:15:30.172967+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6258,
+  "record_count": 6257,
   "records": [
+    {
+      "objectid": 1253553,
+      "globalid": "91a12958-e3d7-4ea8-86c5-d249ee3a2d12",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Nawalapitiya",
+      "water_level": 1.003,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-14T18:09:39.991000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-14T18:09:39.991000+00:00",
+      "Editor": "",
+      "alertpull": 3.5,
+      "minorpull": 5,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1253552,
+      "globalid": "00d6a13a-b273-4d08-9ba2-f6ceb71d5a35",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Nawalapitiya",
+      "water_level": 1.03,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-14T18:09:12.006000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-14T18:09:12.006000+00:00",
+      "Editor": "",
+      "alertpull": 3.5,
+      "minorpull": 5,
+      "majorpull": 6
+    },
     {
       "objectid": 1253551,
       "globalid": "1e177cf8-c029-4392-bf22-2df22d77b5d4",
@@ -93829,51 +93859,6 @@
       "alertpull": 4.5,
       "minorpull": 6,
       "majorpull": 7
-    },
-    {
-      "objectid": 1247280,
-      "globalid": "1f19d5f3-f542-4d8b-84c4-cec0509ec95b",
-      "basin": "Kirindi Oya",
-      "gauge": "Wellawaya",
-      "water_level": 1.03,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-07T18:05:50.605000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-07T18:05:50.605000+00:00",
-      "Editor": "",
-      "alertpull": 4.4,
-      "minorpull": 5.4,
-      "majorpull": 5.9
-    },
-    {
-      "objectid": 1247279,
-      "globalid": "dd330945-b5b4-42f1-af67-65aa50928b15",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Nawalapitiya",
-      "water_level": 1.23,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-07T18:02:03.859000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-07T18:02:03.859000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
-      "minorpull": 5,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1247278,
-      "globalid": "266d66c1-6ddb-4be1-a9a5-b129d8279c4b",
-      "basin": "Kelani Ganga",
-      "gauge": "Holombuwa",
-      "water_level": 0.84,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-07T17:55:48.484000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-07T17:55:48.484000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 3.4,
-      "majorpull": 5
     }
   ]
 }
