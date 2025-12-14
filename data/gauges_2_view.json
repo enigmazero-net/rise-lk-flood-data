@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-14T14:10:03.161166+00:00",
+  "last_updated_utc": "2025-12-14T14:30:46.541051+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6249,
   "records": [
+    {
+      "objectid": 1253409,
+      "globalid": "a2753474-42bf-4272-98c0-dce0a057f1b4",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 3.6,
+      "rain_fall": null,
+      "CreationDate": "2025-12-14T14:26:05.866000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-14T14:26:05.866000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1253408,
+      "globalid": "e9ceb7ed-3ed9-43de-a013-c444bc3afd25",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 3.62,
+      "rain_fall": null,
+      "CreationDate": "2025-12-14T14:25:32.703000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-14T14:25:32.703000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1253407,
       "globalid": "968f17a7-e554-4990-b562-0b1fbdf45407",
@@ -93709,36 +93739,6 @@
       "alertpull": 5,
       "minorpull": 6.8,
       "majorpull": 7.8
-    },
-    {
-      "objectid": 1247145,
-      "globalid": "65027bb3-d655-45ba-ab02-fa7d4c598187",
-      "basin": "Kumbukkan Oya",
-      "gauge": "Nakkala",
-      "water_level": 1.26,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-07T14:30:38.870000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-07T14:30:38.870000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1247144,
-      "globalid": "49f35f7c-eb00-4097-9632-74f94ad2cd17",
-      "basin": "Kirindi Oya",
-      "gauge": "Wellawaya",
-      "water_level": 1.03,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-07T14:30:27.831000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-07T14:30:27.831000+00:00",
-      "Editor": "",
-      "alertpull": 4.4,
-      "minorpull": 5.4,
-      "majorpull": 5.9
     }
   ]
 }
