@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2025-12-14T19:42:04.156377+00:00",
+  "last_updated_utc": "2025-12-14T19:52:08.144243+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6259,
+  "record_count": 6260,
   "records": [
+    {
+      "objectid": 1253616,
+      "globalid": "80783de8-4c36-4304-8585-d478aaf7be8b",
+      "basin": "Aththanagalu Oya",
+      "gauge": "Dunamale",
+      "water_level": 1.11,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-14T19:49:48.259000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-14T19:49:48.259000+00:00",
+      "Editor": "",
+      "alertpull": 3.3,
+      "minorpull": 4.4,
+      "majorpull": 5.5
+    },
+    {
+      "objectid": 1253615,
+      "globalid": "7b57b425-d714-4ae1-b874-47bf72ca27ce",
+      "basin": "Walawe Ganga",
+      "gauge": "Moraketiya",
+      "water_level": 0.99,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-14T19:47:47.653000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-14T19:47:47.653000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 5,
+      "majorpull": 7
+    },
+    {
+      "objectid": 1253614,
+      "globalid": "ce8bd3bb-5c3f-4611-bb84-30909c720014",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 3.55,
+      "rain_fall": null,
+      "CreationDate": "2025-12-14T19:43:08.015000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-14T19:43:08.015000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1253613,
       "globalid": "1503bbb3-4bea-44ee-9be7-da7d9d7505d9",
@@ -93859,36 +93904,6 @@
       "alertpull": 3.5,
       "minorpull": 5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1247341,
-      "globalid": "5337b603-1810-41de-92b0-4fefe2797008",
-      "basin": "Kelani Ganga",
-      "gauge": "Hanwella",
-      "water_level": 2.32,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-07T19:43:48.942000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-07T19:43:48.942000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
-    },
-    {
-      "objectid": 1247340,
-      "globalid": "c2fcdcb1-1072-4f88-aaa1-ad6b3e2055c3",
-      "basin": "Kirindi Oya",
-      "gauge": "Kuda Oya",
-      "water_level": 1.53,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-07T19:43:44.326000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-07T19:43:44.326000+00:00",
-      "Editor": "",
-      "alertpull": 6.9,
-      "minorpull": 8.4,
-      "majorpull": 8.8
     }
   ]
 }
