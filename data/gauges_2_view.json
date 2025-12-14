@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-14T22:45:13.983245+00:00",
+  "last_updated_utc": "2025-12-14T22:52:09.146296+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6266,
+  "record_count": 6267,
   "records": [
+    {
+      "objectid": 1253722,
+      "globalid": "d46bfb3a-78f3-4229-bd22-6732d36d5cfc",
+      "basin": "Aththanagalu Oya",
+      "gauge": "Dunamale",
+      "water_level": 1.1,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-14T22:50:00.068000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-14T22:50:00.068000+00:00",
+      "Editor": "",
+      "alertpull": 3.3,
+      "minorpull": 4.4,
+      "majorpull": 5.5
+    },
+    {
+      "objectid": 1253721,
+      "globalid": "549cdaf5-24b1-4b0d-8a19-79914567f29a",
+      "basin": "Kelani Ganga",
+      "gauge": "Glencourse",
+      "water_level": 9.5,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-14T22:46:57.509000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-14T22:46:57.509000+00:00",
+      "Editor": "",
+      "alertpull": 15,
+      "minorpull": 16.5,
+      "majorpull": 19
+    },
     {
       "objectid": 1253720,
       "globalid": "641aa6ae-09ec-4a94-9105-432a6185ad21",
@@ -93979,21 +94009,6 @@
       "alertpull": 6.9,
       "minorpull": 8.4,
       "majorpull": 8.8
-    },
-    {
-      "objectid": 1247441,
-      "globalid": "4ba04677-e8aa-42d6-b139-71c4340d303e",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Nawalapitiya",
-      "water_level": 1.28,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-07T22:51:43.303000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-07T22:51:43.303000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
-      "minorpull": 5,
-      "majorpull": 6
     }
   ]
 }
