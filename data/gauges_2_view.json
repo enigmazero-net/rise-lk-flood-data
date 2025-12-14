@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-14T13:52:03.985660+00:00",
+  "last_updated_utc": "2025-12-14T14:10:03.161166+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6247,
+  "record_count": 6249,
   "records": [
+    {
+      "objectid": 1253407,
+      "globalid": "968f17a7-e554-4990-b562-0b1fbdf45407",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 3.52,
+      "rain_fall": null,
+      "CreationDate": "2025-12-14T13:55:31.268000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-14T13:55:31.268000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1253406,
+      "globalid": "40b08157-04f6-4f32-a9cb-63e188893114",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Thaldena",
+      "water_level": 0.85,
+      "rain_fall": 0.4,
+      "CreationDate": "2025-12-14T13:53:24.478000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-14T13:53:24.478000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
     {
       "objectid": 1253405,
       "globalid": "46ed80f8-b9a5-4e11-8d55-c3fa3db2bf21",
