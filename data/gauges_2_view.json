@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2025-12-14T20:46:11.110647+00:00",
+  "last_updated_utc": "2025-12-14T20:52:37.952131+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6269,
+  "record_count": 6265,
   "records": [
     {
       "objectid": 1253650,
@@ -93979,66 +93979,6 @@
       "alertpull": 7,
       "minorpull": 8,
       "majorpull": 10
-    },
-    {
-      "objectid": 1247370,
-      "globalid": "9ee2ba19-6f71-478e-8d00-86b8278fb911",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 3.01,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-07T20:51:31.202000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-07T20:51:31.202000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1247369,
-      "globalid": "4dea1caf-aba3-4cdd-b2a4-c745c401db01",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 2.89,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-07T20:51:29.569000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-07T20:51:29.569000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1247368,
-      "globalid": "75da20b6-7634-4079-b6f2-78ab704f6436",
-      "basin": "Walawe Ganga",
-      "gauge": "Moraketiya",
-      "water_level": 1.04,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-07T20:49:03.537000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-07T20:49:03.537000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 5,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1247367,
-      "globalid": "34ef0e97-e324-404b-a08d-efff722c5310",
-      "basin": "Walawe Ganga",
-      "gauge": "Moraketiya",
-      "water_level": 1.04,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-07T20:48:43.839000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-07T20:48:43.839000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 5,
-      "majorpull": 7
     }
   ]
 }
