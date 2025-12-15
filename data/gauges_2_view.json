@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-15T08:52:31.264528+00:00",
+  "last_updated_utc": "2025-12-15T09:21:36.911510+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6292,
+  "record_count": 6291,
   "records": [
+    {
+      "objectid": 1254138,
+      "globalid": "9ab0f18f-f628-46b4-b5da-395701c7eb8f",
+      "basin": "Kelani Ganga",
+      "gauge": "Nagalagam Street",
+      "water_level": 1.6,
+      "rain_fall": null,
+      "CreationDate": "2025-12-15T08:57:14.873000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-15T08:57:14.873000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 7
+    },
     {
       "objectid": 1254137,
       "globalid": "8ee5aace-7d62-4174-a2f4-453dbfe742fd",
@@ -1219,21 +1234,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1254056,
-      "globalid": "d2ebcc7e-dcbb-4e17-ab10-6d610dbb9d38",
-      "basin": "Ma Oya",
-      "gauge": "Yaka Wewa",
-      "water_level": 3.95,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-15T07:30:09.669000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-15T07:30:09.669000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6
     },
     {
       "objectid": 1254055,
@@ -94369,21 +94369,6 @@
       "alertpull": 3.5,
       "minorpull": 5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1247828,
-      "globalid": "d372b632-79e6-416d-8319-f3008b525bb0",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.72,
-      "rain_fall": 3.5,
-      "CreationDate": "2025-12-08T08:57:18.505000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-08T08:57:18.505000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
     }
   ]
 }
