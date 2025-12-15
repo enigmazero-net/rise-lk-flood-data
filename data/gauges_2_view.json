@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-15T23:45:56.244949+00:00",
+  "last_updated_utc": "2025-12-15T23:52:34.563567+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6328,
+  "record_count": 6327,
   "records": [
+    {
+      "objectid": 1254691,
+      "globalid": "e822d671-a7a1-4a0f-8c0e-f3da66f79e1a",
+      "basin": "Gin Ganga",
+      "gauge": "Thawalama",
+      "water_level": 1.48,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-15T23:50:28.013000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-15T23:50:28.013000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1254690,
       "globalid": "2411c875-a93a-4cea-9b90-2e13c8da4101",
@@ -94894,36 +94909,6 @@
       "alertpull": 2.5,
       "minorpull": 4,
       "majorpull": 6
-    },
-    {
-      "objectid": 1248345,
-      "globalid": "dc794806-de53-490f-a1e9-0db30bfd7e20",
-      "basin": "Kelani Ganga",
-      "gauge": "Holombuwa",
-      "water_level": 0.78,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-08T23:48:37.557000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-08T23:48:37.557000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 3.4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1248344,
-      "globalid": "6b18cabf-e824-4852-b4bd-9bbeeb13041c",
-      "basin": "Kelani Ganga",
-      "gauge": "Holombuwa",
-      "water_level": 0.74,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-08T23:48:36.072000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-08T23:48:36.072000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 3.4,
-      "majorpull": 5
     }
   ]
 }
