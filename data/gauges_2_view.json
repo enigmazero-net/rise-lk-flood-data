@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-15T21:53:20.662023+00:00",
+  "last_updated_utc": "2025-12-15T22:11:21.707061+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6308,
+  "record_count": 6306,
   "records": [
+    {
+      "objectid": 1254611,
+      "globalid": "7ade5fdd-7b22-4e50-84f6-2e36f1a90f04",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.77,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-15T22:03:08.293000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-15T22:03:08.293000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
     {
       "objectid": 1254610,
       "globalid": "7af54c2f-4b7a-47da-8b4d-fe03007aa0da",
@@ -94579,51 +94594,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 6
-    },
-    {
-      "objectid": 1248286,
-      "globalid": "619eae9c-8c19-435d-8702-0bf4c8686d29",
-      "basin": "Gin Ganga",
-      "gauge": "Thawalama",
-      "water_level": 1.78,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-08T21:56:24.249000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-08T21:56:24.249000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1248285,
-      "globalid": "d1004f79-a070-4081-9a44-769e499a3498",
-      "basin": "Gin Ganga",
-      "gauge": "Thawalama",
-      "water_level": 1.8,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-08T21:56:03.351000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-08T21:56:03.351000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1248284,
-      "globalid": "4ca3fdc0-0a67-4b40-b503-60c504e4f2b3",
-      "basin": "Kalu Ganga",
-      "gauge": "Kalawellawa (Millakanda)",
-      "water_level": 3.04,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-08T21:54:17.788000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-08T21:54:17.788000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.5,
-      "majorpull": 8
     }
   ]
 }
