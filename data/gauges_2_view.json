@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-15T18:50:39.714978+00:00",
+  "last_updated_utc": "2025-12-15T19:12:54.315767+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6300,
+  "record_count": 6298,
   "records": [
+    {
+      "objectid": 1254510,
+      "globalid": "79e8ffcf-ecdd-42b4-a7c0-4f76e48e0856",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Thaldena",
+      "water_level": 0.8,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-15T19:02:44.300000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-15T19:02:44.300000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
     {
       "objectid": 1254509,
       "globalid": "86ede9b9-f6c2-4be6-bca2-bd4739e35cba",
@@ -94459,51 +94474,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 6
-    },
-    {
-      "objectid": 1248193,
-      "globalid": "086ddde0-6d75-40b3-9188-fa075c75a11c",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.69,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-08T18:56:21.401000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-08T18:56:21.401000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
-    },
-    {
-      "objectid": 1248192,
-      "globalid": "11418b21-8b4a-45ae-94cb-f38974f4b1e0",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.69,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-08T18:56:19.941000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-08T18:56:19.941000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
-    },
-    {
-      "objectid": 1248191,
-      "globalid": "558db320-c294-48cc-a304-d6f00244b104",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.98,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-08T18:51:20.419000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-08T18:51:20.419000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
     }
   ]
 }
