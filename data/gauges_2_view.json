@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-16T19:46:06.671838+00:00",
+  "last_updated_utc": "2025-12-16T19:53:01.376637+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6363,
+  "record_count": 6365,
   "records": [
+    {
+      "objectid": 1255476,
+      "globalid": "67f66004-555d-4d26-ac2a-ed4f65cace4f",
+      "basin": "Maha Oya",
+      "gauge": "Badalgama",
+      "water_level": 2.32,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-16T19:46:37.789000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-16T19:46:37.789000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.2,
+      "majorpull": 9.6
+    },
+    {
+      "objectid": 1255475,
+      "globalid": "632ca166-1a28-4517-bb5e-b131a34dfd33",
+      "basin": "Walawe Ganga",
+      "gauge": "Moraketiya",
+      "water_level": 0.99,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-16T19:46:19.016000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-16T19:46:19.016000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 5,
+      "majorpull": 7
+    },
     {
       "objectid": 1255474,
       "globalid": "c7e0a68c-09f0-42d9-a08a-106b02b7941d",
