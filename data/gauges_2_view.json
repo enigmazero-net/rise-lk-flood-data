@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2025-12-16T11:46:10.902541+00:00",
+  "last_updated_utc": "2025-12-16T11:52:55.743405+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6334,
+  "record_count": 6333,
   "records": [
     {
       "objectid": 1255182,
@@ -94999,21 +94999,6 @@
       "alertpull": 4,
       "minorpull": 5,
       "majorpull": 7
-    },
-    {
-      "objectid": 1248821,
-      "globalid": "431bf07a-db15-4e76-9b7e-57801238fd0d",
-      "basin": "Mee Oya",
-      "gauge": "Galgamuwa",
-      "water_level": 1.32,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-09T11:52:45.578000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-09T11:52:45.578000+00:00",
-      "Editor": "",
-      "alertpull": 4.84,
-      "minorpull": 5.94,
-      "majorpull": 8
     }
   ]
 }
