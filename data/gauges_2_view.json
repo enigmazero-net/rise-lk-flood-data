@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-16T22:53:45.265835+00:00",
+  "last_updated_utc": "2025-12-16T23:10:40.922623+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6370,
+  "record_count": 6368,
   "records": [
+    {
+      "objectid": 1255578,
+      "globalid": "bbf3b58d-875d-47dd-8ba1-4b2e1f1b4b38",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.69,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-16T22:54:30.124000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-16T22:54:30.124000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
     {
       "objectid": 1255577,
       "globalid": "1223fedd-9772-48d1-8770-ec4abdcbb715",
@@ -95509,51 +95524,6 @@
       "alertpull": 4,
       "minorpull": 5,
       "majorpull": 6.5
-    },
-    {
-      "objectid": 1249182,
-      "globalid": "a74a0c83-fe1b-49df-a355-67c3b058b4c2",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 4.54,
-      "rain_fall": null,
-      "CreationDate": "2025-12-09T23:10:21.478000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-09T23:10:21.478000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1249181,
-      "globalid": "b4afc645-54bf-4aaf-bbb5-227185ff65eb",
-      "basin": "Kelani Ganga",
-      "gauge": "Norwood",
-      "water_level": 0.85,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-09T22:59:21.617000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-09T22:59:21.617000+00:00",
-      "Editor": "",
-      "alertpull": 1.5,
-      "minorpull": 3,
-      "majorpull": 4.5
-    },
-    {
-      "objectid": 1249180,
-      "globalid": "5ec8120e-24dd-48df-a9ec-1814df713ea7",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Nawalapitiya",
-      "water_level": 1.15,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-09T22:57:15.276000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-09T22:57:15.276000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
-      "minorpull": 5,
-      "majorpull": 6
     }
   ]
 }
