@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-16T21:53:05.579805+00:00",
+  "last_updated_utc": "2025-12-16T22:11:22.684462+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6365,
+  "record_count": 6366,
   "records": [
+    {
+      "objectid": 1255545,
+      "globalid": "f581a72b-7063-4a0d-82ab-3ec9d9600b86",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": 0.5,
+      "rain_fall": null,
+      "CreationDate": "2025-12-16T21:58:43.295000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-16T21:58:43.295000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1255544,
+      "globalid": "7464d091-ad31-42ad-a070-ded51885fc2b",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Peradeniya",
+      "water_level": 2.63,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-16T21:56:17.921000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-16T21:56:17.921000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 7,
+      "majorpull": 9
+    },
     {
       "objectid": 1255543,
       "globalid": "0138760c-be14-46a5-962f-48cd0869627e",
@@ -95464,21 +95494,6 @@
       "alertpull": null,
       "minorpull": null,
       "majorpull": null
-    },
-    {
-      "objectid": 1249151,
-      "globalid": "ce86de12-76a6-4250-9000-e64889d0bdc7",
-      "basin": "Yan Oya",
-      "gauge": "Horowpothana",
-      "water_level": 1.61,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-09T21:57:21.979000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-09T21:57:21.979000+00:00",
-      "Editor": "",
-      "alertpull": 6,
-      "minorpull": 7.5,
-      "majorpull": 10.5
     }
   ]
 }
