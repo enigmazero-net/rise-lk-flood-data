@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2025-12-16T05:51:31.564704+00:00",
+  "last_updated_utc": "2025-12-16T06:19:13.710423+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6331,
+  "record_count": 6329,
   "records": [
     {
       "objectid": 1254938,
@@ -94939,36 +94939,6 @@
       "alertpull": 3,
       "minorpull": 5,
       "majorpull": 7
-    },
-    {
-      "objectid": 1248585,
-      "globalid": "eb8c5411-9e9b-4697-af50-0180f3ba1254",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.72,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-09T06:01:00.387000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-09T06:01:00.387000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
-    },
-    {
-      "objectid": 1248584,
-      "globalid": "6d82015e-774d-45a3-941b-3d76a18f68c6",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 1.84,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-09T05:53:19.754000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-09T05:53:19.754000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
