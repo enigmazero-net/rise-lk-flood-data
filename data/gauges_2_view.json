@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-16T23:45:30.427039+00:00",
+  "last_updated_utc": "2025-12-16T23:52:08.400199+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6370,
+  "record_count": 6369,
   "records": [
+    {
+      "objectid": 1255616,
+      "globalid": "e8e516b9-e390-4f7f-bb71-c7343b95a1f8",
+      "basin": "Kalu Ganga",
+      "gauge": "Kalawellawa (Millakanda)",
+      "water_level": 2.42,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-16T23:47:43.121000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-16T23:47:43.121000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.5,
+      "majorpull": 8
+    },
     {
       "objectid": 1255615,
       "globalid": "08144875-3b4e-4ee3-9053-f4666a3e09d2",
@@ -95524,36 +95539,6 @@
       "alertpull": 5,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1249219,
-      "globalid": "4ff37307-b281-4c01-9c20-f2932f60c655",
-      "basin": "Maha Oya",
-      "gauge": "Giriulla",
-      "water_level": 1.36,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-09T23:50:35.025000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-09T23:50:35.025000+00:00",
-      "Editor": "",
-      "alertpull": 5.5,
-      "minorpull": 6.5,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1249218,
-      "globalid": "54b346c8-cf6a-478b-959b-542c3468cfb4",
-      "basin": "Kelani Ganga",
-      "gauge": "Deraniyagala",
-      "water_level": 0.67,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-09T23:46:33.989000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-09T23:46:33.989000+00:00",
-      "Editor": "",
-      "alertpull": 4.8,
-      "minorpull": 5.8,
-      "majorpull": 6.4
     }
   ]
 }
