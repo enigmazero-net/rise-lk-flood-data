@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-17T13:46:25.634484+00:00",
+  "last_updated_utc": "2025-12-17T13:57:11.066774+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6384,
+  "record_count": 6381,
   "records": [
+    {
+      "objectid": 1256170,
+      "globalid": "975854a6-619c-45e1-9863-66209fe846cb",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.48,
+      "rain_fall": null,
+      "CreationDate": "2025-12-17T13:56:58.080000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-17T13:56:58.080000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
     {
       "objectid": 1256169,
       "globalid": "fe74950f-9eaa-4fd5-b71c-ed4144f28093",
@@ -95704,66 +95719,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1249761,
-      "globalid": "a5a2dab6-ce87-4a71-8f4a-1cbd568b08c3",
-      "basin": "Maduru Oya",
-      "gauge": "Padiyathalawa",
-      "water_level": 0.94,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-10T13:51:52.884000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-10T13:51:52.884000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 4.5,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1249760,
-      "globalid": "2171ba7f-ef5c-49b9-9554-ab9589de2404",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Manampitiya",
-      "water_level": 2.6,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-10T13:46:43.397000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-10T13:46:43.397000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4.3,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1249759,
-      "globalid": "5286f157-01b5-4e75-b741-8c498361d1ca",
-      "basin": "Maha Oya",
-      "gauge": "Giriulla",
-      "water_level": 1.36,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-10T13:45:13.190000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-10T13:45:13.190000+00:00",
-      "Editor": "",
-      "alertpull": 5.5,
-      "minorpull": 6.5,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1249758,
-      "globalid": "305ad9cd-79da-4995-bac4-eb7b8251c7cc",
-      "basin": "Kalu Ganga",
-      "gauge": "Kalawellawa (Millakanda)",
-      "water_level": 2.54,
-      "rain_fall": 11.5,
-      "CreationDate": "2025-12-10T13:44:07.289000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-10T13:44:07.289000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.5,
-      "majorpull": 8
     }
   ]
 }
