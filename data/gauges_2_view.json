@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-17T13:57:11.066774+00:00",
+  "last_updated_utc": "2025-12-17T14:17:39.191780+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6381,
+  "record_count": 6379,
   "records": [
+    {
+      "objectid": 1256171,
+      "globalid": "de595944-83f3-4e3f-847d-2512b8092011",
+      "basin": "Kalu Ganga",
+      "gauge": "Kalawellawa (Millakanda)",
+      "water_level": 1.96,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-17T14:17:27.783000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-17T14:17:27.783000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.5,
+      "majorpull": 8
+    },
     {
       "objectid": 1256170,
       "globalid": "975854a6-619c-45e1-9863-66209fe846cb",
@@ -95674,51 +95689,6 @@
       "alertpull": 6,
       "minorpull": 7.5,
       "majorpull": 10.5
-    },
-    {
-      "objectid": 1249764,
-      "globalid": "e87d3cae-612e-4fbd-88d5-85f81cac302b",
-      "basin": "Kelani Ganga",
-      "gauge": "Norwood",
-      "water_level": 0.82,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-10T14:06:30.758000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-10T14:06:30.758000+00:00",
-      "Editor": "",
-      "alertpull": 1.5,
-      "minorpull": 3,
-      "majorpull": 4.5
-    },
-    {
-      "objectid": 1249763,
-      "globalid": "f028bed0-b291-463a-bb6d-fe4fdbd71b88",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Thaldena",
-      "water_level": 0.68,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-10T13:58:20.951000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-10T13:58:20.951000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1249762,
-      "globalid": "f5db19c5-2391-4cd5-9559-89dd0ffa7661",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Thaldena",
-      "water_level": 0.67,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-10T13:57:50.140000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-10T13:57:50.140000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
     }
   ]
 }
