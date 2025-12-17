@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2025-12-17T21:45:44.608279+00:00",
+  "last_updated_utc": "2025-12-17T21:52:34.875506+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6411,
+  "record_count": 6408,
   "records": [
     {
       "objectid": 1256461,
@@ -96124,51 +96124,6 @@
       "alertpull": 3.5,
       "minorpull": 5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1250025,
-      "globalid": "b0452194-12dc-4d83-af6d-555bd2c948bd",
-      "basin": "Kelani Ganga",
-      "gauge": "Kithulgala",
-      "water_level": 1.79,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-10T21:49:35.612000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-10T21:49:35.612000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1250024,
-      "globalid": "802842db-6e05-4751-b9e3-57d0a2442b5a",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 1.31,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-10T21:46:08.673000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-10T21:46:08.673000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
-    },
-    {
-      "objectid": 1250023,
-      "globalid": "6087cfbd-87b8-4ba4-b884-ef128811f8ce",
-      "basin": "Kalu Ganga",
-      "gauge": "Rathnapura",
-      "water_level": 1.57,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-10T21:45:54.928000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-10T21:45:54.928000+00:00",
-      "Editor": "",
-      "alertpull": 5.2,
-      "minorpull": 7.5,
-      "majorpull": 9.5
     }
   ]
 }
