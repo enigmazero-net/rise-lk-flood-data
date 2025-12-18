@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2025-12-18T10:42:40.023963+00:00",
+  "last_updated_utc": "2025-12-18T10:56:13.850612+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6432,
+  "record_count": 6434,
   "records": [
+    {
+      "objectid": 1256987,
+      "globalid": "c812db12-c69d-455f-a971-58ad0b7fd27b",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": 0.51,
+      "rain_fall": 1.2,
+      "CreationDate": "2025-12-18T10:47:09.624000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-18T10:47:09.624000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1256986,
+      "globalid": "da353487-7e1f-44ae-8dea-d5f5e80db689",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 2.66,
+      "rain_fall": null,
+      "CreationDate": "2025-12-18T10:46:44.546000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-18T10:46:44.546000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1256985,
+      "globalid": "55600e61-678f-48a5-bf64-40a6f4560f38",
+      "basin": "Kirindi Oya",
+      "gauge": "Kuda Oya",
+      "water_level": 1.5,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-18T10:43:53.668000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-18T10:43:53.668000+00:00",
+      "Editor": "",
+      "alertpull": 6.9,
+      "minorpull": 8.4,
+      "majorpull": 8.8
+    },
     {
       "objectid": 1256984,
       "globalid": "f50fb294-8ee1-4a01-a4b8-f26d253874e1",
@@ -96469,21 +96514,6 @@
       "alertpull": null,
       "minorpull": null,
       "majorpull": null
-    },
-    {
-      "objectid": 1250519,
-      "globalid": "817e2770-1181-4582-829c-9a3041b4731b",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 1.24,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-11T10:54:18.290000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-11T10:54:18.290000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
     }
   ]
 }
