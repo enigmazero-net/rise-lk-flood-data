@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-18T13:59:51.042277+00:00",
+  "last_updated_utc": "2025-12-18T14:25:26.858436+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6438,
+  "record_count": 6439,
   "records": [
+    {
+      "objectid": 1257107,
+      "globalid": "5290bdec-23d5-412f-8246-e4427b8b8e6e",
+      "basin": "Yan Oya",
+      "gauge": "Horowpothana",
+      "water_level": 5.3,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-18T14:03:07.995000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-18T14:03:07.995000+00:00",
+      "Editor": "",
+      "alertpull": 6,
+      "minorpull": 7.5,
+      "majorpull": 10.5
+    },
+    {
+      "objectid": 1257105,
+      "globalid": "c4276d67-0aec-4ccb-a8a4-720e54015ad9",
+      "basin": "Yan Oya",
+      "gauge": "Horowpothana",
+      "water_level": 5.3,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-18T14:02:51.173000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-18T14:02:51.173000+00:00",
+      "Editor": "",
+      "alertpull": 6,
+      "minorpull": 7.5,
+      "majorpull": 10.5
+    },
     {
       "objectid": 1257104,
       "globalid": "7666caa7-8bf4-48ab-8535-55660f487a72",
@@ -535,12 +565,12 @@
       "globalid": "ea16d73c-c7fd-4bd0-9439-d48bc8f3001b",
       "basin": "Kirindi Oya",
       "gauge": "Thanamalwila",
-      "water_level": 0.19,
+      "water_level": 1.19,
       "rain_fall": 0,
       "CreationDate": "2025-12-18T12:48:22.119000+00:00",
       "Creator": "",
-      "EditDate": "2025-12-18T12:48:22.119000+00:00",
-      "Editor": "",
+      "EditDate": "2025-12-18T14:17:28.266000+00:00",
+      "Editor": "IEHydrology",
       "alertpull": 4,
       "minorpull": 5,
       "majorpull": 5.5
@@ -96559,21 +96589,6 @@
       "alertpull": 4,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1250633,
-      "globalid": "78b253f1-185a-4f8b-a63b-87be5f273cc7",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.63,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-11T14:00:45.797000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-11T14:00:45.797000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
     }
   ]
 }
