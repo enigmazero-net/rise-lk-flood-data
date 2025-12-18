@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-18T17:50:01.165319+00:00",
+  "last_updated_utc": "2025-12-18T17:57:57.340907+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6449,
+  "record_count": 6448,
   "records": [
+    {
+      "objectid": 1257251,
+      "globalid": "cfdf456b-6cbc-48c2-b308-3a5d2ef4771e",
+      "basin": "Gin Ganga",
+      "gauge": "Thawalama",
+      "water_level": 1.37,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-18T17:52:28.033000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-18T17:52:28.033000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1257250,
       "globalid": "0b327cc1-dcd6-4f14-a291-c339f7504b1e",
@@ -96709,36 +96724,6 @@
       "alertpull": 2.5,
       "minorpull": 4,
       "majorpull": 6
-    },
-    {
-      "objectid": 1250768,
-      "globalid": "b9f76493-18bd-4418-86b0-0530b89e5036",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 1.42,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-11T17:56:55.299000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-11T17:56:55.299000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
-    },
-    {
-      "objectid": 1250767,
-      "globalid": "46f4e7cb-bc4b-464e-8c2b-1ad6905300b2",
-      "basin": "Kelani Ganga",
-      "gauge": "Glencourse",
-      "water_level": 9.65,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-11T17:55:22.718000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-11T17:55:22.718000+00:00",
-      "Editor": "",
-      "alertpull": 15,
-      "minorpull": 16.5,
-      "majorpull": 19
     }
   ]
 }
