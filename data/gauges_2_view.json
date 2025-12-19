@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-19T21:52:00.218528+00:00",
+  "last_updated_utc": "2025-12-19T22:12:03.648053+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6456,
+  "record_count": 6454,
   "records": [
+    {
+      "objectid": 1258313,
+      "globalid": "2af9710c-a22d-4eb5-99ab-a29efa9fe6e8",
+      "basin": "Aththanagalu Oya",
+      "gauge": "Dunamale",
+      "water_level": 1.28,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-19T21:59:10.827000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-19T21:59:10.827000+00:00",
+      "Editor": "",
+      "alertpull": 3.3,
+      "minorpull": 4.4,
+      "majorpull": 5.5
+    },
     {
       "objectid": 1258312,
       "globalid": "0d3e10a3-f553-4827-9fab-cbc9e5761e6e",
@@ -96799,51 +96814,6 @@
       "alertpull": 1.4,
       "minorpull": 1.7,
       "majorpull": 2.8
-    },
-    {
-      "objectid": 1251832,
-      "globalid": "3faed1a7-a31f-4ce1-a39b-5b68a28d89f2",
-      "basin": "Nilwala Ganga",
-      "gauge": "Urawa",
-      "water_level": 0.66,
-      "rain_fall": null,
-      "CreationDate": "2025-12-12T22:08:01.263000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-12T22:08:01.263000+00:00",
-      "Editor": "",
-      "alertpull": 2.5,
-      "minorpull": 4,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1251831,
-      "globalid": "8df7bce5-b814-4d5e-a0fc-4e51f8c8147c",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Peradeniya",
-      "water_level": 2.59,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-12T22:00:45.031000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-12T22:00:45.031000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 7,
-      "majorpull": 9
-    },
-    {
-      "objectid": 1251830,
-      "globalid": "9d52fce8-e283-45e0-bfb6-bbee91ec956c",
-      "basin": "Gin Ganga",
-      "gauge": "Thawalama",
-      "water_level": 1.83,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-12T21:55:12.827000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-12T21:55:12.827000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
