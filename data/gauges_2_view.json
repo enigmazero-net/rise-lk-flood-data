@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-19T07:52:17.308604+00:00",
+  "last_updated_utc": "2025-12-19T08:16:44.997258+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6459,
+  "record_count": 6458,
   "records": [
+    {
+      "objectid": 1257788,
+      "globalid": "e9ded747-0829-4d47-9fe2-bb7767196fd2",
+      "basin": "Kelani Ganga",
+      "gauge": "Nagalagam Street",
+      "water_level": 2.2,
+      "rain_fall": null,
+      "CreationDate": "2025-12-19T07:54:58.987000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-19T07:54:58.987000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 7
+    },
     {
       "objectid": 1257787,
       "globalid": "75360644-25ec-479c-93ef-2e86d89f5933",
@@ -96859,36 +96874,6 @@
       "alertpull": 4.4,
       "minorpull": 5.4,
       "majorpull": 5.9
-    },
-    {
-      "objectid": 1251296,
-      "globalid": "1ed990e5-0cba-4a4b-a1e6-595827706943",
-      "basin": "Nilwala Ganga",
-      "gauge": "Urawa",
-      "water_level": 0.81,
-      "rain_fall": null,
-      "CreationDate": "2025-12-12T07:58:05.793000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-12T07:58:05.793000+00:00",
-      "Editor": "",
-      "alertpull": 2.5,
-      "minorpull": 4,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1251295,
-      "globalid": "2f761544-4821-41da-9557-b1e4979e9bf0",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 1.2,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-12T07:55:20.551000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-12T07:55:20.551000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
     }
   ]
 }
