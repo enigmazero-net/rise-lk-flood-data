@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-20T22:10:02.758609+00:00",
+  "last_updated_utc": "2025-12-20T22:31:13.338632+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6446,
+  "record_count": 6444,
   "records": [
+    {
+      "objectid": 1259235,
+      "globalid": "a2170e74-82ac-4007-b25b-d48e492c4ea2",
+      "basin": "Walawe Ganga",
+      "gauge": "Moraketiya",
+      "water_level": 0.96,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-20T22:16:09.725000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-20T22:16:09.725000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 5,
+      "majorpull": 7
+    },
     {
       "objectid": 1259234,
       "globalid": "66a5894a-810f-4df0-b433-25feb3ee34f9",
@@ -96649,51 +96664,6 @@
       "alertpull": 4,
       "minorpull": 5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1252763,
-      "globalid": "5bf469d5-40b2-4f98-b6f6-90fc9f4fb8a9",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.7,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-13T22:16:35.820000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-13T22:16:35.820000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
-    },
-    {
-      "objectid": 1252762,
-      "globalid": "73636d26-db0c-4c42-9ace-66cf403e0964",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.7,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-13T22:16:01.287000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-13T22:16:01.287000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
-    },
-    {
-      "objectid": 1252761,
-      "globalid": "9beacc24-ca77-43d3-b1bd-082492b367c7",
-      "basin": "Kirindi Oya",
-      "gauge": "Kuda Oya",
-      "water_level": 1.54,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-13T22:12:41.240000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-13T22:12:41.240000+00:00",
-      "Editor": "",
-      "alertpull": 6.9,
-      "minorpull": 8.4,
-      "majorpull": 8.8
     }
   ]
 }
