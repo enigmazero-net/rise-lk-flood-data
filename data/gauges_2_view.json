@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2025-12-20T14:10:04.553870+00:00",
+  "last_updated_utc": "2025-12-20T14:30:37.232111+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6459,
+  "record_count": 6457,
   "records": [
     {
       "objectid": 1258948,
@@ -96859,36 +96859,6 @@
       "alertpull": 4.4,
       "minorpull": 5.4,
       "majorpull": 5.9
-    },
-    {
-      "objectid": 1252466,
-      "globalid": "82bfb5ca-066e-4bbf-acaf-aa88781a9f60",
-      "basin": "Gal Oya",
-      "gauge": "Ampara",
-      "water_level": 0,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-13T14:30:34.875000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-13T14:30:34.875000+00:00",
-      "Editor": "",
-      "alertpull": null,
-      "minorpull": null,
-      "majorpull": null
-    },
-    {
-      "objectid": 1252465,
-      "globalid": "9c404973-e442-4d87-9e4d-f3fa938e4bc2",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Thaldena",
-      "water_level": 0.75,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-13T14:25:32.140000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-13T14:25:32.140000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
     }
   ]
 }
