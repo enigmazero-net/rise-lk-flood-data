@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-20T17:52:08.149812+00:00",
+  "last_updated_utc": "2025-12-20T18:14:31.997576+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6451,
   "records": [
+    {
+      "objectid": 1259098,
+      "globalid": "87b0e3f7-3cb5-41b1-8b3d-2f3fd6df6b72",
+      "basin": "Kelani Ganga",
+      "gauge": "Glencourse",
+      "water_level": 8.86,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-20T18:07:39.426000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-20T18:07:39.426000+00:00",
+      "Editor": "",
+      "alertpull": 15,
+      "minorpull": 16.5,
+      "majorpull": 19
+    },
+    {
+      "objectid": 1259097,
+      "globalid": "f1cdc1fb-b00f-470e-9f52-02563af94b6e",
+      "basin": "Yan Oya",
+      "gauge": "Horowpothana",
+      "water_level": 6.16,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-20T17:52:52.529000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-20T17:52:52.529000+00:00",
+      "Editor": "",
+      "alertpull": 6,
+      "minorpull": 7.5,
+      "majorpull": 10.5
+    },
     {
       "objectid": 1259096,
       "globalid": "6a3daee3-5868-4cae-b3cb-f8fffacf745c",
@@ -96739,36 +96769,6 @@
       "alertpull": 6,
       "minorpull": 7.5,
       "majorpull": 10.5
-    },
-    {
-      "objectid": 1252619,
-      "globalid": "62bbd2ff-585a-4741-85d8-c360818ef168",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 3.26,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-13T18:05:09.425000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-13T18:05:09.425000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1252618,
-      "globalid": "a9f5c969-8afd-484b-bb67-0ee994fc5bc4",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Thaldena",
-      "water_level": 0.74,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-13T17:53:15.967000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-13T17:53:15.967000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
     }
   ]
 }
