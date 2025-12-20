@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2025-12-20T16:50:05.827385+00:00",
+  "last_updated_utc": "2025-12-20T16:56:58.447024+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6453,
+  "record_count": 6455,
   "records": [
+    {
+      "objectid": 1259064,
+      "globalid": "0bfc2e45-009e-434e-8d43-103710a5bb41",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.54,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-20T16:51:27.259000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-20T16:51:27.259000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
+    {
+      "objectid": 1259063,
+      "globalid": "2bbfe4de-d5e0-4359-a416-177bfa47831d",
+      "basin": "Kalu Ganga",
+      "gauge": "Ellagawa",
+      "water_level": 4.68,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-20T16:47:46.399000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-20T16:47:46.399000+00:00",
+      "Editor": "",
+      "alertpull": 10,
+      "minorpull": 10.7,
+      "majorpull": 12.2
+    },
+    {
+      "objectid": 1259062,
+      "globalid": "25f76769-137f-4fb1-a95d-802e7c528cf6",
+      "basin": "Kalu Ganga",
+      "gauge": "Magura",
+      "water_level": 1.41,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-20T16:46:59.041000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-20T16:46:59.041000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1259061,
       "globalid": "497bfd6a-f3d7-4855-9e82-0001709ed107",
@@ -96784,21 +96829,6 @@
       "alertpull": 5,
       "minorpull": 6.5,
       "majorpull": 8
-    },
-    {
-      "objectid": 1252581,
-      "globalid": "21f5ea6c-e7c5-4dda-812f-96b5f03b7191",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.86,
-      "rain_fall": null,
-      "CreationDate": "2025-12-13T16:49:41.168000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-13T16:49:41.168000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
     }
   ]
 }
