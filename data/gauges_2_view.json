@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-21T09:45:06.266900+00:00",
+  "last_updated_utc": "2025-12-21T09:52:14.229721+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6434,
+  "record_count": 6435,
   "records": [
+    {
+      "objectid": 1259709,
+      "globalid": "1516aad1-320d-4878-a40b-9b4753e0efd5",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 1,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-21T09:46:26.011000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-21T09:46:26.011000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
     {
       "objectid": 1259708,
       "globalid": "bb4ec48c-0b5d-4833-bdbb-edcfb17f3e5c",
