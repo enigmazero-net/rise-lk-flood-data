@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-21T17:46:30.779019+00:00",
+  "last_updated_utc": "2025-12-21T17:53:27.505149+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6428,
+  "record_count": 6429,
   "records": [
+    {
+      "objectid": 1260005,
+      "globalid": "db97c9a6-b496-4464-969c-2550c0922ad0",
+      "basin": "Walawe Ganga",
+      "gauge": "Moraketiya",
+      "water_level": 0.97,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-21T17:52:15.850000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-21T17:52:15.850000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 5,
+      "majorpull": 7
+    },
     {
       "objectid": 1260004,
       "globalid": "cd9132db-1e94-4e08-bf55-09ae2470da69",
