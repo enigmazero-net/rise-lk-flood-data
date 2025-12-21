@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-21T07:43:41.773991+00:00",
+  "last_updated_utc": "2025-12-21T07:51:36.105178+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6432,
+  "record_count": 6433,
   "records": [
+    {
+      "objectid": 1259627,
+      "globalid": "5924972e-5916-4b24-9f29-5234c21ede19",
+      "basin": "Kirindi Oya",
+      "gauge": "Kuda Oya",
+      "water_level": 1.35,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-21T07:48:13.846000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-21T07:48:13.846000+00:00",
+      "Editor": "",
+      "alertpull": 6.9,
+      "minorpull": 8.4,
+      "majorpull": 8.8
+    },
     {
       "objectid": 1259626,
       "globalid": "faa3da88-2f13-40f2-9dcc-55e0f45a3f61",
