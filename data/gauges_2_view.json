@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-22T18:59:46.260441+00:00",
+  "last_updated_utc": "2025-12-22T19:18:58.164554+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6428,
   "records": [
+    {
+      "objectid": 1260963,
+      "globalid": "5fa00755-ffd8-4474-9596-873f0461df81",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.54,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-22T19:15:29.845000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-22T19:15:29.845000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
     {
       "objectid": 1260962,
       "globalid": "ab3ea8b1-20a5-4b4e-9a79-28181778ed2d",
@@ -96409,21 +96424,6 @@
       "alertpull": 5,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1254510,
-      "globalid": "79e8ffcf-ecdd-42b4-a7c0-4f76e48e0856",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Thaldena",
-      "water_level": 0.8,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-15T19:02:44.300000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-15T19:02:44.300000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
     }
   ]
 }
