@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-22T19:52:06.600520+00:00",
+  "last_updated_utc": "2025-12-22T20:12:43.686240+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6426,
+  "record_count": 6427,
   "records": [
+    {
+      "objectid": 1260990,
+      "globalid": "edecbe93-dfa4-4658-9ba6-9491ed4599ff",
+      "basin": "Kelani Ganga",
+      "gauge": "Glencourse",
+      "water_level": 9,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-22T19:59:10.366000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-22T19:59:10.366000+00:00",
+      "Editor": "",
+      "alertpull": 15,
+      "minorpull": 16.5,
+      "majorpull": 19
+    },
+    {
+      "objectid": 1260989,
+      "globalid": "9835e992-fd11-4a03-a01a-acfc91ee8ab6",
+      "basin": "Kirindi Oya",
+      "gauge": "Wellawaya",
+      "water_level": 1.06,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-22T19:53:27.010000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-22T19:53:27.010000+00:00",
+      "Editor": "",
+      "alertpull": 4.4,
+      "minorpull": 5.4,
+      "majorpull": 5.9
+    },
     {
       "objectid": 1260988,
       "globalid": "3b79dd3d-a2d5-4e91-bea2-89c0f550c0d3",
@@ -96379,21 +96409,6 @@
       "alertpull": 6.9,
       "minorpull": 8.4,
       "majorpull": 8.8
-    },
-    {
-      "objectid": 1254538,
-      "globalid": "43830e68-dd96-4bd8-b64a-aef30163236c",
-      "basin": "Kirindi Oya",
-      "gauge": "Thanamalwila",
-      "water_level": 0.99,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-15T19:50:59.067000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-15T19:50:59.067000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 5.5
     }
   ]
 }
