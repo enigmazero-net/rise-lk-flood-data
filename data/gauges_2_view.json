@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2025-12-22T08:47:34.281654+00:00",
+  "last_updated_utc": "2025-12-22T09:01:22.403320+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6416,
+  "record_count": 6417,
   "records": [
+    {
+      "objectid": 1260578,
+      "globalid": "0030dd33-4a8d-4d9d-97a6-c8bbe1c9d41d",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.57,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-22T08:52:19.174000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-22T08:52:19.174000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
+    {
+      "objectid": 1260577,
+      "globalid": "c5bd1a17-aca6-439f-b1db-daa1053d5f49",
+      "basin": "Gin Ganga",
+      "gauge": "Thawalama",
+      "water_level": 1.33,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-22T08:48:30.055000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-22T08:48:30.055000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1260576,
+      "globalid": "44504d95-31e0-449f-b50c-8fd8b63efd6e",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": 0.39,
+      "rain_fall": null,
+      "CreationDate": "2025-12-22T08:48:09.813000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-22T08:48:09.813000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
     {
       "objectid": 1260575,
       "globalid": "6e6438ef-9d98-4edb-8fb9-86bf0dd772ed",
@@ -96214,36 +96259,6 @@
       "alertpull": 5,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1254138,
-      "globalid": "9ab0f18f-f628-46b4-b5da-395701c7eb8f",
-      "basin": "Kelani Ganga",
-      "gauge": "Nagalagam Street",
-      "water_level": 1.6,
-      "rain_fall": null,
-      "CreationDate": "2025-12-15T08:57:14.873000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-15T08:57:14.873000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1254137,
-      "globalid": "8ee5aace-7d62-4174-a2f4-453dbfe742fd",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.75,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-15T08:48:12.987000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-15T08:48:12.987000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
     }
   ]
 }
