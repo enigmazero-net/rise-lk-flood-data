@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2025-12-22T21:52:04.742283+00:00",
+  "last_updated_utc": "2025-12-22T22:11:41.189881+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6431,
+  "record_count": 6427,
   "records": [
     {
       "objectid": 1261062,
@@ -96409,66 +96409,6 @@
       "alertpull": 5,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1254611,
-      "globalid": "7ade5fdd-7b22-4e50-84f6-2e36f1a90f04",
-      "basin": "Kalu Ganga",
-      "gauge": "Putupaula",
-      "water_level": 0.77,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-15T22:03:08.293000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-15T22:03:08.293000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1254610,
-      "globalid": "7af54c2f-4b7a-47da-8b4d-fe03007aa0da",
-      "basin": "Gal Oya",
-      "gauge": "Ampara",
-      "water_level": 0,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-15T21:51:51.189000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-15T21:51:51.189000+00:00",
-      "Editor": "",
-      "alertpull": null,
-      "minorpull": null,
-      "majorpull": null
-    },
-    {
-      "objectid": 1254609,
-      "globalid": "a07f93df-7b3d-408f-8cf1-fd25bc610ad7",
-      "basin": "Gal Oya",
-      "gauge": "Ampara",
-      "water_level": 0,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-15T21:51:49.923000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-15T21:51:49.923000+00:00",
-      "Editor": "",
-      "alertpull": null,
-      "minorpull": null,
-      "majorpull": null
-    },
-    {
-      "objectid": 1254608,
-      "globalid": "ce029e33-0328-4542-a200-ffbc15b2ac73",
-      "basin": "Gal Oya",
-      "gauge": "Ampara",
-      "water_level": 0,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-15T21:51:14.876000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-15T21:51:14.876000+00:00",
-      "Editor": "",
-      "alertpull": null,
-      "minorpull": null,
-      "majorpull": null
     }
   ]
 }
