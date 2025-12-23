@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2025-12-23T17:41:47.790201+00:00",
+  "last_updated_utc": "2025-12-23T17:53:01.399707+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6405,
+  "record_count": 6407,
   "records": [
+    {
+      "objectid": 1261831,
+      "globalid": "7432cd7b-03a7-4aa0-942e-041c42f03616",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 2.57,
+      "rain_fall": 3.5,
+      "CreationDate": "2025-12-23T17:49:29.666000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-23T17:49:29.666000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1261830,
+      "globalid": "2adf925e-afa2-480b-9a42-50dc377722b3",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 3.5,
+      "rain_fall": null,
+      "CreationDate": "2025-12-23T17:48:26.940000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-23T17:48:26.940000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1261829,
+      "globalid": "f43c2495-f4db-4889-8ae0-fc4e2fd85e58",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 0.65,
+      "rain_fall": 12.2,
+      "CreationDate": "2025-12-23T17:41:14.788000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-23T17:41:14.788000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
     {
       "objectid": 1261828,
       "globalid": "c5586c5a-62b3-4888-88ee-de478e386b74",
@@ -96064,21 +96109,6 @@
       "alertpull": 3.3,
       "minorpull": 4.4,
       "majorpull": 5.5
-    },
-    {
-      "objectid": 1255406,
-      "globalid": "a415267f-ccfb-4d7c-8b89-5f528e5253ac",
-      "basin": "Gin Ganga",
-      "gauge": "Baddegama",
-      "water_level": 0.99,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-16T17:40:59.646000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-16T17:40:59.646000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
-      "minorpull": 4,
-      "majorpull": 5
     }
   ]
 }
