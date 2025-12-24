@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2025-12-24T20:47:12.793064+00:00",
+  "last_updated_utc": "2025-12-24T20:54:38.744333+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6409,
+  "record_count": 6406,
   "records": [
     {
       "objectid": 1262849,
@@ -96093,51 +96093,6 @@
       "Editor": "",
       "alertpull": 4,
       "minorpull": 4.5,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1256425,
-      "globalid": "793fc519-b8c1-4838-876f-71ec5c466e8f",
-      "basin": "Walawe Ganga",
-      "gauge": "Moraketiya",
-      "water_level": 0.98,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-17T20:54:37.137000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-17T20:54:37.137000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 5,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1256424,
-      "globalid": "7a72883e-f8a0-41e9-88af-31fb3870b970",
-      "basin": "Walawe Ganga",
-      "gauge": "Moraketiya",
-      "water_level": 0.98,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-17T20:53:20.647000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-17T20:53:20.647000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 5,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1256423,
-      "globalid": "9b0a9ac5-19c5-48f9-be86-c761179d6c68",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Manampitiya",
-      "water_level": 2.68,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-17T20:50:47.740000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-17T20:50:47.740000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4.3,
       "majorpull": 6
     }
   ]
