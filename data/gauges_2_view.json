@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-24T14:55:23.239910+00:00",
+  "last_updated_utc": "2025-12-24T15:12:57.445961+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6420,
   "records": [
+    {
+      "objectid": 1262649,
+      "globalid": "9873e772-06d6-4c2a-ab90-2fee7219132b",
+      "basin": "Kalu Ganga",
+      "gauge": "Ellagawa",
+      "water_level": 4.39,
+      "rain_fall": 1.8,
+      "CreationDate": "2025-12-24T14:58:04.231000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-24T14:58:04.231000+00:00",
+      "Editor": "",
+      "alertpull": 10,
+      "minorpull": 10.7,
+      "majorpull": 12.2
+    },
     {
       "objectid": 1262648,
       "globalid": "5b4a82f9-b2ef-436a-8e34-2db0233bb93a",
@@ -96289,21 +96304,6 @@
       "alertpull": 3,
       "minorpull": 5,
       "majorpull": 7
-    },
-    {
-      "objectid": 1256210,
-      "globalid": "b69902fe-2909-4b8d-8c2e-d3b0ca190ed5",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.7,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-17T15:10:39.629000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-17T15:10:39.629000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
     }
   ]
 }
