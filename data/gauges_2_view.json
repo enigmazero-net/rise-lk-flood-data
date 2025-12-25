@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-25T16:57:45.211826+00:00",
+  "last_updated_utc": "2025-12-25T17:15:40.039966+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6410,
+  "record_count": 6412,
   "records": [
+    {
+      "objectid": 1263641,
+      "globalid": "41a331d4-b4e8-4709-800f-a7fd93a6d1a7",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Manampitiya",
+      "water_level": 1.61,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-25T17:14:57.698000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-25T17:14:57.698000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4.3,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1263640,
+      "globalid": "4ac476bd-ebd6-4c31-aad3-86867d0008e6",
+      "basin": "Kalu Ganga",
+      "gauge": "Magura",
+      "water_level": 1.34,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-25T17:06:43.428000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-25T17:06:43.428000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1263639,
       "globalid": "6a91206d-8eca-4d75-95ae-ffd2fa49c93b",
