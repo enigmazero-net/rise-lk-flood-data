@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-26T05:50:06.402409+00:00",
+  "last_updated_utc": "2025-12-26T05:56:51.539475+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6411,
+  "record_count": 6412,
   "records": [
+    {
+      "objectid": 1264132,
+      "globalid": "7fe910ef-dd03-4f24-a8f9-190ad14e68cf",
+      "basin": "Gin Ganga",
+      "gauge": "Thawalama",
+      "water_level": 1.63,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-26T05:52:03.119000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-26T05:52:03.119000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1264131,
       "globalid": "3b6bcfc2-a0b9-4f52-900e-689302c95347",
