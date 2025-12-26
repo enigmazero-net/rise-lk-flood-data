@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-26T14:49:31.159045+00:00",
+  "last_updated_utc": "2025-12-26T14:56:26.183734+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6413,
   "records": [
+    {
+      "objectid": 1264489,
+      "globalid": "52b22843-051f-468e-b87e-cb9e77fbfd80",
+      "basin": "Ma Oya",
+      "gauge": "Yaka Wewa",
+      "water_level": 0.79,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-26T14:49:21.382000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-26T14:49:21.382000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6
+    },
     {
       "objectid": 1264488,
       "globalid": "46509532-f0ac-439f-80da-4be6bbdf3d0a",
@@ -96184,21 +96199,6 @@
       "alertpull": 6,
       "minorpull": 7.5,
       "majorpull": 10.5
-    },
-    {
-      "objectid": 1258065,
-      "globalid": "0a5d029f-6ae2-4b3a-97f0-4ba2f9463ab6",
-      "basin": "Maha Oya",
-      "gauge": "Giriulla",
-      "water_level": 1.39,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-19T14:49:56.722000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-19T14:49:56.722000+00:00",
-      "Editor": "",
-      "alertpull": 5.5,
-      "minorpull": 6.5,
-      "majorpull": 7.5
     }
   ]
 }
