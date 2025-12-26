@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-26T20:46:08.230958+00:00",
+  "last_updated_utc": "2025-12-26T20:53:53.485593+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6406,
+  "record_count": 6408,
   "records": [
+    {
+      "objectid": 1264695,
+      "globalid": "09e12b7c-28eb-4999-8bf5-73fe62b0d9aa",
+      "basin": "Gal Oya",
+      "gauge": "Ampara",
+      "water_level": 0,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-26T20:52:54.009000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-26T20:52:54.009000+00:00",
+      "Editor": "",
+      "alertpull": null,
+      "minorpull": null,
+      "majorpull": null
+    },
+    {
+      "objectid": 1264694,
+      "globalid": "0c668af2-4b62-4e2c-930a-3fdaad568cfd",
+      "basin": "Kalu Ganga",
+      "gauge": "Magura",
+      "water_level": 1.31,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-26T20:49:02.804000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-26T20:49:02.804000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1264693,
       "globalid": "4491225e-2c2d-4ede-952d-9659e9173978",
