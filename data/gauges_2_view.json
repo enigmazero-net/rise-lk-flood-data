@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-26T19:37:11.044463+00:00",
+  "last_updated_utc": "2025-12-26T19:44:09.589639+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6415,
+  "record_count": 6414,
   "records": [
+    {
+      "objectid": 1264665,
+      "globalid": "84ab22f7-e0e4-4dc5-b1b4-55daa0186e5a",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 2.67,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-26T19:41:46.740000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-26T19:41:46.740000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1264664,
+      "globalid": "440bee64-ff91-4789-ab6e-15920ff62f03",
+      "basin": "Menik Ganga",
+      "gauge": "Katharagama",
+      "water_level": -0.06,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-26T19:40:27.287000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-26T19:40:27.287000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 4.6,
+      "majorpull": 6.5
+    },
     {
       "objectid": 1264663,
       "globalid": "4b3cbfde-519e-4fab-8e94-e1d3cd8bc2dc",
@@ -96184,51 +96214,6 @@
       "alertpull": 3.3,
       "minorpull": 4.4,
       "majorpull": 5.5
-    },
-    {
-      "objectid": 1258240,
-      "globalid": "8c44cb52-9168-440b-8e1b-02037814001c",
-      "basin": "Walawe Ganga",
-      "gauge": "Moraketiya",
-      "water_level": 0.92,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-19T19:42:47.041000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-19T19:42:47.041000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 5,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1258239,
-      "globalid": "b152d44d-cb2d-47bd-b5e3-fa13f7ede214",
-      "basin": "Kalu Ganga",
-      "gauge": "Putupaula",
-      "water_level": 0.9,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-19T19:39:42.808000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-19T19:39:42.808000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1258238,
-      "globalid": "5851181e-fa93-4535-96a9-98f582f24c03",
-      "basin": "Kelani Ganga",
-      "gauge": "Glencourse",
-      "water_level": 9.21,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-19T19:39:08.460000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-19T19:39:08.460000+00:00",
-      "Editor": "",
-      "alertpull": 15,
-      "minorpull": 16.5,
-      "majorpull": 19
     }
   ]
 }
