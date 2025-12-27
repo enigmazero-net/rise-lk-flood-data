@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2025-12-27T20:46:36.075621+00:00",
+  "last_updated_utc": "2025-12-27T20:53:39.108518+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6403,
+  "record_count": 6399,
   "records": [
     {
       "objectid": 1265603,
@@ -95989,66 +95989,6 @@
       "alertpull": 5,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1259194,
-      "globalid": "2ad30a69-464f-4e7a-b1b9-0f310908425d",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 1.99,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-20T20:51:41.271000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-20T20:51:41.271000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1259193,
-      "globalid": "b1ac6c31-ad7d-4cee-9aaf-3ac291e85ba7",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 1.86,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-20T20:51:39.658000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-20T20:51:39.658000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1259192,
-      "globalid": "87dc5b64-d7b2-4d78-8893-157c7e0e419d",
-      "basin": "Gin Ganga",
-      "gauge": "Thawalama",
-      "water_level": 1.6,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-20T20:49:08.199000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-20T20:49:08.199000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1259191,
-      "globalid": "c7433b5d-d135-4636-936c-917082505abb",
-      "basin": "Kalu Ganga",
-      "gauge": "Ellagawa",
-      "water_level": 4.87,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-20T20:47:34.177000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-20T20:47:34.177000+00:00",
-      "Editor": "",
-      "alertpull": 10,
-      "minorpull": 10.7,
-      "majorpull": 12.2
     }
   ]
 }
