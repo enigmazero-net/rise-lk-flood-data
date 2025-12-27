@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-27T15:44:32.962965+00:00",
+  "last_updated_utc": "2025-12-27T15:51:54.212980+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6408,
   "records": [
+    {
+      "objectid": 1265443,
+      "globalid": "b0d86460-5289-4dae-aec2-3eb5e47fd361",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 0.7,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-27T15:48:12.380000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-27T15:48:12.380000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
     {
       "objectid": 1265442,
       "globalid": "05c635e1-9d5c-44a8-8d97-3397ce09321d",
@@ -96109,21 +96124,6 @@
       "alertpull": null,
       "minorpull": null,
       "majorpull": null
-    },
-    {
-      "objectid": 1259026,
-      "globalid": "4d334467-5986-4251-8a1a-ca139e84390b",
-      "basin": "Yan Oya",
-      "gauge": "Horowpothana",
-      "water_level": 6.21,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-20T15:44:37.439000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-20T15:44:37.439000+00:00",
-      "Editor": "",
-      "alertpull": 6,
-      "minorpull": 7.5,
-      "majorpull": 10.5
     }
   ]
 }
