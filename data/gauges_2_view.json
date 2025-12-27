@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-27T18:56:26.006136+00:00",
+  "last_updated_utc": "2025-12-27T19:10:56.915976+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6399,
+  "record_count": 6400,
   "records": [
+    {
+      "objectid": 1265544,
+      "globalid": "92ae2f12-5e19-48a6-80b2-2e380df2f57d",
+      "basin": "Ma Oya",
+      "gauge": "Yaka Wewa",
+      "water_level": 0.72,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-27T19:07:58.646000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-27T19:07:58.646000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1265543,
+      "globalid": "5c2db397-88ba-4f8d-83f9-b5ab8d7d48c6",
+      "basin": "Ma Oya",
+      "gauge": "Yaka Wewa",
+      "water_level": 0.72,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-27T19:07:30.931000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-27T19:07:30.931000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6
+    },
     {
       "objectid": 1265542,
       "globalid": "333f4870-ae13-402b-992c-291d9af1a982",
@@ -95974,21 +96004,6 @@
       "alertpull": 5,
       "minorpull": 6.2,
       "majorpull": 9.6
-    },
-    {
-      "objectid": 1259134,
-      "globalid": "53a81935-79ca-4bdf-b604-996f56198faa",
-      "basin": "Kalu Ganga",
-      "gauge": "Kalawellawa (Millakanda)",
-      "water_level": 1.8,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-20T19:03:46.077000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-20T19:03:46.077000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.5,
-      "majorpull": 8
     }
   ]
 }
