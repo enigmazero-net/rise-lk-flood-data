@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2025-12-27T19:43:07.767393+00:00",
+  "last_updated_utc": "2025-12-27T19:52:05.498902+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6399,
+  "record_count": 6401,
   "records": [
+    {
+      "objectid": 1265574,
+      "globalid": "da7d4156-2500-48a9-b739-84b7796d07d7",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Thaldena",
+      "water_level": 0.73,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-27T19:49:01.938000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-27T19:49:01.938000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1265573,
+      "globalid": "92649bd5-3729-44af-95e2-d26411dc9f87",
+      "basin": "Gin Ganga",
+      "gauge": "Thawalama",
+      "water_level": 1.44,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-27T19:46:52.238000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-27T19:46:52.238000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1265572,
+      "globalid": "0202442d-4570-4e6c-8091-eadd3a8983f8",
+      "basin": "Kumbukkan Oya",
+      "gauge": "Nakkala",
+      "water_level": 1.06,
+      "rain_fall": 8,
+      "CreationDate": "2025-12-27T19:45:36.589000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-27T19:45:36.589000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1265571,
       "globalid": "c169f1b5-f4ac-445f-9b36-df9c04e11601",
@@ -95974,21 +96019,6 @@
       "alertpull": 4.5,
       "minorpull": 6,
       "majorpull": 7
-    },
-    {
-      "objectid": 1259163,
-      "globalid": "abf0c3c8-1fc0-498d-9862-46bb03be3533",
-      "basin": "Gal Oya",
-      "gauge": "Ampara",
-      "water_level": 0,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-20T19:50:10.432000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-20T19:50:10.432000+00:00",
-      "Editor": "",
-      "alertpull": null,
-      "minorpull": null,
-      "majorpull": null
     }
   ]
 }
