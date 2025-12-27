@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-27T18:44:29.320959+00:00",
+  "last_updated_utc": "2025-12-27T18:56:26.006136+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6400,
+  "record_count": 6399,
   "records": [
+    {
+      "objectid": 1265542,
+      "globalid": "333f4870-ae13-402b-992c-291d9af1a982",
+      "basin": "Yan Oya",
+      "gauge": "Horowpothana",
+      "water_level": 1.63,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-27T18:45:27.956000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-27T18:45:27.956000+00:00",
+      "Editor": "",
+      "alertpull": 6,
+      "minorpull": 7.5,
+      "majorpull": 10.5
+    },
     {
       "objectid": 1265541,
       "globalid": "5c5e8b34-8034-43a8-8263-4ce3e2bae5e5",
@@ -95974,36 +95989,6 @@
       "alertpull": 5,
       "minorpull": 6.5,
       "majorpull": 8
-    },
-    {
-      "objectid": 1259133,
-      "globalid": "5d66e3dc-a854-414f-ad7e-e08c05f4d23e",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.59,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-20T18:50:53.220000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-20T18:50:53.220000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
-    },
-    {
-      "objectid": 1259132,
-      "globalid": "e4e540b2-3dd8-4a8a-8037-bdf305486683",
-      "basin": "Nilwala Ganga",
-      "gauge": "Urawa",
-      "water_level": 0.79,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-20T18:48:48.316000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-20T18:48:48.316000+00:00",
-      "Editor": "",
-      "alertpull": 2.5,
-      "minorpull": 4,
-      "majorpull": 6
     }
   ]
 }
