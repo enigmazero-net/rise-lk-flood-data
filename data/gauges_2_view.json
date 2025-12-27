@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-27T11:08:55.275716+00:00",
+  "last_updated_utc": "2025-12-27T11:25:21.351108+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6403,
+  "record_count": 6404,
   "records": [
+    {
+      "objectid": 1265245,
+      "globalid": "8ec444bd-3219-4f4a-8669-8461df361dd6",
+      "basin": "Gin Ganga",
+      "gauge": "Baddegama",
+      "water_level": 1,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-27T11:21:37.125000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-27T11:21:37.125000+00:00",
+      "Editor": "",
+      "alertpull": 3.5,
+      "minorpull": 4,
+      "majorpull": 5
+    },
     {
       "objectid": 1265244,
       "globalid": "384b9867-f9f4-44c7-99a5-dff66e318c4f",
