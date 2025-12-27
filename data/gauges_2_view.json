@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-27T22:46:43.200402+00:00",
+  "last_updated_utc": "2025-12-27T22:53:43.307317+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6404,
+  "record_count": 6406,
   "records": [
+    {
+      "objectid": 1265679,
+      "globalid": "452904e5-d814-4ae8-bacd-3db726070bf7",
+      "basin": "Gin Ganga",
+      "gauge": "Thawalama",
+      "water_level": 1.42,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-27T22:47:45.232000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-27T22:47:45.232000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1265678,
+      "globalid": "13713665-791a-4727-9746-c3cdab9add33",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Peradeniya",
+      "water_level": 2.05,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-27T22:47:13.591000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-27T22:47:13.591000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 7,
+      "majorpull": 9
+    },
     {
       "objectid": 1265677,
       "globalid": "c24dc0d7-73b8-41d7-b320-babbf8cb612e",
