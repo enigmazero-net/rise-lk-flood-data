@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2025-12-28T16:56:05.214860+00:00",
+  "last_updated_utc": "2025-12-28T17:11:46.017635+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6408,
+  "record_count": 6405,
   "records": [
     {
       "objectid": 1266392,
@@ -96079,51 +96079,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 6
-    },
-    {
-      "objectid": 1259974,
-      "globalid": "a572c722-0458-4404-a47b-b376712f0b13",
-      "basin": "Ma Oya",
-      "gauge": "Yaka Wewa",
-      "water_level": 0.83,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-21T17:06:33.251000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-21T17:06:33.251000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1259973,
-      "globalid": "ecac71ed-1428-4b96-9ee9-9d089cff2b1e",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 0.93,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-21T17:03:41.114000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-21T17:03:41.114000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
-    },
-    {
-      "objectid": 1259972,
-      "globalid": "1bd9e9cf-550e-4ad2-8728-cdcc2ad98ade",
-      "basin": "Yan Oya",
-      "gauge": "Horowpothana",
-      "water_level": 4.42,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-21T17:00:16.846000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-21T17:00:16.846000+00:00",
-      "Editor": "",
-      "alertpull": 6,
-      "minorpull": 7.5,
-      "majorpull": 10.5
     }
   ]
 }
