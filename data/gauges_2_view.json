@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-28T22:47:49.220384+00:00",
+  "last_updated_utc": "2025-12-28T22:54:48.892732+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6410,
+  "record_count": 6409,
   "records": [
+    {
+      "objectid": 1266593,
+      "globalid": "efc3bbde-4029-44c5-a67c-bde47407e2e1",
+      "basin": "Kirindi Oya",
+      "gauge": "Kuda Oya",
+      "water_level": 1.28,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-28T22:49:27.284000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-28T22:49:27.284000+00:00",
+      "Editor": "",
+      "alertpull": 6.9,
+      "minorpull": 8.4,
+      "majorpull": 8.8
+    },
+    {
+      "objectid": 1266592,
+      "globalid": "5d32d54a-048e-4910-990a-5f8ebfa65e6c",
+      "basin": "Deduru Oya",
+      "gauge": "Moragaswewa",
+      "water_level": 0.58,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-28T22:48:23.678000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-28T22:48:23.678000+00:00",
+      "Editor": "",
+      "alertpull": 4.75,
+      "minorpull": 6,
+      "majorpull": 7
+    },
     {
       "objectid": 1266591,
       "globalid": "c1410c55-ef61-4790-81c6-2df1d65bb68d",
@@ -96109,51 +96139,6 @@
       "alertpull": 4,
       "minorpull": 5,
       "majorpull": 7
-    },
-    {
-      "objectid": 1260171,
-      "globalid": "a6e08a65-aa85-4d5a-a03a-c4a485c764b0",
-      "basin": "Deduru Oya",
-      "gauge": "Moragaswewa",
-      "water_level": 1.27,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-21T22:50:55.033000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-21T22:50:55.033000+00:00",
-      "Editor": "",
-      "alertpull": 4.75,
-      "minorpull": 6,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1260170,
-      "globalid": "eaac8878-67ed-4831-becd-61a83e8760f6",
-      "basin": "Nilwala Ganga",
-      "gauge": "Urawa",
-      "water_level": 0.4,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-21T22:49:26.737000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-21T22:49:26.737000+00:00",
-      "Editor": "",
-      "alertpull": 2.5,
-      "minorpull": 4,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1260169,
-      "globalid": "5d5b1bdb-3bf4-4918-86ed-254f47309c96",
-      "basin": "Kirindi Oya",
-      "gauge": "Kuda Oya",
-      "water_level": 1.4,
-      "rain_fall": null,
-      "CreationDate": "2025-12-21T22:48:02.720000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-21T22:48:02.720000+00:00",
-      "Editor": "",
-      "alertpull": 6.9,
-      "minorpull": 8.4,
-      "majorpull": 8.8
     }
   ]
 }
