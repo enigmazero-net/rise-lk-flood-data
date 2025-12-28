@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2025-12-28T18:45:03.506270+00:00",
+  "last_updated_utc": "2025-12-28T18:57:25.423417+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6409,
+  "record_count": 6406,
   "records": [
     {
       "objectid": 1266455,
@@ -96094,51 +96094,6 @@
       "alertpull": null,
       "minorpull": null,
       "majorpull": null
-    },
-    {
-      "objectid": 1260036,
-      "globalid": "b6832577-69c5-4526-bd6b-2e2cecf2f407",
-      "basin": "Nilwala Ganga",
-      "gauge": "Urawa",
-      "water_level": 0.4,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-21T18:55:33.622000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-21T18:55:33.622000+00:00",
-      "Editor": "",
-      "alertpull": 2.5,
-      "minorpull": 4,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1260035,
-      "globalid": "d6562a1f-2e90-4545-8fde-e592fc587d28",
-      "basin": "Heda Oya",
-      "gauge": "Siyambalanduwa",
-      "water_level": 1.09,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-21T18:53:14.872000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-21T18:53:14.872000+00:00",
-      "Editor": "",
-      "alertpull": 4.5,
-      "minorpull": 6,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1260034,
-      "globalid": "789754e9-a99c-45c0-8cf0-d692440647ca",
-      "basin": "Kelani Ganga",
-      "gauge": "Glencourse",
-      "water_level": 9,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-21T18:48:19.029000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-21T18:48:19.029000+00:00",
-      "Editor": "",
-      "alertpull": 15,
-      "minorpull": 16.5,
-      "majorpull": 19
     }
   ]
 }
