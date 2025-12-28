@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-28T21:44:16.210977+00:00",
+  "last_updated_utc": "2025-12-28T21:51:44.832625+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6412,
+  "record_count": 6409,
   "records": [
+    {
+      "objectid": 1266560,
+      "globalid": "3e655439-7de1-4f82-b554-24b12f707fdf",
+      "basin": "Aththanagalu Oya",
+      "gauge": "Dunamale",
+      "water_level": 0.7,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-28T21:51:18.008000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-28T21:51:18.008000+00:00",
+      "Editor": "",
+      "alertpull": 3.3,
+      "minorpull": 4.4,
+      "majorpull": 5.5
+    },
     {
       "objectid": 1266559,
       "globalid": "9594f2d3-0d35-4abe-844f-dd7026f085f0",
@@ -96124,66 +96139,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1260138,
-      "globalid": "464aa15a-91eb-41c0-9f6f-5c06de68d6d7",
-      "basin": "Kalu Ganga",
-      "gauge": "Rathnapura",
-      "water_level": 1.13,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-21T21:46:55.484000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-21T21:46:55.484000+00:00",
-      "Editor": "",
-      "alertpull": 5.2,
-      "minorpull": 7.5,
-      "majorpull": 9.5
-    },
-    {
-      "objectid": 1260137,
-      "globalid": "1b2ce38f-26b0-4ab5-8fa5-a2b783719d01",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 2.94,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-21T21:46:41.192000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-21T21:46:41.192000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1260136,
-      "globalid": "5b635213-dec0-4712-947e-7563ec11b1ac",
-      "basin": "Kirindi Oya",
-      "gauge": "Wellawaya",
-      "water_level": 1.06,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-21T21:46:40.585000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-21T21:46:40.585000+00:00",
-      "Editor": "",
-      "alertpull": 4.4,
-      "minorpull": 5.4,
-      "majorpull": 5.9
-    },
-    {
-      "objectid": 1260135,
-      "globalid": "07a63296-fd57-4385-b662-3f0c7b016902",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 0.92,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-21T21:46:07.969000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-21T21:46:07.969000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
     }
   ]
 }
