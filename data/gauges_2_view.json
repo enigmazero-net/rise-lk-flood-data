@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-28T10:55:57.631275+00:00",
+  "last_updated_utc": "2025-12-28T11:11:22.331117+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6397,
+  "record_count": 6399,
   "records": [
+    {
+      "objectid": 1266158,
+      "globalid": "1b920b7c-b613-471a-aa9c-0f344b467d35",
+      "basin": "Gin Ganga",
+      "gauge": "Baddegama",
+      "water_level": 1.02,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-28T11:05:26.057000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-28T11:05:26.057000+00:00",
+      "Editor": "",
+      "alertpull": 3.5,
+      "minorpull": 4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1266157,
+      "globalid": "fcc6f81d-300d-4d84-b9f5-6d2a2f10bc3a",
+      "basin": "Kelani Ganga",
+      "gauge": "Norwood",
+      "water_level": 0.57,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-28T11:02:10.187000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-28T11:02:10.187000+00:00",
+      "Editor": "",
+      "alertpull": 1.5,
+      "minorpull": 3,
+      "majorpull": 4.5
+    },
     {
       "objectid": 1266156,
       "globalid": "fb011c4d-776c-4912-bc58-5ae85ca84f6f",
