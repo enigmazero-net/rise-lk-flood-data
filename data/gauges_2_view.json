@@ -1,10 +1,70 @@
 {
-  "last_updated_utc": "2025-12-29T19:37:58.066128+00:00",
+  "last_updated_utc": "2025-12-29T19:44:38.413962+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6399,
+  "record_count": 6400,
   "records": [
+    {
+      "objectid": 1267402,
+      "globalid": "95f277c0-82a6-4675-a858-317e4d89c5b0",
+      "basin": "Kelani Ganga",
+      "gauge": "Holombuwa",
+      "water_level": 0.48,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-29T19:43:34.820000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-29T19:43:34.820000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 3.4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1267401,
+      "globalid": "4466e0b8-c4ea-4ffe-9656-a2e8d2d36113",
+      "basin": "Kelani Ganga",
+      "gauge": "Glencourse",
+      "water_level": 8.83,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-29T19:39:17.492000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-29T19:39:17.492000+00:00",
+      "Editor": "",
+      "alertpull": 15,
+      "minorpull": 16.5,
+      "majorpull": 19
+    },
+    {
+      "objectid": 1267400,
+      "globalid": "bfa02afc-6cab-4f00-a525-3e15550f88e5",
+      "basin": "Kelani Ganga",
+      "gauge": "Hanwella",
+      "water_level": 0.61,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-29T19:39:15.865000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-29T19:39:15.865000+00:00",
+      "Editor": "",
+      "alertpull": 7,
+      "minorpull": 8,
+      "majorpull": 10
+    },
+    {
+      "objectid": 1267399,
+      "globalid": "f0b2d13a-cff6-40fa-9837-b69b4067739c",
+      "basin": "Maha Oya",
+      "gauge": "Badalgama",
+      "water_level": 2.04,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-29T19:37:27.485000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-29T19:37:27.485000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.2,
+      "majorpull": 9.6
+    },
     {
       "objectid": 1267398,
       "globalid": "32122d3d-e5e9-4380-a8a8-497d570a03af",
@@ -15006,21 +15066,6 @@
       "majorpull": 6
     },
     {
-      "objectid": 1266395,
-      "globalid": "210e2efc-050e-4762-aa3a-aa40c534c2e3",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Nawalapitiya",
-      "water_level": 0.83,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-28T17:30:28.991000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-28T17:30:28.991000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
-      "minorpull": 5,
-      "majorpull": 6
-    },
-    {
       "objectid": 1266394,
       "globalid": "439a1aa2-bdb0-494d-aab0-14ea16360440",
       "basin": "Mahaweli Ganga",
@@ -30004,6 +30049,21 @@
       "alertpull": 5,
       "minorpull": 6,
       "majorpull": 7.5
+    },
+    {
+      "objectid": 1265391,
+      "globalid": "1ccdea6c-58c8-41b3-af74-36b0a225f0db",
+      "basin": "Kirindi Oya",
+      "gauge": "Wellawaya",
+      "water_level": 1.01,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-27T14:34:17.511000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-27T14:34:17.511000+00:00",
+      "Editor": "",
+      "alertpull": 4.4,
+      "minorpull": 5.4,
+      "majorpull": 5.9
     },
     {
       "objectid": 1265390,
@@ -60006,21 +60066,6 @@
       "majorpull": 7
     },
     {
-      "objectid": 1263388,
-      "globalid": "d91b3543-68fa-4b90-8ac2-eaf35420cc92",
-      "basin": "Heda Oya",
-      "gauge": "Siyambalanduwa",
-      "water_level": 0.7,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-25T10:32:17.709000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-25T10:32:17.709000+00:00",
-      "Editor": "",
-      "alertpull": 4.5,
-      "minorpull": 6,
-      "majorpull": 7
-    },
-    {
       "objectid": 1263387,
       "globalid": "2432cb7e-741b-47b3-9d8b-1c3e5c8bbb21",
       "basin": "Mee Oya",
@@ -90006,6 +90051,21 @@
       "majorpull": 4.5
     },
     {
+      "objectid": 1261385,
+      "globalid": "29ba1f76-04bd-410d-8e22-1430301f69b0",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.44,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-23T06:32:21.592000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-23T06:32:21.592000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
+    {
       "objectid": 1261384,
       "globalid": "9727e620-e166-44a9-a03d-b086b7e4587a",
       "basin": "Gal Oya",
@@ -95944,51 +96004,6 @@
       "alertpull": 4.4,
       "minorpull": 5.4,
       "majorpull": 5.9
-    },
-    {
-      "objectid": 1260988,
-      "globalid": "3b79dd3d-a2d5-4e91-bea2-89c0f550c0d3",
-      "basin": "Kalu Ganga",
-      "gauge": "Putupaula",
-      "water_level": 0.64,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-22T19:42:23.027000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-22T19:42:23.027000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1260987,
-      "globalid": "472813a1-cc27-4120-966a-db7f510f800c",
-      "basin": "Gin Ganga",
-      "gauge": "Baddegama",
-      "water_level": 1.13,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-22T19:41:27.741000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-22T19:41:27.741000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
-      "minorpull": 4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1260986,
-      "globalid": "acd67018-c214-46cc-ba5e-bc97b4ec506d",
-      "basin": "Kirindi Oya",
-      "gauge": "Thanamalwila",
-      "water_level": 1.02,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-22T19:37:45.713000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-22T19:37:45.713000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 5.5
     }
   ]
 }
