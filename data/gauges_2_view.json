@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-29T23:45:24.658683+00:00",
+  "last_updated_utc": "2025-12-29T23:52:00.586528+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6388,
+  "record_count": 6390,
   "records": [
+    {
+      "objectid": 1267542,
+      "globalid": "76793721-40e4-4931-887a-80264d0c93da",
+      "basin": "Kelani Ganga",
+      "gauge": "Norwood",
+      "water_level": 0.57,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-29T23:51:22.939000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-29T23:51:22.939000+00:00",
+      "Editor": "",
+      "alertpull": 1.5,
+      "minorpull": 3,
+      "majorpull": 4.5
+    },
+    {
+      "objectid": 1267541,
+      "globalid": "647d32e4-f007-4fd5-a3df-0d439501bd87",
+      "basin": "Maha Oya",
+      "gauge": "Badalgama",
+      "water_level": 2.04,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-29T23:48:06.360000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-29T23:48:06.360000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.2,
+      "majorpull": 9.6
+    },
     {
       "objectid": 1267540,
       "globalid": "acd87d16-745e-4b22-bd62-45ea447360a8",
