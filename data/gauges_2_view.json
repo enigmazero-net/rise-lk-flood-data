@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-29T18:58:42.509027+00:00",
+  "last_updated_utc": "2025-12-29T19:15:40.784504+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6398,
+  "record_count": 6399,
   "records": [
+    {
+      "objectid": 1267376,
+      "globalid": "b72aab6e-a294-481f-a7bd-1e7348704a26",
+      "basin": "Yan Oya",
+      "gauge": "Horowpothana",
+      "water_level": 1.43,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-29T19:09:12.447000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-29T19:09:12.447000+00:00",
+      "Editor": "",
+      "alertpull": 6,
+      "minorpull": 7.5,
+      "majorpull": 10.5
+    },
+    {
+      "objectid": 1267375,
+      "globalid": "5b226df6-57bc-4ca1-b646-6620e56a9b10",
+      "basin": "Kirindi Oya",
+      "gauge": "Thanamalwila",
+      "water_level": 0.87,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-29T19:06:07.347000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-29T19:06:07.347000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 5.5
+    },
     {
       "objectid": 1267374,
       "globalid": "284fe794-cdd9-4950-b671-316c4edc0e5d",
@@ -95959,21 +95989,6 @@
       "alertpull": 3.5,
       "minorpull": 5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1260963,
-      "globalid": "5fa00755-ffd8-4474-9596-873f0461df81",
-      "basin": "Kalu Ganga",
-      "gauge": "Putupaula",
-      "water_level": 0.54,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-22T19:15:29.845000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-22T19:15:29.845000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
     }
   ]
 }
