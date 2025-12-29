@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-29T13:59:29.226588+00:00",
+  "last_updated_utc": "2025-12-29T14:23:21.130622+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6394,
   "records": [
+    {
+      "objectid": 1267186,
+      "globalid": "e287e85d-d78d-4308-a7c8-1504145d2ef0",
+      "basin": "Kalu Ganga",
+      "gauge": "Kalawellawa (Millakanda)",
+      "water_level": 1.72,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-29T14:00:08.200000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-29T14:00:08.200000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.5,
+      "majorpull": 8
+    },
     {
       "objectid": 1267185,
       "globalid": "a0f6cdab-c17a-4821-afbf-9450cd3dac49",
@@ -95895,21 +95910,6 @@
       "CreationDate": "2025-12-22T14:30:27.169000+00:00",
       "Creator": "",
       "EditDate": "2025-12-22T14:30:27.169000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1260779,
-      "globalid": "5ce1d007-72f0-4daa-86ba-e6349e6297c0",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Thaldena",
-      "water_level": 0.8,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-22T14:02:45.010000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-22T14:02:45.010000+00:00",
       "Editor": "",
       "alertpull": 3,
       "minorpull": 4,
