@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2025-12-29T10:43:01.920379+00:00",
+  "last_updated_utc": "2025-12-29T10:56:40.290351+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6401,
   "records": [
+    {
+      "objectid": 1267071,
+      "globalid": "35ba8675-5709-4918-b055-393ed8a82f6d",
+      "basin": "Yan Oya",
+      "gauge": "Horowpothana",
+      "water_level": 1.44,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-29T10:48:33.822000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-29T10:48:33.822000+00:00",
+      "Editor": "",
+      "alertpull": 6,
+      "minorpull": 7.5,
+      "majorpull": 10.5
+    },
+    {
+      "objectid": 1267070,
+      "globalid": "bf05319f-d2b1-4c86-89f3-136d874cfe37",
+      "basin": "Kalu Ganga",
+      "gauge": "Magura",
+      "water_level": 1.04,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-29T10:43:56.152000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-29T10:43:56.152000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1267069,
+      "globalid": "e0d50b00-7ffc-4a7e-834e-87638aa2bc5c",
+      "basin": "Kelani Ganga",
+      "gauge": "Kithulgala",
+      "water_level": 1.73,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-29T10:43:39.705000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-29T10:43:39.705000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 6
+    },
     {
       "objectid": 1267068,
       "globalid": "97492e4a-71ee-4d96-a244-a5e56bb6e6e8",
@@ -95974,51 +96019,6 @@
       "alertpull": null,
       "minorpull": null,
       "majorpull": null
-    },
-    {
-      "objectid": 1260657,
-      "globalid": "20ee7f7a-0f59-4619-98f4-e1159b772cd7",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 2.67,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-22T10:47:07.943000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-22T10:47:07.943000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1260656,
-      "globalid": "b65a7948-2b72-4e48-b08e-97410f257d41",
-      "basin": "Deduru Oya",
-      "gauge": "Moragaswewa",
-      "water_level": 1.23,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-22T10:46:03.720000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-22T10:46:03.720000+00:00",
-      "Editor": "",
-      "alertpull": 4.75,
-      "minorpull": 6,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1260655,
-      "globalid": "3a5eb5af-3c07-4af4-9114-5ce78f373ece",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.6,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-22T10:45:23.515000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-22T10:45:23.515000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
     }
   ]
 }
