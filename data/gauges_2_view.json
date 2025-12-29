@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2025-12-29T16:57:15.879571+00:00",
+  "last_updated_utc": "2025-12-29T17:14:59.842404+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6400,
+  "record_count": 6398,
   "records": [
     {
       "objectid": 1267305,
@@ -95974,36 +95974,6 @@
       "alertpull": 3,
       "minorpull": 5,
       "majorpull": 7
-    },
-    {
-      "objectid": 1260892,
-      "globalid": "367ca999-6aa2-4e16-b518-ed4fc0415dac",
-      "basin": "Kelani Ganga",
-      "gauge": "Norwood",
-      "water_level": 0.64,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-22T17:06:17.771000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-22T17:06:17.771000+00:00",
-      "Editor": "",
-      "alertpull": 1.5,
-      "minorpull": 3,
-      "majorpull": 4.5
-    },
-    {
-      "objectid": 1260891,
-      "globalid": "35676a87-b989-4bf3-9519-eb54c52579c9",
-      "basin": "Kalu Ganga",
-      "gauge": "Kalawellawa (Millakanda)",
-      "water_level": 2,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-22T17:03:20.064000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-22T17:03:20.064000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.5,
-      "majorpull": 8
     }
   ]
 }
