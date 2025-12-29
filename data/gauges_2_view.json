@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-29T13:48:53.645962+00:00",
+  "last_updated_utc": "2025-12-29T13:59:29.226588+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6394,
   "records": [
+    {
+      "objectid": 1267185,
+      "globalid": "a0f6cdab-c17a-4821-afbf-9450cd3dac49",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Manampitiya",
+      "water_level": 1.7,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-29T13:58:33.278000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-29T13:58:33.278000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4.3,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1267184,
+      "globalid": "1af5a948-77e0-4330-a5bd-7d54ef2542f4",
+      "basin": "Deduru Oya",
+      "gauge": "Moragaswewa",
+      "water_level": 0.6,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-29T13:49:34.041000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-29T13:49:34.041000+00:00",
+      "Editor": "",
+      "alertpull": 4.75,
+      "minorpull": 6,
+      "majorpull": 7
+    },
     {
       "objectid": 1267183,
       "globalid": "1e52a21a-1275-4889-bb3c-0418c2fa2548",
@@ -95884,36 +95914,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1260778,
-      "globalid": "1ca63e26-3869-421c-bebe-5caec5785972",
-      "basin": "Gin Ganga",
-      "gauge": "Thawalama",
-      "water_level": 1.44,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-22T13:50:14.621000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-22T13:50:14.621000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1260777,
-      "globalid": "b1cf889d-1342-4c32-bf0d-5d0f2896bfe5",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Peradeniya",
-      "water_level": 2.3,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-22T13:50:07.176000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-22T13:50:07.176000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 7,
-      "majorpull": 9
     }
   ]
 }
