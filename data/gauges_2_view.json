@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-30T21:53:05.995799+00:00",
+  "last_updated_utc": "2025-12-30T22:11:19.536997+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6389,
+  "record_count": 6388,
   "records": [
+    {
+      "objectid": 1268379,
+      "globalid": "9edb4ead-7e94-4ffd-8082-b4efb3b31f26",
+      "basin": "Kalu Ganga",
+      "gauge": "Magura",
+      "water_level": 1,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-30T22:04:53.856000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-30T22:04:53.856000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1268378,
+      "globalid": "67b4e631-4696-4108-901b-45165a4e12ff",
+      "basin": "Gin Ganga",
+      "gauge": "Baddegama",
+      "water_level": 0.89,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-30T21:53:33.988000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-30T21:53:33.988000+00:00",
+      "Editor": "",
+      "alertpull": 3.5,
+      "minorpull": 4,
+      "majorpull": 5
+    },
     {
       "objectid": 1268377,
       "globalid": "1cc1cdab-e2b8-4d45-a9a7-c0b22d011678",
@@ -95794,51 +95824,6 @@
       "alertpull": null,
       "minorpull": null,
       "majorpull": null
-    },
-    {
-      "objectid": 1261978,
-      "globalid": "c6eb9e5d-0469-4943-aeef-d6f5a2b45520",
-      "basin": "Kirindi Oya",
-      "gauge": "Thanamalwila",
-      "water_level": 1.06,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-23T22:09:52.726000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-23T22:09:52.726000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 5.5
-    },
-    {
-      "objectid": 1261977,
-      "globalid": "503f1761-08ee-42e3-9442-b43d8db69002",
-      "basin": "Walawe Ganga",
-      "gauge": "Moraketiya",
-      "water_level": 0.93,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-23T22:08:29.634000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-23T22:08:29.634000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 5,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1261976,
-      "globalid": "6826cda9-7602-44b9-9068-afd93b5bc4cb",
-      "basin": "Maha Oya",
-      "gauge": "Badalgama",
-      "water_level": 2.17,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-23T22:06:52.825000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-23T22:06:52.825000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.2,
-      "majorpull": 9.6
     }
   ]
 }
