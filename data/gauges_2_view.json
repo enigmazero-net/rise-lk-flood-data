@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-30T16:46:18.510203+00:00",
+  "last_updated_utc": "2025-12-30T17:00:10.424038+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6398,
+  "record_count": 6399,
   "records": [
+    {
+      "objectid": 1268212,
+      "globalid": "6b89b6b0-a9d3-4e38-aa35-ef7880949c00",
+      "basin": "Aththanagalu Oya",
+      "gauge": "Dunamale",
+      "water_level": 0.72,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-30T16:59:31.437000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-30T16:59:31.437000+00:00",
+      "Editor": "",
+      "alertpull": 3.3,
+      "minorpull": 4.4,
+      "majorpull": 5.5
+    },
+    {
+      "objectid": 1268211,
+      "globalid": "6e3f8b28-7568-4408-ba08-74313b4222fd",
+      "basin": "Gin Ganga",
+      "gauge": "Baddegama",
+      "water_level": 0.89,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-30T16:57:41.821000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-30T16:57:41.821000+00:00",
+      "Editor": "",
+      "alertpull": 3.5,
+      "minorpull": 4,
+      "majorpull": 5
+    },
     {
       "objectid": 1268210,
       "globalid": "e5206ab1-ec22-4ea6-af61-444883632911",
@@ -95959,21 +95989,6 @@
       "alertpull": 5,
       "minorpull": 7,
       "majorpull": 9
-    },
-    {
-      "objectid": 1261799,
-      "globalid": "bd2c2208-452e-4b1d-89cf-67bdb86f7f5a",
-      "basin": "Ma Oya",
-      "gauge": "Yaka Wewa",
-      "water_level": 0.73,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-23T16:58:49.750000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-23T16:58:49.750000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6
     }
   ]
 }
