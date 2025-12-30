@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-30T20:49:21.290629+00:00",
+  "last_updated_utc": "2025-12-30T20:56:28.786629+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6394,
+  "record_count": 6391,
   "records": [
+    {
+      "objectid": 1268341,
+      "globalid": "df45556d-7c36-4ea9-8c15-9d3f9e50105f",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 2.37,
+      "rain_fall": null,
+      "CreationDate": "2025-12-30T20:49:55.051000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-30T20:49:55.051000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1268340,
       "globalid": "b69d2aa9-fe05-4c62-a3ad-3ec1aa42c6a3",
@@ -95854,66 +95869,6 @@
       "alertpull": 3.3,
       "minorpull": 4.4,
       "majorpull": 5.5
-    },
-    {
-      "objectid": 1261937,
-      "globalid": "ae4febd1-39a3-4c30-960a-8c2b4bc81d40",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Thaldena",
-      "water_level": 0.74,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-23T20:50:05.122000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-23T20:50:05.122000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1261936,
-      "globalid": "e7db6d0a-5a53-4d42-87a4-135436a21898",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Thaldena",
-      "water_level": 0.75,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-23T20:50:03.878000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-23T20:50:03.878000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1261935,
-      "globalid": "1a41b078-5f97-4d17-8b4b-3a7fd48de809",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Thaldena",
-      "water_level": 0.76,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-23T20:50:02.494000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-23T20:50:02.494000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1261934,
-      "globalid": "89d57747-e2c7-46d5-9230-cfad5b3ade88",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Thaldena",
-      "water_level": 0.76,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-23T20:50:01.092000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-23T20:50:01.092000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
     }
   ]
 }
