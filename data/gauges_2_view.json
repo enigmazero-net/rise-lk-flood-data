@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2025-12-31T11:11:18.096400+00:00",
+  "last_updated_utc": "2025-12-31T11:30:16.898142+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6396,
+  "record_count": 6397,
   "records": [
+    {
+      "objectid": 1268902,
+      "globalid": "7441c8cb-8adc-466f-bee4-9eae92fb3d34",
+      "basin": "Kumbukkan Oya",
+      "gauge": "Nakkala",
+      "water_level": 0.98,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-31T11:30:07.725000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-31T11:30:07.725000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1268901,
+      "globalid": "b6bd8920-5a02-4494-87c0-860f23dbdee9",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.36,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-31T11:28:11.135000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-31T11:28:11.135000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
     {
       "objectid": 1268900,
       "globalid": "25a7b16a-25ed-4efb-a2cb-c4c7a855692a",
@@ -95929,21 +95959,6 @@
       "alertpull": 4.5,
       "minorpull": 6,
       "majorpull": 7
-    },
-    {
-      "objectid": 1262492,
-      "globalid": "50a14901-8eb0-4899-b57c-76613517fccf",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.77,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-24T11:28:09.504000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-24T11:28:09.504000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
     }
   ]
 }
