@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2025-12-31T22:48:07.018600+00:00",
+  "last_updated_utc": "2025-12-31T22:55:00.240881+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6388,
+  "record_count": 6386,
   "records": [
+    {
+      "objectid": 1269324,
+      "globalid": "1c32f159-1ef8-4369-a9e5-c319dfb30991",
+      "basin": "Kirindi Oya",
+      "gauge": "Thanamalwila",
+      "water_level": 1.88,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-31T22:52:08.364000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-31T22:52:08.364000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 5.5
+    },
     {
       "objectid": 1269323,
       "globalid": "3c7f23d8-951c-4913-94c3-3e8b47a9732b",
@@ -95779,51 +95794,6 @@
       "alertpull": 4,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1262925,
-      "globalid": "3399b84c-1e5c-4937-9572-d1d26738258f",
-      "basin": "Kelani Ganga",
-      "gauge": "Glencourse",
-      "water_level": 8.91,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-24T22:53:04.163000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-24T22:53:04.163000+00:00",
-      "Editor": "",
-      "alertpull": 15,
-      "minorpull": 16.5,
-      "majorpull": 19
-    },
-    {
-      "objectid": 1262924,
-      "globalid": "db7e9afc-0bda-45c3-ab1c-ecaa18c8cf34",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.82,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-24T22:50:36.755000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-24T22:50:36.755000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
-    },
-    {
-      "objectid": 1262923,
-      "globalid": "6d9d0fe3-24ef-42c9-9853-4a2cef47b913",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.83,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-24T22:48:18.440000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-24T22:48:18.440000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
     }
   ]
 }
