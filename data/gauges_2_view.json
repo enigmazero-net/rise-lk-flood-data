@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-01-01T17:54:30.052624+00:00",
+  "last_updated_utc": "2026-01-01T18:17:02.086097+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6379,
+  "record_count": 6380,
   "records": [
+    {
+      "objectid": 1270069,
+      "globalid": "84d917bb-05ce-4f96-be29-cbc8d64c4059",
+      "basin": "Kelani Ganga",
+      "gauge": "Glencourse",
+      "water_level": 8.9,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-01T17:56:07.291000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-01T17:56:07.291000+00:00",
+      "Editor": "",
+      "alertpull": 15,
+      "minorpull": 16.5,
+      "majorpull": 19
+    },
+    {
+      "objectid": 1270068,
+      "globalid": "04cddb78-472e-40ec-a800-e0b2c9d5d0d2",
+      "basin": "Kelani Ganga",
+      "gauge": "Glencourse",
+      "water_level": 8.9,
+      "rain_fall": 0.3,
+      "CreationDate": "2026-01-01T17:56:05.491000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-01T17:56:05.491000+00:00",
+      "Editor": "",
+      "alertpull": 15,
+      "minorpull": 16.5,
+      "majorpull": 19
+    },
     {
       "objectid": 1270067,
       "globalid": "d5fe21b6-39a7-4dce-a78f-b73edf88f946",
@@ -95674,21 +95704,6 @@
       "alertpull": 4.5,
       "minorpull": 6,
       "majorpull": 7
-    },
-    {
-      "objectid": 1263677,
-      "globalid": "b50e09ed-5f4f-4a6a-a1b4-db81bf24ed84",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.94,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-25T17:56:35.700000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-25T17:56:35.700000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
     }
   ]
 }
