@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-01T19:17:50.963021+00:00",
+  "last_updated_utc": "2026-01-01T19:30:05.783489+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6378,
+  "record_count": 6379,
   "records": [
+    {
+      "objectid": 1270104,
+      "globalid": "db17fbf6-9c41-4fcd-8985-d545443db6a3",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 2.28,
+      "rain_fall": null,
+      "CreationDate": "2026-01-01T19:20:43.291000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-01T19:20:43.291000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1270103,
       "globalid": "9d424f34-0bee-4481-8a1b-b49ed0e8b3b7",
