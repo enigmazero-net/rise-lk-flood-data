@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-01T11:44:42.874902+00:00",
+  "last_updated_utc": "2026-01-01T11:51:58.527431+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6372,
+  "record_count": 6371,
   "records": [
+    {
+      "objectid": 1269840,
+      "globalid": "c15516a8-81ef-488f-9e43-2072ff80325c",
+      "basin": "Ma Oya",
+      "gauge": "Yaka Wewa",
+      "water_level": 0.81,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-01T11:45:54.816000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-01T11:45:54.816000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6
+    },
     {
       "objectid": 1269839,
       "globalid": "d80ec706-61cb-4355-bf79-9dcdd941bc64",
@@ -75006,6 +75021,21 @@
       "majorpull": 12.2
     },
     {
+      "objectid": 1264828,
+      "globalid": "45f8aaab-a439-4c3c-b41b-1a79373fc363",
+      "basin": "Kelani Ganga",
+      "gauge": "Norwood",
+      "water_level": 0.6,
+      "rain_fall": 0,
+      "CreationDate": "2025-12-27T00:34:04.336000+00:00",
+      "Creator": "",
+      "EditDate": "2025-12-27T00:34:04.336000+00:00",
+      "Editor": "",
+      "alertpull": 1.5,
+      "minorpull": 3,
+      "majorpull": 4.5
+    },
+    {
       "objectid": 1264827,
       "globalid": "59552673-ff17-4145-91ed-1a5eaedce852",
       "basin": "Ma Oya",
@@ -90006,21 +90036,6 @@
       "majorpull": 5.9
     },
     {
-      "objectid": 1263827,
-      "globalid": "f062a1a3-9497-4f73-9ab5-4d2101aff7c9",
-      "basin": "Kirindi Oya",
-      "gauge": "Wellawaya",
-      "water_level": 1.12,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-25T22:31:41.849000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-25T22:31:41.849000+00:00",
-      "Editor": "",
-      "alertpull": 4.4,
-      "minorpull": 5.4,
-      "majorpull": 5.9
-    },
-    {
       "objectid": 1263826,
       "globalid": "49dd5441-f15f-44d9-acfb-98a80b5d2fd9",
       "basin": "Mahaweli Ganga",
@@ -95552,36 +95567,6 @@
       "EditDate": "2025-12-25T12:01:39.819000+00:00",
       "Editor": "",
       "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1263457,
-      "globalid": "ede15c81-c835-46a2-9952-d675dc4355b2",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.97,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-25T11:50:16.266000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-25T11:50:16.266000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
-    },
-    {
-      "objectid": 1263456,
-      "globalid": "b172e535-b863-4715-b034-005dd990f178",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 1.5,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-25T11:49:33.839000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-25T11:49:33.839000+00:00",
-      "Editor": "",
-      "alertpull": 4,
       "minorpull": 6,
       "majorpull": 7.5
     }
