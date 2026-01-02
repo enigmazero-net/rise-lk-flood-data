@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-02T08:46:08.599009+00:00",
+  "last_updated_utc": "2026-01-02T09:00:41.847963+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6376,
+  "record_count": 6374,
   "records": [
+    {
+      "objectid": 1270642,
+      "globalid": "a7292552-b260-4462-8d36-e76b5a9e41ff",
+      "basin": "Maha Oya",
+      "gauge": "Badalgama",
+      "water_level": 2.13,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-02T08:47:53.347000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-02T08:47:53.347000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.2,
+      "majorpull": 9.6
+    },
     {
       "objectid": 1270641,
       "globalid": "5ea525af-9bad-44e5-ba04-d1258ee4d10d",
@@ -95599,51 +95614,6 @@
       "alertpull": 3.5,
       "minorpull": 5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1264252,
-      "globalid": "796b672c-a07c-49f2-b8bc-d4c5a517057a",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.46,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-26T08:59:25.537000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-26T08:59:25.537000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
-    },
-    {
-      "objectid": 1264251,
-      "globalid": "e6909105-6cab-4e54-9789-1fad768c9b00",
-      "basin": "Kirindi Oya",
-      "gauge": "Thanamalwila",
-      "water_level": 0.97,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-26T08:55:31.214000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-26T08:55:31.214000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 5.5
-    },
-    {
-      "objectid": 1264250,
-      "globalid": "8383095c-f67b-4367-9452-45985fd87ef5",
-      "basin": "Gin Ganga",
-      "gauge": "Baddegama",
-      "water_level": 1.47,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-26T08:49:43.544000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-26T08:49:43.544000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
-      "minorpull": 4,
-      "majorpull": 5
     }
   ]
 }
