@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-02T10:52:00.591531+00:00",
+  "last_updated_utc": "2026-01-02T11:10:59.303306+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6374,
   "records": [
+    {
+      "objectid": 1270724,
+      "globalid": "2eb1e8fe-ffd2-49d1-84ef-ea11f0fe4b61",
+      "basin": "Maduru Oya",
+      "gauge": "Padiyathalawa",
+      "water_level": 1.35,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-02T10:59:49.155000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-02T10:59:49.155000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 4.5,
+      "majorpull": 6
+    },
     {
       "objectid": 1270723,
       "globalid": "89108d1e-8406-43cb-bafd-cffd6d7a4316",
@@ -95599,21 +95614,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1264334,
-      "globalid": "fec09246-1493-4ae9-8737-4ca5bf039539",
-      "basin": "Kelani Ganga",
-      "gauge": "Nagalagam Street",
-      "water_level": 2.1,
-      "rain_fall": null,
-      "CreationDate": "2025-12-26T10:52:46.419000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-26T10:52:46.419000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 7
     }
   ]
 }
