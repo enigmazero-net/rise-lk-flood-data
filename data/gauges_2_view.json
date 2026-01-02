@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-02T17:52:58.284755+00:00",
+  "last_updated_utc": "2026-01-02T18:17:07.982434+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6375,
+  "record_count": 6374,
   "records": [
+    {
+      "objectid": 1270989,
+      "globalid": "4ec7678e-6804-4b47-bbaa-83696c36a61a",
+      "basin": "Kalu Ganga",
+      "gauge": "Kalawellawa (Millakanda)",
+      "water_level": 1.76,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-02T17:54:51.311000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-02T17:54:51.311000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.5,
+      "majorpull": 8
+    },
     {
       "objectid": 1270988,
       "globalid": "285eab5d-06ec-4d31-b28b-4c4bad7b55de",
@@ -95597,36 +95612,6 @@
       "EditDate": "2025-12-26T18:22:24.862000+00:00",
       "Editor": "",
       "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1264598,
-      "globalid": "81a885fc-ea71-4039-b036-a27d3af13736",
-      "basin": "Kelani Ganga",
-      "gauge": "Kithulgala",
-      "water_level": 1.65,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-26T18:05:38.360000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-26T18:05:38.360000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1264597,
-      "globalid": "0b6e99c0-395d-43c2-8028-d4c09ed19c09",
-      "basin": "Gin Ganga",
-      "gauge": "Baddegama",
-      "water_level": 1.25,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-26T17:56:06.812000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-26T17:56:06.812000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
       "minorpull": 4,
       "majorpull": 5
     }
