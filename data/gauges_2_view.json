@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-01-02T11:51:33.489826+00:00",
+  "last_updated_utc": "2026-01-02T12:21:59.266900+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6371,
+  "record_count": 6373,
   "records": [
+    {
+      "objectid": 1270763,
+      "globalid": "7b54187b-0640-4f77-9a53-6d35e80e70df",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.42,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-02T11:49:24.725000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-02T11:49:24.725000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
+    {
+      "objectid": 1270762,
+      "globalid": "2b00c952-bd60-4b3a-acb2-6ff62e4287ae",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": 0.54,
+      "rain_fall": null,
+      "CreationDate": "2026-01-02T11:48:55.857000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-02T11:48:55.857000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1270761,
+      "globalid": "49fb0e4c-4955-47c9-a3c9-621615ff6d8f",
+      "basin": "Gin Ganga",
+      "gauge": "Thawalama",
+      "water_level": 1.19,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-02T11:44:15.304000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-02T11:44:15.304000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1270760,
       "globalid": "998b07c7-274c-476e-8090-7c8fc3658115",
@@ -95554,21 +95599,6 @@
       "alertpull": 4,
       "minorpull": 5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1264374,
-      "globalid": "7f0f7282-857d-4b4d-9c7f-98f92945d0ee",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.5,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-26T11:58:30.914000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-26T11:58:30.914000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
     }
   ]
 }
