@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-02T21:52:03.010402+00:00",
+  "last_updated_utc": "2026-01-02T22:11:42.175580+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6380,
+  "record_count": 6378,
   "records": [
+    {
+      "objectid": 1271128,
+      "globalid": "858ffd77-41ae-421f-a2df-a2f6256d9650",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.74,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-02T21:54:26.351000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-02T21:54:26.351000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
     {
       "objectid": 1271127,
       "globalid": "00905900-e665-49fc-9fc5-21d23d1f2cc0",
@@ -95659,51 +95674,6 @@
       "alertpull": 3.5,
       "minorpull": 5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1264733,
-      "globalid": "9907e3e5-22f3-4aff-9036-6e54df6ebe38",
-      "basin": "Walawe Ganga",
-      "gauge": "Moraketiya",
-      "water_level": 1.01,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-26T22:11:09.800000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-26T22:11:09.800000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 5,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1264732,
-      "globalid": "ea75a28a-bce3-4a86-8650-b16a119a853a",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Nawalapitiya",
-      "water_level": 0.86,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-26T22:02:10.785000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-26T22:02:10.785000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
-      "minorpull": 5,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1264731,
-      "globalid": "5862d022-2e6f-4e3a-ae43-7876cb7d6183",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 0.76,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-26T21:56:54.293000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-26T21:56:54.293000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
     }
   ]
 }
