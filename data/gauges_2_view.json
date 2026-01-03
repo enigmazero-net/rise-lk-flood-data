@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-03T18:57:00.869279+00:00",
+  "last_updated_utc": "2026-01-03T19:12:18.456714+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6387,
+  "record_count": 6386,
   "records": [
+    {
+      "objectid": 1271946,
+      "globalid": "e059d468-32df-401d-bdee-0d4a1a47e151",
+      "basin": "Yan Oya",
+      "gauge": "Horowpothana",
+      "water_level": 2.1,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-03T18:57:33.243000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-03T18:57:33.243000+00:00",
+      "Editor": "",
+      "alertpull": 6,
+      "minorpull": 7.5,
+      "majorpull": 10.5
+    },
     {
       "objectid": 1271945,
       "globalid": "98eade3e-d783-4fbb-8d79-508b3d93d696",
@@ -95779,36 +95794,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1265544,
-      "globalid": "92ae2f12-5e19-48a6-80b2-2e380df2f57d",
-      "basin": "Ma Oya",
-      "gauge": "Yaka Wewa",
-      "water_level": 0.72,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-27T19:07:58.646000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-27T19:07:58.646000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1265543,
-      "globalid": "5c2db397-88ba-4f8d-83f9-b5ab8d7d48c6",
-      "basin": "Ma Oya",
-      "gauge": "Yaka Wewa",
-      "water_level": 0.72,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-27T19:07:30.931000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-27T19:07:30.931000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6
     }
   ]
 }
