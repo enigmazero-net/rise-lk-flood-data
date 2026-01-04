@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2026-01-04T23:46:08.802617+00:00",
+  "last_updated_utc": "2026-01-04T23:53:07.718475+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6407,
+  "record_count": 6405,
   "records": [
     {
       "objectid": 1273056,
@@ -96079,36 +96079,6 @@
       "alertpull": 3,
       "minorpull": 3.4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1266629,
-      "globalid": "1bcde125-9129-4ee7-ba78-2d963a4c4a71",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.45,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-28T23:50:54.195000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-28T23:50:54.195000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
-    },
-    {
-      "objectid": 1266628,
-      "globalid": "2aae23cf-17cf-45cf-903a-ee4f1271865b",
-      "basin": "Walawe Ganga",
-      "gauge": "Moraketiya",
-      "water_level": 0.96,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-28T23:46:49.968000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-28T23:46:49.968000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 5,
-      "majorpull": 7
     }
   ]
 }
