@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-04T14:46:07.551701+00:00",
+  "last_updated_utc": "2026-01-04T14:52:22.071306+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6402,
+  "record_count": 6400,
   "records": [
+    {
+      "objectid": 1272739,
+      "globalid": "b1580e93-ea1e-4158-ba68-829b84c4f159",
+      "basin": "Maha Oya",
+      "gauge": "Giriulla",
+      "water_level": 0.93,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-04T14:50:46.850000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-04T14:50:46.850000+00:00",
+      "Editor": "",
+      "alertpull": 5.5,
+      "minorpull": 6.5,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1272738,
       "globalid": "e23e73a0-5faf-46da-9bf4-8a8b9359cded",
@@ -95989,51 +96004,6 @@
       "alertpull": 4.75,
       "minorpull": 6,
       "majorpull": 7
-    },
-    {
-      "objectid": 1266316,
-      "globalid": "c764d994-0a45-49f7-9f2d-99dc4502e1b0",
-      "basin": "Maduru Oya",
-      "gauge": "Padiyathalawa",
-      "water_level": 0.77,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-28T14:52:01.182000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-28T14:52:01.182000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 4.5,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1266315,
-      "globalid": "d88ea55b-11dd-44f3-9a7a-926d3d8f391b",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.46,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-28T14:51:21.963000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-28T14:51:21.963000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
-    },
-    {
-      "objectid": 1266314,
-      "globalid": "ad704387-8344-49cc-a255-978d6acc5f7b",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 2.47,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-28T14:48:39.601000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-28T14:48:39.601000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
