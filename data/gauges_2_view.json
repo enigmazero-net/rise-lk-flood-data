@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-05T17:50:21.534200+00:00",
+  "last_updated_utc": "2026-01-05T18:19:19.565833+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6402,
+  "record_count": 6399,
   "records": [
+    {
+      "objectid": 1273758,
+      "globalid": "91651e6a-9e30-4a10-a054-dac1429c9734",
+      "basin": "Menik Ganga",
+      "gauge": "Katharagama",
+      "water_level": 0.01,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-05T18:04:45.691000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-05T18:04:45.691000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 4.6,
+      "majorpull": 6.5
+    },
     {
       "objectid": 1273757,
       "globalid": "c34249cd-911d-4e60-8d68-af9b930b9cb2",
@@ -95974,66 +95989,6 @@
       "alertpull": 1.4,
       "minorpull": 1.7,
       "majorpull": 2.8
-    },
-    {
-      "objectid": 1267340,
-      "globalid": "fd38e2b8-4825-4c06-b7c0-e1ceb7182e32",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 0.74,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-29T18:18:53.472000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-29T18:18:53.472000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
-    },
-    {
-      "objectid": 1267339,
-      "globalid": "7e097576-b394-4a19-8b84-0c4994fd22de",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 0.74,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-29T18:18:51.848000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-29T18:18:51.848000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
-    },
-    {
-      "objectid": 1267337,
-      "globalid": "75fc09fa-17a7-4d81-aa61-acfb1b29647c",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 0.74,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-29T18:16:18.580000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-29T18:16:18.580000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
-    },
-    {
-      "objectid": 1267336,
-      "globalid": "0f5bc375-4c56-4d10-855d-9d6808b58f37",
-      "basin": "Kelani Ganga",
-      "gauge": "Norwood",
-      "water_level": 0.58,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-29T17:52:35.301000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-29T17:52:35.301000+00:00",
-      "Editor": "",
-      "alertpull": 1.5,
-      "minorpull": 3,
-      "majorpull": 4.5
     }
   ]
 }
