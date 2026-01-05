@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-05T18:51:02.626514+00:00",
+  "last_updated_utc": "2026-01-05T19:13:47.476685+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6399,
+  "record_count": 6398,
   "records": [
+    {
+      "objectid": 1273793,
+      "globalid": "03ac12ca-b45b-4204-a79f-6c58bd7fbd1b",
+      "basin": "Menik Ganga",
+      "gauge": "Katharagama",
+      "water_level": 0.01,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-05T18:55:34.039000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-05T18:55:34.039000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 4.6,
+      "majorpull": 6.5
+    },
     {
       "objectid": 1273792,
       "globalid": "bffae1ec-a175-4e25-a69c-fa896ef0151e",
@@ -95959,36 +95974,6 @@
       "alertpull": 10,
       "minorpull": 10.7,
       "majorpull": 12.2
-    },
-    {
-      "objectid": 1267376,
-      "globalid": "b72aab6e-a294-481f-a7bd-1e7348704a26",
-      "basin": "Yan Oya",
-      "gauge": "Horowpothana",
-      "water_level": 1.43,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-29T19:09:12.447000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-29T19:09:12.447000+00:00",
-      "Editor": "",
-      "alertpull": 6,
-      "minorpull": 7.5,
-      "majorpull": 10.5
-    },
-    {
-      "objectid": 1267375,
-      "globalid": "5b226df6-57bc-4ca1-b646-6620e56a9b10",
-      "basin": "Kirindi Oya",
-      "gauge": "Thanamalwila",
-      "water_level": 0.87,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-29T19:06:07.347000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-29T19:06:07.347000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 5.5
     }
   ]
 }
