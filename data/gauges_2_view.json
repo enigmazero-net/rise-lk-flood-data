@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-05T05:54:11.787562+00:00",
+  "last_updated_utc": "2026-01-05T06:24:49.530784+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6401,
   "records": [
+    {
+      "objectid": 1273298,
+      "globalid": "b3445ae4-4f19-46c4-a808-0538f57ef07c",
+      "basin": "Gin Ganga",
+      "gauge": "Thawalama",
+      "water_level": 1.45,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-05T05:54:26.021000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-05T05:54:26.021000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1273297,
       "globalid": "21a4d525-0032-49ca-86bf-d7931b14a597",
@@ -96004,21 +96019,6 @@
       "alertpull": 4.4,
       "minorpull": 5.4,
       "majorpull": 5.9
-    },
-    {
-      "objectid": 1266875,
-      "globalid": "097c3d12-8230-40ca-82bb-ec4ff162b57a",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Weraganthota",
-      "water_level": -1.52,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-29T06:04:32.256000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-29T06:04:32.256000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 8
     }
   ]
 }
