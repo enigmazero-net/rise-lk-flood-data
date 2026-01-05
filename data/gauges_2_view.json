@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-01-05T21:53:28.827102+00:00",
+  "last_updated_utc": "2026-01-05T22:11:47.201372+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6399,
+  "record_count": 6400,
   "records": [
+    {
+      "objectid": 1273892,
+      "globalid": "c809c39d-4635-450e-87fc-6c4b9face9d5",
+      "basin": "Kalu Ganga",
+      "gauge": "Magura",
+      "water_level": 1.11,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-05T22:06:11.473000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-05T22:06:11.473000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1273891,
+      "globalid": "825838f9-b8fb-4567-b6ee-c8b6a7557db1",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": 0.5,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-05T22:01:54.798000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-05T22:01:54.798000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1273890,
+      "globalid": "fe1da5ea-bdb6-4016-85e0-834d3d27316d",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 1.25,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-05T22:00:26.965000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-05T22:00:26.965000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
     {
       "objectid": 1273889,
       "globalid": "6ac32fdd-992e-48fb-b604-436cbb18ceb2",
@@ -95959,36 +96004,6 @@
       "alertpull": null,
       "minorpull": null,
       "majorpull": null
-    },
-    {
-      "objectid": 1267473,
-      "globalid": "2fe65f57-db16-4e57-90ae-32c7cbbb6271",
-      "basin": "Kalu Ganga",
-      "gauge": "Putupaula",
-      "water_level": 0.58,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-29T22:04:44.505000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-29T22:04:44.505000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1267472,
-      "globalid": "230e6528-8ede-4cb9-9dca-6dbc9c1fe2e1",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.62,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-29T22:00:28.634000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-29T22:00:28.634000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
     }
   ]
 }
