@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-05T19:52:15.524366+00:00",
+  "last_updated_utc": "2026-01-05T20:14:08.692819+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6401,
+  "record_count": 6402,
   "records": [
+    {
+      "objectid": 1273824,
+      "globalid": "06f0e411-0350-4d9a-8ff6-dca2e15ccec0",
+      "basin": "Kelani Ganga",
+      "gauge": "Nagalagam Street",
+      "water_level": 1.8,
+      "rain_fall": null,
+      "CreationDate": "2026-01-05T20:03:14.382000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-05T20:03:14.382000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 7
+    },
     {
       "objectid": 1273823,
       "globalid": "42d44d20-036a-4a2a-b446-d7cd24fa2630",
