@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-05T14:44:50.306658+00:00",
+  "last_updated_utc": "2026-01-05T14:57:59.826699+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6410,
+  "record_count": 6408,
   "records": [
+    {
+      "objectid": 1273655,
+      "globalid": "5f64ab0c-597a-4bd7-8dda-22758c52968c",
+      "basin": "Deduru Oya",
+      "gauge": "Moragaswewa",
+      "water_level": 0.54,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-05T14:47:13.645000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-05T14:47:13.645000+00:00",
+      "Editor": "",
+      "alertpull": 4.75,
+      "minorpull": 6,
+      "majorpull": 7
+    },
     {
       "objectid": 1273654,
       "globalid": "d834dd73-3f7f-40e1-8268-9435e3d685db",
@@ -96109,51 +96124,6 @@
       "alertpull": 3.5,
       "minorpull": 5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1267226,
-      "globalid": "1e258942-1fc8-441b-9a5d-cd5375eb689c",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 1.03,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-29T14:50:48.571000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-29T14:50:48.571000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1267225,
-      "globalid": "4fb13bfa-6814-4e64-a877-7bb1b6e44581",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 2.46,
-      "rain_fall": null,
-      "CreationDate": "2025-12-29T14:47:35.658000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-29T14:47:35.658000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1267224,
-      "globalid": "881bc349-21e2-4c71-9854-db3736ea173d",
-      "basin": "Deduru Oya",
-      "gauge": "Moragaswewa",
-      "water_level": 0.6,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-29T14:46:04.450000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-29T14:46:04.450000+00:00",
-      "Editor": "",
-      "alertpull": 4.75,
-      "minorpull": 6,
-      "majorpull": 7
     }
   ]
 }
