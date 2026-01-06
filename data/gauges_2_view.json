@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-06T15:42:57.413065+00:00",
+  "last_updated_utc": "2026-01-06T15:56:13.323310+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6410,
+  "record_count": 6409,
   "records": [
+    {
+      "objectid": 1274606,
+      "globalid": "2497a586-0e16-4555-9a3d-633822953e4e",
+      "basin": "Deduru Oya",
+      "gauge": "Moragaswewa",
+      "water_level": 0.59,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-06T15:46:16.606000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-06T15:46:16.606000+00:00",
+      "Editor": "",
+      "alertpull": 4.75,
+      "minorpull": 6,
+      "majorpull": 7
+    },
     {
       "objectid": 1274605,
       "globalid": "ae598a73-804f-4f93-857a-33bda201bfeb",
@@ -96124,36 +96139,6 @@
       "alertpull": 4.75,
       "minorpull": 6,
       "majorpull": 7
-    },
-    {
-      "objectid": 1268177,
-      "globalid": "d0ffb9d5-41b5-4b87-b0f5-d8363a303c60",
-      "basin": "Kalu Ganga",
-      "gauge": "Putupaula",
-      "water_level": 0.65,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-30T15:49:33.945000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-30T15:49:33.945000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1268176,
-      "globalid": "6b7f5762-4153-4795-8e19-6257eea604f8",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.56,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-30T15:48:39.020000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-30T15:48:39.020000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
     }
   ]
 }
