@@ -1,10 +1,70 @@
 {
-  "last_updated_utc": "2026-01-06T11:46:00.971271+00:00",
+  "last_updated_utc": "2026-01-06T11:53:07.927566+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6400,
+  "record_count": 6403,
   "records": [
+    {
+      "objectid": 1274449,
+      "globalid": "ea0781dd-8ce2-4b96-a3ee-fcdedf87a2f7",
+      "basin": "Kalu Ganga",
+      "gauge": "Magura",
+      "water_level": 0.83,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-06T11:52:46.566000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-06T11:52:46.566000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1274448,
+      "globalid": "e73b3cc9-79d4-4229-9b17-e9f39c0cca58",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.43,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-06T11:49:27.244000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-06T11:49:27.244000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
+    {
+      "objectid": 1274447,
+      "globalid": "34a31bb1-b6aa-4fc5-9479-ed4d0bdc6dbf",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": 0.28,
+      "rain_fall": null,
+      "CreationDate": "2026-01-06T11:46:30.578000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-06T11:46:30.578000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1274446,
+      "globalid": "51932ccc-e4b3-4540-a0e3-0fedf19ddf10",
+      "basin": "Yan Oya",
+      "gauge": "Horowpothana",
+      "water_level": 2.46,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-06T11:46:04.562000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-06T11:46:04.562000+00:00",
+      "Editor": "",
+      "alertpull": 6,
+      "minorpull": 7.5,
+      "majorpull": 10.5
+    },
     {
       "objectid": 1274445,
       "globalid": "98b77e93-2995-4460-8d55-9a5d1f0832ce",
@@ -95989,21 +96049,6 @@
       "alertpull": 1.4,
       "minorpull": 1.7,
       "majorpull": 2.8
-    },
-    {
-      "objectid": 1268028,
-      "globalid": "a0ef1c3d-2135-4dd8-a988-d13303a8d142",
-      "basin": "Mee Oya",
-      "gauge": "Galgamuwa",
-      "water_level": 0.58,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-30T11:47:49.071000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-30T11:47:49.071000+00:00",
-      "Editor": "",
-      "alertpull": 4.84,
-      "minorpull": 5.94,
-      "majorpull": 8
     }
   ]
 }
