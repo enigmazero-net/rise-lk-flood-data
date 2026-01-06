@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-06T13:48:22.939474+00:00",
+  "last_updated_utc": "2026-01-06T13:59:40.499824+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6408,
   "records": [
+    {
+      "objectid": 1274531,
+      "globalid": "0478533b-b1ef-4827-ac5a-609277c03fd8",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Thaldena",
+      "water_level": 1.28,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-06T13:50:36.772000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-06T13:50:36.772000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
     {
       "objectid": 1274530,
       "globalid": "4a03dab5-58b1-49f5-9d96-d7738a8e8963",
@@ -96109,21 +96124,6 @@
       "alertpull": 5,
       "minorpull": 6.5,
       "majorpull": 8
-    },
-    {
-      "objectid": 1268103,
-      "globalid": "eab88bbd-6dd8-441e-93cd-f1f4b8b33c31",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Nawalapitiya",
-      "water_level": 0.79,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-30T13:50:08.264000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-30T13:50:08.264000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
-      "minorpull": 5,
-      "majorpull": 6
     }
   ]
 }
