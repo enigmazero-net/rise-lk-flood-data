@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-01-06T19:45:05.677681+00:00",
+  "last_updated_utc": "2026-01-06T19:52:19.030581+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6407,
   "records": [
+    {
+      "objectid": 1274734,
+      "globalid": "f385d7ee-17f6-4e62-a6d8-1d48682840f7",
+      "basin": "Gin Ganga",
+      "gauge": "Thawalama",
+      "water_level": 1.6,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-06T19:47:55.852000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-06T19:47:55.852000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1274733,
+      "globalid": "150d3004-b710-4ac9-af79-eda4753d00a3",
+      "basin": "Gin Ganga",
+      "gauge": "Thawalama",
+      "water_level": 1.52,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-06T19:47:18.198000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-06T19:47:18.198000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1274732,
       "globalid": "1976cf59-0d06-497f-aee9-b5ff7d5fd27f",
@@ -96079,36 +96109,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1268307,
-      "globalid": "177b43cc-58b1-442d-b965-3d34a23c7759",
-      "basin": "Kelani Ganga",
-      "gauge": "Glencourse",
-      "water_level": 8.78,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-30T19:49:52.625000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-30T19:49:52.625000+00:00",
-      "Editor": "",
-      "alertpull": 15,
-      "minorpull": 16.5,
-      "majorpull": 19
-    },
-    {
-      "objectid": 1268306,
-      "globalid": "efb25c5b-2364-4ac1-94d7-4aeedaced51c",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 0.72,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-30T19:46:37.817000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-30T19:46:37.817000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
     }
   ]
 }
