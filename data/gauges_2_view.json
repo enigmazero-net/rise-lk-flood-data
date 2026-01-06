@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-01-06T17:40:16.936105+00:00",
+  "last_updated_utc": "2026-01-06T17:55:41.504916+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6415,
+  "record_count": 6416,
   "records": [
+    {
+      "objectid": 1274674,
+      "globalid": "3a432773-4d9f-4715-a317-e3b2c178e26e",
+      "basin": "Kalu Ganga",
+      "gauge": "Ellagawa",
+      "water_level": 4.37,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-06T17:44:13.771000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-06T17:44:13.771000+00:00",
+      "Editor": "",
+      "alertpull": 10,
+      "minorpull": 10.7,
+      "majorpull": 12.2
+    },
+    {
+      "objectid": 1274673,
+      "globalid": "4945a102-5e0a-4dc1-aee6-073246aee82c",
+      "basin": "Walawe Ganga",
+      "gauge": "Moraketiya",
+      "water_level": 0.96,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-06T17:42:06.430000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-06T17:42:06.430000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 5,
+      "majorpull": 7
+    },
+    {
+      "objectid": 1274672,
+      "globalid": "28c81d11-c8ef-4ed7-b382-6e1deaa494ce",
+      "basin": "Yan Oya",
+      "gauge": "Horowpothana",
+      "water_level": 2.83,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-06T17:40:38.807000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-06T17:40:38.807000+00:00",
+      "Editor": "",
+      "alertpull": 6,
+      "minorpull": 7.5,
+      "majorpull": 10.5
+    },
     {
       "objectid": 1274671,
       "globalid": "20a14897-0f74-44ce-8305-640314db17bd",
@@ -96199,36 +96244,6 @@
       "alertpull": 4,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1268238,
-      "globalid": "d864b1a6-02ce-4b13-9bc6-a6872166233c",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 2.37,
-      "rain_fall": null,
-      "CreationDate": "2025-12-30T17:47:33.480000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-30T17:47:33.480000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1268237,
-      "globalid": "aa923b45-67a8-4b46-a523-9d1f8338d1e9",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Peradeniya",
-      "water_level": 2.42,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-30T17:41:01.022000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-30T17:41:01.022000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 7,
-      "majorpull": 9
     }
   ]
 }
