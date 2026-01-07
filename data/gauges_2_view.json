@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-07T15:45:53.470689+00:00",
+  "last_updated_utc": "2026-01-07T15:59:10.233701+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6411,
   "records": [
+    {
+      "objectid": 1275523,
+      "globalid": "cec365d9-789c-450a-82fb-f78cce953ea7",
+      "basin": "Maha Oya",
+      "gauge": "Giriulla",
+      "water_level": 0.97,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-07T15:51:16.854000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-07T15:51:16.854000+00:00",
+      "Editor": "",
+      "alertpull": 5.5,
+      "minorpull": 6.5,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1275522,
       "globalid": "c73e18e4-64c2-4bc0-852a-9f820a30e423",
@@ -96154,21 +96169,6 @@
       "alertpull": null,
       "minorpull": null,
       "majorpull": null
-    },
-    {
-      "objectid": 1269091,
-      "globalid": "e6f32752-2b7e-4707-bde0-20314767a802",
-      "basin": "Maduru Oya",
-      "gauge": "Padiyathalawa",
-      "water_level": 0.73,
-      "rain_fall": 0.5,
-      "CreationDate": "2025-12-31T15:46:12.874000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-31T15:46:12.874000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 4.5,
-      "majorpull": 6
     }
   ]
 }
