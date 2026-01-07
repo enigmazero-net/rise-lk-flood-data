@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-07T13:51:30.386213+00:00",
+  "last_updated_utc": "2026-01-07T14:15:01.047844+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6412,
+  "record_count": 6411,
   "records": [
+    {
+      "objectid": 1275446,
+      "globalid": "83f64313-21cf-442a-9969-7ae8bb4ec337",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Manampitiya",
+      "water_level": 2.58,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-07T14:08:06.557000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-07T14:08:06.557000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4.3,
+      "majorpull": 6
+    },
     {
       "objectid": 1275445,
       "globalid": "3ed1334e-46db-4715-9326-9f3706e8648a",
@@ -96154,36 +96169,6 @@
       "alertpull": 3.5,
       "minorpull": 5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1269014,
-      "globalid": "7146bfb5-2d65-49af-9dfa-69682269cc3f",
-      "basin": "Maduru Oya",
-      "gauge": "Padiyathalawa",
-      "water_level": 0.73,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-31T14:12:02.911000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-31T14:12:02.911000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 4.5,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1269013,
-      "globalid": "bcd89464-0fee-421b-a7cc-9fc107d2c2fc",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.52,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-31T13:52:02.641000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-31T13:52:02.641000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
     }
   ]
 }
