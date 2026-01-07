@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-07T19:45:34.005122+00:00",
+  "last_updated_utc": "2026-01-07T19:52:40.111075+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6412,
   "records": [
+    {
+      "objectid": 1275659,
+      "globalid": "10931275-16fd-4a53-9c26-5cbfa677fef5",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Peradeniya",
+      "water_level": 2.58,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-07T19:48:05.180000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-07T19:48:05.180000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 7,
+      "majorpull": 9
+    },
     {
       "objectid": 1275658,
       "globalid": "d9fdb28c-d7e9-4cf2-9808-50c7b4161a03",
@@ -96169,21 +96184,6 @@
       "alertpull": 4,
       "minorpull": 4.5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1269226,
-      "globalid": "8510ee23-bd07-4c3f-97c4-44548bccccbe",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.55,
-      "rain_fall": 0,
-      "CreationDate": "2025-12-31T19:45:37.783000+00:00",
-      "Creator": "",
-      "EditDate": "2025-12-31T19:45:37.783000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
     }
   ]
 }
