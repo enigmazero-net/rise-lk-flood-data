@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-08T23:11:04.584001+00:00",
+  "last_updated_utc": "2026-01-08T23:29:59.058410+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6436,
   "records": [
+    {
+      "objectid": 1276697,
+      "globalid": "8c623642-acfc-49b5-928a-7951052db36c",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.68,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-08T23:25:51.631000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-08T23:25:51.631000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
     {
       "objectid": 1276696,
       "globalid": "b71aa3f3-aec9-412b-b6c2-c2136ff2a83b",
@@ -96529,21 +96544,6 @@
       "alertpull": 6.9,
       "minorpull": 8.4,
       "majorpull": 8.8
-    },
-    {
-      "objectid": 1270239,
-      "globalid": "0c13ef8b-7a6b-4fd0-9c73-27d48a531da9",
-      "basin": "Kelani Ganga",
-      "gauge": "Deraniyagala",
-      "water_level": 0.34,
-      "rain_fall": null,
-      "CreationDate": "2026-01-01T23:17:54.285000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-01T23:17:54.285000+00:00",
-      "Editor": "",
-      "alertpull": 4.8,
-      "minorpull": 5.8,
-      "majorpull": 6.4
     }
   ]
 }
