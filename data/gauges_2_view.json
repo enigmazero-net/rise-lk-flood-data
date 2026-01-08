@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-08T13:52:23.961264+00:00",
+  "last_updated_utc": "2026-01-08T14:16:31.157706+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6423,
   "records": [
+    {
+      "objectid": 1276365,
+      "globalid": "f6cc0167-dc48-4b65-bf95-d0b5afcd0268",
+      "basin": "Maha Oya",
+      "gauge": "Badalgama",
+      "water_level": 2.01,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-08T14:06:29.571000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-08T14:06:29.571000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.2,
+      "majorpull": 9.6
+    },
     {
       "objectid": 1276364,
       "globalid": "b36b1f35-74c2-4fe5-9e22-be89f03f509b",
@@ -96334,21 +96349,6 @@
       "alertpull": null,
       "minorpull": null,
       "majorpull": null
-    },
-    {
-      "objectid": 1269920,
-      "globalid": "11e9b7c3-f6f7-4264-ab17-d43ce020b8eb",
-      "basin": "Kalu Ganga",
-      "gauge": "Kalawellawa (Millakanda)",
-      "water_level": 1.48,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-01T14:04:46.863000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-01T14:04:46.863000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.5,
-      "majorpull": 8
     }
   ]
 }
