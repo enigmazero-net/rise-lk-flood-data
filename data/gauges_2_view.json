@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-01-09T19:46:53.530013+00:00",
+  "last_updated_utc": "2026-01-09T19:53:38.348614+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6439,
+  "record_count": 6441,
   "records": [
+    {
+      "objectid": 1277519,
+      "globalid": "8ed7848d-6c65-46c0-be38-2e9525e97251",
+      "basin": "Kalu Ganga",
+      "gauge": "Rathnapura",
+      "water_level": 0.71,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-09T19:52:53.662000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-09T19:52:53.662000+00:00",
+      "Editor": "",
+      "alertpull": 5.2,
+      "minorpull": 7.5,
+      "majorpull": 9.5
+    },
+    {
+      "objectid": 1277518,
+      "globalid": "a6c074e2-2c51-4873-bb47-e6014df1b358",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.35,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-09T19:52:41.685000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-09T19:52:41.685000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
     {
       "objectid": 1277517,
       "globalid": "d2ea7a52-2206-42e8-8be0-4f5dc2daa2aa",
