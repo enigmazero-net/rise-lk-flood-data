@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-09T10:43:18.639932+00:00",
+  "last_updated_utc": "2026-01-09T10:57:19.859825+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6442,
+  "record_count": 6441,
   "records": [
+    {
+      "objectid": 1277185,
+      "globalid": "867a990e-8389-414b-893a-fa11b71785e3",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": 0.3,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-09T10:46:07.014000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-09T10:46:07.014000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
     {
       "objectid": 1277184,
       "globalid": "4063c191-b112-4327-897b-73a879ea6d00",
@@ -96603,36 +96618,6 @@
       "Editor": "",
       "alertpull": 4,
       "minorpull": 4.5,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1270723,
-      "globalid": "89108d1e-8406-43cb-bafd-cffd6d7a4316",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 0.89,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-02T10:47:41.253000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-02T10:47:41.253000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1270722,
-      "globalid": "becde987-96d7-487b-b653-f864ed3cfd19",
-      "basin": "Nilwala Ganga",
-      "gauge": "Urawa",
-      "water_level": 0.36,
-      "rain_fall": null,
-      "CreationDate": "2026-01-02T10:45:28.156000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-02T10:45:28.156000+00:00",
-      "Editor": "",
-      "alertpull": 2.5,
-      "minorpull": 4,
       "majorpull": 6
     }
   ]
