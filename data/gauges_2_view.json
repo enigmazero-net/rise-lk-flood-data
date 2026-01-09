@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-09T10:57:19.859825+00:00",
+  "last_updated_utc": "2026-01-09T11:16:00.808288+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6441,
+  "record_count": 6440,
   "records": [
+    {
+      "objectid": 1277186,
+      "globalid": "124bbec0-c611-47eb-a506-c94695c11cf0",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.4,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-09T11:01:33.127000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-09T11:01:33.127000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
     {
       "objectid": 1277185,
       "globalid": "867a990e-8389-414b-893a-fa11b71785e3",
@@ -96589,36 +96604,6 @@
       "alertpull": 4,
       "minorpull": 4.6,
       "majorpull": 6.5
-    },
-    {
-      "objectid": 1270725,
-      "globalid": "54a67953-5bcd-4955-9da8-de2b549a5603",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.4,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-02T11:12:45.198000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-02T11:12:45.198000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
-    },
-    {
-      "objectid": 1270724,
-      "globalid": "2eb1e8fe-ffd2-49d1-84ef-ea11f0fe4b61",
-      "basin": "Maduru Oya",
-      "gauge": "Padiyathalawa",
-      "water_level": 1.35,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-02T10:59:49.155000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-02T10:59:49.155000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 4.5,
-      "majorpull": 6
     }
   ]
 }
