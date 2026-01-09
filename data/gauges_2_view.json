@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-09T15:40:43.090468+00:00",
+  "last_updated_utc": "2026-01-09T15:56:38.494516+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6442,
   "records": [
+    {
+      "objectid": 1277380,
+      "globalid": "0b3622c8-c551-425f-b4fc-e7d99e6ba185",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Peradeniya",
+      "water_level": 2.24,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-09T15:41:59.656000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-09T15:41:59.656000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 7,
+      "majorpull": 9
+    },
     {
       "objectid": 1277379,
       "globalid": "dfe21b14-513a-4e7d-a2a6-e4d7da2eff21",
@@ -96617,21 +96632,6 @@
       "EditDate": "2026-01-02T16:01:42.287000+00:00",
       "Editor": "",
       "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1270916,
-      "globalid": "048ea56f-cb62-47ae-a488-06965a9b0f85",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 2.44,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-02T15:41:36.254000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-02T15:41:36.254000+00:00",
-      "Editor": "",
-      "alertpull": 5,
       "minorpull": 6,
       "majorpull": 7.5
     }
