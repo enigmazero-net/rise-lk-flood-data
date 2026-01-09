@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-01-09T07:41:00.944534+00:00",
+  "last_updated_utc": "2026-01-09T07:54:09.419411+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6441,
+  "record_count": 6442,
   "records": [
+    {
+      "objectid": 1277064,
+      "globalid": "af4aabba-fcf9-49fc-9e36-8a038e361f70",
+      "basin": "Deduru Oya",
+      "gauge": "Moragaswewa",
+      "water_level": 1.7,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-09T07:47:55.235000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-09T07:47:55.235000+00:00",
+      "Editor": "",
+      "alertpull": 4.75,
+      "minorpull": 6,
+      "majorpull": 7
+    },
+    {
+      "objectid": 1277063,
+      "globalid": "8f3df542-e33b-4563-81ca-8e51bee8d0a8",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 2.51,
+      "rain_fall": null,
+      "CreationDate": "2026-01-09T07:42:31.340000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-09T07:42:31.340000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1277062,
+      "globalid": "669f8199-76c4-42bc-826b-60c9012a5421",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.39,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-09T07:42:28.312000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-09T07:42:28.312000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
     {
       "objectid": 1277061,
       "globalid": "981470b0-d093-4c74-99a3-2ffa267c24f3",
@@ -96589,36 +96634,6 @@
       "alertpull": 1.4,
       "minorpull": 1.7,
       "majorpull": 2.8
-    },
-    {
-      "objectid": 1270602,
-      "globalid": "f00420b4-8e7c-479e-8bad-e0e765239c63",
-      "basin": "Maha Oya",
-      "gauge": "Badalgama",
-      "water_level": 2.13,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-02T07:49:07.265000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-02T07:49:07.265000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.2,
-      "majorpull": 9.6
-    },
-    {
-      "objectid": 1270601,
-      "globalid": "7bf026c6-0462-4078-b58a-dc63aecd3289",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 0.9,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-02T07:43:20.526000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-02T07:43:20.526000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
