@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-10T19:43:04.298178+00:00",
+  "last_updated_utc": "2026-01-10T19:51:50.333568+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6447,
+  "record_count": 6446,
   "records": [
+    {
+      "objectid": 1278437,
+      "globalid": "4771870c-c5fe-46d2-b974-82b728f5f2a8",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 0.57,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-10T19:44:49.081000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-10T19:44:49.081000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
     {
       "objectid": 1278436,
       "globalid": "1abeda39-b00b-4bbd-843b-4a2d145e152d",
@@ -96679,36 +96694,6 @@
       "alertpull": 3,
       "minorpull": 3.4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1271972,
-      "globalid": "21fa6796-5c2d-4500-b4ab-daac85e8c446",
-      "basin": "Kelani Ganga",
-      "gauge": "Hanwella",
-      "water_level": 0.46,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-03T19:48:12.657000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-03T19:48:12.657000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
-    },
-    {
-      "objectid": 1271971,
-      "globalid": "41cecb95-724e-4c09-8752-529d616e3a82",
-      "basin": "Walawe Ganga",
-      "gauge": "Moraketiya",
-      "water_level": 0.96,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-03T19:43:57.158000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-03T19:43:57.158000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 5,
-      "majorpull": 7
     }
   ]
 }
