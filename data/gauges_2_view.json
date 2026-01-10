@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-01-10T19:51:50.333568+00:00",
+  "last_updated_utc": "2026-01-10T20:12:04.504824+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6446,
+  "record_count": 6448,
   "records": [
+    {
+      "objectid": 1278439,
+      "globalid": "9c8fc161-bbde-4113-ab0a-5e3e806520ca",
+      "basin": "Kelani Ganga",
+      "gauge": "Glencourse",
+      "water_level": 8.64,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-10T20:06:14.260000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-10T20:06:14.260000+00:00",
+      "Editor": "",
+      "alertpull": 15,
+      "minorpull": 16.5,
+      "majorpull": 19
+    },
+    {
+      "objectid": 1278438,
+      "globalid": "410900a1-fe00-4e05-bf0e-1830bfea4c30",
+      "basin": "Kalu Ganga",
+      "gauge": "Kalawellawa (Millakanda)",
+      "water_level": 1.4,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-10T20:01:22.719000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-10T20:01:22.719000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.5,
+      "majorpull": 8
+    },
     {
       "objectid": 1278437,
       "globalid": "4771870c-c5fe-46d2-b974-82b728f5f2a8",
