@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-01-10T17:09:46.699314+00:00",
+  "last_updated_utc": "2026-01-10T17:30:20.826647+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6439,
+  "record_count": 6441,
   "records": [
+    {
+      "objectid": 1278339,
+      "globalid": "5d4558c9-f639-4f65-a547-de5c15f17411",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Manampitiya",
+      "water_level": 2,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-10T17:30:18.445000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-10T17:30:18.445000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4.3,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1278338,
+      "globalid": "510fa7de-a7fd-47f8-abb8-8c3423d407b2",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": 0.25,
+      "rain_fall": null,
+      "CreationDate": "2026-01-10T17:30:14.097000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-10T17:30:14.097000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
     {
       "objectid": 1278337,
       "globalid": "27db591a-210b-4346-a32f-2ee61eb02a22",
