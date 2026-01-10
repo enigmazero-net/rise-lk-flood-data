@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-10T13:55:32.702629+00:00",
+  "last_updated_utc": "2026-01-10T14:11:26.074265+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6442,
   "records": [
+    {
+      "objectid": 1278227,
+      "globalid": "5590a675-aab9-429b-9f50-a8e995cd5c19",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 0.57,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-10T14:05:15.460000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-10T14:05:15.460000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
     {
       "objectid": 1278226,
       "globalid": "1332fb66-771f-4b8f-a3f0-5f53b66e6a77",
@@ -96619,21 +96634,6 @@
       "alertpull": 4.4,
       "minorpull": 5.4,
       "majorpull": 5.9
-    },
-    {
-      "objectid": 1271766,
-      "globalid": "654f6763-8f0e-43e1-9631-1cb28f611069",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Thaldena",
-      "water_level": 0.7,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-03T14:06:17.704000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-03T14:06:17.704000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
     }
   ]
 }
