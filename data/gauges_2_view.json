@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-10T05:54:46.816405+00:00",
+  "last_updated_utc": "2026-01-10T06:17:15.998095+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6434,
+  "record_count": 6435,
   "records": [
+    {
+      "objectid": 1277903,
+      "globalid": "5310685c-bd6d-4786-886f-47a5e5571a8c",
+      "basin": "Aththanagalu Oya",
+      "gauge": "Dunamale",
+      "water_level": 0.63,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-10T05:56:05.971000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-10T05:56:05.971000+00:00",
+      "Editor": "",
+      "alertpull": 3.3,
+      "minorpull": 4.4,
+      "majorpull": 5.5
+    },
     {
       "objectid": 1277902,
       "globalid": "c01cbfe6-6e61-4a45-af18-9c0d52450d37",
