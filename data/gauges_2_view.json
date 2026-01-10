@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-10T18:58:20.203068+00:00",
+  "last_updated_utc": "2026-01-10T19:14:34.026679+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6444,
   "records": [
+    {
+      "objectid": 1278410,
+      "globalid": "244f1130-e826-4608-9753-28e6fee350ef",
+      "basin": "Gal Oya",
+      "gauge": "Ampara",
+      "water_level": 0,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-10T19:14:11.991000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-10T19:14:11.991000+00:00",
+      "Editor": "",
+      "alertpull": null,
+      "minorpull": null,
+      "majorpull": null
+    },
     {
       "objectid": 1278409,
       "globalid": "47bf43d3-8863-49fa-bed3-5631d9f40ee9",
@@ -96649,21 +96664,6 @@
       "alertpull": 5,
       "minorpull": 6.5,
       "majorpull": 8
-    },
-    {
-      "objectid": 1271947,
-      "globalid": "55ce9c94-bf81-49be-a45d-ad545b3df480",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 1.25,
-      "rain_fall": null,
-      "CreationDate": "2026-01-03T19:13:46.811000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-03T19:13:46.811000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
     }
   ]
 }
