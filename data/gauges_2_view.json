@@ -1,10 +1,70 @@
 {
-  "last_updated_utc": "2026-01-11T16:41:38.751414+00:00",
+  "last_updated_utc": "2026-01-11T16:55:57.642149+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6438,
+  "record_count": 6441,
   "records": [
+    {
+      "objectid": 1279265,
+      "globalid": "f7f909e9-0189-4512-b27b-ae425114b18c",
+      "basin": "Gal Oya",
+      "gauge": "Ampara",
+      "water_level": 0,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-11T16:50:52.298000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-11T16:50:52.298000+00:00",
+      "Editor": "",
+      "alertpull": null,
+      "minorpull": null,
+      "majorpull": null
+    },
+    {
+      "objectid": 1279264,
+      "globalid": "18a87bfb-9870-44b5-ad37-2d76c950771e",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Peradeniya",
+      "water_level": 2.05,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-11T16:50:03.334000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-11T16:50:03.334000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 7,
+      "majorpull": 9
+    },
+    {
+      "objectid": 1279263,
+      "globalid": "a0c83f77-6bfb-4346-b941-9f81fc390acc",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.5,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-11T16:45:11.642000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-11T16:45:11.642000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1279262,
+      "globalid": "6ad89de5-1531-4b8f-8519-d571d055daf3",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 2.29,
+      "rain_fall": null,
+      "CreationDate": "2026-01-11T16:42:25.171000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-11T16:42:25.171000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1279261,
       "globalid": "3d4c9b0f-41c8-43e8-a451-35400e318381",
@@ -96559,21 +96619,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 6
-    },
-    {
-      "objectid": 1272811,
-      "globalid": "63cd880f-3ba6-4ff5-97b8-92dda117d8c4",
-      "basin": "Gin Ganga",
-      "gauge": "Thawalama",
-      "water_level": 1.63,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-04T16:53:35.210000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-04T16:53:35.210000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
