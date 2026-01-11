@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-11T20:47:40.341791+00:00",
+  "last_updated_utc": "2026-01-11T20:55:02.289293+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6444,
+  "record_count": 6442,
   "records": [
+    {
+      "objectid": 1279401,
+      "globalid": "c5a7a1a1-4f8a-4270-a2fb-44153eff1d0c",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 0.53,
+      "rain_fall": null,
+      "CreationDate": "2026-01-11T20:50:52.161000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-11T20:50:52.161000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
     {
       "objectid": 1279400,
       "globalid": "9d0e499c-de63-431b-b83d-ca9585c8da35",
@@ -96619,51 +96634,6 @@
       "alertpull": 5,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1272945,
-      "globalid": "d1a71c3b-c0b2-4ba9-b47b-102b44da50ff",
-      "basin": "Gin Ganga",
-      "gauge": "Thawalama",
-      "water_level": 1.65,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-04T20:50:23.725000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-04T20:50:23.725000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1272944,
-      "globalid": "a1db28bb-da49-4680-bb0c-d8bc846361b5",
-      "basin": "Gin Ganga",
-      "gauge": "Thawalama",
-      "water_level": 1.67,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-04T20:49:50.422000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-04T20:49:50.422000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1272943,
-      "globalid": "d5f9807a-95b8-44b3-8bb4-35ff7ce2b7cf",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.38,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-04T20:48:34.631000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-04T20:48:34.631000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
     }
   ]
 }
