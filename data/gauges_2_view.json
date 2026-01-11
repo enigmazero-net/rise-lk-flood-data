@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-11T19:52:01.332736+00:00",
+  "last_updated_utc": "2026-01-11T20:13:05.232939+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6447,
   "records": [
+    {
+      "objectid": 1279370,
+      "globalid": "c63aa239-ade6-4503-a529-9173d80e7650",
+      "basin": "Kelani Ganga",
+      "gauge": "Glencourse",
+      "water_level": 9.95,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-11T20:02:03.935000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-11T20:02:03.935000+00:00",
+      "Editor": "",
+      "alertpull": 15,
+      "minorpull": 16.5,
+      "majorpull": 19
+    },
     {
       "objectid": 1279369,
       "globalid": "2089ef7c-80e1-4c3b-9459-e45019a02cb0",
@@ -96694,21 +96709,6 @@
       "alertpull": 2.5,
       "minorpull": 4,
       "majorpull": 6
-    },
-    {
-      "objectid": 1272909,
-      "globalid": "4cbfcd05-f0ea-4910-aa11-8704f6142526",
-      "basin": "Heda Oya",
-      "gauge": "Siyambalanduwa",
-      "water_level": 0.72,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-04T20:04:10.770000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-04T20:04:10.770000+00:00",
-      "Editor": "",
-      "alertpull": 4.5,
-      "minorpull": 6,
-      "majorpull": 7
     }
   ]
 }
