@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2026-01-11T14:46:55.727259+00:00",
+  "last_updated_utc": "2026-01-11T14:53:49.734096+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6440,
+  "record_count": 6439,
   "records": [
     {
       "objectid": 1279191,
@@ -96589,21 +96589,6 @@
       "alertpull": null,
       "minorpull": null,
       "majorpull": null
-    },
-    {
-      "objectid": 1272739,
-      "globalid": "b1580e93-ea1e-4158-ba68-829b84c4f159",
-      "basin": "Maha Oya",
-      "gauge": "Giriulla",
-      "water_level": 0.93,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-04T14:50:46.850000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-04T14:50:46.850000+00:00",
-      "Editor": "",
-      "alertpull": 5.5,
-      "minorpull": 6.5,
-      "majorpull": 7.5
     }
   ]
 }
