@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-01-12T22:54:57.949234+00:00",
+  "last_updated_utc": "2026-01-12T23:09:58.632316+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6439,
+  "record_count": 6440,
   "records": [
+    {
+      "objectid": 1280386,
+      "globalid": "21bcc137-db8c-4e07-98ae-633eb874dfa7",
+      "basin": "Kumbukkan Oya",
+      "gauge": "Nakkala",
+      "water_level": 1.4,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-12T23:07:36.222000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-12T23:07:36.222000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1280385,
+      "globalid": "aebe4ec2-afdf-4361-96a6-6f026c977906",
+      "basin": "Kirindi Oya",
+      "gauge": "Thanamalwila",
+      "water_level": 1.03,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-12T22:58:46.740000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-12T22:58:46.740000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 5.5
+    },
     {
       "objectid": 1280384,
       "globalid": "5bb4d40f-bd21-4f13-b335-d9d9dbc8037d",
@@ -96574,21 +96604,6 @@
       "alertpull": 3,
       "minorpull": 4.3,
       "majorpull": 6
-    },
-    {
-      "objectid": 1273929,
-      "globalid": "67326b88-df8e-452f-9bf5-87186a3a99f1",
-      "basin": "Walawe Ganga",
-      "gauge": "Moraketiya",
-      "water_level": 0.96,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-05T23:05:57.532000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-05T23:05:57.532000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 5,
-      "majorpull": 7
     }
   ]
 }
