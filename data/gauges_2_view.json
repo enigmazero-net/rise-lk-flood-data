@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-13T08:49:10.275209+00:00",
+  "last_updated_utc": "2026-01-13T09:14:29.949583+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6436,
   "records": [
+    {
+      "objectid": 1280782,
+      "globalid": "8bb8fce9-1d67-46e3-b496-f595f9247b05",
+      "basin": "Walawe Ganga",
+      "gauge": "Moraketiya",
+      "water_level": 0.97,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-13T08:49:23.713000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-13T08:49:23.713000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 5,
+      "majorpull": 7
+    },
     {
       "objectid": 1280781,
       "globalid": "3fb07955-b9ca-41d1-9ba7-12ba9bbd3f45",
@@ -96529,21 +96544,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1274329,
-      "globalid": "eddf58a0-3ada-4532-ac53-869cebcb5900",
-      "basin": "Nilwala Ganga",
-      "gauge": "Urawa",
-      "water_level": 0.3,
-      "rain_fall": null,
-      "CreationDate": "2026-01-06T08:59:06.255000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-06T08:59:06.255000+00:00",
-      "Editor": "",
-      "alertpull": 2.5,
-      "minorpull": 4,
-      "majorpull": 6
     }
   ]
 }
