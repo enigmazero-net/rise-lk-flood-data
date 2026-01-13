@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-13T10:45:36.733160+00:00",
+  "last_updated_utc": "2026-01-13T10:58:10.480191+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6440,
+  "record_count": 6439,
   "records": [
+    {
+      "objectid": 1280863,
+      "globalid": "4699d576-79e2-438f-8f25-3eea2ae76025",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": 0.24,
+      "rain_fall": null,
+      "CreationDate": "2026-01-13T10:45:57.683000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-13T10:45:57.683000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
     {
       "objectid": 1280862,
       "globalid": "49299b98-5d80-4307-ae05-0332ee849099",
@@ -96574,36 +96589,6 @@
       "alertpull": 5,
       "minorpull": 6,
       "majorpull": 8
-    },
-    {
-      "objectid": 1274407,
-      "globalid": "d1bcf668-e785-46f2-b981-dbd0bc684878",
-      "basin": "Maha Oya",
-      "gauge": "Giriulla",
-      "water_level": 0.94,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-06T10:54:36.318000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-06T10:54:36.318000+00:00",
-      "Editor": "",
-      "alertpull": 5.5,
-      "minorpull": 6.5,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1274406,
-      "globalid": "bfe440b4-9636-4d0d-a92d-7dd76084c7be",
-      "basin": "Nilwala Ganga",
-      "gauge": "Urawa",
-      "water_level": 0.29,
-      "rain_fall": null,
-      "CreationDate": "2026-01-06T10:46:31.682000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-06T10:46:31.682000+00:00",
-      "Editor": "",
-      "alertpull": 2.5,
-      "minorpull": 4,
-      "majorpull": 6
     }
   ]
 }
