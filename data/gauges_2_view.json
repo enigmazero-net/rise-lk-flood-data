@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2026-01-13T20:40:35.591207+00:00",
+  "last_updated_utc": "2026-01-13T20:56:30.567750+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6435,
+  "record_count": 6432,
   "records": [
     {
       "objectid": 1281218,
@@ -96484,51 +96484,6 @@
       "alertpull": 5,
       "minorpull": 6.2,
       "majorpull": 9.6
-    },
-    {
-      "objectid": 1274771,
-      "globalid": "da68ed61-fe03-4de6-b059-930bfb879854",
-      "basin": "Gal Oya",
-      "gauge": "Ampara",
-      "water_level": 0,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-06T20:51:08.642000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-06T20:51:08.642000+00:00",
-      "Editor": "",
-      "alertpull": null,
-      "minorpull": null,
-      "majorpull": null
-    },
-    {
-      "objectid": 1274770,
-      "globalid": "ff9537eb-a05f-4353-9ea8-2ae3323a9f98",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.72,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-06T20:42:19.742000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-06T20:42:19.742000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
-    },
-    {
-      "objectid": 1274769,
-      "globalid": "269cf553-905d-4b91-b05c-232b823795cc",
-      "basin": "Kelani Ganga",
-      "gauge": "Glencourse",
-      "water_level": 8.75,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-06T20:40:36.844000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-06T20:40:36.844000+00:00",
-      "Editor": "",
-      "alertpull": 15,
-      "minorpull": 16.5,
-      "majorpull": 19
     }
   ]
 }
