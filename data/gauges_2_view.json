@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-13T21:47:47.860296+00:00",
+  "last_updated_utc": "2026-01-13T21:55:26.188481+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6432,
+  "record_count": 6433,
   "records": [
+    {
+      "objectid": 1281254,
+      "globalid": "45b38fd7-a395-40ac-8c45-9d2fc66fce42",
+      "basin": "Menik Ganga",
+      "gauge": "Katharagama",
+      "water_level": 0.1,
+      "rain_fall": null,
+      "CreationDate": "2026-01-13T21:49:43.679000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-13T21:49:43.679000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 4.6,
+      "majorpull": 6.5
+    },
     {
       "objectid": 1281253,
       "globalid": "e4fb23ff-43df-4dee-9cd3-171448260360",
