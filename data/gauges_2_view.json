@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-13T20:56:30.567750+00:00",
+  "last_updated_utc": "2026-01-13T21:15:21.210114+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6432,
   "records": [
+    {
+      "objectid": 1281219,
+      "globalid": "10cfe5f0-c56c-4077-92e1-3a622fbd7f3f",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.52,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-13T21:11:08.810000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-13T21:11:08.810000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
     {
       "objectid": 1281218,
       "globalid": "b10f78fa-7808-430d-9039-c266cc1d4dcc",
@@ -96469,21 +96484,6 @@
       "alertpull": 3,
       "minorpull": 4.3,
       "majorpull": 6
-    },
-    {
-      "objectid": 1274772,
-      "globalid": "aff5dd56-5c79-4d92-a54c-0714ff48f811",
-      "basin": "Maha Oya",
-      "gauge": "Badalgama",
-      "water_level": 2,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-06T21:13:26.201000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-06T21:13:26.201000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.2,
-      "majorpull": 9.6
     }
   ]
 }
