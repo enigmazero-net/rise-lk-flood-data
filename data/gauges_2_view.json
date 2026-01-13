@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-13T22:55:45.549642+00:00",
+  "last_updated_utc": "2026-01-13T23:13:37.810405+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6430,
   "records": [
+    {
+      "objectid": 1281291,
+      "globalid": "9e75ac1a-0e15-4e99-aa85-967e037ae690",
+      "basin": "Kelani Ganga",
+      "gauge": "Kithulgala",
+      "water_level": 1.57,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-13T23:01:09.679000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-13T23:01:09.679000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 6
+    },
     {
       "objectid": 1281290,
       "globalid": "341fa357-d7a5-4c21-b38a-7f0b9f3c5a0b",
@@ -96439,21 +96454,6 @@
       "alertpull": 3,
       "minorpull": 4.3,
       "majorpull": 6
-    },
-    {
-      "objectid": 1274846,
-      "globalid": "42e705f3-9567-4864-b9db-a2657d2bed66",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 0.63,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-06T23:13:15.898000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-06T23:13:15.898000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
     }
   ]
 }
