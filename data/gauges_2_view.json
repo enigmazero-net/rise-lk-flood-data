@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-14T20:50:10.027201+00:00",
+  "last_updated_utc": "2026-01-14T20:57:52.603458+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6424,
+  "record_count": 6423,
   "records": [
+    {
+      "objectid": 1282127,
+      "globalid": "dffddaa5-574c-4910-8595-ddb3abaf91ca",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.44,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-14T20:51:47.105000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-14T20:51:47.105000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
     {
       "objectid": 1282126,
       "globalid": "6722e5f2-6f10-43c9-b3c6-1d57574d036a",
@@ -96334,36 +96349,6 @@
       "alertpull": 3,
       "minorpull": 4.3,
       "majorpull": 6
-    },
-    {
-      "objectid": 1275690,
-      "globalid": "714838b4-c5c5-4ab5-9f71-f0c37392c06e",
-      "basin": "Kalu Ganga",
-      "gauge": "Rathnapura",
-      "water_level": 0.77,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-07T20:52:15.948000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-07T20:52:15.948000+00:00",
-      "Editor": "",
-      "alertpull": 5.2,
-      "minorpull": 7.5,
-      "majorpull": 9.5
-    },
-    {
-      "objectid": 1275689,
-      "globalid": "704f596c-14e8-401e-9e9b-78268ce38da7",
-      "basin": "Gin Ganga",
-      "gauge": "Thawalama",
-      "water_level": 1.29,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-07T20:51:46.927000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-07T20:51:46.927000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
