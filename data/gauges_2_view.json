@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-01-14T18:52:43.659291+00:00",
+  "last_updated_utc": "2026-01-14T19:12:00.573317+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6430,
   "records": [
+    {
+      "objectid": 1282075,
+      "globalid": "7cee6f55-59b4-4ac0-9e60-067811ebd6e2",
+      "basin": "Kalu Ganga",
+      "gauge": "Kalawellawa (Millakanda)",
+      "water_level": 1.9,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-14T19:08:33.664000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-14T19:08:33.664000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.5,
+      "majorpull": 8
+    },
+    {
+      "objectid": 1282074,
+      "globalid": "30006c54-099e-42fa-a58b-9ca6ee548fae",
+      "basin": "Kelani Ganga",
+      "gauge": "Norwood",
+      "water_level": 0.48,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-14T18:54:40.498000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-14T18:54:40.498000+00:00",
+      "Editor": "",
+      "alertpull": 1.5,
+      "minorpull": 3,
+      "majorpull": 4.5
+    },
     {
       "objectid": 1282073,
       "globalid": "5eaf7685-128e-49b0-a27d-19038c7ecf22",
@@ -96424,36 +96454,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1275631,
-      "globalid": "4ac2896e-662b-4e8c-a348-61b853889365",
-      "basin": "Kalu Ganga",
-      "gauge": "Putupaula",
-      "water_level": 0.48,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-07T18:53:59.759000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-07T18:53:59.759000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1275630,
-      "globalid": "68f06b17-1d94-40d0-8ed0-61e5a3d3aeb8",
-      "basin": "Walawe Ganga",
-      "gauge": "Moraketiya",
-      "water_level": 0.93,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-07T18:53:06.511000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-07T18:53:06.511000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 5,
-      "majorpull": 7
     }
   ]
 }
