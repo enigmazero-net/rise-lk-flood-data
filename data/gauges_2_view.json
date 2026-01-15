@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-01-15T13:52:19.814933+00:00",
+  "last_updated_utc": "2026-01-15T14:16:12.030319+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6427,
+  "record_count": 6428,
   "records": [
+    {
+      "objectid": 1282806,
+      "globalid": "d9b30180-7a6f-4453-9310-074e5174402f",
+      "basin": "Yan Oya",
+      "gauge": "Horowpothana",
+      "water_level": 2.3,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-15T13:57:14.025000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-15T13:57:14.025000+00:00",
+      "Editor": "",
+      "alertpull": 6,
+      "minorpull": 7.5,
+      "majorpull": 10.5
+    },
+    {
+      "objectid": 1282805,
+      "globalid": "f5685c6e-d14b-4052-8755-5d0b7bc881a3",
+      "basin": "Gin Ganga",
+      "gauge": "Thawalama",
+      "water_level": 1.27,
+      "rain_fall": 8.6,
+      "CreationDate": "2026-01-15T13:52:29.434000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-15T13:52:29.434000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1282804,
       "globalid": "36f312cf-372f-4b90-86af-6448b337cbfc",
@@ -96394,21 +96424,6 @@
       "alertpull": 3.5,
       "minorpull": 4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1276365,
-      "globalid": "f6cc0167-dc48-4b65-bf95-d0b5afcd0268",
-      "basin": "Maha Oya",
-      "gauge": "Badalgama",
-      "water_level": 2.01,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-08T14:06:29.571000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-08T14:06:29.571000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.2,
-      "majorpull": 9.6
     }
   ]
 }
