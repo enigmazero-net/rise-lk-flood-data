@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2026-01-15T09:53:12.306189+00:00",
+  "last_updated_utc": "2026-01-15T10:13:43.702118+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6430,
+  "record_count": 6428,
   "records": [
     {
       "objectid": 1282647,
@@ -96424,36 +96424,6 @@
       "alertpull": 5,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1276206,
-      "globalid": "309dc0b2-701b-4145-9715-0b6055a53fe3",
-      "basin": "Kirindi Oya",
-      "gauge": "Thanamalwila",
-      "water_level": 0.92,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-08T09:59:36.585000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-08T09:59:36.585000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 5.5
-    },
-    {
-      "objectid": 1276205,
-      "globalid": "c863a3aa-4858-42f9-8c59-ed84f1cbb67e",
-      "basin": "Kirindi Oya",
-      "gauge": "Thanamalwila",
-      "water_level": 0.92,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-08T09:59:35.200000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-08T09:59:35.200000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 5.5
     }
   ]
 }
