@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2026-01-15T10:57:17.974920+00:00",
+  "last_updated_utc": "2026-01-15T11:16:40.087155+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6430,
+  "record_count": 6428,
   "records": [
     {
       "objectid": 1282687,
@@ -96424,36 +96424,6 @@
       "alertpull": 6,
       "minorpull": 7.5,
       "majorpull": 10.5
-    },
-    {
-      "objectid": 1276246,
-      "globalid": "5e7c3c33-73a1-46fc-bf7c-697113039abb",
-      "basin": "Kirindi Oya",
-      "gauge": "Kuda Oya",
-      "water_level": 1.35,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-08T11:02:56.143000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-08T11:02:56.143000+00:00",
-      "Editor": "",
-      "alertpull": 6.9,
-      "minorpull": 8.4,
-      "majorpull": 8.8
-    },
-    {
-      "objectid": 1276245,
-      "globalid": "abd09d5d-9bc7-4a4a-ab11-d689d7c48e5f",
-      "basin": "Nilwala Ganga",
-      "gauge": "Urawa",
-      "water_level": 0.37,
-      "rain_fall": null,
-      "CreationDate": "2026-01-08T11:00:32.310000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-08T11:00:32.310000+00:00",
-      "Editor": "",
-      "alertpull": 2.5,
-      "minorpull": 4,
-      "majorpull": 6
     }
   ]
 }
