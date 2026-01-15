@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-15T23:46:16.879705+00:00",
+  "last_updated_utc": "2026-01-15T23:53:09.155119+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6419,
+  "record_count": 6418,
   "records": [
+    {
+      "objectid": 1283168,
+      "globalid": "a7064c6b-5935-4dfd-9f3c-93765ae72420",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 2.29,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-15T23:47:00.309000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-15T23:47:00.309000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1283167,
       "globalid": "7bc896bb-55a3-477c-a1f8-a47a5a8fed81",
@@ -96259,36 +96274,6 @@
       "alertpull": 5,
       "minorpull": 7,
       "majorpull": 9
-    },
-    {
-      "objectid": 1276737,
-      "globalid": "e5919f25-0a3d-4d5a-af41-f335318a2a6f",
-      "basin": "Ma Oya",
-      "gauge": "Yaka Wewa",
-      "water_level": 0.75,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-08T23:50:49.239000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-08T23:50:49.239000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1276736,
-      "globalid": "11261da2-17f9-42c2-9f15-05a8890830ca",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.53,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-08T23:46:20.760000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-08T23:46:20.760000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
     }
   ]
 }
