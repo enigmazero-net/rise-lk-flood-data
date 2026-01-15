@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-01-15T20:57:25.416915+00:00",
+  "last_updated_utc": "2026-01-15T21:17:20.662727+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6428,
   "records": [
+    {
+      "objectid": 1283061,
+      "globalid": "74e273d1-1138-45a9-8a02-f0544b4619ec",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.75,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-15T21:10:59.413000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-15T21:10:59.413000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1283060,
+      "globalid": "fd53b05c-45a7-4359-968c-c6babf45dded",
+      "basin": "Gin Ganga",
+      "gauge": "Baddegama",
+      "water_level": 1.06,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-15T21:07:44.810000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-15T21:07:44.810000+00:00",
+      "Editor": "",
+      "alertpull": 3.5,
+      "minorpull": 4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1283059,
+      "globalid": "205158ae-9a0c-4bdb-a19e-c3969e0b9e31",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Nawalapitiya",
+      "water_level": 0.71,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-15T21:05:52.071000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-15T21:05:52.071000+00:00",
+      "Editor": "",
+      "alertpull": 3.5,
+      "minorpull": 5,
+      "majorpull": 6
+    },
     {
       "objectid": 1283058,
       "globalid": "0e3a992b-fd6a-4818-b65f-19a2db059870",
@@ -96379,51 +96424,6 @@
       "alertpull": 4,
       "minorpull": 5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1276620,
-      "globalid": "0fe4b83d-6678-4d97-b0d1-37db4ff00644",
-      "basin": "Kelani Ganga",
-      "gauge": "Nagalagam Street",
-      "water_level": 1.9,
-      "rain_fall": null,
-      "CreationDate": "2026-01-08T21:15:01.512000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-08T21:15:01.512000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1276619,
-      "globalid": "e7592810-cd27-4805-bda8-dace3e73d6f5",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 0.71,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-08T21:09:21.994000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-08T21:09:21.994000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
-    },
-    {
-      "objectid": 1276618,
-      "globalid": "481c9312-7394-421b-8535-5723cdcba49c",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Peradeniya",
-      "water_level": 2.19,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-08T21:03:34.886000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-08T21:03:34.886000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 7,
-      "majorpull": 9
     }
   ]
 }
