@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-01-16T19:41:59.390995+00:00",
+  "last_updated_utc": "2026-01-16T19:51:49.797067+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6424,
+  "record_count": 6425,
   "records": [
+    {
+      "objectid": 1283955,
+      "globalid": "7ae61096-3461-44ec-bc59-806540823c9a",
+      "basin": "Kirindi Oya",
+      "gauge": "Thanamalwila",
+      "water_level": 0.77,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-16T19:50:04.686000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-16T19:50:04.686000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 5.5
+    },
+    {
+      "objectid": 1283954,
+      "globalid": "107507ba-34df-4a03-ae2a-09c163e9d740",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Peradeniya",
+      "water_level": 2.18,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-16T19:47:27.429000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-16T19:47:27.429000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 7,
+      "majorpull": 9
+    },
+    {
+      "objectid": 1283953,
+      "globalid": "ea9c8a8c-c061-4fa4-aa48-266cd8ceb043",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.5,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-16T19:41:57.234000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-16T19:41:57.234000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
     {
       "objectid": 1283952,
       "globalid": "a891e39f-99f6-4a57-934f-623a878524be",
@@ -14989,21 +15034,6 @@
       "alertpull": 5.5,
       "minorpull": 6.5,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1282951,
-      "globalid": "cb6b55e6-bc77-4879-a9b4-7f86e72682fd",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 0.75,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-15T17:36:05.166000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-15T17:36:05.166000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
     },
     {
       "objectid": 1282951,
@@ -96349,21 +96379,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1277517,
-      "globalid": "d2ea7a52-2206-42e8-8be0-4f5dc2daa2aa",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.64,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-09T19:42:16.985000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-09T19:42:16.985000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
     }
   ]
 }
