@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-17T05:52:53.601354+00:00",
+  "last_updated_utc": "2026-01-17T06:17:25.313571+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6438,
   "records": [
+    {
+      "objectid": 1284354,
+      "globalid": "0b4b03f7-8e40-4c08-98e7-2c1af1e6cd41",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.27,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-17T05:53:43.742000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-17T05:53:43.742000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
     {
       "objectid": 1284353,
       "globalid": "42c93da5-de60-439e-ac98-2d5aa1373ce9",
@@ -96559,21 +96574,6 @@
       "alertpull": 5,
       "minorpull": 6,
       "majorpull": 8
-    },
-    {
-      "objectid": 1277903,
-      "globalid": "5310685c-bd6d-4786-886f-47a5e5571a8c",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 0.63,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-10T05:56:05.971000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-10T05:56:05.971000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
     }
   ]
 }
