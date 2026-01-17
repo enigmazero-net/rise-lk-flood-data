@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-17T10:55:01.040586+00:00",
+  "last_updated_utc": "2026-01-17T11:09:35.683746+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6434,
+  "record_count": 6435,
   "records": [
+    {
+      "objectid": 1284557,
+      "globalid": "f6a1774b-d36e-441d-98a6-24ebd5b9e5af",
+      "basin": "Kelani Ganga",
+      "gauge": "Norwood",
+      "water_level": 0.47,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-17T11:02:46.460000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-17T11:02:46.460000+00:00",
+      "Editor": "",
+      "alertpull": 1.5,
+      "minorpull": 3,
+      "majorpull": 4.5
+    },
     {
       "objectid": 1284556,
       "globalid": "632edede-b5c3-4b07-80ed-30fb935fdd06",
