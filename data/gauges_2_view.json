@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-17T17:51:45.831176+00:00",
+  "last_updated_utc": "2026-01-17T18:15:58.153555+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6431,
+  "record_count": 6432,
   "records": [
+    {
+      "objectid": 1284818,
+      "globalid": "68382554-1b58-4953-962b-ae7e015deaff",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": 0.13,
+      "rain_fall": null,
+      "CreationDate": "2026-01-17T17:55:05.074000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-17T17:55:05.074000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
     {
       "objectid": 1284817,
       "globalid": "625bce9f-719f-4ae2-b8b7-a9cc5575290f",
