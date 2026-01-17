@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-17T09:51:54.870384+00:00",
+  "last_updated_utc": "2026-01-17T10:11:26.933168+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6435,
+  "record_count": 6436,
   "records": [
+    {
+      "objectid": 1284518,
+      "globalid": "c3a9799c-2ac2-435b-9569-6b441b90c1f8",
+      "basin": "Maduru Oya",
+      "gauge": "Padiyathalawa",
+      "water_level": 0.77,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-17T10:01:01.059000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-17T10:01:01.059000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 4.5,
+      "majorpull": 6
+    },
     {
       "objectid": 1284517,
       "globalid": "31a62c9f-02dc-4f81-8327-5d3362543f47",
