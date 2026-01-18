@@ -1,10 +1,70 @@
 {
-  "last_updated_utc": "2026-01-18T18:44:06.788826+00:00",
+  "last_updated_utc": "2026-01-18T18:56:29.797411+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6450,
+  "record_count": 6453,
   "records": [
+    {
+      "objectid": 1285801,
+      "globalid": "844fad8a-7994-43a6-96c2-69e13d3ee553",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 2.13,
+      "rain_fall": null,
+      "CreationDate": "2026-01-18T18:55:36.044000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-18T18:55:36.044000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1285800,
+      "globalid": "96eb5516-f133-4d41-993d-1c2409561ad7",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": 0.12,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-18T18:51:13.302000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-18T18:51:13.302000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1285799,
+      "globalid": "fb3a6a4b-e6c8-472b-a3ba-1726ec357dab",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": 0.12,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-18T18:46:43.901000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-18T18:46:43.901000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1285798,
+      "globalid": "60d3990f-3922-4beb-a96c-7ac1baac42b5",
+      "basin": "Kirindi Oya",
+      "gauge": "Kuda Oya",
+      "water_level": 1.24,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-18T18:45:07.147000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-18T18:45:07.147000+00:00",
+      "Editor": "",
+      "alertpull": 6.9,
+      "minorpull": 8.4,
+      "majorpull": 8.8
+    },
     {
       "objectid": 1285797,
       "globalid": "dcd410f2-5e9b-4f66-89fd-b45ca9e1fa93",
@@ -96739,21 +96799,6 @@
       "alertpull": 4,
       "minorpull": 4.5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1279339,
-      "globalid": "092cafa6-3465-4609-a47e-d3fc8914e3b1",
-      "basin": "Kelani Ganga",
-      "gauge": "Nagalagam Street",
-      "water_level": 1.5,
-      "rain_fall": null,
-      "CreationDate": "2026-01-11T18:49:53.544000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-11T18:49:53.544000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 7
     }
   ]
 }
