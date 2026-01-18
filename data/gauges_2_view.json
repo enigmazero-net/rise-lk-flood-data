@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2026-01-18T17:10:01.126742+00:00",
+  "last_updated_utc": "2026-01-18T17:30:12.433879+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6450,
+  "record_count": 6449,
   "records": [
     {
       "objectid": 1285725,
@@ -96739,21 +96739,6 @@
       "alertpull": 4.4,
       "minorpull": 5.4,
       "majorpull": 5.9
-    },
-    {
-      "objectid": 1279266,
-      "globalid": "a15e8711-8746-461f-99e0-de5871e2b674",
-      "basin": "Kelani Ganga",
-      "gauge": "Kithulgala",
-      "water_level": 1.6,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-11T17:30:08.443000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-11T17:30:08.443000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 6
     }
   ]
 }
