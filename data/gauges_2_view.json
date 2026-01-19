@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-19T11:55:30.267806+00:00",
+  "last_updated_utc": "2026-01-19T12:28:15.137826+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6456,
+  "record_count": 6455,
   "records": [
+    {
+      "objectid": 1286457,
+      "globalid": "9c778e88-aa6a-4b1a-9dbb-cb3018121b9a",
+      "basin": "Ma Oya",
+      "gauge": "Yaka Wewa",
+      "water_level": 0.67,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-19T12:03:01.676000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-19T12:03:01.676000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6
+    },
     {
       "objectid": 1286456,
       "globalid": "ea95722a-1e00-4d2d-b11e-cf417d76386d",
@@ -96814,36 +96829,6 @@
       "alertpull": 5,
       "minorpull": 6,
       "majorpull": 8
-    },
-    {
-      "objectid": 1279993,
-      "globalid": "8070552c-511c-4577-91fc-e341d4c685d7",
-      "basin": "Gin Ganga",
-      "gauge": "Thawalama",
-      "water_level": 1.13,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-12T12:22:37.751000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-12T12:22:37.751000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1279992,
-      "globalid": "4d02e8d0-7a75-433e-a3d6-cb90b5e6431c",
-      "basin": "Yan Oya",
-      "gauge": "Horowpothana",
-      "water_level": 2.9,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-12T11:56:32.827000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-12T11:56:32.827000+00:00",
-      "Editor": "",
-      "alertpull": 6,
-      "minorpull": 7.5,
-      "majorpull": 10.5
     }
   ]
 }
