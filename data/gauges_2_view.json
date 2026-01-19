@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2026-01-19T10:49:39.257147+00:00",
+  "last_updated_utc": "2026-01-19T11:01:36.276359+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6456,
+  "record_count": 6454,
   "records": [
     {
       "objectid": 1286416,
@@ -96814,36 +96814,6 @@
       "alertpull": 1.4,
       "minorpull": 1.7,
       "majorpull": 2.8
-    },
-    {
-      "objectid": 1279953,
-      "globalid": "5379609f-b997-407c-8643-2128eaf656f8",
-      "basin": "Yan Oya",
-      "gauge": "Horowpothana",
-      "water_level": 2.78,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-12T10:53:16.546000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-12T10:53:16.546000+00:00",
-      "Editor": "",
-      "alertpull": 6,
-      "minorpull": 7.5,
-      "majorpull": 10.5
-    },
-    {
-      "objectid": 1279952,
-      "globalid": "5eb8dc46-ad34-487f-ad34-01d20d4134bb",
-      "basin": "Malwathu Oya",
-      "gauge": "Thanthirimale",
-      "water_level": 2.01,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-12T10:52:37.186000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-12T10:52:37.186000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.8,
-      "majorpull": 7.8
     }
   ]
 }
