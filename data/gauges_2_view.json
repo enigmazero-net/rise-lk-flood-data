@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-01-19T23:47:23.385309+00:00",
+  "last_updated_utc": "2026-01-19T23:54:26.289747+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6454,
+  "record_count": 6456,
   "records": [
+    {
+      "objectid": 1286884,
+      "globalid": "d89f7c74-0db7-42c3-b276-b563e0f640b5",
+      "basin": "Maha Oya",
+      "gauge": "Badalgama",
+      "water_level": 1.89,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-19T23:50:43.928000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-19T23:50:43.928000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.2,
+      "majorpull": 9.6
+    },
+    {
+      "objectid": 1286883,
+      "globalid": "6b5f9a89-92e1-475e-a740-7bcde882ec21",
+      "basin": "Deduru Oya",
+      "gauge": "Moragaswewa",
+      "water_level": 0.42,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-19T23:49:34.492000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-19T23:49:34.492000+00:00",
+      "Editor": "",
+      "alertpull": 4.75,
+      "minorpull": 6,
+      "majorpull": 7
+    },
+    {
+      "objectid": 1286882,
+      "globalid": "46b43f03-8d55-4171-9772-1736e23168ea",
+      "basin": "Walawe Ganga",
+      "gauge": "Moraketiya",
+      "water_level": 0.89,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-19T23:48:06.527000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-19T23:48:06.527000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 5,
+      "majorpull": 7
+    },
     {
       "objectid": 1286881,
       "globalid": "bb389b1d-fbaa-4216-b862-664b411e62ed",
@@ -96799,21 +96844,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 6
-    },
-    {
-      "objectid": 1280419,
-      "globalid": "f4112570-c19c-4949-aa59-a37765f0a324",
-      "basin": "Kalu Ganga",
-      "gauge": "Kalawellawa (Millakanda)",
-      "water_level": 1.8,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-12T23:47:28.496000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-12T23:47:28.496000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.5,
-      "majorpull": 8
     }
   ]
 }
