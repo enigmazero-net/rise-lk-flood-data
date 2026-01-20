@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2026-01-20T04:53:28.860938+00:00",
+  "last_updated_utc": "2026-01-20T05:21:13.403694+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6459,
+  "record_count": 6458,
   "records": [
     {
       "objectid": 1287088,
@@ -10324,21 +10324,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1286400,
-      "globalid": "f07ee247-82c8-412c-b9da-9c3ef66da5e0",
-      "basin": "Kelani Ganga",
-      "gauge": "Hanwella",
-      "water_level": 2.1,
-      "rain_fall": null,
-      "CreationDate": "2026-01-19T10:33:56.298000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-19T10:33:56.298000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
     },
     {
       "objectid": 1286399,
