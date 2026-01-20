@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-20T22:48:23.628717+00:00",
+  "last_updated_utc": "2026-01-20T22:55:26.120057+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6467,
   "records": [
+    {
+      "objectid": 1287766,
+      "globalid": "8e4af8e7-c42f-4599-ad2d-35df008309b3",
+      "basin": "Kirindi Oya",
+      "gauge": "Wellawaya",
+      "water_level": 0.91,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-20T22:51:15.969000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-20T22:51:15.969000+00:00",
+      "Editor": "",
+      "alertpull": 4.4,
+      "minorpull": 5.4,
+      "majorpull": 5.9
+    },
     {
       "objectid": 1287765,
       "globalid": "761f6c38-5686-4bf7-8d55-e88cc4c4a8ea",
@@ -96994,21 +97009,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 6
-    },
-    {
-      "objectid": 1281290,
-      "globalid": "341fa357-d7a5-4c21-b38a-7f0b9f3c5a0b",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.63,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-13T22:49:37.135000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-13T22:49:37.135000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
     }
   ]
 }
