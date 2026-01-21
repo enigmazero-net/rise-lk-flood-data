@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2026-01-21T19:40:45.018572+00:00",
+  "last_updated_utc": "2026-01-21T19:47:22.725567+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6485,
+  "record_count": 6482,
   "records": [
     {
       "objectid": 1288591,
@@ -97234,51 +97234,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1282100,
-      "globalid": "3f128038-edfc-4484-8e31-e1ba8a6942f6",
-      "basin": "Heda Oya",
-      "gauge": "Siyambalanduwa",
-      "water_level": 0.91,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-14T19:46:45.186000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-14T19:46:45.186000+00:00",
-      "Editor": "",
-      "alertpull": 4.5,
-      "minorpull": 6,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1282099,
-      "globalid": "1d37046f-24cd-4414-bcae-aeb07dc76ae7",
-      "basin": "Kumbukkan Oya",
-      "gauge": "Nakkala",
-      "water_level": 1.1,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-14T19:42:39.691000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-14T19:42:39.691000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1282098,
-      "globalid": "8a6870ec-d3f2-42e6-87c4-dff966b6aab4",
-      "basin": "Menik Ganga",
-      "gauge": "Katharagama",
-      "water_level": 0.07,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-14T19:40:50.851000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-14T19:40:50.851000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 4.6,
-      "majorpull": 6.5
     }
   ]
 }
