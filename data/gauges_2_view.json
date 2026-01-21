@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-01-21T19:47:22.725567+00:00",
+  "last_updated_utc": "2026-01-21T20:02:55.809927+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6482,
+  "record_count": 6484,
   "records": [
+    {
+      "objectid": 1288594,
+      "globalid": "3a31c02b-fb82-426a-8d38-4b971a6d7a10",
+      "basin": "Kumbukkan Oya",
+      "gauge": "Nakkala",
+      "water_level": 0.89,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-21T19:58:30.596000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-21T19:58:30.596000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1288593,
+      "globalid": "18ed43ec-dfbe-41f6-bf4d-b5266af61323",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": 0.09,
+      "rain_fall": null,
+      "CreationDate": "2026-01-21T19:55:01.316000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-21T19:55:01.316000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1288592,
+      "globalid": "6b5f4739-6814-4928-b2fb-b282ff702882",
+      "basin": "Kelani Ganga",
+      "gauge": "Nagalagam Street",
+      "water_level": 1.8,
+      "rain_fall": null,
+      "CreationDate": "2026-01-21T19:48:08.397000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-21T19:48:08.397000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 7
+    },
     {
       "objectid": 1288591,
       "globalid": "ea28963e-4aa4-448d-b4ae-b0261df5b39d",
@@ -97219,21 +97264,6 @@
       "alertpull": 5,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1282101,
-      "globalid": "17c9eab7-a768-478a-949b-c83884283ef7",
-      "basin": "Kalu Ganga",
-      "gauge": "Putupaula",
-      "water_level": 0.69,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-14T19:59:02.062000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-14T19:59:02.062000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
     }
   ]
 }
