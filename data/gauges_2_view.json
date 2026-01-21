@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-01-21T14:44:50.118600+00:00",
+  "last_updated_utc": "2026-01-21T15:03:31.109879+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6473,
+  "record_count": 6475,
   "records": [
+    {
+      "objectid": 1288413,
+      "globalid": "dc64d2a2-c6c1-4633-bb89-f5bb838ecb90",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.36,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-21T14:55:37.462000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-21T14:55:37.462000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
+    {
+      "objectid": 1288412,
+      "globalid": "728b7a6a-f2e1-45ed-9016-ceaa85674613",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 2.04,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-21T14:51:14.384000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-21T14:51:14.384000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1288411,
+      "globalid": "cddfa260-0700-4bed-9e92-a485adadaa28",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": 0.09,
+      "rain_fall": null,
+      "CreationDate": "2026-01-21T14:48:57.396000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-21T14:48:57.396000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
     {
       "objectid": 1288410,
       "globalid": "17f02779-da23-4550-b7cc-1798914c04fb",
@@ -97084,21 +97129,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1281929,
-      "globalid": "01071e35-fd20-40e4-a7c2-ccece1f509bb",
-      "basin": "Kalu Ganga",
-      "gauge": "Rathnapura",
-      "water_level": 0.68,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-14T14:46:45.546000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-14T14:46:45.546000+00:00",
-      "Editor": "",
-      "alertpull": 5.2,
-      "minorpull": 7.5,
-      "majorpull": 9.5
     }
   ]
 }
