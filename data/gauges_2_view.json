@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-22T22:56:22.412122+00:00",
+  "last_updated_utc": "2026-01-22T23:15:05.025217+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6488,
   "records": [
+    {
+      "objectid": 1289625,
+      "globalid": "b9d3d5eb-5219-45df-a30c-0c9c870337c1",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.79,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-22T23:11:57.252000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-22T23:11:57.252000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
     {
       "objectid": 1289624,
       "globalid": "576e7747-4d86-4c18-8a5c-31bd1b65e958",
@@ -97309,21 +97324,6 @@
       "alertpull": 4.8,
       "minorpull": 5.8,
       "majorpull": 6.4
-    },
-    {
-      "objectid": 1283126,
-      "globalid": "97cab4ac-44d5-4b0a-b15d-285d3db155a9",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Manampitiya",
-      "water_level": 1.37,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-15T23:01:48.023000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-15T23:01:48.023000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4.3,
-      "majorpull": 6
     }
   ]
 }
