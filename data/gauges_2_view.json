@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-01-22T16:48:09.065657+00:00",
+  "last_updated_utc": "2026-01-22T17:16:15.595790+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6499,
   "records": [
+    {
+      "objectid": 1289432,
+      "globalid": "f0c367a2-7179-4810-89fc-da9939575775",
+      "basin": "Kelani Ganga",
+      "gauge": "Norwood",
+      "water_level": 0.42,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-22T17:15:33.907000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-22T17:15:33.907000+00:00",
+      "Editor": "",
+      "alertpull": 1.5,
+      "minorpull": 3,
+      "majorpull": 4.5
+    },
+    {
+      "objectid": 1289431,
+      "globalid": "430dd93e-aa31-49e0-936b-fea5b35da308",
+      "basin": "Ma Oya",
+      "gauge": "Yaka Wewa",
+      "water_level": 0.66,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-22T17:01:04.738000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-22T17:01:04.738000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6
+    },
     {
       "objectid": 1289430,
       "globalid": "89ce74b8-5df9-480d-8aff-be34edca5d2b",
@@ -97459,36 +97489,6 @@
       "alertpull": 3,
       "minorpull": 5,
       "majorpull": 7
-    },
-    {
-      "objectid": 1282922,
-      "globalid": "97537449-4208-4307-bbc4-4fe10f78aeb5",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.38,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-15T16:59:54.813000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-15T16:59:54.813000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
-    },
-    {
-      "objectid": 1282921,
-      "globalid": "84292b4a-3e75-4600-94be-20f63449e5b6",
-      "basin": "Maha Oya",
-      "gauge": "Giriulla",
-      "water_level": 0.93,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-15T16:57:46.665000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-15T16:57:46.665000+00:00",
-      "Editor": "",
-      "alertpull": 5.5,
-      "minorpull": 6.5,
-      "majorpull": 7.5
     }
   ]
 }
