@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2026-01-22T05:56:07.048664+00:00",
+  "last_updated_utc": "2026-01-22T06:23:54.863059+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6498,
+  "record_count": 6496,
   "records": [
     {
       "objectid": 1288991,
@@ -97444,36 +97444,6 @@
       "alertpull": 6,
       "minorpull": 7.5,
       "majorpull": 10.5
-    },
-    {
-      "objectid": 1282484,
-      "globalid": "574d266f-ce08-485e-aa9e-e5f3285aa7d2",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.42,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-15T06:05:40.165000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-15T06:05:40.165000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
-    },
-    {
-      "objectid": 1282483,
-      "globalid": "95d14151-f481-4245-8c9b-a89315077a93",
-      "basin": "Kirindi Oya",
-      "gauge": "Thanamalwila",
-      "water_level": 0.97,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-15T06:04:48.061000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-15T06:04:48.061000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 5.5
     }
   ]
 }
