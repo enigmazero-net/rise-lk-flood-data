@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-01-22T22:42:19.846889+00:00",
+  "last_updated_utc": "2026-01-22T22:56:22.412122+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6489,
+  "record_count": 6488,
   "records": [
+    {
+      "objectid": 1289624,
+      "globalid": "576e7747-4d86-4c18-8a5c-31bd1b65e958",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.38,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-22T22:50:33.509000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-22T22:50:33.509000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
+    {
+      "objectid": 1289623,
+      "globalid": "6a3a7f27-fdb0-4876-9d1f-8f28508f0420",
+      "basin": "Kirindi Oya",
+      "gauge": "Kuda Oya",
+      "water_level": 1.22,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-22T22:43:51.521000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-22T22:43:51.521000+00:00",
+      "Editor": "",
+      "alertpull": 6.9,
+      "minorpull": 8.4,
+      "majorpull": 8.8
+    },
     {
       "objectid": 1289622,
       "globalid": "c2d4f03b-057c-4ab1-a8c5-b28b683f9cb5",
@@ -97294,51 +97324,6 @@
       "alertpull": 3,
       "minorpull": 4.3,
       "majorpull": 6
-    },
-    {
-      "objectid": 1283125,
-      "globalid": "60a41842-85e6-424a-8a1b-3c705bdb9772",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 0.75,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-15T22:54:57.739000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-15T22:54:57.739000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
-    },
-    {
-      "objectid": 1283124,
-      "globalid": "2b23c12b-5e07-4f26-8955-73a52edd8c04",
-      "basin": "Menik Ganga",
-      "gauge": "Katharagama",
-      "water_level": 0.02,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-15T22:53:27.407000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-15T22:53:27.407000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 4.6,
-      "majorpull": 6.5
-    },
-    {
-      "objectid": 1283123,
-      "globalid": "d5f5897d-026e-42cb-b214-a125a69d1c92",
-      "basin": "Kelani Ganga",
-      "gauge": "Nagalagam Street",
-      "water_level": 1.8,
-      "rain_fall": null,
-      "CreationDate": "2026-01-15T22:42:51.483000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-15T22:42:51.483000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 7
     }
   ]
 }
