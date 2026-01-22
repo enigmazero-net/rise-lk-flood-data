@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-22T17:46:36.423323+00:00",
+  "last_updated_utc": "2026-01-22T17:59:48.308990+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6496,
+  "record_count": 6494,
   "records": [
+    {
+      "objectid": 1289462,
+      "globalid": "3f15bd1a-fee8-46c3-8cae-4d0d91ae2773",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.35,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-22T17:54:41.450000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-22T17:54:41.450000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
     {
       "objectid": 1289461,
       "globalid": "68467ffa-646a-4e1b-94cb-bb91bdacf72a",
@@ -97399,51 +97414,6 @@
       "alertpull": null,
       "minorpull": null,
       "majorpull": null
-    },
-    {
-      "objectid": 1282957,
-      "globalid": "010117fa-b9df-4895-a695-a7c7172fbc75",
-      "basin": "Kelani Ganga",
-      "gauge": "Nagalagam Street",
-      "water_level": 2,
-      "rain_fall": null,
-      "CreationDate": "2026-01-15T17:56:07.488000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-15T17:56:07.488000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1282956,
-      "globalid": "754c547c-968f-48d7-9289-cf78ade02374",
-      "basin": "Nilwala Ganga",
-      "gauge": "Urawa",
-      "water_level": 0.17,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-15T17:53:22.890000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-15T17:53:22.890000+00:00",
-      "Editor": "",
-      "alertpull": 2.5,
-      "minorpull": 4,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1282955,
-      "globalid": "0b30dbba-c24d-459a-b276-145cf871c313",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.51,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-15T17:49:04.160000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-15T17:49:04.160000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
     }
   ]
 }
