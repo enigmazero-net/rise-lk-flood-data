@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-01-23T20:56:55.863457+00:00",
+  "last_updated_utc": "2026-01-23T21:16:24.339386+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6464,
+  "record_count": 6463,
   "records": [
+    {
+      "objectid": 1290465,
+      "globalid": "efd5bc5a-eb4c-4f39-abe2-572bed0106e4",
+      "basin": "Kirindi Oya",
+      "gauge": "Kuda Oya",
+      "water_level": 1.21,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-23T21:07:53.010000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-23T21:07:53.010000+00:00",
+      "Editor": "",
+      "alertpull": 6.9,
+      "minorpull": 8.4,
+      "majorpull": 8.8
+    },
+    {
+      "objectid": 1290464,
+      "globalid": "65d66fe9-3c55-4b32-8e17-6f55d3f7345c",
+      "basin": "Kirindi Oya",
+      "gauge": "Kuda Oya",
+      "water_level": 1.21,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-23T21:07:51.632000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-23T21:07:51.632000+00:00",
+      "Editor": "",
+      "alertpull": 6.9,
+      "minorpull": 8.4,
+      "majorpull": 8.8
+    },
     {
       "objectid": 1290463,
       "globalid": "4a15258f-0541-4e53-862d-0a90ca40a5f7",
@@ -96919,51 +96949,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1283990,
-      "globalid": "76f5dd46-bba3-4c7e-8129-04b66dd88c46",
-      "basin": "Maduru Oya",
-      "gauge": "Padiyathalawa",
-      "water_level": 0.78,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-16T21:14:13.953000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-16T21:14:13.953000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 4.5,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1283989,
-      "globalid": "95fbf39e-edd7-4d03-be45-8dd5298db72c",
-      "basin": "Kelani Ganga",
-      "gauge": "Deraniyagala",
-      "water_level": 0.18,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-16T20:58:20.759000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-16T20:58:20.759000+00:00",
-      "Editor": "",
-      "alertpull": 4.8,
-      "minorpull": 5.8,
-      "majorpull": 6.4
-    },
-    {
-      "objectid": 1283988,
-      "globalid": "c4caa207-788f-48ab-92d7-70194e1841ac",
-      "basin": "Kelani Ganga",
-      "gauge": "Deraniyagala",
-      "water_level": 0.24,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-16T20:57:57.683000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-16T20:57:57.683000+00:00",
-      "Editor": "",
-      "alertpull": 4.8,
-      "minorpull": 5.8,
-      "majorpull": 6.4
     }
   ]
 }
