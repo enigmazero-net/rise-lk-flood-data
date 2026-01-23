@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-01-23T16:44:43.844508+00:00",
+  "last_updated_utc": "2026-01-23T17:03:56.133283+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6475,
   "records": [
+    {
+      "objectid": 1290338,
+      "globalid": "c99e9153-a38d-4439-be99-5443215f4388",
+      "basin": "Kelani Ganga",
+      "gauge": "Holombuwa",
+      "water_level": 0.3,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-23T16:51:57.758000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-23T16:51:57.758000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 3.4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1290337,
+      "globalid": "978ec2c7-a3c3-423f-99ed-e9b1c04e6611",
+      "basin": "Maha Oya",
+      "gauge": "Badalgama",
+      "water_level": 1.87,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-23T16:46:31.432000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-23T16:46:31.432000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.2,
+      "majorpull": 9.6
+    },
     {
       "objectid": 1290336,
       "globalid": "744684aa-603f-4102-a867-d89e606c14de",
@@ -97099,36 +97129,6 @@
       "alertpull": 3.5,
       "minorpull": 5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1283851,
-      "globalid": "6d092afa-6544-4179-bc6c-1f091601b38a",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 0.71,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-16T16:59:20.215000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-16T16:59:20.215000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
-    },
-    {
-      "objectid": 1283850,
-      "globalid": "9a61b74f-2d0f-4442-8bd2-d0bbffd4a634",
-      "basin": "Kirindi Oya",
-      "gauge": "Wellawaya",
-      "water_level": 0.94,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-16T16:50:37.694000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-16T16:50:37.694000+00:00",
-      "Editor": "",
-      "alertpull": 4.4,
-      "minorpull": 5.4,
-      "majorpull": 5.9
     }
   ]
 }
