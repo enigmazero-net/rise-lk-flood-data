@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-23T19:45:12.405106+00:00",
+  "last_updated_utc": "2026-01-23T19:52:37.184103+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6471,
+  "record_count": 6470,
   "records": [
+    {
+      "objectid": 1290437,
+      "globalid": "2e69fafa-6a5f-4ec8-aa6e-c3266069f44e",
+      "basin": "Kalu Ganga",
+      "gauge": "Magura",
+      "water_level": 0.66,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-23T19:47:01.174000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-23T19:47:01.174000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1290436,
       "globalid": "623915a2-a45a-4e42-bf44-2a54d5abc914",
@@ -97039,36 +97054,6 @@
       "alertpull": 5.5,
       "minorpull": 6.5,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1283955,
-      "globalid": "7ae61096-3461-44ec-bc59-806540823c9a",
-      "basin": "Kirindi Oya",
-      "gauge": "Thanamalwila",
-      "water_level": 0.77,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-16T19:50:04.686000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-16T19:50:04.686000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 5.5
-    },
-    {
-      "objectid": 1283954,
-      "globalid": "107507ba-34df-4a03-ae2a-09c163e9d740",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Peradeniya",
-      "water_level": 2.18,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-16T19:47:27.429000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-16T19:47:27.429000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 7,
-      "majorpull": 9
     }
   ]
 }
