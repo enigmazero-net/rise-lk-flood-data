@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-01-24T16:56:14.069776+00:00",
+  "last_updated_utc": "2026-01-24T17:11:56.575140+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6462,
+  "record_count": 6464,
   "records": [
+    {
+      "objectid": 1291267,
+      "globalid": "7bdbbed3-1152-488a-b289-30ddb7f716af",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.34,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-24T17:04:36.541000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-24T17:04:36.541000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
+    {
+      "objectid": 1291266,
+      "globalid": "7c2c5778-1b74-47ea-ad85-8748edc5b289",
+      "basin": "Aththanagalu Oya",
+      "gauge": "Dunamale",
+      "water_level": 0.57,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-24T17:03:04.212000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-24T17:03:04.212000+00:00",
+      "Editor": "",
+      "alertpull": 3.3,
+      "minorpull": 4.4,
+      "majorpull": 5.5
+    },
+    {
+      "objectid": 1291265,
+      "globalid": "ac53bf14-09b6-4129-bf8d-37c11821ad41",
+      "basin": "Kalu Ganga",
+      "gauge": "Kalawellawa (Millakanda)",
+      "water_level": 1.17,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-24T16:58:32.579000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-24T16:58:32.579000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.5,
+      "majorpull": 8
+    },
     {
       "objectid": 1291264,
       "globalid": "7309d237-5e4a-4d41-9dbd-1cc766995ec2",
@@ -96919,21 +96964,6 @@
       "alertpull": 4.5,
       "minorpull": 6,
       "majorpull": 7
-    },
-    {
-      "objectid": 1284788,
-      "globalid": "fb99d68b-edb1-45f9-b50a-b6a9287765ab",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.38,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-17T17:01:09.578000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-17T17:01:09.578000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
     }
   ]
 }
