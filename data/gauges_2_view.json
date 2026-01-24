@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-01-24T15:45:54.865444+00:00",
+  "last_updated_utc": "2026-01-24T15:52:58.834279+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6465,
+  "record_count": 6466,
   "records": [
+    {
+      "objectid": 1291231,
+      "globalid": "850e1db2-5603-430c-8b9b-39ba328408eb",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Manampitiya",
+      "water_level": 0.97,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-24T15:48:39.754000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-24T15:48:39.754000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4.3,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1291230,
+      "globalid": "9410660d-aae9-4fa0-aed3-37c92de1fee8",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 1.98,
+      "rain_fall": null,
+      "CreationDate": "2026-01-24T15:46:13.004000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-24T15:46:13.004000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1291229,
+      "globalid": "96f67c9c-15ed-4687-8531-a81359a6ffe8",
+      "basin": "Gin Ganga",
+      "gauge": "Thawalama",
+      "water_level": 0.98,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-24T15:46:01.850000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-24T15:46:01.850000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1291228,
       "globalid": "b7364d43-10a0-45a3-b876-beb15282e926",
@@ -96949,36 +96994,6 @@
       "alertpull": 5.5,
       "minorpull": 6.5,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1284751,
-      "globalid": "82c67c3c-c29d-4958-a137-9c036346f0d0",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 2.18,
-      "rain_fall": null,
-      "CreationDate": "2026-01-17T15:48:50.021000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-17T15:48:50.021000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1284750,
-      "globalid": "fb31fbf0-dca5-4e41-8157-1a529dbc14a4",
-      "basin": "Yan Oya",
-      "gauge": "Horowpothana",
-      "water_level": 1.52,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-17T15:46:35.316000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-17T15:46:35.316000+00:00",
-      "Editor": "",
-      "alertpull": 6,
-      "minorpull": 7.5,
-      "majorpull": 10.5
     }
   ]
 }
