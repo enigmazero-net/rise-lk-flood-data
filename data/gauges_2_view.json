@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2026-01-24T22:47:27.437664+00:00",
+  "last_updated_utc": "2026-01-24T22:54:12.236213+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6469,
+  "record_count": 6466,
   "records": [
     {
       "objectid": 1291478,
@@ -96994,51 +96994,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1284996,
-      "globalid": "6610326c-9bf1-4f57-b0f2-95933b1f35ae",
-      "basin": "Ma Oya",
-      "gauge": "Yaka Wewa",
-      "water_level": 0.66,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-17T22:50:51.023000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-17T22:50:51.023000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1284995,
-      "globalid": "c26b9265-39a5-48a9-9fde-3d4a22567e11",
-      "basin": "Kirindi Oya",
-      "gauge": "Kuda Oya",
-      "water_level": 1.24,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-17T22:50:22.827000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-17T22:50:22.827000+00:00",
-      "Editor": "",
-      "alertpull": 6.9,
-      "minorpull": 8.4,
-      "majorpull": 8.8
-    },
-    {
-      "objectid": 1284994,
-      "globalid": "152bc878-4e1d-4d3d-8661-9b444567715f",
-      "basin": "Deduru Oya",
-      "gauge": "Moragaswewa",
-      "water_level": 0.46,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-17T22:49:30.762000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-17T22:49:30.762000+00:00",
-      "Editor": "",
-      "alertpull": 4.75,
-      "minorpull": 6,
-      "majorpull": 7
     }
   ]
 }
