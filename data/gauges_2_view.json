@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-24T17:46:23.372759+00:00",
+  "last_updated_utc": "2026-01-24T17:53:03.214714+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6476,
+  "record_count": 6474,
   "records": [
+    {
+      "objectid": 1291307,
+      "globalid": "a9887927-35f6-4543-8258-2367f4c11597",
+      "basin": "Kumbukkan Oya",
+      "gauge": "Nakkala",
+      "water_level": 0.86,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-24T17:46:22.733000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-24T17:46:22.733000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1291306,
       "globalid": "6c17c44c-349d-4830-9e7a-84fe1b124afb",
@@ -90006,21 +90021,6 @@
       "majorpull": 7
     },
     {
-      "objectid": 1285292,
-      "globalid": "499bacb6-db17-498a-a5ea-28c14bc0381c",
-      "basin": "Kelani Ganga",
-      "gauge": "Nagalagam Street",
-      "water_level": 1.5,
-      "rain_fall": null,
-      "CreationDate": "2026-01-18T06:31:09.519000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-18T06:31:09.519000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 7
-    },
-    {
       "objectid": 1285291,
       "globalid": "7314a473-89ab-4b13-aa84-be72d7bcd948",
       "basin": "Kumbukkan Oya",
@@ -97114,36 +97114,6 @@
       "alertpull": 2.5,
       "minorpull": 4,
       "majorpull": 6
-    },
-    {
-      "objectid": 1284817,
-      "globalid": "625bce9f-719f-4ae2-b8b7-a9cc5575290f",
-      "basin": "Kelani Ganga",
-      "gauge": "Norwood",
-      "water_level": 0.46,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-17T17:47:01.147000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-17T17:47:01.147000+00:00",
-      "Editor": "",
-      "alertpull": 1.5,
-      "minorpull": 3,
-      "majorpull": 4.5
-    },
-    {
-      "objectid": 1284816,
-      "globalid": "4090b34e-f3d1-4001-9809-d9a20955b508",
-      "basin": "Maha Oya",
-      "gauge": "Giriulla",
-      "water_level": 0.85,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-17T17:46:27.388000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-17T17:46:27.388000+00:00",
-      "Editor": "",
-      "alertpull": 5.5,
-      "minorpull": 6.5,
-      "majorpull": 7.5
     }
   ]
 }
