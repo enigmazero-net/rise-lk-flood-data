@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2026-01-24T16:42:08.436200+00:00",
+  "last_updated_utc": "2026-01-24T16:56:14.069776+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6466,
+  "record_count": 6462,
   "records": [
     {
       "objectid": 1291264,
@@ -96934,66 +96934,6 @@
       "alertpull": 1.4,
       "minorpull": 1.7,
       "majorpull": 2.8
-    },
-    {
-      "objectid": 1284787,
-      "globalid": "9d236790-1cf8-45a8-b168-c9a40ec79acd",
-      "basin": "Gin Ganga",
-      "gauge": "Thawalama",
-      "water_level": 1.09,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-17T16:46:32.583000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-17T16:46:32.583000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1284786,
-      "globalid": "389237bc-b1aa-4972-8fc4-9d4a83d2fafb",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 2.18,
-      "rain_fall": null,
-      "CreationDate": "2026-01-17T16:45:59.175000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-17T16:45:59.175000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1284785,
-      "globalid": "c1f4f0c0-51b8-42c4-914f-9191c7b45550",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.38,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-17T16:45:16.211000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-17T16:45:16.211000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
-    },
-    {
-      "objectid": 1284784,
-      "globalid": "1b282af7-e7e1-4da3-9921-7d4b5e762063",
-      "basin": "Nilwala Ganga",
-      "gauge": "Urawa",
-      "water_level": 0.13,
-      "rain_fall": null,
-      "CreationDate": "2026-01-17T16:44:16.800000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-17T16:44:16.800000+00:00",
-      "Editor": "",
-      "alertpull": 2.5,
-      "minorpull": 4,
-      "majorpull": 6
     }
   ]
 }
