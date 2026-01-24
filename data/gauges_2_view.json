@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-24T07:39:59.183259+00:00",
+  "last_updated_utc": "2026-01-24T07:47:03.889155+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6458,
+  "record_count": 6456,
   "records": [
+    {
+      "objectid": 1290905,
+      "globalid": "0bf373d6-64cf-4035-9430-f46d4ae92da3",
+      "basin": "Gin Ganga",
+      "gauge": "Thawalama",
+      "water_level": 1,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-24T07:39:59.946000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-24T07:39:59.946000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1290904,
       "globalid": "06e34400-def5-4733-b46d-9c9984109bd9",
@@ -96829,51 +96844,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1284436,
-      "globalid": "ccf44196-1aee-4f86-8bc4-e7569ad99924",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 0.68,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-17T07:43:01.883000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-17T07:43:01.883000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
-    },
-    {
-      "objectid": 1284435,
-      "globalid": "fafbf3ea-0213-40ff-b5c5-67d62b2547e5",
-      "basin": "Kelani Ganga",
-      "gauge": "Glencourse",
-      "water_level": 8.5,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-17T07:43:01.182000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-17T07:43:01.182000+00:00",
-      "Editor": "",
-      "alertpull": 15,
-      "minorpull": 16.5,
-      "majorpull": 19
-    },
-    {
-      "objectid": 1284434,
-      "globalid": "10e93505-00ff-4560-954f-e91af61ec560",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 2.19,
-      "rain_fall": null,
-      "CreationDate": "2026-01-17T07:41:44.841000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-17T07:41:44.841000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
