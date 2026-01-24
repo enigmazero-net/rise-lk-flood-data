@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-01-24T20:53:59.051088+00:00",
+  "last_updated_utc": "2026-01-24T21:09:55.239969+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6473,
+  "record_count": 6472,
   "records": [
+    {
+      "objectid": 1291412,
+      "globalid": "d65a1f2f-db6a-4986-8036-c943faa34fff",
+      "basin": "Kalu Ganga",
+      "gauge": "Magura",
+      "water_level": 0.64,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-24T21:07:06.736000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-24T21:07:06.736000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1291411,
+      "globalid": "52810857-b87d-4b82-b324-fd01eb9d6b92",
+      "basin": "Kelani Ganga",
+      "gauge": "Deraniyagala",
+      "water_level": 0.11,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-24T20:55:18.883000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-24T20:55:18.883000+00:00",
+      "Editor": "",
+      "alertpull": 4.8,
+      "minorpull": 5.8,
+      "majorpull": 6.4
+    },
     {
       "objectid": 1291410,
       "globalid": "aaef9c3f-6ca2-49ba-b29f-acd0900d407f",
@@ -97054,51 +97084,6 @@
       "alertpull": 3.3,
       "minorpull": 4.4,
       "majorpull": 5.5
-    },
-    {
-      "objectid": 1284924,
-      "globalid": "d3d4f165-e075-43db-bb59-d350a19cc74f",
-      "basin": "Gin Ganga",
-      "gauge": "Thawalama",
-      "water_level": 1.12,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-17T21:05:28.511000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-17T21:05:28.511000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1284923,
-      "globalid": "cc6cc8de-eb8d-43e9-8181-ce02da784930",
-      "basin": "Kirindi Oya",
-      "gauge": "Thanamalwila",
-      "water_level": 0.77,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-17T20:58:10.824000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-17T20:58:10.824000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 5.5
-    },
-    {
-      "objectid": 1284922,
-      "globalid": "07339968-378d-4e7e-853a-f973212ca12b",
-      "basin": "Heda Oya",
-      "gauge": "Siyambalanduwa",
-      "water_level": 0.74,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-17T20:55:49.141000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-17T20:55:49.141000+00:00",
-      "Editor": "",
-      "alertpull": 4.5,
-      "minorpull": 6,
-      "majorpull": 7
     }
   ]
 }
