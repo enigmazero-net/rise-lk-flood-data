@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-01-25T14:48:00.712316+00:00",
+  "last_updated_utc": "2026-01-25T14:55:07.443093+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6445,
+  "record_count": 6447,
   "records": [
+    {
+      "objectid": 1292114,
+      "globalid": "2ac43ef1-da6d-41d9-8e6b-978afe98fbe5",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.54,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-25T14:51:40.360000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-25T14:51:40.360000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1292113,
+      "globalid": "4cfda651-c373-4a76-992f-4d19902ce239",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Peradeniya",
+      "water_level": 1.1,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-25T14:49:56.341000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-25T14:49:56.341000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 7,
+      "majorpull": 9
+    },
     {
       "objectid": 1292112,
       "globalid": "ec7f4590-79d5-4b56-ad55-3238f9089632",
