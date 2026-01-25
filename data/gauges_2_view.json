@@ -1,10 +1,70 @@
 {
-  "last_updated_utc": "2026-01-25T19:18:02.585115+00:00",
+  "last_updated_utc": "2026-01-25T19:31:08.117764+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6440,
+  "record_count": 6443,
   "records": [
+    {
+      "objectid": 1292262,
+      "globalid": "43cd6dd2-bfc3-481f-a910-9403e2302641",
+      "basin": "Kirindi Oya",
+      "gauge": "Wellawaya",
+      "water_level": 0.81,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-25T19:30:47.532000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-25T19:30:47.532000+00:00",
+      "Editor": "",
+      "alertpull": 4.4,
+      "minorpull": 5.4,
+      "majorpull": 5.9
+    },
+    {
+      "objectid": 1292261,
+      "globalid": "5a59585c-7095-44fa-ad3c-12918ae07a42",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Thaldena",
+      "water_level": 0.45,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-25T19:30:46.906000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-25T19:30:46.906000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1292260,
+      "globalid": "d1970fa7-cb23-4ed0-bcc0-7f09cde10356",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Manampitiya",
+      "water_level": 1.17,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-25T19:30:37.230000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-25T19:30:37.230000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4.3,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1292259,
+      "globalid": "b16795e4-38f9-4f35-a836-8f63443f5714",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 1.97,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-25T19:21:07.845000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-25T19:21:07.845000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1292258,
       "globalid": "0c0d4f35-bf60-463f-a3f7-4e3bccaaf3e0",
@@ -96589,21 +96649,6 @@
       "alertpull": 4.75,
       "minorpull": 6,
       "majorpull": 7
-    },
-    {
-      "objectid": 1285803,
-      "globalid": "449dcdf4-69e9-4c37-af4a-71d1c9c261d9",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Nawalapitiya",
-      "water_level": 0.7,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-18T19:30:56.837000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-18T19:30:56.837000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
-      "minorpull": 5,
-      "majorpull": 6
     }
   ]
 }
