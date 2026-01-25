@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-01-25T19:52:09.919317+00:00",
+  "last_updated_utc": "2026-01-25T20:13:22.158620+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6440,
+  "record_count": 6442,
   "records": [
+    {
+      "objectid": 1292291,
+      "globalid": "35025113-0c61-4dce-886c-e88d38184e64",
+      "basin": "Kelani Ganga",
+      "gauge": "Holombuwa",
+      "water_level": 0.32,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-25T20:12:13.128000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-25T20:12:13.128000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 3.4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1292290,
+      "globalid": "5101ed66-a436-4fd2-b9f3-654702c5a3f8",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Nawalapitiya",
+      "water_level": 0.66,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-25T19:59:32.886000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-25T19:59:32.886000+00:00",
+      "Editor": "",
+      "alertpull": 3.5,
+      "minorpull": 5,
+      "majorpull": 6
+    },
     {
       "objectid": 1292289,
       "globalid": "d0235282-bd68-47b8-b1dd-d312319b08ce",
