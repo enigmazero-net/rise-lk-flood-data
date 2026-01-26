@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2026-01-26T23:49:54.879684+00:00",
+  "last_updated_utc": "2026-01-26T23:57:55.175464+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6436,
+  "record_count": 6435,
   "records": [
     {
       "objectid": 1293336,
@@ -96529,21 +96529,6 @@
       "alertpull": 2.5,
       "minorpull": 4,
       "majorpull": 6
-    },
-    {
-      "objectid": 1286884,
-      "globalid": "d89f7c74-0db7-42c3-b276-b563e0f640b5",
-      "basin": "Maha Oya",
-      "gauge": "Badalgama",
-      "water_level": 1.89,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-19T23:50:43.928000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-19T23:50:43.928000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.2,
-      "majorpull": 9.6
     }
   ]
 }
