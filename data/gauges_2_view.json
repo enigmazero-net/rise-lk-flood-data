@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-01-26T21:43:26.448134+00:00",
+  "last_updated_utc": "2026-01-26T21:56:31.292718+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6430,
+  "record_count": 6431,
   "records": [
+    {
+      "objectid": 1293262,
+      "globalid": "fcd06927-d648-46ae-a0f1-176ba281bdd8",
+      "basin": "Kalu Ganga",
+      "gauge": "Magura",
+      "water_level": 0.82,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-26T21:48:04.001000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-26T21:48:04.001000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1293261,
+      "globalid": "113c9f58-d98d-472d-a8a2-31e26dd31b57",
+      "basin": "Yan Oya",
+      "gauge": "Horowpothana",
+      "water_level": 2.42,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-26T21:46:57.890000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-26T21:46:57.890000+00:00",
+      "Editor": "",
+      "alertpull": 6,
+      "minorpull": 7.5,
+      "majorpull": 10.5
+    },
     {
       "objectid": 1293260,
       "globalid": "8952841c-45bd-48d1-8adf-69fa1d5ece71",
@@ -96439,21 +96469,6 @@
       "alertpull": 4,
       "minorpull": 4.6,
       "majorpull": 6.5
-    },
-    {
-      "objectid": 1286814,
-      "globalid": "71d67efb-0b98-49e4-8c8c-9f3a5f283a83",
-      "basin": "Kelani Ganga",
-      "gauge": "Glencourse",
-      "water_level": 8.52,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-19T21:43:26.915000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-19T21:43:26.915000+00:00",
-      "Editor": "",
-      "alertpull": 15,
-      "minorpull": 16.5,
-      "majorpull": 19
     }
   ]
 }
