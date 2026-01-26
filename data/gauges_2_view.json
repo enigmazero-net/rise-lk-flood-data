@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2026-01-26T13:57:35.177062+00:00",
+  "last_updated_utc": "2026-01-26T14:25:11.564857+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6434,
+  "record_count": 6432,
   "records": [
     {
       "objectid": 1292986,
@@ -96484,36 +96484,6 @@
       "alertpull": 4.4,
       "minorpull": 5.4,
       "majorpull": 5.9
-    },
-    {
-      "objectid": 1286537,
-      "globalid": "b8eb228c-23f4-43a5-b8a7-33c12cd16638",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Thaldena",
-      "water_level": 0.5,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-19T14:03:49.630000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-19T14:03:49.630000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1286536,
-      "globalid": "cbe8b4f3-dc21-4f78-a84c-529d8fbb9b98",
-      "basin": "Deduru Oya",
-      "gauge": "Moragaswewa",
-      "water_level": 0.43,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-19T13:58:42.642000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-19T13:58:42.642000+00:00",
-      "Editor": "",
-      "alertpull": 4.75,
-      "minorpull": 6,
-      "majorpull": 7
     }
   ]
 }
