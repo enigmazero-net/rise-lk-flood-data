@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-26T15:47:11.670962+00:00",
+  "last_updated_utc": "2026-01-26T16:01:34.357526+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6433,
   "records": [
+    {
+      "objectid": 1293063,
+      "globalid": "5c9afea2-c2e8-4c3c-a364-b04361970c09",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Peradeniya",
+      "water_level": 1.8,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-26T15:52:03.376000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-26T15:52:03.376000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 7,
+      "majorpull": 9
+    },
     {
       "objectid": 1293062,
       "globalid": "b9c0c573-64f0-483b-b01e-feb1e005a7c4",
@@ -96484,21 +96499,6 @@
       "alertpull": 5,
       "minorpull": 7,
       "majorpull": 9
-    },
-    {
-      "objectid": 1286613,
-      "globalid": "725be526-a737-4259-9dcf-f613d490c53e",
-      "basin": "Nilwala Ganga",
-      "gauge": "Urawa",
-      "water_level": 0.1,
-      "rain_fall": null,
-      "CreationDate": "2026-01-19T15:54:22.742000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-19T15:54:22.742000+00:00",
-      "Editor": "",
-      "alertpull": 2.5,
-      "minorpull": 4,
-      "majorpull": 6
     }
   ]
 }
