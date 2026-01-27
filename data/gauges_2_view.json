@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2026-01-27T23:48:51.150502+00:00",
+  "last_updated_utc": "2026-01-27T23:56:46.353274+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6453,
+  "record_count": 6451,
   "records": [
     {
       "objectid": 1294271,
@@ -96769,36 +96769,6 @@
       "alertpull": 1.4,
       "minorpull": 1.7,
       "majorpull": 2.8
-    },
-    {
-      "objectid": 1287801,
-      "globalid": "9d15cb9a-09d8-406d-9393-f5833a6b29a7",
-      "basin": "Kelani Ganga",
-      "gauge": "Nagalagam Street",
-      "water_level": 2.2,
-      "rain_fall": null,
-      "CreationDate": "2026-01-20T23:50:20.817000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-20T23:50:20.817000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1287800,
-      "globalid": "616a69e7-6f09-4874-b4dc-c863f60ef6ac",
-      "basin": "Kumbukkan Oya",
-      "gauge": "Nakkala",
-      "water_level": 0.9,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-20T23:49:39.377000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-20T23:49:39.377000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
