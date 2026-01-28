@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-01-28T08:51:47.250564+00:00",
+  "last_updated_utc": "2026-01-28T09:24:39.109863+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6435,
+  "record_count": 6437,
   "records": [
+    {
+      "objectid": 1294631,
+      "globalid": "47abcadf-1ed0-4043-8733-03667b982d36",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": 0.02,
+      "rain_fall": null,
+      "CreationDate": "2026-01-28T09:06:51.490000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-28T09:06:51.490000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1294630,
+      "globalid": "ce7dea8e-d7b6-4398-99bf-297fd983e081",
+      "basin": "Mee Oya",
+      "gauge": "Galgamuwa",
+      "water_level": 0.13,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-28T09:04:03.275000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-28T09:04:03.275000+00:00",
+      "Editor": "",
+      "alertpull": 4.84,
+      "minorpull": 5.94,
+      "majorpull": 8
+    },
     {
       "objectid": 1294629,
       "globalid": "f0c3020d-24da-4e6a-984b-7de83287eb57",
