@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-01-28T10:50:08.892221+00:00",
+  "last_updated_utc": "2026-01-28T11:12:39.658180+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6432,
+  "record_count": 6434,
   "records": [
+    {
+      "objectid": 1294711,
+      "globalid": "239bf938-16a0-42f7-87ea-069426d3e193",
+      "basin": "Kirindi Oya",
+      "gauge": "Thanamalwila",
+      "water_level": 0.52,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-28T10:52:02.817000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-28T10:52:02.817000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 5.5
+    },
+    {
+      "objectid": 1294710,
+      "globalid": "f715b090-387f-42ae-8c14-a97d41e68e1b",
+      "basin": "Deduru Oya",
+      "gauge": "Moragaswewa",
+      "water_level": 0.22,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-28T10:51:23.227000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-28T10:51:23.227000+00:00",
+      "Editor": "",
+      "alertpull": 4.75,
+      "minorpull": 6,
+      "majorpull": 7
+    },
     {
       "objectid": 1294709,
       "globalid": "a2552106-d0c0-4628-b622-4047692e64a2",
