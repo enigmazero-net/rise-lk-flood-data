@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-01-30T09:53:08.784792+00:00",
+  "last_updated_utc": "2026-01-30T10:23:00.265987+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6428,
+  "record_count": 6430,
   "records": [
+    {
+      "objectid": 1296523,
+      "globalid": "d8232ad7-3a4d-4d5f-9a25-77714224d894",
+      "basin": "Deduru Oya",
+      "gauge": "Moragaswewa",
+      "water_level": 0.14,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-30T10:01:04.389000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-30T10:01:04.389000+00:00",
+      "Editor": "",
+      "alertpull": 4.75,
+      "minorpull": 6,
+      "majorpull": 7
+    },
+    {
+      "objectid": 1296522,
+      "globalid": "b3a8fdcf-7719-4f6b-943e-dbcde9a0659a",
+      "basin": "Gin Ganga",
+      "gauge": "Thawalama",
+      "water_level": 0.89,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-30T09:59:53.755000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-30T09:59:53.755000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1296521,
       "globalid": "82d60548-46c8-4c9b-8a55-9b62b50a058b",
