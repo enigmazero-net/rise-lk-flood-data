@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-01-30T21:46:24.844675+00:00",
+  "last_updated_utc": "2026-01-30T21:56:22.000373+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6442,
+  "record_count": 6443,
   "records": [
+    {
+      "objectid": 1296963,
+      "globalid": "f25afe61-8514-4c68-8b3e-81dbebcd5d2f",
+      "basin": "Kelani Ganga",
+      "gauge": "Holombuwa",
+      "water_level": 0.3,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-30T21:52:43.374000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-30T21:52:43.374000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 3.4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1296962,
+      "globalid": "87cd04de-9628-4b70-9496-53fc23865c8b",
+      "basin": "Gin Ganga",
+      "gauge": "Thawalama",
+      "water_level": 1.09,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-30T21:52:32.678000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-30T21:52:32.678000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1296961,
+      "globalid": "d76c9ee5-c94f-4df6-8e8b-87d7d4dc4b6d",
+      "basin": "Gin Ganga",
+      "gauge": "Thawalama",
+      "water_level": 1.07,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-30T21:51:56.621000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-30T21:51:56.621000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1296960,
       "globalid": "c0427a3a-6cd0-43b2-9a4d-82a6106d24f8",
@@ -96604,36 +96649,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1290501,
-      "globalid": "e8751c34-446f-4767-a223-91796078fa7a",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.45,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-23T21:47:04.045000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-23T21:47:04.045000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
-    },
-    {
-      "objectid": 1290500,
-      "globalid": "bf280636-5f4f-4dae-970e-5f1754a77920",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.42,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-23T21:47:02.561000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-23T21:47:02.561000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
     }
   ]
 }
