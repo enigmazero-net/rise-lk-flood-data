@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-01-30T22:46:59.816265+00:00",
+  "last_updated_utc": "2026-01-30T23:02:07.790807+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6442,
+  "record_count": 6443,
   "records": [
+    {
+      "objectid": 1296995,
+      "globalid": "b7d7e79b-20ab-4fcb-83f3-c7c7314096ed",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.42,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-30T23:01:11.106000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-30T23:01:11.106000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1296994,
+      "globalid": "1225b4ff-6591-4b32-8f01-288c48a1e504",
+      "basin": "Kelani Ganga",
+      "gauge": "Glencourse",
+      "water_level": 8.69,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-30T22:53:18.111000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-30T22:53:18.111000+00:00",
+      "Editor": "",
+      "alertpull": 15,
+      "minorpull": 16.5,
+      "majorpull": 19
+    },
+    {
+      "objectid": 1296993,
+      "globalid": "17b9e4a4-15ab-4379-886a-ec5fa6eb6a89",
+      "basin": "Kelani Ganga",
+      "gauge": "Holombuwa",
+      "water_level": 0.31,
+      "rain_fall": 4.2,
+      "CreationDate": "2026-01-30T22:53:04.528000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-30T22:53:04.528000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 3.4,
+      "majorpull": 5
+    },
     {
       "objectid": 1296992,
       "globalid": "61da38d2-bd62-4a94-9189-fdc5305abbe6",
@@ -96604,36 +96649,6 @@
       "alertpull": 4.4,
       "minorpull": 5.4,
       "majorpull": 5.9
-    },
-    {
-      "objectid": 1290533,
-      "globalid": "8ab12cc2-b9d5-4977-9338-903682ce9264",
-      "basin": "Nilwala Ganga",
-      "gauge": "Urawa",
-      "water_level": 0.07,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-23T22:50:48.647000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-23T22:50:48.647000+00:00",
-      "Editor": "",
-      "alertpull": 2.5,
-      "minorpull": 4,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1290532,
-      "globalid": "82d909bd-9c96-448a-a08c-ceeff2fbeb85",
-      "basin": "Nilwala Ganga",
-      "gauge": "Urawa",
-      "water_level": 0.07,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-23T22:50:17.809000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-23T22:50:17.809000+00:00",
-      "Editor": "",
-      "alertpull": 2.5,
-      "minorpull": 4,
-      "majorpull": 6
     }
   ]
 }
