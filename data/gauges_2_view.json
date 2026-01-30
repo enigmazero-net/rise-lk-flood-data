@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-30T20:58:03.958694+00:00",
+  "last_updated_utc": "2026-01-30T21:25:31.383474+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6441,
+  "record_count": 6440,
   "records": [
+    {
+      "objectid": 1296924,
+      "globalid": "125874fd-0f75-49d1-8e0f-589a3c97bb50",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 2.03,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-30T20:59:44.078000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-30T20:59:44.078000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1296923,
       "globalid": "8c90483a-c6a1-417b-9dc9-4c933279115f",
@@ -96589,36 +96604,6 @@
       "alertpull": 5,
       "minorpull": 7,
       "majorpull": 9
-    },
-    {
-      "objectid": 1290465,
-      "globalid": "efd5bc5a-eb4c-4f39-abe2-572bed0106e4",
-      "basin": "Kirindi Oya",
-      "gauge": "Kuda Oya",
-      "water_level": 1.21,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-23T21:07:53.010000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-23T21:07:53.010000+00:00",
-      "Editor": "",
-      "alertpull": 6.9,
-      "minorpull": 8.4,
-      "majorpull": 8.8
-    },
-    {
-      "objectid": 1290464,
-      "globalid": "65d66fe9-3c55-4b32-8e17-6f55d3f7345c",
-      "basin": "Kirindi Oya",
-      "gauge": "Kuda Oya",
-      "water_level": 1.21,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-23T21:07:51.632000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-23T21:07:51.632000+00:00",
-      "Editor": "",
-      "alertpull": 6.9,
-      "minorpull": 8.4,
-      "majorpull": 8.8
     }
   ]
 }
