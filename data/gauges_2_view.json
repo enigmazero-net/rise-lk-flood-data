@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-01-31T07:53:31.869821+00:00",
+  "last_updated_utc": "2026-01-31T08:17:05.911115+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6441,
   "records": [
+    {
+      "objectid": 1297364,
+      "globalid": "aeb9cae2-4d30-4be7-aa75-c31f636ea290",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": 0.08,
+      "rain_fall": null,
+      "CreationDate": "2026-01-31T07:59:08.383000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-31T07:59:08.383000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1297363,
+      "globalid": "abb97c8d-8d8e-4b8e-bc41-9207b6bdc744",
+      "basin": "Gin Ganga",
+      "gauge": "Thawalama",
+      "water_level": 0.88,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-31T07:54:29.345000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-31T07:54:29.345000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1297362,
       "globalid": "a871cb5f-a7d7-4414-882a-a3246ed98a24",
@@ -96589,36 +96619,6 @@
       "alertpull": 10,
       "minorpull": 10.7,
       "majorpull": 12.2
-    },
-    {
-      "objectid": 1290907,
-      "globalid": "2e973418-be03-4040-b492-45161b07560d",
-      "basin": "Gin Ganga",
-      "gauge": "Baddegama",
-      "water_level": 1.12,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-24T08:10:25.682000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-24T08:10:25.682000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
-      "minorpull": 4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1290906,
-      "globalid": "26eec6a5-d839-46ff-8c90-7289575a4caf",
-      "basin": "Menik Ganga",
-      "gauge": "Katharagama",
-      "water_level": -0.04,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-24T07:57:58.251000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-24T07:57:58.251000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 4.6,
-      "majorpull": 6.5
     }
   ]
 }
