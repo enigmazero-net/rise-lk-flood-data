@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-01-31T22:57:33.913444+00:00",
+  "last_updated_utc": "2026-01-31T23:18:17.613111+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6444,
+  "record_count": 6445,
   "records": [
+    {
+      "objectid": 1297935,
+      "globalid": "e4d50515-1ce9-4894-8aca-e17d68680ffb",
+      "basin": "Kelani Ganga",
+      "gauge": "Holombuwa",
+      "water_level": 0.45,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-31T23:12:44.154000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-31T23:12:44.154000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 3.4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1297934,
+      "globalid": "fad7fe7d-53b8-491d-abb9-ba36bf24f1d5",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.7,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-31T22:58:58.732000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-31T22:58:58.732000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
     {
       "objectid": 1297933,
       "globalid": "37a8606a-1b95-4421-b47b-58af1cf1bc77",
@@ -96649,21 +96679,6 @@
       "alertpull": 4,
       "minorpull": 5,
       "majorpull": 6.5
-    },
-    {
-      "objectid": 1291479,
-      "globalid": "9c007035-b109-431d-9900-4cba9d43538f",
-      "basin": "Ma Oya",
-      "gauge": "Yaka Wewa",
-      "water_level": 1.06,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-24T23:15:20.177000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-24T23:15:20.177000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6
     }
   ]
 }
