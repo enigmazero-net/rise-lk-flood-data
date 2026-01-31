@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-01-31T17:57:27.272496+00:00",
+  "last_updated_utc": "2026-01-31T18:26:28.230805+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6433,
   "records": [
+    {
+      "objectid": 1297754,
+      "globalid": "be585dbb-bf04-4b4d-9035-8fbc26bfaa32",
+      "basin": "Kelani Ganga",
+      "gauge": "Glencourse",
+      "water_level": 8.35,
+      "rain_fall": 0,
+      "CreationDate": "2026-01-31T18:02:21.118000+00:00",
+      "Creator": "",
+      "EditDate": "2026-01-31T18:02:21.118000+00:00",
+      "Editor": "",
+      "alertpull": 15,
+      "minorpull": 16.5,
+      "majorpull": 19
+    },
     {
       "objectid": 1297753,
       "globalid": "b149652f-22d9-4126-8836-b1a594c56ab6",
@@ -96484,21 +96499,6 @@
       "alertpull": 4.4,
       "minorpull": 5.4,
       "majorpull": 5.9
-    },
-    {
-      "objectid": 1291308,
-      "globalid": "577554de-35f1-4eba-8508-8e2b7a0ff602",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.31,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-24T17:59:01.102000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-24T17:59:01.102000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
     }
   ]
 }
