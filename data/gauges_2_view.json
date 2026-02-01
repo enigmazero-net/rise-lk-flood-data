@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-02-01T21:43:36.948634+00:00",
+  "last_updated_utc": "2026-02-01T21:55:38.005470+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6467,
+  "record_count": 6464,
   "records": [
+    {
+      "objectid": 1298831,
+      "globalid": "e91bd308-9ff9-4017-a338-a411a90f0897",
+      "basin": "Kelani Ganga",
+      "gauge": "Holombuwa",
+      "water_level": 0.35,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-01T21:43:49.807000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-01T21:43:49.807000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 3.4,
+      "majorpull": 5
+    },
     {
       "objectid": 1298830,
       "globalid": "105f2d75-2092-43e5-9f9b-26bfb981880f",
@@ -96949,66 +96964,6 @@
       "alertpull": 4,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1292354,
-      "globalid": "d122a78b-4f72-456d-a305-e65c2d0b4d74",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 0.63,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-25T21:54:44.341000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-25T21:54:44.341000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1292353,
-      "globalid": "0e644807-bf6b-43cc-9464-cab14576be62",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 1.97,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-25T21:54:35.097000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-25T21:54:35.097000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1292352,
-      "globalid": "118fcdb1-1925-479c-b2ae-362ea672b61a",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.27,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-25T21:46:03.484000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-25T21:46:03.484000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
-    },
-    {
-      "objectid": 1292351,
-      "globalid": "1767aaf2-200f-4ffd-98c6-960095d8d8ef",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Peradeniya",
-      "water_level": 1.82,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-25T21:44:05.936000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-25T21:44:05.936000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 7,
-      "majorpull": 9
     }
   ]
 }
