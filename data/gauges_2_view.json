@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-02-01T19:51:55.057939+00:00",
+  "last_updated_utc": "2026-02-01T20:14:30.400779+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6464,
+  "record_count": 6463,
   "records": [
+    {
+      "objectid": 1298767,
+      "globalid": "6a5fc082-67a5-4abf-bbe6-33da1c5f45fa",
+      "basin": "Kirindi Oya",
+      "gauge": "Kuda Oya",
+      "water_level": 1.23,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-01T19:57:49.117000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-01T19:57:49.117000+00:00",
+      "Editor": "",
+      "alertpull": 6.9,
+      "minorpull": 8.4,
+      "majorpull": 8.8
+    },
     {
       "objectid": 1298766,
       "globalid": "400a08be-f2bf-4901-86c9-bec6ad4ace32",
@@ -96934,36 +96949,6 @@
       "alertpull": 3.5,
       "minorpull": 4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1292291,
-      "globalid": "35025113-0c61-4dce-886c-e88d38184e64",
-      "basin": "Kelani Ganga",
-      "gauge": "Holombuwa",
-      "water_level": 0.32,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-25T20:12:13.128000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-25T20:12:13.128000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 3.4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1292290,
-      "globalid": "5101ed66-a436-4fd2-b9f3-654702c5a3f8",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Nawalapitiya",
-      "water_level": 0.66,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-25T19:59:32.886000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-25T19:59:32.886000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
-      "minorpull": 5,
-      "majorpull": 6
     }
   ]
 }
