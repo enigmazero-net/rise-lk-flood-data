@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-02-01T16:49:01.223390+00:00",
+  "last_updated_utc": "2026-02-01T17:04:25.084787+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6464,
+  "record_count": 6462,
   "records": [
+    {
+      "objectid": 1298665,
+      "globalid": "6c9c5e17-6e77-4685-ab1b-e0a85ae36299",
+      "basin": "Walawe Ganga",
+      "gauge": "Moraketiya",
+      "water_level": 0.85,
+      "rain_fall": null,
+      "CreationDate": "2026-02-01T16:56:45.262000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-01T16:56:45.262000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 5,
+      "majorpull": 7
+    },
     {
       "objectid": 1298664,
       "globalid": "8f56be32-6d47-45b5-bcff-51eff57b17e8",
@@ -96919,51 +96934,6 @@
       "alertpull": 3.5,
       "minorpull": 4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1292189,
-      "globalid": "5739acbb-8c26-41ff-827f-e82444bc0246",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.4,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-25T17:02:35.448000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-25T17:02:35.448000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
-    },
-    {
-      "objectid": 1292188,
-      "globalid": "188d48f9-babb-40f4-8933-5728606645dc",
-      "basin": "Nilwala Ganga",
-      "gauge": "Urawa",
-      "water_level": 0.05,
-      "rain_fall": null,
-      "CreationDate": "2026-01-25T16:58:59.874000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-25T16:58:59.874000+00:00",
-      "Editor": "",
-      "alertpull": 2.5,
-      "minorpull": 4,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1292187,
-      "globalid": "5b803d9d-26ab-42ce-8e3e-594579716bdd",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Peradeniya",
-      "water_level": 1.52,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-25T16:49:27.816000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-25T16:49:27.816000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 7,
-      "majorpull": 9
     }
   ]
 }
