@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-02-01T22:44:35.528927+00:00",
+  "last_updated_utc": "2026-02-01T22:59:23.576373+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6477,
   "records": [
+    {
+      "objectid": 1298870,
+      "globalid": "28ee0808-afb7-4a11-8989-6916152df972",
+      "basin": "Heda Oya",
+      "gauge": "Siyambalanduwa",
+      "water_level": 0.54,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-01T22:57:55.633000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-01T22:57:55.633000+00:00",
+      "Editor": "",
+      "alertpull": 4.5,
+      "minorpull": 6,
+      "majorpull": 7
+    },
+    {
+      "objectid": 1298869,
+      "globalid": "65687010-eb60-4722-b34e-cb2192b52905",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 0.77,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-01T22:50:09.478000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-01T22:50:09.478000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
+    {
+      "objectid": 1298868,
+      "globalid": "60ea03d9-3a6f-4fb8-8585-d11adf4835e5",
+      "basin": "Kalu Ganga",
+      "gauge": "Kalawellawa (Millakanda)",
+      "water_level": 2.08,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-01T22:48:16.229000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-01T22:48:16.229000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.5,
+      "majorpull": 8
+    },
     {
       "objectid": 1298867,
       "globalid": "c52aedfe-5884-4371-a846-6fb180cd07c4",
@@ -97114,51 +97159,6 @@
       "alertpull": 6,
       "minorpull": 7.5,
       "majorpull": 10.5
-    },
-    {
-      "objectid": 1292380,
-      "globalid": "40da0e9f-1aa7-47b9-999d-4481d7bcb6a1",
-      "basin": "Gin Ganga",
-      "gauge": "Thawalama",
-      "water_level": 0.97,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-25T22:56:39.646000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-25T22:56:39.646000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1292379,
-      "globalid": "ba9ee42d-77e3-42a6-8029-0ed7ed1aa51a",
-      "basin": "Kirindi Oya",
-      "gauge": "Wellawaya",
-      "water_level": 0.81,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-25T22:52:24.012000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-25T22:52:24.012000+00:00",
-      "Editor": "",
-      "alertpull": 4.4,
-      "minorpull": 5.4,
-      "majorpull": 5.9
-    },
-    {
-      "objectid": 1292378,
-      "globalid": "faeb0d3e-855a-4783-b0d3-b128363645be",
-      "basin": "Walawe Ganga",
-      "gauge": "Moraketiya",
-      "water_level": 0.83,
-      "rain_fall": null,
-      "CreationDate": "2026-01-25T22:48:28.761000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-25T22:48:28.761000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 5,
-      "majorpull": 7
     }
   ]
 }
