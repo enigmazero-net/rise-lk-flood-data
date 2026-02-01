@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-02-01T07:47:27.930100+00:00",
+  "last_updated_utc": "2026-02-01T08:00:44.131165+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6462,
+  "record_count": 6461,
   "records": [
+    {
+      "objectid": 1298313,
+      "globalid": "d6c37e44-cf49-4eba-a8d8-79996ea1ef0d",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 0.78,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-01T07:52:16.704000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-01T07:52:16.704000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
     {
       "objectid": 1298312,
       "globalid": "ba9a93e8-5414-4146-8577-08e5605f65b2",
@@ -96904,36 +96919,6 @@
       "alertpull": 5,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1291840,
-      "globalid": "3b9ea744-ae9c-4ae8-9ed9-c28af24c201b",
-      "basin": "Deduru Oya",
-      "gauge": "Moragaswewa",
-      "water_level": 0.36,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-25T07:59:36.730000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-25T07:59:36.730000+00:00",
-      "Editor": "",
-      "alertpull": 4.75,
-      "minorpull": 6,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1291839,
-      "globalid": "aded747b-f6ab-4835-94c4-8d1c8fc1581d",
-      "basin": "Gin Ganga",
-      "gauge": "Baddegama",
-      "water_level": 1.11,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-25T07:48:17.920000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-25T07:48:17.920000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
-      "minorpull": 4,
-      "majorpull": 5
     }
   ]
 }
