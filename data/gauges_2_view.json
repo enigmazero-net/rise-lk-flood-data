@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-02-02T17:51:56.141799+00:00",
+  "last_updated_utc": "2026-02-02T18:28:48.963436+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6482,
+  "record_count": 6480,
   "records": [
+    {
+      "objectid": 1299625,
+      "globalid": "4e7a4019-40d6-4bef-8c1c-473762d2032b",
+      "basin": "Kalu Ganga",
+      "gauge": "Rathnapura",
+      "water_level": 0.76,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-02T18:17:27.728000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-02T18:17:27.728000+00:00",
+      "Editor": "",
+      "alertpull": 5.2,
+      "minorpull": 7.5,
+      "majorpull": 9.5
+    },
     {
       "objectid": 1299624,
       "globalid": "34793a9c-c549-4eed-a1f3-dd5662bee702",
@@ -97189,51 +97204,6 @@
       "alertpull": 4.4,
       "minorpull": 5.4,
       "majorpull": 5.9
-    },
-    {
-      "objectid": 1293132,
-      "globalid": "73bf9c6f-f438-4a3d-826f-6f49d0c04c1c",
-      "basin": "Walawe Ganga",
-      "gauge": "Moraketiya",
-      "water_level": 0.84,
-      "rain_fall": null,
-      "CreationDate": "2026-01-26T18:05:12.987000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-26T18:05:12.987000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 5,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1293131,
-      "globalid": "5c3fd4b0-f5c7-4f21-88d3-8a1be8bfe61b",
-      "basin": "Deduru Oya",
-      "gauge": "Moragaswewa",
-      "water_level": 0.29,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-26T17:55:15.791000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-26T17:55:15.791000+00:00",
-      "Editor": "",
-      "alertpull": 4.75,
-      "minorpull": 6,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1293130,
-      "globalid": "47818c79-163c-440e-8710-b63f9eda9b66",
-      "basin": "Kalu Ganga",
-      "gauge": "Putupaula",
-      "water_level": 0.42,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-26T17:53:36.630000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-26T17:53:36.630000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
     }
   ]
 }
