@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-02-02T13:45:11.162917+00:00",
+  "last_updated_utc": "2026-02-02T14:27:00.243566+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6481,
+  "record_count": 6480,
   "records": [
+    {
+      "objectid": 1299479,
+      "globalid": "96f7206e-78bc-4d58-881d-4f38d067efbb",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.67,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-02T13:48:02.940000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-02T13:48:02.940000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
     {
       "objectid": 1299478,
       "globalid": "8d6fda6b-5d3e-4941-bac0-0fa1cc478211",
@@ -3574,21 +3589,6 @@
       "alertpull": 5,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1299240,
-      "globalid": "e5898b7f-4cf0-4949-9d0d-995a5c6dfb97",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.14,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-02T07:59:39.541000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-02T07:59:39.541000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
     },
     {
       "objectid": 1299239,
@@ -97204,21 +97204,6 @@
       "alertpull": 5,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1292986,
-      "globalid": "56993084-e12f-46ad-aaee-f48d67a91645",
-      "basin": "Deduru Oya",
-      "gauge": "Moragaswewa",
-      "water_level": 0.3,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-26T13:52:06.982000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-26T13:52:06.982000+00:00",
-      "Editor": "",
-      "alertpull": 4.75,
-      "minorpull": 6,
-      "majorpull": 7
     }
   ]
 }
