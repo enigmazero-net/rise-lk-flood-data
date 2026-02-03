@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-02-03T11:48:02.817964+00:00",
+  "last_updated_utc": "2026-02-03T12:03:04.138944+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6355,
+  "record_count": 6357,
   "records": [
+    {
+      "objectid": 1300191,
+      "globalid": "4b20039b-d4b1-4919-b9db-4ff9836ef324",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.59,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-03T11:51:54.284000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-03T11:51:54.284000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
+    {
+      "objectid": 1300190,
+      "globalid": "7cb41f8d-27c3-476c-bbeb-667196fe984e",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Peradeniya",
+      "water_level": 1.18,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-03T11:49:10.632000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-03T11:49:10.632000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 7,
+      "majorpull": 9
+    },
     {
       "objectid": 1300189,
       "globalid": "e492c01c-ec88-4e1a-8bcf-831cfd1d86b5",
