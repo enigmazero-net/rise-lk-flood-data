@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-02-04T20:49:01.476052+00:00",
+  "last_updated_utc": "2026-02-04T21:19:07.008983+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6188,
+  "record_count": 6190,
   "records": [
+    {
+      "objectid": 1301282,
+      "globalid": "cad1f50c-8a16-458d-a785-917b80ff66bf",
+      "basin": "Kirindi Oya",
+      "gauge": "Kuda Oya",
+      "water_level": 1.22,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-04T20:49:09.652000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-04T20:49:09.652000+00:00",
+      "Editor": "",
+      "alertpull": 6.9,
+      "minorpull": 8.4,
+      "majorpull": 8.8
+    },
+    {
+      "objectid": 1301281,
+      "globalid": "00617f7d-ba7b-4042-8616-ba5f16010761",
+      "basin": "Kirindi Oya",
+      "gauge": "Kuda Oya",
+      "water_level": 1.22,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-04T20:49:08.334000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-04T20:49:08.334000+00:00",
+      "Editor": "",
+      "alertpull": 6.9,
+      "minorpull": 8.4,
+      "majorpull": 8.8
+    },
+    {
+      "objectid": 1301280,
+      "globalid": "8a5dbe88-da66-4272-85ee-63586700bbb5",
+      "basin": "Kirindi Oya",
+      "gauge": "Kuda Oya",
+      "water_level": 1.22,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-04T20:49:06.939000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-04T20:49:06.939000+00:00",
+      "Editor": "",
+      "alertpull": 6.9,
+      "minorpull": 8.4,
+      "majorpull": 8.8
+    },
     {
       "objectid": 1301279,
       "globalid": "9293da6a-f288-4d22-9fee-b17c6b23582b",
@@ -92809,21 +92854,6 @@
       "alertpull": 6.9,
       "minorpull": 8.4,
       "majorpull": 8.8
-    },
-    {
-      "objectid": 1295082,
-      "globalid": "d97213ae-5b7d-401b-8944-a5025d0f8e4c",
-      "basin": "Gin Ganga",
-      "gauge": "Baddegama",
-      "water_level": 1.13,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-28T21:03:16.048000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-28T21:03:16.048000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
-      "minorpull": 4,
-      "majorpull": 5
     }
   ]
 }
