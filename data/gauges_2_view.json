@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-02-04T23:45:04.578619+00:00",
+  "last_updated_utc": "2026-02-04T23:59:45.623554+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6171,
+  "record_count": 6173,
   "records": [
+    {
+      "objectid": 1301370,
+      "globalid": "66ff9915-b501-48da-9981-3f51cd1c27f6",
+      "basin": "Aththanagalu Oya",
+      "gauge": "Dunamale",
+      "water_level": 0.25,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-04T23:52:51.302000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-04T23:52:51.302000+00:00",
+      "Editor": "",
+      "alertpull": 3.3,
+      "minorpull": 4.4,
+      "majorpull": 5.5
+    },
+    {
+      "objectid": 1301369,
+      "globalid": "814fed13-badf-46f1-bf9d-3a6448f9025e",
+      "basin": "Walawe Ganga",
+      "gauge": "Moraketiya",
+      "water_level": 0.83,
+      "rain_fall": null,
+      "CreationDate": "2026-02-04T23:47:31.893000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-04T23:47:31.893000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 5,
+      "majorpull": 7
+    },
     {
       "objectid": 1301368,
       "globalid": "32ec2e48-e18d-4e9b-b0f4-eae2408bda3e",
