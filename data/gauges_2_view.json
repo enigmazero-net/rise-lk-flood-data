@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-02-04T21:48:49.429353+00:00",
+  "last_updated_utc": "2026-02-04T22:00:10.663057+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6176,
+  "record_count": 6177,
   "records": [
+    {
+      "objectid": 1301306,
+      "globalid": "f5a48f54-5246-4550-85be-8761757fd3a0",
+      "basin": "Kelani Ganga",
+      "gauge": "Holombuwa",
+      "water_level": 0.34,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-04T21:51:31.409000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-04T21:51:31.409000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 3.4,
+      "majorpull": 5
+    },
     {
       "objectid": 1301305,
       "globalid": "18c3c2d5-c70e-41ec-8c51-5eae563eac8a",
