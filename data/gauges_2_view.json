@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-02-05T09:41:36.108490+00:00",
+  "last_updated_utc": "2026-02-05T10:26:33.234402+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6111,
+  "record_count": 6112,
   "records": [
+    {
+      "objectid": 1301716,
+      "globalid": "9774ea67-e9f7-4bde-92d6-ab250db178d3",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": 0.06,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-05T09:45:32.433000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-05T09:45:32.433000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1301715,
+      "globalid": "dc1d6447-f48f-4b7a-9d84-0b4141ed9c7e",
+      "basin": "Kirindi Oya",
+      "gauge": "Thanamalwila",
+      "water_level": 0.46,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-05T09:44:46.710000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-05T09:44:46.710000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 5.5
+    },
     {
       "objectid": 1301714,
       "globalid": "02d9dc1a-37a3-48a3-9eba-5ee19fc34d52",
@@ -91654,21 +91684,6 @@
       "alertpull": 1.5,
       "minorpull": 3,
       "majorpull": 4.5
-    },
-    {
-      "objectid": 1295596,
-      "globalid": "8d57dc81-3cef-41d8-8170-46d3d02af49d",
-      "basin": "Yan Oya",
-      "gauge": "Horowpothana",
-      "water_level": 1.28,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-29T09:42:24.211000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-29T09:42:24.211000+00:00",
-      "Editor": "",
-      "alertpull": 6,
-      "minorpull": 7.5,
-      "majorpull": 10.5
     }
   ]
 }
