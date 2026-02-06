@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-02-06T07:53:02.935123+00:00",
+  "last_updated_utc": "2026-02-06T08:30:03.982471+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6079,
+  "record_count": 6081,
   "records": [
+    {
+      "objectid": 1302526,
+      "globalid": "736600c9-b60e-40c2-a8e2-6cbf58026860",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 0.32,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-06T07:56:03.042000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-06T07:56:03.042000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
+    {
+      "objectid": 1302525,
+      "globalid": "2ee143b5-7bb2-412e-9952-bc9a01bfa216",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.35,
+      "rain_fall": null,
+      "CreationDate": "2026-02-06T07:55:23.949000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-06T07:55:23.949000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
+    {
+      "objectid": 1302524,
+      "globalid": "6292f41a-6c12-4dbf-901f-9f3994658a4b",
+      "basin": "Malwathu Oya",
+      "gauge": "Thanthirimale",
+      "water_level": 1.64,
+      "rain_fall": 2,
+      "CreationDate": "2026-02-06T07:53:45.751000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-06T07:53:45.751000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.8,
+      "majorpull": 7.8
+    },
     {
       "objectid": 1302523,
       "globalid": "13eda0d0-5b49-4baf-bca4-fed9c1314bed",
@@ -91174,21 +91219,6 @@
       "alertpull": 5,
       "minorpull": 6.8,
       "majorpull": 7.8
-    },
-    {
-      "objectid": 1296441,
-      "globalid": "d4c010d5-7dfa-4d22-a273-d92b72de0168",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 1.91,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-30T08:08:30.685000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-30T08:08:30.685000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
