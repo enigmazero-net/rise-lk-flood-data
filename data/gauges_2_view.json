@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-02-07T16:56:54.594240+00:00",
+  "last_updated_utc": "2026-02-07T17:21:36.775283+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6303,
+  "record_count": 6304,
   "records": [
+    {
+      "objectid": 1304033,
+      "globalid": "c5596034-7fae-4259-8576-076743196a68",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 0.31,
+      "rain_fall": null,
+      "CreationDate": "2026-02-07T17:20:54.145000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-07T17:20:54.145000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
+    {
+      "objectid": 1304032,
+      "globalid": "8c95f230-865f-4b91-a99a-402539430857",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Manampitiya",
+      "water_level": 1.94,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-07T16:58:39.942000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-07T16:58:39.942000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4.3,
+      "majorpull": 6
+    },
     {
       "objectid": 1304031,
       "globalid": "8502f3a6-c957-418c-8e9e-0799411437ed",
@@ -94534,21 +94564,6 @@
       "alertpull": 6,
       "minorpull": 7.5,
       "majorpull": 10.5
-    },
-    {
-      "objectid": 1297721,
-      "globalid": "9f4ae3b9-0839-46d6-b770-11cf93d910bb",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Manampitiya",
-      "water_level": 1.79,
-      "rain_fall": 0,
-      "CreationDate": "2026-01-31T17:17:18.908000+00:00",
-      "Creator": "",
-      "EditDate": "2026-01-31T17:17:18.908000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4.3,
-      "majorpull": 6
     }
   ]
 }
