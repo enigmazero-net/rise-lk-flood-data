@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-02-08T19:56:03.274025+00:00",
+  "last_updated_utc": "2026-02-08T20:17:16.450095+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6268,
   "records": [
+    {
+      "objectid": 1305040,
+      "globalid": "e9967dfe-0edd-4081-bfff-a03d79279ac1",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Nawalapitiya",
+      "water_level": 0.62,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-08T19:58:08.261000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-08T19:58:08.261000+00:00",
+      "Editor": "",
+      "alertpull": 3.5,
+      "minorpull": 5,
+      "majorpull": 6
+    },
     {
       "objectid": 1305039,
       "globalid": "c770a015-3eb7-4b28-a8cd-421cb0e56d2f",
@@ -94005,21 +94020,6 @@
       "CreationDate": "2026-02-01T20:30:52.433000+00:00",
       "Creator": "",
       "EditDate": "2026-02-01T20:30:52.433000+00:00",
-      "Editor": "",
-      "alertpull": 6.9,
-      "minorpull": 8.4,
-      "majorpull": 8.8
-    },
-    {
-      "objectid": 1298767,
-      "globalid": "6a5fc082-67a5-4abf-bbe6-33da1c5f45fa",
-      "basin": "Kirindi Oya",
-      "gauge": "Kuda Oya",
-      "water_level": 1.23,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-01T19:57:49.117000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-01T19:57:49.117000+00:00",
       "Editor": "",
       "alertpull": 6.9,
       "minorpull": 8.4,
