@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-02-08T08:47:36.923869+00:00",
+  "last_updated_utc": "2026-02-08T09:14:25.420639+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6270,
+  "record_count": 6269,
   "records": [
+    {
+      "objectid": 1304629,
+      "globalid": "81d5aaa3-6670-4951-ad43-d71bcd8daf4c",
+      "basin": "Mee Oya",
+      "gauge": "Galgamuwa",
+      "water_level": 0.22,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-08T08:48:22.894000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-08T08:48:22.894000+00:00",
+      "Editor": "",
+      "alertpull": 4.84,
+      "minorpull": 5.94,
+      "majorpull": 8
+    },
     {
       "objectid": 1304628,
       "globalid": "4df793ed-fe5b-43a1-a88b-744f65f7e956",
@@ -94024,36 +94039,6 @@
       "alertpull": 3,
       "minorpull": 4.3,
       "majorpull": 6
-    },
-    {
-      "objectid": 1298353,
-      "globalid": "3377b884-7c4f-49d5-a770-abf698c417aa",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.75,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-01T08:49:09.985000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-01T08:49:09.985000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
-    },
-    {
-      "objectid": 1298352,
-      "globalid": "169ee6d1-e71b-4575-80b4-59e12a801211",
-      "basin": "Kalu Ganga",
-      "gauge": "Kalawellawa (Millakanda)",
-      "water_level": 1.48,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-01T08:48:19.307000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-01T08:48:19.307000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.5,
-      "majorpull": 8
     }
   ]
 }
