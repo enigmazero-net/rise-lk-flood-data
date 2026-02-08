@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-02-08T14:52:39.877791+00:00",
+  "last_updated_utc": "2026-02-08T15:16:28.048069+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6269,
   "records": [
+    {
+      "objectid": 1304866,
+      "globalid": "084cf9bd-0a53-45bf-aa29-c484f734e20c",
+      "basin": "Kalu Ganga",
+      "gauge": "Magura",
+      "water_level": 0.94,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-08T15:00:29.283000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-08T15:00:29.283000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1304865,
       "globalid": "76a44d99-c7c6-48c4-8793-1224e5e5781a",
@@ -94024,21 +94039,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 6
-    },
-    {
-      "objectid": 1298592,
-      "globalid": "98d8eaf7-b30a-4f84-a7a0-dcceb7f8af6b",
-      "basin": "Walawe Ganga",
-      "gauge": "Moraketiya",
-      "water_level": 0.85,
-      "rain_fall": null,
-      "CreationDate": "2026-02-01T15:04:07.079000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-01T15:04:07.079000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 5,
-      "majorpull": 7
     }
   ]
 }
