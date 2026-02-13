@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-02-13T19:56:48.018800+00:00",
+  "last_updated_utc": "2026-02-13T20:30:07.287793+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6598,
   "records": [
+    {
+      "objectid": 1309637,
+      "globalid": "aa7977ec-6724-402a-8d5a-289242ad701b",
+      "basin": "Kirindi Oya",
+      "gauge": "Wellawaya",
+      "water_level": 0.88,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-13T20:09:51.589000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-13T20:09:51.589000+00:00",
+      "Editor": "",
+      "alertpull": 4.4,
+      "minorpull": 5.4,
+      "majorpull": 5.9
+    },
+    {
+      "objectid": 1309636,
+      "globalid": "18171709-7eae-4e9c-b529-6f2b64a53b07",
+      "basin": "Kirindi Oya",
+      "gauge": "Kuda Oya",
+      "water_level": 1.22,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-13T20:07:11.322000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-13T20:07:11.322000+00:00",
+      "Editor": "",
+      "alertpull": 6.9,
+      "minorpull": 8.4,
+      "majorpull": 8.8
+    },
+    {
+      "objectid": 1309635,
+      "globalid": "766e1032-8636-45dd-ba66-74d74ea533ac",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Manampitiya",
+      "water_level": 2,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-13T19:57:21.797000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-13T19:57:21.797000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4.3,
+      "majorpull": 6
+    },
     {
       "objectid": 1309634,
       "globalid": "d90a35e5-9970-4fc3-80f2-b6f6e5edf96a",
@@ -98929,51 +98974,6 @@
       "alertpull": 4.4,
       "minorpull": 5.4,
       "majorpull": 5.9
-    },
-    {
-      "objectid": 1303024,
-      "globalid": "e2648bee-561a-4b17-bc4e-3a85bd081eca",
-      "basin": "Kelani Ganga",
-      "gauge": "Nagalagam Street",
-      "water_level": 1.5,
-      "rain_fall": null,
-      "CreationDate": "2026-02-06T20:26:08.817000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-06T20:26:08.817000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1303023,
-      "globalid": "2b8b186c-4bef-4759-bbd5-b0eaf1e0f50a",
-      "basin": "Kumbukkan Oya",
-      "gauge": "Nakkala",
-      "water_level": 1.18,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-06T20:16:50.492000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-06T20:16:50.492000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1303022,
-      "globalid": "fc65f05b-0bd0-4d58-9354-b7fa8347d2fd",
-      "basin": "Nilwala Ganga",
-      "gauge": "Urawa",
-      "water_level": 0.9,
-      "rain_fall": null,
-      "CreationDate": "2026-02-06T20:01:43.523000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-06T20:01:43.523000+00:00",
-      "Editor": "",
-      "alertpull": 2.5,
-      "minorpull": 4,
-      "majorpull": 6
     }
   ]
 }
