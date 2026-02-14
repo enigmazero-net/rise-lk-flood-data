@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-02-14T20:47:09.633725+00:00",
+  "last_updated_utc": "2026-02-14T21:00:25.923794+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6409,
+  "record_count": 6408,
   "records": [
+    {
+      "objectid": 1310583,
+      "globalid": "e96bcbd6-a388-45fb-a6f0-776c4ec7dcdf",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 0.29,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-14T20:52:05.216000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-14T20:52:05.216000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
     {
       "objectid": 1310582,
       "globalid": "a55c49e9-fb7e-457e-a7a9-45d4cdaf5925",
@@ -96109,36 +96124,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1304162,
-      "globalid": "32327f4d-7545-4e4a-b10b-ae8c09fc6225",
-      "basin": "Kelani Ganga",
-      "gauge": "Nagalagam Street",
-      "water_level": 1.6,
-      "rain_fall": null,
-      "CreationDate": "2026-02-07T20:51:29.121000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-07T20:51:29.121000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1304161,
-      "globalid": "9fef0996-5d72-442f-86aa-e561cc0ffab7",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 1.17,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-07T20:50:30.216000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-07T20:50:30.216000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
