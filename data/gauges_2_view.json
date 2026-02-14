@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-02-14T22:43:55.229835+00:00",
+  "last_updated_utc": "2026-02-14T22:59:05.492623+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6412,
   "records": [
+    {
+      "objectid": 1310655,
+      "globalid": "9addea43-fa57-447c-82a2-2688fece9198",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": 0.03,
+      "rain_fall": null,
+      "CreationDate": "2026-02-14T22:50:37.202000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-14T22:50:37.202000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
     {
       "objectid": 1310654,
       "globalid": "58dca558-8405-4398-b455-1f8f098af40c",
@@ -96169,21 +96184,6 @@
       "alertpull": 1.4,
       "minorpull": 1.7,
       "majorpull": 2.8
-    },
-    {
-      "objectid": 1304230,
-      "globalid": "385817f3-d015-45c8-b56d-5df44994ed4e",
-      "basin": "Kelani Ganga",
-      "gauge": "Glencourse",
-      "water_level": 8.52,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-07T22:52:49.337000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-07T22:52:49.337000+00:00",
-      "Editor": "",
-      "alertpull": 15,
-      "minorpull": 16.5,
-      "majorpull": 19
     }
   ]
 }
