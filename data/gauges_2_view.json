@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-02-14T08:53:57.214091+00:00",
+  "last_updated_utc": "2026-02-14T09:20:30.171086+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6410,
+  "record_count": 6412,
   "records": [
+    {
+      "objectid": 1310150,
+      "globalid": "69dd7334-a068-4b23-ae53-b290d72de003",
+      "basin": "Kelani Ganga",
+      "gauge": "Nagalagam Street",
+      "water_level": 1.6,
+      "rain_fall": null,
+      "CreationDate": "2026-02-14T09:19:28.763000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-14T09:19:28.763000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 7
+    },
+    {
+      "objectid": 1310149,
+      "globalid": "2b89f9df-6ebd-407f-b211-364c38da2a1c",
+      "basin": "Kelani Ganga",
+      "gauge": "Deraniyagala",
+      "water_level": 0.1,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-14T08:56:57.744000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-14T08:56:57.744000+00:00",
+      "Editor": "",
+      "alertpull": 4.8,
+      "minorpull": 5.8,
+      "majorpull": 6.4
+    },
     {
       "objectid": 1310148,
       "globalid": "4ad6cc34-73a2-453a-b8c1-3dfbb53f1b02",
