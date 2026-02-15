@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-02-15T08:47:56.591032+00:00",
+  "last_updated_utc": "2026-02-15T09:15:40.546630+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6412,
   "records": [
+    {
+      "objectid": 1311054,
+      "globalid": "de93c333-f08b-41ad-9d14-1dc6a8d1948d",
+      "basin": "Gin Ganga",
+      "gauge": "Thawalama",
+      "water_level": 1.18,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-15T08:57:53.015000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-15T08:57:53.015000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1311053,
       "globalid": "1b11ddff-1b3b-4afe-953f-b9d4356fd792",
@@ -96169,21 +96184,6 @@
       "alertpull": 5,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1304629,
-      "globalid": "81d5aaa3-6670-4951-ad43-d71bcd8daf4c",
-      "basin": "Mee Oya",
-      "gauge": "Galgamuwa",
-      "water_level": 0.22,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-08T08:48:22.894000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-08T08:48:22.894000+00:00",
-      "Editor": "",
-      "alertpull": 4.84,
-      "minorpull": 5.94,
-      "majorpull": 8
     }
   ]
 }
