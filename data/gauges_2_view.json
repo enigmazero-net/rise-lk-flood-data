@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-02-15T11:42:00.647367+00:00",
+  "last_updated_utc": "2026-02-15T11:56:20.091808+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6413,
+  "record_count": 6414,
   "records": [
+    {
+      "objectid": 1311178,
+      "globalid": "6a649762-f2a9-4d03-a0d7-882e8371a278",
+      "basin": "Malwathu Oya",
+      "gauge": "Thanthirimale",
+      "water_level": 1.37,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-15T11:46:52.264000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-15T11:46:52.264000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.8,
+      "majorpull": 7.8
+    },
+    {
+      "objectid": 1311177,
+      "globalid": "1e03b74e-725f-42b5-92ca-705d31ead95e",
+      "basin": "Kelani Ganga",
+      "gauge": "Norwood",
+      "water_level": 0.42,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-15T11:43:15.029000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-15T11:43:15.029000+00:00",
+      "Editor": "",
+      "alertpull": 1.5,
+      "minorpull": 3,
+      "majorpull": 4.5
+    },
+    {
+      "objectid": 1311176,
+      "globalid": "6415c9b3-cdb4-4deb-a092-995f2752384c",
+      "basin": "Yan Oya",
+      "gauge": "Horowpothana",
+      "water_level": 1.75,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-15T11:42:07.039000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-15T11:42:07.039000+00:00",
+      "Editor": "",
+      "alertpull": 6,
+      "minorpull": 7.5,
+      "majorpull": 10.5
+    },
     {
       "objectid": 1311175,
       "globalid": "dddca45c-be6b-4fcb-9ec8-71d17bc000b5",
@@ -96169,36 +96214,6 @@
       "alertpull": 5,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1304751,
-      "globalid": "67e9edc1-fe62-453b-a1cc-566eedb97b7c",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.29,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-08T11:53:04.109000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-08T11:53:04.109000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
-    },
-    {
-      "objectid": 1304750,
-      "globalid": "281d3722-d8ed-4161-ba17-ad00b67c2832",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 0.14,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-08T11:42:00.792000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-08T11:42:00.792000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
     }
   ]
 }
