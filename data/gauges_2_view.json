@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-02-15T10:58:40.285803+00:00",
+  "last_updated_utc": "2026-02-15T11:21:53.106209+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6412,
   "records": [
+    {
+      "objectid": 1311136,
+      "globalid": "6ad03722-0168-45ee-9435-ba3b4118c61b",
+      "basin": "Malwathu Oya",
+      "gauge": "Thanthirimale",
+      "water_level": 1.37,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-15T11:09:01.896000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-15T11:09:01.896000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.8,
+      "majorpull": 7.8
+    },
     {
       "objectid": 1311135,
       "globalid": "e505cc09-500d-4862-a9b9-5b238fd62598",
@@ -96169,21 +96184,6 @@
       "alertpull": 4,
       "minorpull": 4.5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1304711,
-      "globalid": "1c04ef76-17ea-4903-bbff-368d00bb57e3",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Peradeniya",
-      "water_level": 1.06,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-08T11:00:01.919000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-08T11:00:01.919000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 7,
-      "majorpull": 9
     }
   ]
 }
