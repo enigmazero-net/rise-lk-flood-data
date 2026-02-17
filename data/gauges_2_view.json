@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-02-16T23:47:29.091798+00:00",
+  "last_updated_utc": "2026-02-17T00:01:39.547698+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6406,
+  "record_count": 6407,
   "records": [
+    {
+      "objectid": 1312519,
+      "globalid": "797aee2d-173c-4203-8be9-2bca5210ff6e",
+      "basin": "Kumbukkan Oya",
+      "gauge": "Nakkala",
+      "water_level": 0.83,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-16T23:49:30.902000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-16T23:49:30.902000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1312518,
+      "globalid": "7516b67a-f02d-45c2-bf50-84ff0d6efc01",
+      "basin": "Gin Ganga",
+      "gauge": "Thawalama",
+      "water_level": 1.06,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-16T23:47:54.765000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-16T23:47:54.765000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1312517,
       "globalid": "1c7d9218-ebd9-4bca-b091-d0d2048388e3",
@@ -96079,21 +96109,6 @@
       "alertpull": 1.4,
       "minorpull": 1.7,
       "majorpull": 2.8
-    },
-    {
-      "objectid": 1306095,
-      "globalid": "564f5a9e-b92e-4f14-91e0-e9f0a3122a8b",
-      "basin": "Kirindi Oya",
-      "gauge": "Wellawaya",
-      "water_level": 0.91,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-10T00:01:37.486000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-10T00:01:37.486000+00:00",
-      "Editor": "",
-      "alertpull": 4.4,
-      "minorpull": 5.4,
-      "majorpull": 5.9
     }
   ]
 }
