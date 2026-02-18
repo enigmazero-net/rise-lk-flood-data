@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-02-18T22:54:57.576918+00:00",
+  "last_updated_utc": "2026-02-18T23:19:07.572245+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6404,
   "records": [
+    {
+      "objectid": 1314324,
+      "globalid": "13b3a110-dded-4add-80a5-9b19f9ef22fb",
+      "basin": "Ma Oya",
+      "gauge": "Yaka Wewa",
+      "water_level": 0.63,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-18T23:15:00.812000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-18T23:15:00.812000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1314323,
+      "globalid": "773c2de0-2ee2-4764-b703-a91c3eef677f",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.81,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-18T22:57:36.339000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-18T22:57:36.339000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
     {
       "objectid": 1314322,
       "globalid": "e3de23d7-b8b2-438c-b860-6e1f625d5aff",
@@ -96034,36 +96064,6 @@
       "alertpull": 3,
       "minorpull": 4.3,
       "majorpull": 6
-    },
-    {
-      "objectid": 1307895,
-      "globalid": "4d5cbc34-6ffe-4168-8217-ebe29261b11a",
-      "basin": "Kalu Ganga",
-      "gauge": "Putupaula",
-      "water_level": 0.49,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-11T22:59:50.302000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-11T22:59:50.302000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1307894,
-      "globalid": "9f09b0af-d4c2-432d-9f6c-b3096562cd04",
-      "basin": "Kelani Ganga",
-      "gauge": "Hanwella",
-      "water_level": 0.3,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-11T22:58:24.460000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-11T22:58:24.460000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
     }
   ]
 }
