@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-02-18T19:55:54.592437+00:00",
+  "last_updated_utc": "2026-02-18T20:29:21.046544+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6417,
+  "record_count": 6418,
   "records": [
+    {
+      "objectid": 1314230,
+      "globalid": "2340811f-5e87-4885-ab04-709aa9bd9cff",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 1.42,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-18T20:13:42.791000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-18T20:13:42.791000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1314229,
+      "globalid": "9892dc2c-fd74-476c-8dfe-61ab18d5f229",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Manampitiya",
+      "water_level": 2.8,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-18T20:01:59.299000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-18T20:01:59.299000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4.3,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1314228,
+      "globalid": "a5ddb53d-4fd5-45b1-b573-2e33b99ed84c",
+      "basin": "Gin Ganga",
+      "gauge": "Thawalama",
+      "water_level": 1.03,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-18T19:58:37.393000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-18T19:58:37.393000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1314227,
       "globalid": "ebd830d6-7787-4eb8-b870-1eb1d5a804c4",
@@ -96229,36 +96274,6 @@
       "alertpull": 10,
       "minorpull": 10.7,
       "majorpull": 12.2
-    },
-    {
-      "objectid": 1307787,
-      "globalid": "bc14128f-99fd-46e5-9e12-5197768c19e3",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 0.79,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-11T20:05:17.700000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-11T20:05:17.700000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1307786,
-      "globalid": "238ecd90-7651-4069-82c9-64f2eae3a4c8",
-      "basin": "Walawe Ganga",
-      "gauge": "Moraketiya",
-      "water_level": 0.8,
-      "rain_fall": null,
-      "CreationDate": "2026-02-11T20:00:59.143000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-11T20:00:59.143000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 5,
-      "majorpull": 7
     }
   ]
 }
