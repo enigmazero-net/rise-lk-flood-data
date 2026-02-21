@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2026-02-21T23:43:18.146333+00:00",
+  "last_updated_utc": "2026-02-21T23:56:10.171327+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6417,
+  "record_count": 6411,
   "records": [
     {
       "objectid": 1317123,
@@ -96169,96 +96169,6 @@
       "alertpull": 2.5,
       "minorpull": 4,
       "majorpull": 6
-    },
-    {
-      "objectid": 1310686,
-      "globalid": "bd81a09c-4d86-4186-af7e-8783c28153f0",
-      "basin": "Heda Oya",
-      "gauge": "Siyambalanduwa",
-      "water_level": 0.69,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-14T23:47:36.762000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-14T23:47:36.762000+00:00",
-      "Editor": "",
-      "alertpull": 4.5,
-      "minorpull": 6,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1310685,
-      "globalid": "d8211a9b-4d1c-44d6-8fbf-15ad84bb5787",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 1.79,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-14T23:45:41.160000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-14T23:45:41.160000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1310684,
-      "globalid": "a8b914ab-612f-437b-9981-bf8d9f111268",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 1.94,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-14T23:45:39.759000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-14T23:45:39.759000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1310683,
-      "globalid": "e1fe4c19-53c5-44b4-ac00-befc0903e6d8",
-      "basin": "Menik Ganga",
-      "gauge": "Katharagama",
-      "water_level": -0.08,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-14T23:45:16.539000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-14T23:45:16.539000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 4.6,
-      "majorpull": 6.5
-    },
-    {
-      "objectid": 1310682,
-      "globalid": "44125426-14b0-4a38-87e6-6f81f5b10093",
-      "basin": "Kelani Ganga",
-      "gauge": "Holombuwa",
-      "water_level": 0.28,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-14T23:44:17.593000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-14T23:44:17.593000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 3.4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1310681,
-      "globalid": "934c1813-4f8c-4f71-a3d8-398eb98c2ce6",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 0.08,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-14T23:43:57.583000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-14T23:43:57.583000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
     }
   ]
 }
