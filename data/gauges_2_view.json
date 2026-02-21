@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-02-21T15:52:35.022008+00:00",
+  "last_updated_utc": "2026-02-21T16:15:56.044753+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6385,
+  "record_count": 6384,
   "records": [
+    {
+      "objectid": 1316832,
+      "globalid": "463f5af2-eb24-4fd3-a316-3278e3ccb752",
+      "basin": "Maduru Oya",
+      "gauge": "Padiyathalawa",
+      "water_level": 1.35,
+      "rain_fall": 1.9,
+      "CreationDate": "2026-02-21T15:52:49.316000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-21T15:52:49.316000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 4.5,
+      "majorpull": 6
+    },
     {
       "objectid": 1316831,
       "globalid": "889fb6f9-6631-4d7f-845e-cff5e4fd86df",
@@ -17931,21 +17946,6 @@
       "majorpull": 6
     },
     {
-      "objectid": 1315633,
-      "globalid": "ea7fa3ff-cc55-47b2-9d0f-20ec18c94610",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Thaldena",
-      "water_level": 1.98,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-20T09:30:16.926000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-20T09:30:16.926000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
-    },
-    {
       "objectid": 1315632,
       "globalid": "f9b7f45f-b1e9-42df-b003-761de7d90a01",
       "basin": "Gin Ganga",
@@ -22534,21 +22534,6 @@
       "alertpull": 15,
       "minorpull": 16.5,
       "majorpull": 19
-    },
-    {
-      "objectid": 1315326,
-      "globalid": "5954a1cc-7b39-4262-bda1-11cc4644fe17",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Thaldena",
-      "water_level": 3.98,
-      "rain_fall": 0.6,
-      "CreationDate": "2026-02-20T01:34:51.839000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-20T01:34:51.839000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
     },
     {
       "objectid": 1315325,
