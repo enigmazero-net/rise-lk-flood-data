@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-02-22T10:45:44.025855+00:00",
+  "last_updated_utc": "2026-02-22T10:59:46.346786+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6411,
+  "record_count": 6412,
   "records": [
+    {
+      "objectid": 1317574,
+      "globalid": "6087158b-e65d-44bb-8017-f4184e2b757b",
+      "basin": "Yan Oya",
+      "gauge": "Horowpothana",
+      "water_level": 2.13,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-22T10:48:55.235000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-22T10:48:55.235000+00:00",
+      "Editor": "",
+      "alertpull": 6,
+      "minorpull": 7.5,
+      "majorpull": 10.5
+    },
+    {
+      "objectid": 1317573,
+      "globalid": "8e259f92-8215-4ebe-b76a-313645a523f1",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 0.97,
+      "rain_fall": null,
+      "CreationDate": "2026-02-22T10:46:39.991000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-22T10:46:39.991000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
     {
       "objectid": 1317572,
       "globalid": "ff32e8df-bb98-4050-9f22-175df61bbca5",
@@ -96154,21 +96184,6 @@
       "alertpull": 5,
       "minorpull": 6.8,
       "majorpull": 7.8
-    },
-    {
-      "objectid": 1311135,
-      "globalid": "e505cc09-500d-4862-a9b9-5b238fd62598",
-      "basin": "Deduru Oya",
-      "gauge": "Moragaswewa",
-      "water_level": 0.15,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-15T10:54:28.253000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-15T10:54:28.253000+00:00",
-      "Editor": "",
-      "alertpull": 4.75,
-      "minorpull": 6,
-      "majorpull": 7
     }
   ]
 }
