@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-02-22T23:00:06.617368+00:00",
+  "last_updated_utc": "2026-02-22T23:29:08.828042+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6426,
+  "record_count": 6427,
   "records": [
+    {
+      "objectid": 1318019,
+      "globalid": "a118467c-679d-4727-9726-6e708ffc11d9",
+      "basin": "Kumbukkan Oya",
+      "gauge": "Nakkala",
+      "water_level": 1.18,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-22T23:05:45.213000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-22T23:05:45.213000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1318018,
+      "globalid": "75e8792b-6f34-42b9-9b76-40bb2ff3f0fc",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Thaldena",
+      "water_level": 0.7,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-22T23:00:57.036000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-22T23:00:57.036000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
     {
       "objectid": 1318017,
       "globalid": "94f6510d-f439-45dc-9680-f6d3c17488ba",
@@ -96379,21 +96409,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1311564,
-      "globalid": "64c713d9-0d8c-4ad6-a142-96c1ecca396f",
-      "basin": "Kalu Ganga",
-      "gauge": "Kalawellawa (Millakanda)",
-      "water_level": 2.06,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-15T23:04:55.943000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-15T23:04:55.943000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.5,
-      "majorpull": 8
     }
   ]
 }
