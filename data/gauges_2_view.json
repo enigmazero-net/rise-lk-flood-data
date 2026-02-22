@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-02-22T11:54:57.944743+00:00",
+  "last_updated_utc": "2026-02-22T12:25:47.114982+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6407,
+  "record_count": 6408,
   "records": [
+    {
+      "objectid": 1317615,
+      "globalid": "23a65d0c-95c1-4b5b-a364-ad8cd8e55722",
+      "basin": "Ma Oya",
+      "gauge": "Yaka Wewa",
+      "water_level": 0.7,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-22T12:25:38.870000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-22T12:25:38.870000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6
+    },
     {
       "objectid": 1317614,
       "globalid": "cd072b25-2260-4eff-bb72-75cb4933dabc",
