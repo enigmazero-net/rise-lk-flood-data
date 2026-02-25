@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-02-25T22:58:09.761609+00:00",
+  "last_updated_utc": "2026-02-25T23:26:03.981469+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6437,
+  "record_count": 6438,
   "records": [
+    {
+      "objectid": 1320781,
+      "globalid": "779dfada-a0a0-4fa2-a4e4-10e401a78010",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.28,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-25T23:25:38.865000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-25T23:25:38.865000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
+    {
+      "objectid": 1320780,
+      "globalid": "fade6bf8-151a-4901-b5ba-09058a8ced40",
+      "basin": "Menik Ganga",
+      "gauge": "Katharagama",
+      "water_level": -0.21,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-25T22:58:38.027000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-25T22:58:38.027000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 4.6,
+      "majorpull": 6.5
+    },
     {
       "objectid": 1320779,
       "globalid": "b333ba45-564d-4bb7-81cb-7b608f01cb36",
@@ -96544,21 +96574,6 @@
       "alertpull": null,
       "minorpull": null,
       "majorpull": null
-    },
-    {
-      "objectid": 1314324,
-      "globalid": "13b3a110-dded-4add-80a5-9b19f9ef22fb",
-      "basin": "Ma Oya",
-      "gauge": "Yaka Wewa",
-      "water_level": 0.63,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-18T23:15:00.812000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-18T23:15:00.812000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6
     }
   ]
 }
