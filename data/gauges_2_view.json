@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-02-26T22:47:38.327344+00:00",
+  "last_updated_utc": "2026-02-26T23:15:55.080678+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6452,
+  "record_count": 6454,
   "records": [
+    {
+      "objectid": 1321703,
+      "globalid": "9c50ec70-870e-444e-8d04-15f1ea914fb1",
+      "basin": "Yan Oya",
+      "gauge": "Horowpothana",
+      "water_level": 1.33,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-26T23:07:02.001000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-26T23:07:02.001000+00:00",
+      "Editor": "",
+      "alertpull": 6,
+      "minorpull": 7.5,
+      "majorpull": 10.5
+    },
+    {
+      "objectid": 1321702,
+      "globalid": "02d6c8d8-3547-4a26-bbc3-8e3f4b7f1a42",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.28,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-26T23:05:04.735000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-26T23:05:04.735000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
+    {
+      "objectid": 1321701,
+      "globalid": "e2351ae9-67f5-4940-bc85-609c203ffa30",
+      "basin": "Kirindi Oya",
+      "gauge": "Thanamalwila",
+      "water_level": 1.12,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-26T22:56:42.372000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-26T22:56:42.372000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 5.5
+    },
     {
       "objectid": 1321700,
       "globalid": "40b6d43e-3a76-49b7-a7aa-fd3129630b07",
@@ -96769,21 +96814,6 @@
       "alertpull": 4.8,
       "minorpull": 5.8,
       "majorpull": 6.4
-    },
-    {
-      "objectid": 1315229,
-      "globalid": "dd52365c-9de0-4af7-9c0f-2ffe381e7221",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 0.19,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-19T23:12:45.382000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-19T23:12:45.382000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
     }
   ]
 }
