@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-02-26T19:55:51.557596+00:00",
+  "last_updated_utc": "2026-02-26T20:26:16.916776+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6443,
+  "record_count": 6445,
   "records": [
+    {
+      "objectid": 1321594,
+      "globalid": "dc8ebd53-6496-4e09-8ba8-f01dca75f71b",
+      "basin": "Kalu Ganga",
+      "gauge": "Magura",
+      "water_level": 0.89,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-26T20:24:01.307000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-26T20:24:01.307000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1321593,
+      "globalid": "a7bc70e7-f531-4f97-8001-8fe21b17908e",
+      "basin": "Aththanagalu Oya",
+      "gauge": "Dunamale",
+      "water_level": 0.18,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-26T20:16:19.217000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-26T20:16:19.217000+00:00",
+      "Editor": "",
+      "alertpull": 3.3,
+      "minorpull": 4.4,
+      "majorpull": 5.5
+    },
+    {
+      "objectid": 1321592,
+      "globalid": "bef6d6d7-2a31-480e-8533-7e07a40477b9",
+      "basin": "Maha Oya",
+      "gauge": "Badalgama",
+      "water_level": 1.84,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-26T20:06:45.854000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-26T20:06:45.854000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.2,
+      "majorpull": 9.6
+    },
     {
       "objectid": 1321591,
       "globalid": "2bf8ba4b-2eb1-4472-b216-dde407a2c3b3",
@@ -96634,21 +96679,6 @@
       "alertpull": 1.4,
       "minorpull": 1.7,
       "majorpull": 2.8
-    },
-    {
-      "objectid": 1315129,
-      "globalid": "72b1f00d-3f32-4578-9df3-27895c88c349",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Manampitiya",
-      "water_level": 1.71,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-19T20:01:18.462000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-19T20:01:18.462000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4.3,
-      "majorpull": 6
     }
   ]
 }
