@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-02-27T22:59:03.530575+00:00",
+  "last_updated_utc": "2026-02-27T23:25:29.111155+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6450,
+  "record_count": 6448,
   "records": [
+    {
+      "objectid": 1322622,
+      "globalid": "3f82e22c-958d-4fa3-a70e-aac2dc4a505b",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.24,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-27T23:24:38.600000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-27T23:24:38.600000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
     {
       "objectid": 1322621,
       "globalid": "52b19f8f-4ee4-4974-b452-992f40ab5835",
@@ -96709,51 +96724,6 @@
       "alertpull": null,
       "minorpull": null,
       "majorpull": null
-    },
-    {
-      "objectid": 1316153,
-      "globalid": "bb2e7f43-356e-4b3e-a316-6b0722ae178d",
-      "basin": "Walawe Ganga",
-      "gauge": "Moraketiya",
-      "water_level": 0.74,
-      "rain_fall": null,
-      "CreationDate": "2026-02-20T23:14:50.815000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-20T23:14:50.815000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 5,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1316152,
-      "globalid": "589b1e4a-6b94-4c0b-92c8-7a7ff817355c",
-      "basin": "Kalu Ganga",
-      "gauge": "Rathnapura",
-      "water_level": 0.79,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-20T23:05:23.543000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-20T23:05:23.543000+00:00",
-      "Editor": "",
-      "alertpull": 5.2,
-      "minorpull": 7.5,
-      "majorpull": 9.5
-    },
-    {
-      "objectid": 1316151,
-      "globalid": "e7a14dae-e0c3-45ff-9dff-2e53440f70cd",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 1.72,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-20T23:04:00.133000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-20T23:04:00.133000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
