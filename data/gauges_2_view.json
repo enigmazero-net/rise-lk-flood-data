@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-02-27T22:44:02.013782+00:00",
+  "last_updated_utc": "2026-02-27T22:59:03.530575+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6448,
+  "record_count": 6450,
   "records": [
+    {
+      "objectid": 1322621,
+      "globalid": "52b19f8f-4ee4-4974-b452-992f40ab5835",
+      "basin": "Heda Oya",
+      "gauge": "Siyambalanduwa",
+      "water_level": 0.49,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-27T22:55:52.190000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-27T22:55:52.190000+00:00",
+      "Editor": "",
+      "alertpull": 4.5,
+      "minorpull": 6,
+      "majorpull": 7
+    },
+    {
+      "objectid": 1322620,
+      "globalid": "6f1ed8cc-070c-42ba-8535-4b5b9da43588",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 0.32,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-27T22:48:14.022000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-27T22:48:14.022000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
+    {
+      "objectid": 1322619,
+      "globalid": "1adeb454-3fde-4ff0-bde5-1aa29dce4335",
+      "basin": "Yan Oya",
+      "gauge": "Horowpothana",
+      "water_level": 1.22,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-27T22:44:31.005000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-27T22:44:31.005000+00:00",
+      "Editor": "",
+      "alertpull": 6,
+      "minorpull": 7.5,
+      "majorpull": 10.5
+    },
     {
       "objectid": 1322618,
       "globalid": "aad95f66-3cc6-4430-846d-6a261e4151c5",
@@ -96709,21 +96754,6 @@
       "alertpull": 4,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1316150,
-      "globalid": "5a259726-7196-4fd4-9a06-cb94bc4b3295",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.19,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-20T22:47:37.129000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-20T22:47:37.129000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
     }
   ]
 }
