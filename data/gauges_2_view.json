@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-02-27T17:48:38.449154+00:00",
+  "last_updated_utc": "2026-02-27T18:21:24.440950+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6462,
+  "record_count": 6463,
   "records": [
+    {
+      "objectid": 1322458,
+      "globalid": "561e8d24-7f98-4184-9cfc-9d0456449820",
+      "basin": "Kelani Ganga",
+      "gauge": "Nagalagam Street",
+      "water_level": 2,
+      "rain_fall": null,
+      "CreationDate": "2026-02-27T18:08:51.659000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-27T18:08:51.659000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 7
+    },
+    {
+      "objectid": 1322457,
+      "globalid": "1b258fb1-08da-40f0-bb8e-57c2d9fa7131",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 0.33,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-27T17:57:28.472000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-27T17:57:28.472000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
+    {
+      "objectid": 1322456,
+      "globalid": "15c78d45-350e-43e0-b482-fa511bb0fad0",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.22,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-27T17:55:18.276000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-27T17:55:18.276000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
     {
       "objectid": 1322455,
       "globalid": "f9cc9bfc-c301-475c-b622-6389287b7606",
@@ -96904,36 +96949,6 @@
       "alertpull": 1.4,
       "minorpull": 1.7,
       "majorpull": 2.8
-    },
-    {
-      "objectid": 1315974,
-      "globalid": "3325feea-cd87-408d-a3e7-a26689049a2b",
-      "basin": "Kelani Ganga",
-      "gauge": "Deraniyagala",
-      "water_level": 0.07,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-20T18:06:05.564000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-20T18:06:05.564000+00:00",
-      "Editor": "",
-      "alertpull": 4.8,
-      "minorpull": 5.8,
-      "majorpull": 6.4
-    },
-    {
-      "objectid": 1315973,
-      "globalid": "203e6f8e-cb62-49e7-8923-c91ddcffcf44",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Nawalapitiya",
-      "water_level": 0.6,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-20T17:50:35.474000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-20T17:50:35.474000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
-      "minorpull": 5,
-      "majorpull": 6
     }
   ]
 }
