@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-02-28T11:54:27.356271+00:00",
+  "last_updated_utc": "2026-02-28T12:23:43.550669+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6447,
+  "record_count": 6445,
   "records": [
+    {
+      "objectid": 1323144,
+      "globalid": "b7f7ae8f-eebb-4000-a5c9-ba89ba27ab72",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Manampitiya",
+      "water_level": 1.49,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-28T12:12:58.686000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-28T12:12:58.686000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4.3,
+      "majorpull": 6
+    },
     {
       "objectid": 1323143,
       "globalid": "2b6d4dc7-2391-4b89-b0ee-376b171511d3",
@@ -96664,51 +96679,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1316680,
-      "globalid": "b98b5c09-242d-4dff-bcf9-4f6a5fc88c0d",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.7,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-21T12:23:34.361000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-21T12:23:34.361000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
-    },
-    {
-      "objectid": 1316679,
-      "globalid": "75b9598b-430a-4fe1-abfd-2684c5c5466e",
-      "basin": "Deduru Oya",
-      "gauge": "Moragaswewa",
-      "water_level": 0.05,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-21T12:13:11.219000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-21T12:13:11.219000+00:00",
-      "Editor": "",
-      "alertpull": 4.75,
-      "minorpull": 6,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1316678,
-      "globalid": "b86d3c71-bc1d-4a5f-a666-e5f1eb1e8e70",
-      "basin": "Deduru Oya",
-      "gauge": "Moragaswewa",
-      "water_level": 0.05,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-21T12:12:52.588000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-21T12:12:52.588000+00:00",
-      "Editor": "",
-      "alertpull": 4.75,
-      "minorpull": 6,
-      "majorpull": 7
     }
   ]
 }
