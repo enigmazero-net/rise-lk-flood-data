@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-02-28T14:43:47.080395+00:00",
+  "last_updated_utc": "2026-02-28T14:55:45.024414+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6444,
+  "record_count": 6445,
   "records": [
+    {
+      "objectid": 1323257,
+      "globalid": "b012740a-304c-47c6-8103-89e288b96531",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.2,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-28T14:54:45.903000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-28T14:54:45.903000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
+    {
+      "objectid": 1323256,
+      "globalid": "68442bae-cb59-429e-9ac9-61f3687f17bd",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 0.32,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-28T14:44:49.036000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-28T14:44:49.036000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
+    {
+      "objectid": 1323255,
+      "globalid": "eca3446e-6992-4e97-8a73-71027b0183da",
+      "basin": "Kalu Ganga",
+      "gauge": "Magura",
+      "water_level": 0.78,
+      "rain_fall": 0,
+      "CreationDate": "2026-02-28T14:44:00.807000+00:00",
+      "Creator": "",
+      "EditDate": "2026-02-28T14:44:00.807000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1323254,
       "globalid": "d470440d-c192-4739-9443-e6bba96292cf",
@@ -96634,36 +96679,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1316794,
-      "globalid": "7abe41ea-814a-4f8c-997b-2722572d2600",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 2.89,
-      "rain_fall": null,
-      "CreationDate": "2026-02-21T14:48:47.750000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-21T14:48:47.750000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1316793,
-      "globalid": "63bdec14-f662-4007-92c8-ab24559350aa",
-      "basin": "Kalu Ganga",
-      "gauge": "Ellagawa",
-      "water_level": 4.4,
-      "rain_fall": 2.2,
-      "CreationDate": "2026-02-21T14:43:48.618000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-21T14:43:48.618000+00:00",
-      "Editor": "",
-      "alertpull": 10,
-      "minorpull": 10.7,
-      "majorpull": 12.2
     }
   ]
 }
