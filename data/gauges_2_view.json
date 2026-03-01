@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-03-01T10:44:50.241199+00:00",
+  "last_updated_utc": "2026-03-01T10:57:58.660304+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6441,
+  "record_count": 6440,
   "records": [
+    {
+      "objectid": 1324028,
+      "globalid": "1ccdfa85-8fd5-4031-a35d-29a3b4ba1c7f",
+      "basin": "Kelani Ganga",
+      "gauge": "Holombuwa",
+      "water_level": 0.28,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-01T10:52:13.238000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-01T10:52:13.238000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 3.4,
+      "majorpull": 5
+    },
     {
       "objectid": 1324027,
       "globalid": "b835ce02-c05f-4e17-bdcc-4004ba336770",
@@ -96589,36 +96604,6 @@
       "alertpull": 4,
       "minorpull": 4.5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1317574,
-      "globalid": "6087158b-e65d-44bb-8017-f4184e2b757b",
-      "basin": "Yan Oya",
-      "gauge": "Horowpothana",
-      "water_level": 2.13,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-22T10:48:55.235000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-22T10:48:55.235000+00:00",
-      "Editor": "",
-      "alertpull": 6,
-      "minorpull": 7.5,
-      "majorpull": 10.5
-    },
-    {
-      "objectid": 1317573,
-      "globalid": "8e259f92-8215-4ebe-b76a-313645a523f1",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.97,
-      "rain_fall": null,
-      "CreationDate": "2026-02-22T10:46:39.991000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-22T10:46:39.991000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
     }
   ]
 }
