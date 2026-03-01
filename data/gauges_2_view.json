@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-03-01T20:58:04.230834+00:00",
+  "last_updated_utc": "2026-03-01T21:20:19.157442+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6434,
+  "record_count": 6435,
   "records": [
+    {
+      "objectid": 1324394,
+      "globalid": "668a1a24-c09a-42e5-9ddc-bc8d09aa926b",
+      "basin": "Kelani Ganga",
+      "gauge": "Kithulgala",
+      "water_level": 1.15,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-01T21:09:42.033000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-01T21:09:42.033000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1324393,
+      "globalid": "ccec547e-297a-4c6e-baef-4d17730aa5e9",
+      "basin": "Heda Oya",
+      "gauge": "Siyambalanduwa",
+      "water_level": 0.49,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-01T21:08:17.892000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-01T21:08:17.892000+00:00",
+      "Editor": "",
+      "alertpull": 4.5,
+      "minorpull": 6,
+      "majorpull": 7
+    },
     {
       "objectid": 1324392,
       "globalid": "965ff846-6900-4cd6-8056-acdcf5005249",
@@ -96499,21 +96529,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 6
-    },
-    {
-      "objectid": 1317945,
-      "globalid": "98e111af-bf47-43f8-b2e3-0da7d0c2ae57",
-      "basin": "Walawe Ganga",
-      "gauge": "Moraketiya",
-      "water_level": 0.97,
-      "rain_fall": null,
-      "CreationDate": "2026-02-22T21:03:50.900000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-22T21:03:50.900000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 5,
-      "majorpull": 7
     }
   ]
 }
