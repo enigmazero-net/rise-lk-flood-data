@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-03-01T19:55:42.998523+00:00",
+  "last_updated_utc": "2026-03-01T20:16:29.185907+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6437,
+  "record_count": 6439,
   "records": [
+    {
+      "objectid": 1324360,
+      "globalid": "65f0b485-2ee4-4d69-b53e-a22545e3f798",
+      "basin": "Kelani Ganga",
+      "gauge": "Norwood",
+      "water_level": 0.39,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-01T20:03:20.530000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-01T20:03:20.530000+00:00",
+      "Editor": "",
+      "alertpull": 1.5,
+      "minorpull": 3,
+      "majorpull": 4.5
+    },
+    {
+      "objectid": 1324359,
+      "globalid": "2bb21db7-1419-46e4-a697-0b57839502a4",
+      "basin": "Gin Ganga",
+      "gauge": "Thawalama",
+      "water_level": 1.1,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-01T19:58:50.963000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-01T19:58:50.963000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1324358,
       "globalid": "f4e065e2-df61-40ed-9a24-8caa36b9bbd1",
