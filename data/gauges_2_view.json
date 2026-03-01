@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-03-01T08:48:49.568783+00:00",
+  "last_updated_utc": "2026-03-01T09:02:49.088278+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6441,
+  "record_count": 6440,
   "records": [
+    {
+      "objectid": 1323948,
+      "globalid": "2a8e95c8-d739-468a-b190-d3aa02101525",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 0.28,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-01T09:00:22.704000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-01T09:00:22.704000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
     {
       "objectid": 1323947,
       "globalid": "8a250786-027d-4ea1-ae75-f8c98c7dfbb5",
@@ -5569,21 +5584,6 @@
       "alertpull": 5,
       "minorpull": 6.5,
       "majorpull": 8
-    },
-    {
-      "objectid": 1323576,
-      "globalid": "90719f5b-8c3b-4e7e-805e-f4d7f5335a9b",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.24,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-01T00:20:06.627000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-01T00:20:06.627000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
     },
     {
       "objectid": 1323575,
@@ -15865,12 +15865,12 @@
       "globalid": "b02603c7-0cba-4464-a189-e98d20627ef7",
       "basin": "Nilwala Ganga",
       "gauge": "Pitabeddara",
-      "water_level": -0.32,
+      "water_level": 0.32,
       "rain_fall": 0,
       "CreationDate": "2026-02-28T05:36:49.288000+00:00",
       "Creator": "",
-      "EditDate": "2026-02-28T05:36:49.288000+00:00",
-      "Editor": "",
+      "EditDate": "2026-03-01T08:58:53.069000+00:00",
+      "Editor": "IEHydrology",
       "alertpull": 4,
       "minorpull": 5,
       "majorpull": 6.5
@@ -96604,21 +96604,6 @@
       "alertpull": 4,
       "minorpull": 4.5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1317493,
-      "globalid": "8992bc58-b0a2-428b-8595-bf3a112000c5",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 4.1,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-22T08:49:40.722000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-23T05:58:08.382000+00:00",
-      "Editor": "IEHydrology",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
