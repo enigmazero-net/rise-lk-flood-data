@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-03-01T20:43:16.944355+00:00",
+  "last_updated_utc": "2026-03-01T20:58:04.230834+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6434,
   "records": [
+    {
+      "objectid": 1324392,
+      "globalid": "965ff846-6900-4cd6-8056-acdcf5005249",
+      "basin": "Kalu Ganga",
+      "gauge": "Rathnapura",
+      "water_level": 0.52,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-01T20:57:22.767000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-01T20:57:22.767000+00:00",
+      "Editor": "",
+      "alertpull": 5.2,
+      "minorpull": 7.5,
+      "majorpull": 9.5
+    },
+    {
+      "objectid": 1324391,
+      "globalid": "aae25a98-39e9-4e5b-85c9-01f555b017b3",
+      "basin": "Kalu Ganga",
+      "gauge": "Kalawellawa (Millakanda)",
+      "water_level": 1.58,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-01T20:50:50.777000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-01T20:50:50.777000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.5,
+      "majorpull": 8
+    },
     {
       "objectid": 1324390,
       "globalid": "1d38a7e4-61be-4334-a0bc-d17ca737d21c",
@@ -96484,36 +96514,6 @@
       "alertpull": 3,
       "minorpull": 5,
       "majorpull": 7
-    },
-    {
-      "objectid": 1317944,
-      "globalid": "a0148155-517b-47ef-877b-7ef110cf3d01",
-      "basin": "Kumbukkan Oya",
-      "gauge": "Nakkala",
-      "water_level": 1.2,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-22T20:53:48.950000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-22T20:53:48.950000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1317943,
-      "globalid": "a26dc837-4610-4e0c-b520-d3b5fa06847d",
-      "basin": "Kalu Ganga",
-      "gauge": "Putupaula",
-      "water_level": 1.82,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-22T20:43:34.564000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-22T20:43:34.564000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
     }
   ]
 }
