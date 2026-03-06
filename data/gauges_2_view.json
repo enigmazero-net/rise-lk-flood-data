@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-03-06T15:51:03.849122+00:00",
+  "last_updated_utc": "2026-03-06T16:27:38.742386+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6436,
   "records": [
+    {
+      "objectid": 1328837,
+      "globalid": "70d30310-69a1-488c-80f7-81141547db4f",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.38,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-06T16:14:41.361000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-06T16:14:41.361000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1328836,
+      "globalid": "e02578d4-75ac-43fc-ac3b-1b74b54d1476",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": -0.01,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-06T15:55:06.933000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-06T15:55:06.933000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
     {
       "objectid": 1328835,
       "globalid": "6f6f5c83-fc52-47a5-960d-d8f2365979d5",
@@ -96514,36 +96544,6 @@
       "alertpull": 5,
       "minorpull": 6.5,
       "majorpull": 8
-    },
-    {
-      "objectid": 1322382,
-      "globalid": "e33b9cf1-94c7-494a-a379-40825df69a5f",
-      "basin": "Kalu Ganga",
-      "gauge": "Kalawellawa (Millakanda)",
-      "water_level": 1.54,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-27T16:16:32.749000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-27T16:16:32.749000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.5,
-      "majorpull": 8
-    },
-    {
-      "objectid": 1322381,
-      "globalid": "f88d5101-1cab-479d-8111-f3dccfbfffca",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.21,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-27T15:53:47.774000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-27T15:53:47.774000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
     }
   ]
 }
