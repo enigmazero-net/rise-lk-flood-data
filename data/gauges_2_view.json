@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-03-06T20:45:28.797381+00:00",
+  "last_updated_utc": "2026-03-06T21:02:39.119816+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6429,
   "records": [
+    {
+      "objectid": 1328994,
+      "globalid": "c18c0f9f-d7a1-41ac-9d71-da126cf461f5",
+      "basin": "Aththanagalu Oya",
+      "gauge": "Dunamale",
+      "water_level": 0.42,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-06T21:02:27.373000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-06T21:02:27.373000+00:00",
+      "Editor": "",
+      "alertpull": 3.3,
+      "minorpull": 4.4,
+      "majorpull": 5.5
+    },
+    {
+      "objectid": 1328993,
+      "globalid": "a89d1008-90c7-493c-9a28-635a998af1f6",
+      "basin": "Maduru Oya",
+      "gauge": "Padiyathalawa",
+      "water_level": 0.58,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-06T20:46:04.608000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-06T20:46:04.608000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 4.5,
+      "majorpull": 6
+    },
     {
       "objectid": 1328992,
       "globalid": "28afddf8-b495-4b2b-8cb6-2b9bc6f735f9",
@@ -96409,36 +96439,6 @@
       "alertpull": null,
       "minorpull": null,
       "majorpull": null
-    },
-    {
-      "objectid": 1322547,
-      "globalid": "67e2065b-0646-4407-b719-83e7cf4c6654",
-      "basin": "Gin Ganga",
-      "gauge": "Thawalama",
-      "water_level": 1.07,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-27T21:02:29.023000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-27T21:02:29.023000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1322546,
-      "globalid": "ce516a8d-6881-4a77-b8f5-648326b26ad3",
-      "basin": "Kelani Ganga",
-      "gauge": "Deraniyagala",
-      "water_level": 0.17,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-27T20:52:08.843000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-27T20:52:08.843000+00:00",
-      "Editor": "",
-      "alertpull": 4.8,
-      "minorpull": 5.8,
-      "majorpull": 6.4
     }
   ]
 }
