@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2026-03-06T19:43:57.193298+00:00",
+  "last_updated_utc": "2026-03-06T20:00:56.735771+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6434,
+  "record_count": 6433,
   "records": [
     {
       "objectid": 1328967,
@@ -75006,6 +75006,21 @@
       "majorpull": 7.5
     },
     {
+      "objectid": 1323951,
+      "globalid": "2027b647-752d-45d9-befb-2950c035eeda",
+      "basin": "Kumbukkan Oya",
+      "gauge": "Nakkala",
+      "water_level": 0.84,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-01T09:30:46.986000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-01T09:30:46.986000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
       "objectid": 1323950,
       "globalid": "fc586e0d-8876-4502-a19f-73af9ca7c2af",
       "basin": "Mee Oya",
@@ -96484,36 +96499,6 @@
       "alertpull": 6,
       "minorpull": 7.5,
       "majorpull": 10.5
-    },
-    {
-      "objectid": 1322517,
-      "globalid": "e1bd9352-cee1-42d4-9715-6d8a23876a32",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 0.17,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-27T19:59:23.472000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-27T19:59:23.472000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
-    },
-    {
-      "objectid": 1322516,
-      "globalid": "d5678319-dae1-4ef8-894c-f90a9f5a409a",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 0.82,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-27T19:47:33.442000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-27T19:47:33.442000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
