@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-03-07T20:57:13.946916+00:00",
+  "last_updated_utc": "2026-03-07T21:16:36.915035+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6447,
+  "record_count": 6448,
   "records": [
+    {
+      "objectid": 1329932,
+      "globalid": "be41e98e-eeb4-4ec7-aef8-80d926eaafa7",
+      "basin": "Gal Oya",
+      "gauge": "Ampara",
+      "water_level": 0,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-07T21:01:02.311000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-07T21:01:02.311000+00:00",
+      "Editor": "",
+      "alertpull": null,
+      "minorpull": null,
+      "majorpull": null
+    },
+    {
+      "objectid": 1329931,
+      "globalid": "8fc3addd-3fd8-4e5a-a5f9-4dbae6e144b1",
+      "basin": "Kirindi Oya",
+      "gauge": "Wellawaya",
+      "water_level": 0.74,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-07T20:58:19.491000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-07T20:58:19.491000+00:00",
+      "Editor": "",
+      "alertpull": 4.4,
+      "minorpull": 5.4,
+      "majorpull": 5.9
+    },
     {
       "objectid": 1329930,
       "globalid": "82235dcb-7532-417f-af46-85e7504678d8",
@@ -96694,21 +96724,6 @@
       "alertpull": 6,
       "minorpull": 7.5,
       "majorpull": 10.5
-    },
-    {
-      "objectid": 1323466,
-      "globalid": "408b6d5d-9dd6-4d96-a4cb-55e5d2d35b38",
-      "basin": "Ma Oya",
-      "gauge": "Yaka Wewa",
-      "water_level": 0.6,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-28T20:59:06.303000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-28T20:59:06.303000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6
     }
   ]
 }
