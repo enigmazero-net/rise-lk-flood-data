@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-03-07T19:55:34.863324+00:00",
+  "last_updated_utc": "2026-03-07T20:14:27.561343+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6444,
+  "record_count": 6442,
   "records": [
+    {
+      "objectid": 1329898,
+      "globalid": "24042258-bfc2-4e1d-8c64-9490a94c1c5d",
+      "basin": "Kelani Ganga",
+      "gauge": "Norwood",
+      "water_level": 0.34,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-07T20:11:30.606000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-07T20:11:30.606000+00:00",
+      "Editor": "",
+      "alertpull": 1.5,
+      "minorpull": 3,
+      "majorpull": 4.5
+    },
     {
       "objectid": 1329897,
       "globalid": "579e4fa4-33f8-4c10-b713-c1a5cddeee82",
@@ -96619,51 +96634,6 @@
       "alertpull": 15,
       "minorpull": 16.5,
       "majorpull": 19
-    },
-    {
-      "objectid": 1323438,
-      "globalid": "fb163786-e683-48a9-a85d-19886dce0d78",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 2.03,
-      "rain_fall": null,
-      "CreationDate": "2026-02-28T20:12:34.578000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-28T20:12:34.578000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1323437,
-      "globalid": "2877965d-ea49-4a4f-9af3-9ac41104e498",
-      "basin": "Gin Ganga",
-      "gauge": "Thawalama",
-      "water_level": 1.12,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-28T20:12:15.129000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-28T20:12:15.129000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1323436,
-      "globalid": "74b9ff63-c422-420d-b972-4a43a58b6f98",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.16,
-      "rain_fall": 0,
-      "CreationDate": "2026-02-28T20:04:47.092000+00:00",
-      "Creator": "",
-      "EditDate": "2026-02-28T20:04:47.092000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
     }
   ]
 }
