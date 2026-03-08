@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-03-08T10:47:35.134631+00:00",
+  "last_updated_utc": "2026-03-08T10:59:49.431582+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6437,
+  "record_count": 6438,
   "records": [
+    {
+      "objectid": 1330485,
+      "globalid": "e7c24c5b-974c-41b6-b581-cc6e294cee8b",
+      "basin": "Deduru Oya",
+      "gauge": "Moragaswewa",
+      "water_level": -0.03,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-08T10:57:33.030000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-08T10:57:33.030000+00:00",
+      "Editor": "",
+      "alertpull": 4.75,
+      "minorpull": 6,
+      "majorpull": 7
+    },
+    {
+      "objectid": 1330484,
+      "globalid": "ada271dc-05a1-4f37-8fbd-7a3d2e214f64",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 2.15,
+      "rain_fall": null,
+      "CreationDate": "2026-03-08T10:50:18.663000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-08T10:50:18.663000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1330483,
       "globalid": "8cc92d6f-61fd-4043-961e-ce833971b1ec",
@@ -96544,21 +96574,6 @@
       "alertpull": 5,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1324028,
-      "globalid": "1ccdfa85-8fd5-4031-a35d-29a3b4ba1c7f",
-      "basin": "Kelani Ganga",
-      "gauge": "Holombuwa",
-      "water_level": 0.28,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-01T10:52:13.238000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-01T10:52:13.238000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 3.4,
-      "majorpull": 5
     }
   ]
 }
