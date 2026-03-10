@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-03-10T21:42:50.491092+00:00",
+  "last_updated_utc": "2026-03-10T21:58:12.869836+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6449,
+  "record_count": 6450,
   "records": [
+    {
+      "objectid": 1332738,
+      "globalid": "105bab67-6257-4830-a2d8-671bfd9f4789",
+      "basin": "Kirindi Oya",
+      "gauge": "Wellawaya",
+      "water_level": 0.68,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-10T21:46:38.356000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-10T21:46:38.356000+00:00",
+      "Editor": "",
+      "alertpull": 4.4,
+      "minorpull": 5.4,
+      "majorpull": 5.9
+    },
     {
       "objectid": 1332737,
       "globalid": "6f26e8d7-2770-480f-962a-e509a0a02f2d",
