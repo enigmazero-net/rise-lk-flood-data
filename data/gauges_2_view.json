@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-03-11T23:45:48.061210+00:00",
+  "last_updated_utc": "2026-03-11T23:59:36.078028+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6446,
+  "record_count": 6447,
   "records": [
+    {
+      "objectid": 1333728,
+      "globalid": "0edb51ed-7f0f-4610-96e9-2dff905b75ea",
+      "basin": "Kirindi Oya",
+      "gauge": "Thanamalwila",
+      "water_level": 0.29,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-11T23:48:39.021000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-11T23:48:39.021000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 5.5
+    },
     {
       "objectid": 1333727,
       "globalid": "50941c3a-3217-4ea5-8905-68151dc8f34e",
