@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-03-12T22:45:57.664987+00:00",
+  "last_updated_utc": "2026-03-12T23:01:25.225065+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6432,
+  "record_count": 6429,
   "records": [
+    {
+      "objectid": 1334601,
+      "globalid": "d0353cf3-30a1-4b76-b850-abd5ea4841db",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 2.09,
+      "rain_fall": null,
+      "CreationDate": "2026-03-12T22:53:12.399000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-12T22:53:12.399000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1334600,
       "globalid": "acd6683c-6e26-4920-8751-c129606ac68e",
@@ -96424,66 +96439,6 @@
       "alertpull": 3.5,
       "minorpull": 5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1328161,
-      "globalid": "d5a18aae-35a5-44ce-958f-1b5f4b0085e0",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 0.64,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-05T23:00:40.388000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-05T23:00:40.388000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1328160,
-      "globalid": "372900d0-9c49-4eaf-8d2f-e6c8b0aa0eac",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 0.64,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-05T23:00:38.966000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-05T23:00:38.966000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1328159,
-      "globalid": "d2086858-72c0-4ca0-b011-e61c4a708d16",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 0.64,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-05T23:00:37.482000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-05T23:00:37.482000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1328158,
-      "globalid": "0f33e267-069b-411e-a9ab-3bd438202bac",
-      "basin": "Kelani Ganga",
-      "gauge": "Deraniyagala",
-      "water_level": 0.15,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-05T22:57:15.703000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-05T22:57:15.703000+00:00",
-      "Editor": "",
-      "alertpull": 4.8,
-      "minorpull": 5.8,
-      "majorpull": 6.4
     }
   ]
 }
