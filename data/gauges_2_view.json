@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2026-03-13T20:49:22.581819+00:00",
+  "last_updated_utc": "2026-03-13T21:18:56.229797+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6448,
+  "record_count": 6445,
   "records": [
     {
       "objectid": 1335451,
@@ -96679,51 +96679,6 @@
       "alertpull": 3.5,
       "minorpull": 5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1328996,
-      "globalid": "458512b7-8ac9-444c-880a-671f2506d8f7",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.13,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-06T21:13:18.857000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-06T21:13:18.857000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
-    },
-    {
-      "objectid": 1328995,
-      "globalid": "6feee0b3-29b6-43c1-aa57-4fb069126ea8",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.13,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-06T21:12:16.523000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-06T21:12:16.523000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
-    },
-    {
-      "objectid": 1328994,
-      "globalid": "c18c0f9f-d7a1-41ac-9d71-da126cf461f5",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 0.42,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-06T21:02:27.373000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-06T21:02:27.373000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
     }
   ]
 }
