@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-03-13T19:40:36.320087+00:00",
+  "last_updated_utc": "2026-03-13T20:01:34.833812+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6435,
+  "record_count": 6436,
   "records": [
+    {
+      "objectid": 1335414,
+      "globalid": "f5e843e2-e733-42d7-8195-1cf56a04b5ac",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 2.45,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-13T19:58:00.858000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-13T19:58:00.858000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1335413,
+      "globalid": "5f3b2e1f-576a-4ab6-ad85-e9e05df31ec5",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.44,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-13T19:56:24.916000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-13T19:56:24.916000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
     {
       "objectid": 1335412,
       "globalid": "f2ef9c46-99e7-4b35-805e-585fe57ec15a",
@@ -96514,21 +96544,6 @@
       "alertpull": 3.5,
       "minorpull": 5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1328968,
-      "globalid": "01361939-5e80-434d-ab44-6457461de08f",
-      "basin": "Kumbukkan Oya",
-      "gauge": "Nakkala",
-      "water_level": 0.82,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-06T20:00:56.121000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-06T20:00:56.121000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
