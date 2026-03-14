@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-03-14T19:57:21.154296+00:00",
+  "last_updated_utc": "2026-03-14T20:22:17.606023+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6414,
+  "record_count": 6413,
   "records": [
+    {
+      "objectid": 1336323,
+      "globalid": "f8464349-4894-4651-a9f5-726cf0f62fe7",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": 0.04,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-14T20:10:58.817000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-14T20:10:58.817000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1336322,
+      "globalid": "7bd98b73-7264-493b-96cb-96b6ea955610",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": 0.04,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-14T20:10:29.441000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-14T20:10:29.441000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
     {
       "objectid": 1336321,
       "globalid": "09f236b6-b59f-4012-b9b9-cf5fdefc638a",
@@ -96169,51 +96199,6 @@
       "alertpull": 3.5,
       "minorpull": 5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1329900,
-      "globalid": "d14a8159-4431-4490-82b0-31763e7d9357",
-      "basin": "Nilwala Ganga",
-      "gauge": "Urawa",
-      "water_level": -0.02,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-07T20:20:31.936000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-07T20:20:31.936000+00:00",
-      "Editor": "",
-      "alertpull": 2.5,
-      "minorpull": 4,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1329899,
-      "globalid": "78ae5027-e3ed-461a-82e9-f3777c5b07f2",
-      "basin": "Yan Oya",
-      "gauge": "Horowpothana",
-      "water_level": 1.14,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-07T20:19:48.739000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-07T20:19:48.739000+00:00",
-      "Editor": "",
-      "alertpull": 6,
-      "minorpull": 7.5,
-      "majorpull": 10.5
-    },
-    {
-      "objectid": 1329898,
-      "globalid": "24042258-bfc2-4e1d-8c64-9490a94c1c5d",
-      "basin": "Kelani Ganga",
-      "gauge": "Norwood",
-      "water_level": 0.34,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-07T20:11:30.606000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-07T20:11:30.606000+00:00",
-      "Editor": "",
-      "alertpull": 1.5,
-      "minorpull": 3,
-      "majorpull": 4.5
     }
   ]
 }
