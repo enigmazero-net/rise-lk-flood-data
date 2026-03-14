@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-03-14T19:43:43.513355+00:00",
+  "last_updated_utc": "2026-03-14T19:57:21.154296+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6413,
+  "record_count": 6414,
   "records": [
+    {
+      "objectid": 1336321,
+      "globalid": "09f236b6-b59f-4012-b9b9-cf5fdefc638a",
+      "basin": "Heda Oya",
+      "gauge": "Siyambalanduwa",
+      "water_level": 0.37,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-14T19:51:31.013000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-14T19:51:31.013000+00:00",
+      "Editor": "",
+      "alertpull": 4.5,
+      "minorpull": 6,
+      "majorpull": 7
+    },
+    {
+      "objectid": 1336320,
+      "globalid": "a0532a6e-9128-4b64-8c4d-0fa22604ad6f",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.43,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-14T19:46:37.313000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-14T19:46:37.313000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1336319,
+      "globalid": "dd74f3be-cd39-472e-9bf2-6358a7e1252e",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.4,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-14T19:44:47.892000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-14T19:44:47.892000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
     {
       "objectid": 1336318,
       "globalid": "f87720f3-e9cf-4338-b4ae-e4edef73d162",
@@ -96169,36 +96214,6 @@
       "alertpull": 1.5,
       "minorpull": 3,
       "majorpull": 4.5
-    },
-    {
-      "objectid": 1329897,
-      "globalid": "579e4fa4-33f8-4c10-b713-c1a5cddeee82",
-      "basin": "Kelani Ganga",
-      "gauge": "Holombuwa",
-      "water_level": 0.24,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-07T19:52:25.556000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-07T19:52:25.556000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 3.4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1329896,
-      "globalid": "e664408e-126f-4b08-9a18-9364c94be238",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 1.86,
-      "rain_fall": null,
-      "CreationDate": "2026-03-07T19:50:14.665000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-07T19:50:14.665000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
