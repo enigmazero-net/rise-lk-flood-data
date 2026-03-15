@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-03-15T20:56:49.746633+00:00",
+  "last_updated_utc": "2026-03-15T21:22:26.090774+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6417,
+  "record_count": 6419,
   "records": [
+    {
+      "objectid": 1337282,
+      "globalid": "5419c712-f100-4c96-8612-705b0d4e78a9",
+      "basin": "Deduru Oya",
+      "gauge": "Moragaswewa",
+      "water_level": 0.24,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-15T21:19:57.027000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-15T21:19:57.027000+00:00",
+      "Editor": "",
+      "alertpull": 4.75,
+      "minorpull": 6,
+      "majorpull": 7
+    },
+    {
+      "objectid": 1337281,
+      "globalid": "f1f1456a-d0f2-4fc5-b372-0448ba59e553",
+      "basin": "Deduru Oya",
+      "gauge": "Moragaswewa",
+      "water_level": 0.24,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-15T21:19:29.122000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-15T21:19:29.122000+00:00",
+      "Editor": "",
+      "alertpull": 4.75,
+      "minorpull": 6,
+      "majorpull": 7
+    },
+    {
+      "objectid": 1337280,
+      "globalid": "16b61ddb-8836-4ff6-bc7e-ccdfc82b232a",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.37,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-15T21:12:37.674000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-15T21:12:37.674000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
     {
       "objectid": 1337279,
       "globalid": "f4d0ad45-fe57-4752-abd7-4227eeaf16b9",
@@ -96244,21 +96289,6 @@
       "alertpull": 4,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1330857,
-      "globalid": "08a89b8a-d325-400f-9037-8b7423bac3f1",
-      "basin": "Yan Oya",
-      "gauge": "Horowpothana",
-      "water_level": 1.22,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-08T21:20:47.522000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-08T21:20:47.522000+00:00",
-      "Editor": "",
-      "alertpull": 6,
-      "minorpull": 7.5,
-      "majorpull": 10.5
     }
   ]
 }
