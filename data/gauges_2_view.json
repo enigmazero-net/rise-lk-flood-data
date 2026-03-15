@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-03-15T21:48:01.952412+00:00",
+  "last_updated_utc": "2026-03-15T22:00:03.547777+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6421,
   "records": [
+    {
+      "objectid": 1337318,
+      "globalid": "3580da16-8113-4eaa-b630-08b89e1db3bc",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.48,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-15T21:49:38.967000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-15T21:49:38.967000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
     {
       "objectid": 1337317,
       "globalid": "d18b2d02-6d89-428a-a696-e46c532868d5",
@@ -96304,21 +96319,6 @@
       "alertpull": 4.4,
       "minorpull": 5.4,
       "majorpull": 5.9
-    },
-    {
-      "objectid": 1330891,
-      "globalid": "b2837abb-788d-483a-b286-ad3e1108fa7d",
-      "basin": "Kalu Ganga",
-      "gauge": "Kalawellawa (Millakanda)",
-      "water_level": 1.4,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-08T21:52:26.223000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-08T21:52:26.223000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.5,
-      "majorpull": 8
     }
   ]
 }
