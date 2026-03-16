@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-03-16T20:52:33.486794+00:00",
+  "last_updated_utc": "2026-03-16T21:28:40.388028+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6399,
   "records": [
+    {
+      "objectid": 1338194,
+      "globalid": "090bdfed-fb9d-446f-a6a6-2fa1f9bee6ad",
+      "basin": "Kelani Ganga",
+      "gauge": "Glencourse",
+      "water_level": 8.49,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-16T21:03:57.893000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-16T21:03:57.893000+00:00",
+      "Editor": "",
+      "alertpull": 15,
+      "minorpull": 16.5,
+      "majorpull": 19
+    },
     {
       "objectid": 1338193,
       "globalid": "96b673ea-6e7a-4eec-91a9-101dbd1111a0",
@@ -95974,21 +95989,6 @@
       "alertpull": 4,
       "minorpull": 4.5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1331786,
-      "globalid": "ef3e821a-b7f2-4b64-9cdc-8c6dd42c356d",
-      "basin": "Kalu Ganga",
-      "gauge": "Putupaula",
-      "water_level": 0.38,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-09T21:07:32.655000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-09T21:07:32.655000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
     }
   ]
 }
