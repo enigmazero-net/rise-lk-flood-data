@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-03-17T23:47:35.868179+00:00",
+  "last_updated_utc": "2026-03-18T00:03:36.322092+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6400,
+  "record_count": 6399,
   "records": [
+    {
+      "objectid": 1339215,
+      "globalid": "7e1feba4-231b-43b0-a452-a933cf90ca5d",
+      "basin": "Walawe Ganga",
+      "gauge": "Moraketiya",
+      "water_level": 0.69,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-18T00:01:47.108000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-18T00:01:47.108000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 5,
+      "majorpull": 7
+    },
+    {
+      "objectid": 1339214,
+      "globalid": "f3d95ae5-9534-42ae-bef7-2793410e1d60",
+      "basin": "Kumbukkan Oya",
+      "gauge": "Nakkala",
+      "water_level": 0.73,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-17T23:53:52.568000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-17T23:53:52.568000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1339213,
       "globalid": "a5c638ca-b991-4d8d-85db-74235d48d808",
@@ -95959,51 +95989,6 @@
       "alertpull": 1.4,
       "minorpull": 1.7,
       "majorpull": 2.8
-    },
-    {
-      "objectid": 1332809,
-      "globalid": "6816d6c7-7273-492a-9453-883282677ab9",
-      "basin": "Kirindi Oya",
-      "gauge": "Kuda Oya",
-      "water_level": 1.04,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-11T00:01:21.095000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-11T00:01:21.095000+00:00",
-      "Editor": "",
-      "alertpull": 6.9,
-      "minorpull": 8.4,
-      "majorpull": 8.8
-    },
-    {
-      "objectid": 1332808,
-      "globalid": "c3729662-78e4-4064-aa08-e7726ed00c1c",
-      "basin": "Kalu Ganga",
-      "gauge": "Kalawellawa (Millakanda)",
-      "water_level": 1.58,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-10T23:56:14.580000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-10T23:56:14.580000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.5,
-      "majorpull": 8
-    },
-    {
-      "objectid": 1332807,
-      "globalid": "4fbe8c81-69b4-4797-a106-249e6ac6d691",
-      "basin": "Kirindi Oya",
-      "gauge": "Wellawaya",
-      "water_level": 0.68,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-10T23:48:12.155000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-10T23:48:12.155000+00:00",
-      "Editor": "",
-      "alertpull": 4.4,
-      "minorpull": 5.4,
-      "majorpull": 5.9
     }
   ]
 }
