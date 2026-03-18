@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-03-18T21:54:55.535391+00:00",
+  "last_updated_utc": "2026-03-18T22:22:32.474947+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6403,
+  "record_count": 6402,
   "records": [
+    {
+      "objectid": 1340067,
+      "globalid": "c1244b49-cca2-4a38-8beb-cc4ec3965045",
+      "basin": "Maha Oya",
+      "gauge": "Giriulla",
+      "water_level": 0.7,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-18T22:09:02.958000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-18T22:09:02.958000+00:00",
+      "Editor": "",
+      "alertpull": 5.5,
+      "minorpull": 6.5,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1340066,
       "globalid": "02ca65b8-bb8e-4ddc-ba5e-9f89810ac20f",
@@ -96019,36 +96034,6 @@
       "alertpull": 3.5,
       "minorpull": 4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1333658,
-      "globalid": "591b7be6-6f82-42df-a008-ba0e8c401df3",
-      "basin": "Kalu Ganga",
-      "gauge": "Putupaula",
-      "water_level": 0.55,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-11T22:21:32.962000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-11T22:21:32.962000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1333657,
-      "globalid": "e0835e8c-c6da-4919-a99f-a9d8877dd38b",
-      "basin": "Yan Oya",
-      "gauge": "Horowpothana",
-      "water_level": 1.27,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-11T22:03:13.267000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-11T22:03:13.267000+00:00",
-      "Editor": "",
-      "alertpull": 6,
-      "minorpull": 7.5,
-      "majorpull": 10.5
     }
   ]
 }
