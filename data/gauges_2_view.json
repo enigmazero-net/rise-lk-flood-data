@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-03-19T22:42:03.304306+00:00",
+  "last_updated_utc": "2026-03-19T23:03:01.936096+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6418,
   "records": [
+    {
+      "objectid": 1341024,
+      "globalid": "ffab1754-060a-4064-ab6b-7050c97c5aba",
+      "basin": "Walawe Ganga",
+      "gauge": "Moraketiya",
+      "water_level": 0.82,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-19T22:52:34.188000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-19T22:52:34.188000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 5,
+      "majorpull": 7
+    },
+    {
+      "objectid": 1341023,
+      "globalid": "8bca576f-6fea-4014-a291-19764c652144",
+      "basin": "Maduru Oya",
+      "gauge": "Padiyathalawa",
+      "water_level": 0.43,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-19T22:42:23.446000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-19T22:42:23.446000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 4.5,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1341022,
+      "globalid": "67275211-f9f5-4232-8010-f19d18d1e7f4",
+      "basin": "Maduru Oya",
+      "gauge": "Padiyathalawa",
+      "water_level": 0.43,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-19T22:42:21.571000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-19T22:42:21.571000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 4.5,
+      "majorpull": 6
+    },
     {
       "objectid": 1341021,
       "globalid": "3b7cc63a-eb36-4597-a119-645f2daa4d17",
@@ -96229,51 +96274,6 @@
       "alertpull": 3,
       "minorpull": 5,
       "majorpull": 7
-    },
-    {
-      "objectid": 1334601,
-      "globalid": "d0353cf3-30a1-4b76-b850-abd5ea4841db",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 2.09,
-      "rain_fall": null,
-      "CreationDate": "2026-03-12T22:53:12.399000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-12T22:53:12.399000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1334600,
-      "globalid": "acd6683c-6e26-4920-8751-c129606ac68e",
-      "basin": "Kalu Ganga",
-      "gauge": "Putupaula",
-      "water_level": 0.55,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-12T22:45:04.375000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-12T22:45:04.375000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1334599,
-      "globalid": "f5d54ace-3c7a-44c0-9c87-2d46f53d2734",
-      "basin": "Kelani Ganga",
-      "gauge": "Hanwella",
-      "water_level": 0.52,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-12T22:42:46.281000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-12T22:42:46.281000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
     }
   ]
 }
