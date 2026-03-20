@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-03-20T19:42:26.489346+00:00",
+  "last_updated_utc": "2026-03-20T20:01:48.789999+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6411,
   "records": [
+    {
+      "objectid": 1341833,
+      "globalid": "2a3d0f3c-cbc5-4f3b-81f6-6290f8569932",
+      "basin": "Heda Oya",
+      "gauge": "Siyambalanduwa",
+      "water_level": 0.48,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-20T19:50:46.937000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-20T19:50:46.937000+00:00",
+      "Editor": "",
+      "alertpull": 4.5,
+      "minorpull": 6,
+      "majorpull": 7
+    },
+    {
+      "objectid": 1341832,
+      "globalid": "d93da8f5-f2d3-4799-8b6d-d9a7dfdf1011",
+      "basin": "Kelani Ganga",
+      "gauge": "Nagalagam Street",
+      "water_level": 2,
+      "rain_fall": null,
+      "CreationDate": "2026-03-20T19:49:41.414000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-20T19:49:41.414000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 7
+    },
     {
       "objectid": 1341831,
       "globalid": "39499436-8c43-43b9-a8a0-bece0d9202a2",
@@ -96139,36 +96169,6 @@
       "alertpull": 3.5,
       "minorpull": 5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1335414,
-      "globalid": "f5e843e2-e733-42d7-8195-1cf56a04b5ac",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 2.45,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-13T19:58:00.858000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-13T19:58:00.858000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1335413,
-      "globalid": "5f3b2e1f-576a-4ab6-ad85-e9e05df31ec5",
-      "basin": "Kalu Ganga",
-      "gauge": "Putupaula",
-      "water_level": 0.44,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-13T19:56:24.916000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-13T19:56:24.916000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
     }
   ]
 }
