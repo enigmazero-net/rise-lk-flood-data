@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2026-03-21T22:44:48.812647+00:00",
+  "last_updated_utc": "2026-03-21T22:59:03.300789+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6431,
+  "record_count": 6429,
   "records": [
     {
       "objectid": 1342866,
@@ -96439,36 +96439,6 @@
       "alertpull": 5,
       "minorpull": 6.5,
       "majorpull": 8
-    },
-    {
-      "objectid": 1336429,
-      "globalid": "faa10b84-a2b3-4216-a2a4-a1cfc602e691",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 0.71,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-14T22:58:55.742000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-14T22:58:55.742000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1336428,
-      "globalid": "63efba39-ba7e-4e5b-bf3b-51ecd96d378d",
-      "basin": "Kelani Ganga",
-      "gauge": "Holombuwa",
-      "water_level": 0.36,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-14T22:50:42.906000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-14T22:50:42.906000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 3.4,
-      "majorpull": 5
     }
   ]
 }
