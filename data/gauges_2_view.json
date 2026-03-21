@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-03-21T13:52:36.527368+00:00",
+  "last_updated_utc": "2026-03-21T14:17:18.450271+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6428,
+  "record_count": 6430,
   "records": [
+    {
+      "objectid": 1342548,
+      "globalid": "5d775078-d149-4899-813f-84079812d193",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": 0,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-21T14:03:19.592000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-21T14:03:19.592000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1342547,
+      "globalid": "53a76c65-7af7-449f-a63a-6c7dc413835c",
+      "basin": "Kalu Ganga",
+      "gauge": "Kalawellawa (Millakanda)",
+      "water_level": 1.38,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-21T14:01:17.736000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-21T14:01:17.736000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.5,
+      "majorpull": 8
+    },
+    {
+      "objectid": 1342546,
+      "globalid": "5f11ff9d-66fc-4e40-856e-12b180d15edb",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.45,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-21T14:00:33.414000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-21T14:00:33.414000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
     {
       "objectid": 1342545,
       "globalid": "a4ef3fe7-ea25-4563-ad26-c104d26e3a76",
@@ -96409,21 +96454,6 @@
       "alertpull": 4.4,
       "minorpull": 5.4,
       "majorpull": 5.9
-    },
-    {
-      "objectid": 1336110,
-      "globalid": "d9a53fd4-3460-47a1-b704-23b6fa3f347f",
-      "basin": "Yan Oya",
-      "gauge": "Horowpothana",
-      "water_level": 1.26,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-14T14:03:47.541000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-14T14:03:47.541000+00:00",
-      "Editor": "",
-      "alertpull": 6,
-      "minorpull": 7.5,
-      "majorpull": 10.5
     }
   ]
 }
