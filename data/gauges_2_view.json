@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-03-22T07:50:19.044457+00:00",
+  "last_updated_utc": "2026-03-22T08:21:58.704460+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6433,
+  "record_count": 6432,
   "records": [
+    {
+      "objectid": 1343229,
+      "globalid": "93793391-9950-4c31-b8e5-759c1b879e1f",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.18,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-22T07:53:08.356000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-22T07:53:08.356000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
+    {
+      "objectid": 1343228,
+      "globalid": "9a2df899-ac94-41b7-878c-4035ddab0824",
+      "basin": "Walawe Ganga",
+      "gauge": "Moraketiya",
+      "water_level": 0.79,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-22T07:50:58.457000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-22T07:50:58.457000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 5,
+      "majorpull": 7
+    },
     {
       "objectid": 1343227,
       "globalid": "520537f9-f171-4d57-99f9-09109cb520cf",
@@ -96454,51 +96484,6 @@
       "alertpull": 5,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1336789,
-      "globalid": "40d86a15-b577-4d7d-a074-8bf40e3673d5",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.28,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-15T08:07:06.864000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-15T08:07:06.864000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
-    },
-    {
-      "objectid": 1336788,
-      "globalid": "de9cbae9-cf24-4db8-9fd7-296dc5882894",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Nawalapitiya",
-      "water_level": 0.68,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-15T08:06:40.179000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-15T08:06:40.179000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
-      "minorpull": 5,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1336787,
-      "globalid": "f0646a92-5f00-4384-b6db-08c33b1f7741",
-      "basin": "Gin Ganga",
-      "gauge": "Baddegama",
-      "water_level": 1.58,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-15T07:58:07.234000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-15T07:58:07.234000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
-      "minorpull": 4,
-      "majorpull": 5
     }
   ]
 }
