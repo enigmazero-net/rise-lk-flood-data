@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-03-22T16:55:00.363215+00:00",
+  "last_updated_utc": "2026-03-22T17:16:40.779279+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6433,
+  "record_count": 6434,
   "records": [
+    {
+      "objectid": 1343585,
+      "globalid": "a1c3d4ae-5370-455e-b090-7cf096085d98",
+      "basin": "Maduru Oya",
+      "gauge": "Padiyathalawa",
+      "water_level": 0.37,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-22T17:10:36.718000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-22T17:10:36.718000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 4.5,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1343584,
+      "globalid": "de3d1f22-8f05-4a48-8772-724d0c95583d",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.41,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-22T17:04:15.402000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-22T17:04:15.402000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
     {
       "objectid": 1343583,
       "globalid": "12cd4690-9ff6-454c-992e-0efac6b909f1",
@@ -96484,21 +96514,6 @@
       "alertpull": 4,
       "minorpull": 4.5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1337142,
-      "globalid": "7d29991a-4b2d-40f0-be30-0865fff7b130",
-      "basin": "Kalu Ganga",
-      "gauge": "Kalawellawa (Millakanda)",
-      "water_level": 1.64,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-15T16:57:58.325000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-15T16:57:58.325000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.5,
-      "majorpull": 8
     }
   ]
 }
