@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-03-22T21:42:35.338069+00:00",
+  "last_updated_utc": "2026-03-22T21:58:11.460447+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6426,
+  "record_count": 6424,
   "records": [
+    {
+      "objectid": 1343751,
+      "globalid": "6c8ea805-e828-45ba-b404-0e00bfe20091",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.56,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-22T21:50:23.448000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-22T21:50:23.448000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
     {
       "objectid": 1343750,
       "globalid": "58d7ed77-f0f0-47b0-8eac-044e036b2a4a",
@@ -96349,51 +96364,6 @@
       "alertpull": 3.3,
       "minorpull": 4.4,
       "majorpull": 5.5
-    },
-    {
-      "objectid": 1337318,
-      "globalid": "3580da16-8113-4eaa-b630-08b89e1db3bc",
-      "basin": "Kalu Ganga",
-      "gauge": "Putupaula",
-      "water_level": 0.48,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-15T21:49:38.967000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-15T21:49:38.967000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1337317,
-      "globalid": "d18b2d02-6d89-428a-a696-e46c532868d5",
-      "basin": "Kelani Ganga",
-      "gauge": "Nagalagam Street",
-      "water_level": 2,
-      "rain_fall": null,
-      "CreationDate": "2026-03-15T21:44:52.439000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-15T21:44:52.439000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1337316,
-      "globalid": "1839e5b2-d40e-4a9f-9b4e-ece993b0661a",
-      "basin": "Gin Ganga",
-      "gauge": "Baddegama",
-      "water_level": 0.94,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-15T21:43:22.805000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-15T21:43:22.805000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
-      "minorpull": 4,
-      "majorpull": 5
     }
   ]
 }
