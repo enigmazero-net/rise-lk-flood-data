@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-03-23T22:47:25.369007+00:00",
+  "last_updated_utc": "2026-03-23T23:16:33.463516+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6428,
+  "record_count": 6426,
   "records": [
+    {
+      "objectid": 1344693,
+      "globalid": "4c2772bd-38ec-450a-91e2-5ebc4cfe7f04",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": -0.07,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-23T23:04:52.383000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-23T23:04:52.383000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
     {
       "objectid": 1344692,
       "globalid": "67d9c5b6-0486-40a8-a2c0-97f780601707",
@@ -96379,51 +96394,6 @@
       "alertpull": 3.3,
       "minorpull": 4.4,
       "majorpull": 5.5
-    },
-    {
-      "objectid": 1338259,
-      "globalid": "cfd796fe-2959-4735-a423-13cad0c8c35e",
-      "basin": "Kirindi Oya",
-      "gauge": "Kuda Oya",
-      "water_level": 1.02,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-16T23:15:12.591000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-16T23:15:12.591000+00:00",
-      "Editor": "",
-      "alertpull": 6.9,
-      "minorpull": 8.4,
-      "majorpull": 8.8
-    },
-    {
-      "objectid": 1338258,
-      "globalid": "cb502258-f516-4da4-a570-dc724c5a9146",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 0.48,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-16T23:09:23.023000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-16T23:09:23.023000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
-    },
-    {
-      "objectid": 1338257,
-      "globalid": "be660a4c-f8bc-4fd8-a2b0-56cbe7170475",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.22,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-16T22:56:02.332000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-16T22:56:02.332000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
     }
   ]
 }
