@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2026-03-24T20:53:22.708991+00:00",
+  "last_updated_utc": "2026-03-24T21:28:10.537384+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6426,
+  "record_count": 6424,
   "records": [
     {
       "objectid": 1345545,
@@ -96364,36 +96364,6 @@
       "alertpull": 2.5,
       "minorpull": 4,
       "majorpull": 6
-    },
-    {
-      "objectid": 1339112,
-      "globalid": "6eab0522-7ea3-4fbb-87a7-59c471d928eb",
-      "basin": "Kirindi Oya",
-      "gauge": "Wellawaya",
-      "water_level": 0.7,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-17T21:26:17.142000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-17T21:26:17.142000+00:00",
-      "Editor": "",
-      "alertpull": 4.4,
-      "minorpull": 5.4,
-      "majorpull": 5.9
-    },
-    {
-      "objectid": 1339111,
-      "globalid": "d452cb94-1d36-455e-938e-8efc38a2e88d",
-      "basin": "Yan Oya",
-      "gauge": "Horowpothana",
-      "water_level": 1.21,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-17T21:05:53.593000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-17T21:05:53.593000+00:00",
-      "Editor": "",
-      "alertpull": 6,
-      "minorpull": 7.5,
-      "majorpull": 10.5
     }
   ]
 }
