@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2026-03-26T22:46:32.219305+00:00",
+  "last_updated_utc": "2026-03-26T23:03:12.824901+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6429,
+  "record_count": 6427,
   "records": [
     {
       "objectid": 1347462,
@@ -96409,36 +96409,6 @@
       "alertpull": 1.4,
       "minorpull": 1.7,
       "majorpull": 2.8
-    },
-    {
-      "objectid": 1341025,
-      "globalid": "c2b35c48-79d3-4ae1-8465-691d31837117",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 4.37,
-      "rain_fall": null,
-      "CreationDate": "2026-03-19T23:03:11.213000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-19T23:03:11.213000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1341024,
-      "globalid": "ffab1754-060a-4064-ab6b-7050c97c5aba",
-      "basin": "Walawe Ganga",
-      "gauge": "Moraketiya",
-      "water_level": 0.82,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-19T22:52:34.188000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-19T22:52:34.188000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 5,
-      "majorpull": 7
     }
   ]
 }
