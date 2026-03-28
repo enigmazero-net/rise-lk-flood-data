@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-03-28T17:52:13.975766+00:00",
+  "last_updated_utc": "2026-03-28T18:25:23.696026+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6434,
+  "record_count": 6433,
   "records": [
+    {
+      "objectid": 1349137,
+      "globalid": "3ebef34d-290a-4967-9417-7e96dd6ce5e9",
+      "basin": "Maha Oya",
+      "gauge": "Giriulla",
+      "water_level": 0.63,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-28T18:05:00.086000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-28T18:05:00.086000+00:00",
+      "Editor": "",
+      "alertpull": 5.5,
+      "minorpull": 6.5,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1349136,
       "globalid": "d96a6b01-22d4-4433-91cd-139e99517bae",
@@ -96484,36 +96499,6 @@
       "alertpull": 2.5,
       "minorpull": 4,
       "majorpull": 6
-    },
-    {
-      "objectid": 1342695,
-      "globalid": "69c0ab61-0bdf-4731-b5d3-fab7f624b5d1",
-      "basin": "Maha Oya",
-      "gauge": "Giriulla",
-      "water_level": 0.77,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-21T18:01:37.586000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-21T18:01:37.586000+00:00",
-      "Editor": "",
-      "alertpull": 5.5,
-      "minorpull": 6.5,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1342694,
-      "globalid": "7d838368-ef53-4ba1-aada-ce97ce21270c",
-      "basin": "Heda Oya",
-      "gauge": "Siyambalanduwa",
-      "water_level": 0.46,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-21T17:52:23.075000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-21T17:52:23.075000+00:00",
-      "Editor": "",
-      "alertpull": 4.5,
-      "minorpull": 6,
-      "majorpull": 7
     }
   ]
 }
