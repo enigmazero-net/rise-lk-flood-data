@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-03-28T11:45:24.068601+00:00",
+  "last_updated_utc": "2026-03-28T11:58:53.862130+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6429,
+  "record_count": 6431,
   "records": [
+    {
+      "objectid": 1348911,
+      "globalid": "1d3aaf5b-e5ed-4178-8af0-d51d7dadfb6a",
+      "basin": "Kelani Ganga",
+      "gauge": "Norwood",
+      "water_level": 0.33,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-28T11:53:38.491000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-28T11:53:38.491000+00:00",
+      "Editor": "",
+      "alertpull": 1.5,
+      "minorpull": 3,
+      "majorpull": 4.5
+    },
+    {
+      "objectid": 1348910,
+      "globalid": "7ec4d559-ed52-4d1c-89fa-6e8b00a68ebb",
+      "basin": "Maduru Oya",
+      "gauge": "Padiyathalawa",
+      "water_level": 0.31,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-28T11:49:06.135000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-28T11:49:06.135000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 4.5,
+      "majorpull": 6
+    },
     {
       "objectid": 1348909,
       "globalid": "b39f4f99-5f2e-420b-9319-41d7ed9d411a",
