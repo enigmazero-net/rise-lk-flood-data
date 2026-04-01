@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-04-01T21:53:26.406477+00:00",
+  "last_updated_utc": "2026-04-01T22:26:29.703808+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6430,
   "records": [
+    {
+      "objectid": 1352939,
+      "globalid": "6825081f-6fb5-41a5-a7fd-ac4f1406e652",
+      "basin": "Walawe Ganga",
+      "gauge": "Moraketiya",
+      "water_level": 0.9,
+      "rain_fall": 0,
+      "CreationDate": "2026-04-01T22:03:44.703000+00:00",
+      "Creator": "",
+      "EditDate": "2026-04-01T22:03:44.703000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 5,
+      "majorpull": 7
+    },
+    {
+      "objectid": 1352938,
+      "globalid": "859cf35a-4454-4af5-80a7-d3a0ef92c5bf",
+      "basin": "Heda Oya",
+      "gauge": "Siyambalanduwa",
+      "water_level": 0.47,
+      "rain_fall": 0,
+      "CreationDate": "2026-04-01T21:58:55.601000+00:00",
+      "Creator": "",
+      "EditDate": "2026-04-01T21:58:55.601000+00:00",
+      "Editor": "",
+      "alertpull": 4.5,
+      "minorpull": 6,
+      "majorpull": 7
+    },
     {
       "objectid": 1352937,
       "globalid": "f27f9090-932e-4294-8f06-b6a782ce758e",
@@ -96424,36 +96454,6 @@
       "alertpull": 5,
       "minorpull": 7,
       "majorpull": 9
-    },
-    {
-      "objectid": 1346496,
-      "globalid": "4e648d9d-7991-4543-b05d-978da0333ba8",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 0.57,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-25T22:10:08.664000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-25T22:10:08.664000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1346495,
-      "globalid": "712f7572-94a7-4861-809c-dd2369c03193",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 2,
-      "rain_fall": null,
-      "CreationDate": "2026-03-25T22:00:51.078000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-25T22:00:51.078000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
