@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-04-03T17:48:23.817380+00:00",
+  "last_updated_utc": "2026-04-03T18:25:13.301393+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6418,
+  "record_count": 6419,
   "records": [
+    {
+      "objectid": 1354651,
+      "globalid": "07ba09a6-d333-4e0e-82b7-0b69cedfb899",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 0.46,
+      "rain_fall": null,
+      "CreationDate": "2026-04-03T18:09:58.007000+00:00",
+      "Creator": "",
+      "EditDate": "2026-04-03T18:09:58.007000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
+    {
+      "objectid": 1354650,
+      "globalid": "7f8c20ab-4194-4036-9761-a9c596f987e8",
+      "basin": "Kelani Ganga",
+      "gauge": "Nagalagam Street",
+      "water_level": 1,
+      "rain_fall": null,
+      "CreationDate": "2026-04-03T17:57:13.218000+00:00",
+      "Creator": "",
+      "EditDate": "2026-04-03T17:57:13.218000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 7
+    },
     {
       "objectid": 1354649,
       "globalid": "213ec9e2-0c19-45e4-a406-f99331e24dab",
@@ -96259,21 +96289,6 @@
       "alertpull": 5,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1348219,
-      "globalid": "d7ef0f87-5993-4860-98ba-c2549b2368cd",
-      "basin": "Heda Oya",
-      "gauge": "Siyambalanduwa",
-      "water_level": 0.47,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-27T18:12:53.861000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-27T18:12:53.861000+00:00",
-      "Editor": "",
-      "alertpull": 4.5,
-      "minorpull": 6,
-      "majorpull": 7
     }
   ]
 }
