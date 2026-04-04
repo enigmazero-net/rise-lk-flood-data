@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-04-04T18:58:03.971345+00:00",
+  "last_updated_utc": "2026-04-04T19:29:06.252277+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6432,
+  "record_count": 6434,
   "records": [
+    {
+      "objectid": 1355615,
+      "globalid": "9bebe372-aa88-4a90-9170-4aec5c274053",
+      "basin": "Kirindi Oya",
+      "gauge": "Wellawaya",
+      "water_level": 0.62,
+      "rain_fall": 0,
+      "CreationDate": "2026-04-04T19:26:11.804000+00:00",
+      "Creator": "",
+      "EditDate": "2026-04-04T19:26:11.804000+00:00",
+      "Editor": "",
+      "alertpull": 4.4,
+      "minorpull": 5.4,
+      "majorpull": 5.9
+    },
+    {
+      "objectid": 1355614,
+      "globalid": "4b056572-1dc6-47e0-b6eb-f2d2bb51d980",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.28,
+      "rain_fall": 0,
+      "CreationDate": "2026-04-04T19:24:40.183000+00:00",
+      "Creator": "",
+      "EditDate": "2026-04-04T19:24:40.183000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
     {
       "objectid": 1355613,
       "globalid": "4973821a-a379-41e3-bbea-f88f33e7d745",
