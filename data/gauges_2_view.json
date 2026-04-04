@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-04-04T17:42:38.752238+00:00",
+  "last_updated_utc": "2026-04-04T18:02:10.136529+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6431,
+  "record_count": 6429,
   "records": [
+    {
+      "objectid": 1355578,
+      "globalid": "ac56653b-c5e8-445c-a92c-d72198fa402c",
+      "basin": "Kalu Ganga",
+      "gauge": "Kalawellawa (Millakanda)",
+      "water_level": 1.72,
+      "rain_fall": 0,
+      "CreationDate": "2026-04-04T17:48:06.977000+00:00",
+      "Creator": "",
+      "EditDate": "2026-04-04T17:48:06.977000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.5,
+      "majorpull": 8
+    },
     {
       "objectid": 1355577,
       "globalid": "957bd896-57ae-4b52-a792-19839d233273",
@@ -96424,51 +96439,6 @@
       "alertpull": 5.5,
       "minorpull": 6.5,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1349136,
-      "globalid": "d96a6b01-22d4-4433-91cd-139e99517bae",
-      "basin": "Walawe Ganga",
-      "gauge": "Moraketiya",
-      "water_level": 0.92,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-28T17:48:37.273000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-28T17:48:37.273000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 5,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1349135,
-      "globalid": "55597e9f-6ef9-48e1-8890-47dc55aedcb2",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 1.84,
-      "rain_fall": null,
-      "CreationDate": "2026-03-28T17:44:51.332000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-28T17:44:51.332000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1349134,
-      "globalid": "eb8b5772-db36-46d5-bbc4-631bf735f15c",
-      "basin": "Kelani Ganga",
-      "gauge": "Holombuwa",
-      "water_level": 0.19,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-28T17:42:51.074000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-28T17:42:51.074000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 3.4,
-      "majorpull": 5
     }
   ]
 }
