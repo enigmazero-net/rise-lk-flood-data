@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-04-05T22:54:13.821838+00:00",
+  "last_updated_utc": "2026-04-05T23:23:34.266822+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6438,
+  "record_count": 6437,
   "records": [
+    {
+      "objectid": 1356670,
+      "globalid": "fb8c23ab-4dd4-4997-9b77-f60c78964372",
+      "basin": "Kalu Ganga",
+      "gauge": "Magura",
+      "water_level": 0.72,
+      "rain_fall": 0,
+      "CreationDate": "2026-04-05T23:03:49.495000+00:00",
+      "Creator": "",
+      "EditDate": "2026-04-05T23:03:49.495000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1356669,
+      "globalid": "592f6c9d-7d82-48a9-94e8-f91a575d9028",
+      "basin": "Maduru Oya",
+      "gauge": "Padiyathalawa",
+      "water_level": 0.28,
+      "rain_fall": 0,
+      "CreationDate": "2026-04-05T23:02:26.487000+00:00",
+      "Creator": "",
+      "EditDate": "2026-04-05T23:02:26.487000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 4.5,
+      "majorpull": 6
+    },
     {
       "objectid": 1356668,
       "globalid": "24f498ed-44a6-46fc-bf6e-918bc4fa37f0",
@@ -96529,51 +96559,6 @@
       "alertpull": 4,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1350222,
-      "globalid": "bbbd59a2-395c-432a-9437-b865db1844c7",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.32,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-29T23:16:52.906000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-29T23:16:52.906000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
-    },
-    {
-      "objectid": 1350221,
-      "globalid": "ca07dc8a-20ef-468f-bdd7-20adb0b0f438",
-      "basin": "Ma Oya",
-      "gauge": "Yaka Wewa",
-      "water_level": 0.58,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-29T23:09:44.594000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-29T23:09:44.594000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1350220,
-      "globalid": "9b4d271e-fb05-4a5a-b560-8b68ba436e3e",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Nawalapitiya",
-      "water_level": 0.53,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-29T22:58:26.115000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-29T22:58:26.115000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
-      "minorpull": 5,
-      "majorpull": 6
     }
   ]
 }
