@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-04-05T14:50:52.563082+00:00",
+  "last_updated_utc": "2026-04-05T15:22:17.607350+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6434,
   "records": [
+    {
+      "objectid": 1356393,
+      "globalid": "f7c86045-94d6-4ba8-a3a1-472411179b3e",
+      "basin": "Ma Oya",
+      "gauge": "Yaka Wewa",
+      "water_level": 0.6,
+      "rain_fall": 0,
+      "CreationDate": "2026-04-05T14:59:42.753000+00:00",
+      "Creator": "",
+      "EditDate": "2026-04-05T14:59:42.753000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6
+    },
     {
       "objectid": 1356392,
       "globalid": "3a5ffd2d-0ee4-4b8d-a1bf-a7297d29dcdd",
@@ -96499,21 +96514,6 @@
       "alertpull": 4.4,
       "minorpull": 5.4,
       "majorpull": 5.9
-    },
-    {
-      "objectid": 1349948,
-      "globalid": "ec79b00d-623f-4e32-ac76-1dd79ececd75",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 0.52,
-      "rain_fall": 11.6,
-      "CreationDate": "2026-03-29T14:51:56.317000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-29T14:51:56.317000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
