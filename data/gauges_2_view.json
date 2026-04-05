@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-04-05T10:59:19.447293+00:00",
+  "last_updated_utc": "2026-04-05T11:30:34.203998+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6439,
+  "record_count": 6441,
   "records": [
+    {
+      "objectid": 1356243,
+      "globalid": "98cbfccb-8c15-4006-85ef-7c62ab6b966f",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.54,
+      "rain_fall": 0,
+      "CreationDate": "2026-04-05T11:30:14.262000+00:00",
+      "Creator": "",
+      "EditDate": "2026-04-05T11:30:14.262000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
+    {
+      "objectid": 1356242,
+      "globalid": "1343fd0f-2c8b-41d7-be44-08a5f8481eaf",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 0.44,
+      "rain_fall": 0,
+      "CreationDate": "2026-04-05T11:04:50.263000+00:00",
+      "Creator": "",
+      "EditDate": "2026-04-05T11:04:50.263000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
     {
       "objectid": 1356241,
       "globalid": "538a7120-0e3a-4ee9-b41b-7eda9214c778",
@@ -89976,6 +90006,21 @@
       "majorpull": 5.5
     },
     {
+      "objectid": 1350233,
+      "globalid": "abdc3bb6-982a-4723-89d2-d6eefb49869b",
+      "basin": "Aththanagalu Oya",
+      "gauge": "Dunamale",
+      "water_level": 0.42,
+      "rain_fall": 0,
+      "CreationDate": "2026-03-29T23:32:21.772000+00:00",
+      "Creator": "",
+      "EditDate": "2026-03-29T23:32:21.772000+00:00",
+      "Editor": "",
+      "alertpull": 3.3,
+      "minorpull": 4.4,
+      "majorpull": 5.5
+    },
+    {
       "objectid": 1350232,
       "globalid": "3d90785b-720c-4860-b6ef-b99cdf334f08",
       "basin": "Kelani Ganga",
@@ -96574,21 +96619,6 @@
       "alertpull": 5,
       "minorpull": 6.8,
       "majorpull": 7.8
-    },
-    {
-      "objectid": 1349791,
-      "globalid": "fff56f04-da9c-45ab-8152-00ae5642df9e",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Weraganthota",
-      "water_level": -2.82,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-29T11:30:33.322000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-29T11:30:33.322000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 8
     }
   ]
 }
