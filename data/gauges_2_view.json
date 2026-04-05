@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2026-04-05T19:52:57.668032+00:00",
+  "last_updated_utc": "2026-04-05T20:20:59.507053+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6435,
+  "record_count": 6432,
   "records": [
     {
       "objectid": 1356566,
@@ -96484,51 +96484,6 @@
       "alertpull": 5,
       "minorpull": 7,
       "majorpull": 9
-    },
-    {
-      "objectid": 1350123,
-      "globalid": "cd69c32c-86e8-4476-9e83-3349aa3b88fe",
-      "basin": "Yan Oya",
-      "gauge": "Horowpothana",
-      "water_level": 1.13,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-29T20:11:54.063000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-29T20:11:54.063000+00:00",
-      "Editor": "",
-      "alertpull": 6,
-      "minorpull": 7.5,
-      "majorpull": 10.5
-    },
-    {
-      "objectid": 1350122,
-      "globalid": "e41ee20e-0db2-422c-bccd-046ecae0d97c",
-      "basin": "Kalu Ganga",
-      "gauge": "Kalawellawa (Millakanda)",
-      "water_level": 1.18,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-29T20:02:54.666000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-29T20:02:54.666000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.5,
-      "majorpull": 8
-    },
-    {
-      "objectid": 1350121,
-      "globalid": "e80a23a2-f784-402d-8be1-c887043db0b2",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.3,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-29T20:02:06.989000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-29T20:02:06.989000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
     }
   ]
 }
