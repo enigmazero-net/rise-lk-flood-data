@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2026-04-07T21:54:07.569048+00:00",
+  "last_updated_utc": "2026-04-07T22:27:53.462962+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6428,
+  "record_count": 6427,
   "records": [
     {
       "objectid": 1358456,
@@ -96409,21 +96409,6 @@
       "alertpull": 4,
       "minorpull": 4.5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1352018,
-      "globalid": "01e33811-1f38-4d70-82ff-97e59ac48096",
-      "basin": "Heda Oya",
-      "gauge": "Siyambalanduwa",
-      "water_level": 0.46,
-      "rain_fall": 0,
-      "CreationDate": "2026-03-31T22:02:42.617000+00:00",
-      "Creator": "",
-      "EditDate": "2026-03-31T22:02:42.617000+00:00",
-      "Editor": "",
-      "alertpull": 4.5,
-      "minorpull": 6,
-      "majorpull": 7
     }
   ]
 }
