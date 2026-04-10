@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-04-10T20:51:38.451237+00:00",
+  "last_updated_utc": "2026-04-10T21:27:22.753434+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6402,
+  "record_count": 6400,
   "records": [
+    {
+      "objectid": 1361156,
+      "globalid": "db48f4c9-fb1c-4cea-adae-6eeb8d308eeb",
+      "basin": "Aththanagalu Oya",
+      "gauge": "Dunamale",
+      "water_level": 0.42,
+      "rain_fall": 0,
+      "CreationDate": "2026-04-10T21:17:31.079000+00:00",
+      "Creator": "",
+      "EditDate": "2026-04-10T21:17:31.079000+00:00",
+      "Editor": "",
+      "alertpull": 3.3,
+      "minorpull": 4.4,
+      "majorpull": 5.5
+    },
     {
       "objectid": 1361155,
       "globalid": "18f48643-45dd-4b6c-8a9b-9459cad9cce8",
@@ -95989,51 +96004,6 @@
       "alertpull": 15,
       "minorpull": 16.5,
       "majorpull": 19
-    },
-    {
-      "objectid": 1354750,
-      "globalid": "f830ad74-5db9-4a3b-8d56-c31959bf6e6a",
-      "basin": "Yan Oya",
-      "gauge": "Horowpothana",
-      "water_level": 1.66,
-      "rain_fall": 0,
-      "CreationDate": "2026-04-03T21:18:27.467000+00:00",
-      "Creator": "",
-      "EditDate": "2026-04-03T21:18:27.467000+00:00",
-      "Editor": "",
-      "alertpull": 6,
-      "minorpull": 7.5,
-      "majorpull": 10.5
-    },
-    {
-      "objectid": 1354749,
-      "globalid": "b4e4fc97-9383-487a-b3dc-80d770399004",
-      "basin": "Kelani Ganga",
-      "gauge": "Norwood",
-      "water_level": 0.57,
-      "rain_fall": 0,
-      "CreationDate": "2026-04-03T21:10:56.244000+00:00",
-      "Creator": "",
-      "EditDate": "2026-04-03T21:10:56.244000+00:00",
-      "Editor": "",
-      "alertpull": 1.5,
-      "minorpull": 3,
-      "majorpull": 4.5
-    },
-    {
-      "objectid": 1354748,
-      "globalid": "742ef5a7-0b89-49ab-a691-1177867f604a",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Nawalapitiya",
-      "water_level": 0.58,
-      "rain_fall": 0,
-      "CreationDate": "2026-04-03T20:58:07.686000+00:00",
-      "Creator": "",
-      "EditDate": "2026-04-03T20:58:07.686000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
-      "minorpull": 5,
-      "majorpull": 6
     }
   ]
 }
