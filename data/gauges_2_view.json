@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-04-11T17:44:24.329714+00:00",
+  "last_updated_utc": "2026-04-11T18:03:15.843654+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6372,
   "records": [
+    {
+      "objectid": 1361956,
+      "globalid": "297cc637-f733-406f-b773-99da8bfede84",
+      "basin": "Kelani Ganga",
+      "gauge": "Hanwella",
+      "water_level": 0.28,
+      "rain_fall": 0,
+      "CreationDate": "2026-04-11T17:51:55.699000+00:00",
+      "Creator": "",
+      "EditDate": "2026-04-11T17:51:55.699000+00:00",
+      "Editor": "",
+      "alertpull": 7,
+      "minorpull": 8,
+      "majorpull": 10
+    },
     {
       "objectid": 1361955,
       "globalid": "71b5c641-d4bb-47da-b5fd-a7f6ae79679c",
@@ -95569,21 +95584,6 @@
       "alertpull": 2.5,
       "minorpull": 4,
       "majorpull": 6
-    },
-    {
-      "objectid": 1355578,
-      "globalid": "ac56653b-c5e8-445c-a92c-d72198fa402c",
-      "basin": "Kalu Ganga",
-      "gauge": "Kalawellawa (Millakanda)",
-      "water_level": 1.72,
-      "rain_fall": 0,
-      "CreationDate": "2026-04-04T17:48:06.977000+00:00",
-      "Creator": "",
-      "EditDate": "2026-04-04T17:48:06.977000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.5,
-      "majorpull": 8
     }
   ]
 }
