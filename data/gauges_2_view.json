@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-04-11T15:52:25.874747+00:00",
+  "last_updated_utc": "2026-04-11T16:23:33.351591+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6377,
+  "record_count": 6379,
   "records": [
+    {
+      "objectid": 1361891,
+      "globalid": "d4e9393a-f9dc-4e38-acf6-eefcbaf85707",
+      "basin": "Deduru Oya",
+      "gauge": "Moragaswewa",
+      "water_level": 0.01,
+      "rain_fall": 0,
+      "CreationDate": "2026-04-11T16:11:05.383000+00:00",
+      "Creator": "",
+      "EditDate": "2026-04-11T16:11:05.383000+00:00",
+      "Editor": "",
+      "alertpull": 4.75,
+      "minorpull": 6,
+      "majorpull": 7
+    },
+    {
+      "objectid": 1361890,
+      "globalid": "062b0151-fba4-45eb-8a5c-7c2d28c6261d",
+      "basin": "Aththanagalu Oya",
+      "gauge": "Dunamale",
+      "water_level": 0.43,
+      "rain_fall": 0,
+      "CreationDate": "2026-04-11T16:00:18.630000+00:00",
+      "Creator": "",
+      "EditDate": "2026-04-11T16:00:18.630000+00:00",
+      "Editor": "",
+      "alertpull": 3.3,
+      "minorpull": 4.4,
+      "majorpull": 5.5
+    },
     {
       "objectid": 1361889,
       "globalid": "e26e92c8-1b92-4e7b-9bba-aa7da89f7444",
