@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-04-12T21:54:50.844199+00:00",
+  "last_updated_utc": "2026-04-12T22:22:14.895153+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6368,
+  "record_count": 6369,
   "records": [
+    {
+      "objectid": 1363009,
+      "globalid": "ac020d7a-5c72-44e9-8e2e-e5c965b429bf",
+      "basin": "Kirindi Oya",
+      "gauge": "Wellawaya",
+      "water_level": 0.72,
+      "rain_fall": 0,
+      "CreationDate": "2026-04-12T22:17:19.976000+00:00",
+      "Creator": "",
+      "EditDate": "2026-04-12T22:17:19.976000+00:00",
+      "Editor": "",
+      "alertpull": 4.4,
+      "minorpull": 5.4,
+      "majorpull": 5.9
+    },
+    {
+      "objectid": 1363008,
+      "globalid": "8629430d-5915-4114-94bc-2967057649d8",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.54,
+      "rain_fall": 0,
+      "CreationDate": "2026-04-12T22:05:15.906000+00:00",
+      "Creator": "",
+      "EditDate": "2026-04-12T22:05:15.906000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
     {
       "objectid": 1363007,
       "globalid": "99124620-446a-444b-a059-8ecacc4c81e8",
@@ -95509,21 +95539,6 @@
       "alertpull": 3,
       "minorpull": 4.3,
       "majorpull": 6
-    },
-    {
-      "objectid": 1356634,
-      "globalid": "bf74e109-bc86-4fca-b8f1-2472125db2f3",
-      "basin": "Yan Oya",
-      "gauge": "Horowpothana",
-      "water_level": 1.57,
-      "rain_fall": 0,
-      "CreationDate": "2026-04-05T22:11:45.893000+00:00",
-      "Creator": "",
-      "EditDate": "2026-04-05T22:11:45.893000+00:00",
-      "Editor": "",
-      "alertpull": 6,
-      "minorpull": 7.5,
-      "majorpull": 10.5
     }
   ]
 }
