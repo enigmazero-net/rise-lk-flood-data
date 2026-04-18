@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-04-18T19:54:11.840685+00:00",
+  "last_updated_utc": "2026-04-18T20:24:28.716074+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6424,
   "records": [
+    {
+      "objectid": 1368457,
+      "globalid": "7cd693d9-a116-4d12-943c-cfb2ba97639f",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Manampitiya",
+      "water_level": 0,
+      "rain_fall": 0,
+      "CreationDate": "2026-04-18T20:20:53.205000+00:00",
+      "Creator": "",
+      "EditDate": "2026-04-18T20:20:53.205000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4.3,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1368456,
+      "globalid": "d11bfb5b-a930-42d1-a6ec-f807a6d80a14",
+      "basin": "Kelani Ganga",
+      "gauge": "Norwood",
+      "water_level": 0.4,
+      "rain_fall": 0,
+      "CreationDate": "2026-04-18T19:57:26.632000+00:00",
+      "Creator": "",
+      "EditDate": "2026-04-18T19:57:26.632000+00:00",
+      "Editor": "",
+      "alertpull": 1.5,
+      "minorpull": 3,
+      "majorpull": 4.5
+    },
     {
       "objectid": 1368455,
       "globalid": "d0301f9f-840c-4bec-81a6-359e3dcbba47",
@@ -96334,36 +96364,6 @@
       "alertpull": 3.3,
       "minorpull": 4.4,
       "majorpull": 5.5
-    },
-    {
-      "objectid": 1362019,
-      "globalid": "82e901bf-ad54-4027-97b9-485039b250d5",
-      "basin": "Kelani Ganga",
-      "gauge": "Nagalagam Street",
-      "water_level": 1.6,
-      "rain_fall": null,
-      "CreationDate": "2026-04-11T20:21:39.686000+00:00",
-      "Creator": "",
-      "EditDate": "2026-04-11T20:21:39.686000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1362018,
-      "globalid": "972a8b04-26eb-42ea-a40c-a1602236c164",
-      "basin": "Kirindi Oya",
-      "gauge": "Kuda Oya",
-      "water_level": 1.2,
-      "rain_fall": 0,
-      "CreationDate": "2026-04-11T20:06:45.770000+00:00",
-      "Creator": "",
-      "EditDate": "2026-04-11T20:06:45.770000+00:00",
-      "Editor": "",
-      "alertpull": 6.9,
-      "minorpull": 8.4,
-      "majorpull": 8.8
     }
   ]
 }
