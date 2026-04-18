@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-04-18T17:49:32.521847+00:00",
+  "last_updated_utc": "2026-04-18T18:26:38.835692+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6417,
+  "record_count": 6416,
   "records": [
+    {
+      "objectid": 1368388,
+      "globalid": "d08e9669-f58a-4123-ad5d-21176f4b23a8",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": -0.08,
+      "rain_fall": 0,
+      "CreationDate": "2026-04-18T18:07:23.465000+00:00",
+      "Creator": "",
+      "EditDate": "2026-04-18T18:07:23.465000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1368387,
+      "globalid": "cd01947f-1c83-4dfb-9abd-ef070746a636",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": -0.08,
+      "rain_fall": 0,
+      "CreationDate": "2026-04-18T18:07:22.157000+00:00",
+      "Creator": "",
+      "EditDate": "2026-04-18T18:07:22.157000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
     {
       "objectid": 1368386,
       "globalid": "00d0bf5f-7227-4ee8-9e4c-a713f1b9785a",
@@ -96214,51 +96244,6 @@
       "alertpull": 4.5,
       "minorpull": 6,
       "majorpull": 7
-    },
-    {
-      "objectid": 1361958,
-      "globalid": "29b6e519-0a99-42cd-8a26-51bec8903153",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Nawalapitiya",
-      "water_level": 0.56,
-      "rain_fall": 0,
-      "CreationDate": "2026-04-11T18:21:33.591000+00:00",
-      "Creator": "",
-      "EditDate": "2026-04-11T18:21:33.591000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
-      "minorpull": 5,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1361957,
-      "globalid": "b2d371b0-c5d5-4e78-9306-80c78ad86fa4",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Peradeniya",
-      "water_level": 1.98,
-      "rain_fall": 0,
-      "CreationDate": "2026-04-11T18:19:33.776000+00:00",
-      "Creator": "",
-      "EditDate": "2026-04-11T18:19:33.776000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 7,
-      "majorpull": 9
-    },
-    {
-      "objectid": 1361956,
-      "globalid": "297cc637-f733-406f-b773-99da8bfede84",
-      "basin": "Kelani Ganga",
-      "gauge": "Hanwella",
-      "water_level": 0.28,
-      "rain_fall": 0,
-      "CreationDate": "2026-04-11T17:51:55.699000+00:00",
-      "Creator": "",
-      "EditDate": "2026-04-11T17:51:55.699000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
     }
   ]
 }
