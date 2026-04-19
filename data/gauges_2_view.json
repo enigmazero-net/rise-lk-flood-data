@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-04-19T19:54:33.958489+00:00",
+  "last_updated_utc": "2026-04-19T20:25:27.955465+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6406,
+  "record_count": 6403,
   "records": [
+    {
+      "objectid": 1369356,
+      "globalid": "8b9b40fd-7e70-4313-980b-12a8ed328ed6",
+      "basin": "Yan Oya",
+      "gauge": "Horowpothana",
+      "water_level": 1.35,
+      "rain_fall": 0,
+      "CreationDate": "2026-04-19T20:09:31.577000+00:00",
+      "Creator": "",
+      "EditDate": "2026-04-19T20:09:31.577000+00:00",
+      "Editor": "",
+      "alertpull": 6,
+      "minorpull": 7.5,
+      "majorpull": 10.5
+    },
     {
       "objectid": 1369355,
       "globalid": "429dd87f-31ea-4642-a429-5d032a76629a",
@@ -96034,66 +96049,6 @@
       "alertpull": 5,
       "minorpull": 6,
       "majorpull": 7.5
-    },
-    {
-      "objectid": 1362936,
-      "globalid": "4951d0e7-265f-4f43-b338-a8f3982d3835",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Manampitiya",
-      "water_level": 0.28,
-      "rain_fall": 0,
-      "CreationDate": "2026-04-12T20:22:37.407000+00:00",
-      "Creator": "",
-      "EditDate": "2026-04-12T20:22:37.407000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4.3,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1362935,
-      "globalid": "46fd85c6-2cf9-4c4f-bdb2-f4bc2897a141",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Thaldena",
-      "water_level": 0.48,
-      "rain_fall": 0,
-      "CreationDate": "2026-04-12T20:18:12.363000+00:00",
-      "Creator": "",
-      "EditDate": "2026-04-12T20:18:12.363000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1362934,
-      "globalid": "80921419-b2e6-4c37-b510-9e72034703b9",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 2.3,
-      "rain_fall": null,
-      "CreationDate": "2026-04-12T20:17:39.913000+00:00",
-      "Creator": "",
-      "EditDate": "2026-04-12T20:17:39.913000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1362933,
-      "globalid": "4a809fdf-401d-48dc-aaad-11b3d6860b0f",
-      "basin": "Menik Ganga",
-      "gauge": "Katharagama",
-      "water_level": -0.11,
-      "rain_fall": 0,
-      "CreationDate": "2026-04-12T20:10:30.312000+00:00",
-      "Creator": "",
-      "EditDate": "2026-04-12T20:10:30.312000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 4.6,
-      "majorpull": 6.5
     }
   ]
 }
