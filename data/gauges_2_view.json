@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-04-21T22:54:29.170597+00:00",
+  "last_updated_utc": "2026-04-21T23:27:13.150387+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6400,
   "records": [
+    {
+      "objectid": 1371301,
+      "globalid": "d7e2fd42-9301-445a-9f74-2a0297db02c0",
+      "basin": "Kelani Ganga",
+      "gauge": "Deraniyagala",
+      "water_level": 0.35,
+      "rain_fall": 0,
+      "CreationDate": "2026-04-21T23:23:50.791000+00:00",
+      "Creator": "",
+      "EditDate": "2026-04-21T23:23:50.791000+00:00",
+      "Editor": "",
+      "alertpull": 4.8,
+      "minorpull": 5.8,
+      "majorpull": 6.4
+    },
+    {
+      "objectid": 1371300,
+      "globalid": "d41c8ee5-af81-460c-8799-226fce4e76b9",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.78,
+      "rain_fall": 0,
+      "CreationDate": "2026-04-21T23:05:59.580000+00:00",
+      "Creator": "",
+      "EditDate": "2026-04-21T23:05:59.580000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1371299,
+      "globalid": "820f9585-afc5-40b3-bcee-bd0f5fbb7247",
+      "basin": "Kirindi Oya",
+      "gauge": "Wellawaya",
+      "water_level": 1.46,
+      "rain_fall": 0,
+      "CreationDate": "2026-04-21T22:59:14.415000+00:00",
+      "Creator": "",
+      "EditDate": "2026-04-21T22:59:14.415000+00:00",
+      "Editor": "",
+      "alertpull": 4.4,
+      "minorpull": 5.4,
+      "majorpull": 5.9
+    },
     {
       "objectid": 1371298,
       "globalid": "fdd5c374-754d-4e16-b63c-c9d83b9d6b2d",
@@ -95959,51 +96004,6 @@
       "alertpull": 3,
       "minorpull": 5,
       "majorpull": 7
-    },
-    {
-      "objectid": 1364886,
-      "globalid": "b4cf8e07-a67e-4750-a76a-4b1b1ce61a7c",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 1.32,
-      "rain_fall": 0,
-      "CreationDate": "2026-04-14T23:27:01.774000+00:00",
-      "Creator": "",
-      "EditDate": "2026-04-14T23:27:01.774000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1364885,
-      "globalid": "e2b31abd-980b-4c06-9f0b-ae1b17b23d6e",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 1.32,
-      "rain_fall": 0,
-      "CreationDate": "2026-04-14T23:17:35.347000+00:00",
-      "Creator": "",
-      "EditDate": "2026-04-14T23:17:35.347000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1364884,
-      "globalid": "6f9190ed-48e9-43de-b49d-9d383285b403",
-      "basin": "Kalu Ganga",
-      "gauge": "Putupaula",
-      "water_level": 0.73,
-      "rain_fall": 0,
-      "CreationDate": "2026-04-14T23:03:59.869000+00:00",
-      "Creator": "",
-      "EditDate": "2026-04-14T23:03:59.869000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
     }
   ]
 }
