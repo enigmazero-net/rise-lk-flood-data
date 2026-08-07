@@ -1,10 +1,610 @@
 {
-  "last_updated_utc": "2026-08-07T21:05:49.482320+00:00",
+  "last_updated_utc": "2026-08-07T21:50:24.821605+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6434,
+  "record_count": 6444,
   "records": [
+    {
+      "objectid": 1470413,
+      "globalid": "c5918eb5-f14d-453f-8b14-dc24ff17ea05",
+      "basin": "Gin Ganga",
+      "gauge": "Thawalama",
+      "water_level": 1.56,
+      "rain_fall": 1.1,
+      "CreationDate": "2026-08-07T21:43:24.506000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:43:24.506000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1470412,
+      "globalid": "3d340272-9235-4e67-9d05-05070407118c",
+      "basin": "Kalu Ganga",
+      "gauge": "Magura",
+      "water_level": 1.48,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:42:16.096000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:42:16.096000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1470411,
+      "globalid": "9f9cd514-7a5c-4a84-b401-59b20b747b04",
+      "basin": "Kalu Ganga",
+      "gauge": "Magura",
+      "water_level": 1.52,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:42:14.844000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:42:14.844000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1470410,
+      "globalid": "faff54e6-979b-4a66-9376-b874f65fe489",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.22,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:41:06.584000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:41:06.584000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
+    {
+      "objectid": 1470409,
+      "globalid": "681fa086-94f9-45a3-bd79-497e4b7dc333",
+      "basin": "Kelani Ganga",
+      "gauge": "Hanwella",
+      "water_level": 2.47,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:39:14.243000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:39:14.243000+00:00",
+      "Editor": "",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
+    },
+    {
+      "objectid": 1470408,
+      "globalid": "d16610d7-0a54-445c-a73e-7e438b275602",
+      "basin": "Kalu Ganga",
+      "gauge": "Ellagawa",
+      "water_level": 5.41,
+      "rain_fall": 0.2,
+      "CreationDate": "2026-08-07T21:39:09.315000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:39:09.315000+00:00",
+      "Editor": "",
+      "alertpull": 10,
+      "minorpull": 10.7,
+      "majorpull": 12.2
+    },
+    {
+      "objectid": 1470407,
+      "globalid": "49469203-e233-4a5e-b2d9-e269f8f83701",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 2.49,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:38:27.234000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:38:27.234000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1470406,
+      "globalid": "ff7b6c8d-d075-4c57-9446-2e29ac7ae1be",
+      "basin": "Gal Oya",
+      "gauge": "Ampara",
+      "water_level": 0,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:36:49.757000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:36:49.757000+00:00",
+      "Editor": "",
+      "alertpull": null,
+      "minorpull": null,
+      "majorpull": null
+    },
+    {
+      "objectid": 1470405,
+      "globalid": "a39d46a6-f711-442f-a110-b10dc243158b",
+      "basin": "Ma Oya",
+      "gauge": "Yaka Wewa",
+      "water_level": 0.41,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:36:49.025000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:36:49.025000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1470404,
+      "globalid": "b57e0660-fa5e-4772-a04d-b45c3b4d00cc",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Thaldena",
+      "water_level": 0.13,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:36:42.937000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:36:42.937000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1470403,
+      "globalid": "67c51a31-7b19-484a-8f0b-a430d716cabc",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Thaldena",
+      "water_level": 0.14,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:36:41.384000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:36:41.384000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1470402,
+      "globalid": "08009e27-d7f2-4e2c-8df6-194f7b0a19bd",
+      "basin": "Kelani Ganga",
+      "gauge": "Holombuwa",
+      "water_level": 0.53,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:36:25.219000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:36:25.219000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 3.4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1470401,
+      "globalid": "1f4d3454-dda2-4dfc-ae08-35fb926c054d",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 2.49,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:36:21.775000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:36:21.775000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1470400,
+      "globalid": "e0ecd02f-6f07-44df-85a1-f503e3626c45",
+      "basin": "Kalu Ganga",
+      "gauge": "Rathnapura",
+      "water_level": 1.75,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:36:12.622000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:36:12.622000+00:00",
+      "Editor": "",
+      "alertpull": 5.2,
+      "minorpull": 7.5,
+      "majorpull": 9.5
+    },
+    {
+      "objectid": 1470399,
+      "globalid": "7f4258f1-13f8-4ed8-89bb-cb8ac17054a1",
+      "basin": "Kelani Ganga",
+      "gauge": "Glencourse",
+      "water_level": 10.87,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:35:53.168000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:35:53.168000+00:00",
+      "Editor": "",
+      "alertpull": 15,
+      "minorpull": 15.5,
+      "majorpull": 19
+    },
+    {
+      "objectid": 1470398,
+      "globalid": "2f333b2a-de8e-46f7-929e-643843e0c859",
+      "basin": "Kelani Ganga",
+      "gauge": "Nagalagam Street",
+      "water_level": 0.7,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:35:42.431000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:35:42.431000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 7
+    },
+    {
+      "objectid": 1470397,
+      "globalid": "40379a39-1448-4d0c-aff7-50ca017e01f7",
+      "basin": "Ma Oya",
+      "gauge": "Yaka Wewa",
+      "water_level": 0.41,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:35:09.983000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:35:09.983000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1470396,
+      "globalid": "860746fe-4599-4578-81d6-a4c0b16bb2ff",
+      "basin": "Kelani Ganga",
+      "gauge": "Norwood",
+      "water_level": 1.02,
+      "rain_fall": 4.8,
+      "CreationDate": "2026-08-07T21:35:03.685000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:35:03.685000+00:00",
+      "Editor": "",
+      "alertpull": 1.5,
+      "minorpull": 3,
+      "majorpull": 4.5
+    },
+    {
+      "objectid": 1470395,
+      "globalid": "4e939854-2ca1-4806-b02d-69e4bcc3a5dd",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.71,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:34:44.528000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:34:44.528000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1470394,
+      "globalid": "23374908-b18c-4926-ab25-f9fa9cbf5cf9",
+      "basin": "Maha Oya",
+      "gauge": "Badalgama",
+      "water_level": 2.17,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:34:31.147000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:34:31.147000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.2,
+      "majorpull": 9.6
+    },
+    {
+      "objectid": 1470393,
+      "globalid": "b5be0970-0d52-42ca-8456-200815c142a7",
+      "basin": "Nilwala Ganga",
+      "gauge": "Urawa",
+      "water_level": 0.13,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:34:21.301000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:34:21.301000+00:00",
+      "Editor": "",
+      "alertpull": 2.5,
+      "minorpull": 4,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1470392,
+      "globalid": "77b8635f-b939-40d6-9b46-e500dd8126e4",
+      "basin": "Yan Oya",
+      "gauge": "Horowpothana",
+      "water_level": 1.71,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:34:10.802000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:34:10.802000+00:00",
+      "Editor": "",
+      "alertpull": 6,
+      "minorpull": 7.5,
+      "majorpull": 10.5
+    },
+    {
+      "objectid": 1470391,
+      "globalid": "2afc10e2-41a7-4135-811a-63a72b08eb75",
+      "basin": "Gin Ganga",
+      "gauge": "Baddegama",
+      "water_level": 1.44,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:34:09.122000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:34:09.122000+00:00",
+      "Editor": "",
+      "alertpull": 3.5,
+      "minorpull": 4,
+      "majorpull": 5
+    },
+    {
+      "objectid": 1470390,
+      "globalid": "53ac2fba-545c-4591-aa2f-dca03bb289af",
+      "basin": "Kirindi Oya",
+      "gauge": "Thanamalwila",
+      "water_level": 0.57,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:33:37.193000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:33:37.193000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 5.5
+    },
+    {
+      "objectid": 1470389,
+      "globalid": "2d9e5957-6e3a-4edd-b486-dacac64fe9f2",
+      "basin": "Maduru Oya",
+      "gauge": "Padiyathalawa",
+      "water_level": 0.05,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:33:26.672000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:33:26.672000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 4.5,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1470388,
+      "globalid": "bce270fc-f73d-4462-a3bb-fd683d4659bc",
+      "basin": "Maha Oya",
+      "gauge": "Giriulla",
+      "water_level": 1.08,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:33:20.209000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:33:20.209000+00:00",
+      "Editor": "",
+      "alertpull": 5.5,
+      "minorpull": 6.5,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1470387,
+      "globalid": "2d21439e-427e-4826-9ca7-3de28bc61ab3",
+      "basin": "Menik Ganga",
+      "gauge": "Katharagama",
+      "water_level": -0.22,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:33:13.541000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:33:13.541000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 4.6,
+      "majorpull": 6.5
+    },
+    {
+      "objectid": 1470386,
+      "globalid": "c5b40748-3250-4404-9329-f8a457f84172",
+      "basin": "Kelani Ganga",
+      "gauge": "Kithulgala",
+      "water_level": 2.39,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:32:46.759000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:32:46.759000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1470385,
+      "globalid": "f430aa15-7997-42ff-91ca-0d1a37ebbada",
+      "basin": "Deduru Oya",
+      "gauge": "Moragaswewa",
+      "water_level": 0.02,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:32:45.232000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:32:45.232000+00:00",
+      "Editor": "",
+      "alertpull": 4.75,
+      "minorpull": 6,
+      "majorpull": 7
+    },
+    {
+      "objectid": 1470384,
+      "globalid": "338c6a4b-2158-42d3-958c-f25dfde550b3",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Nawalapitiya",
+      "water_level": 2.07,
+      "rain_fall": 1.4,
+      "CreationDate": "2026-08-07T21:32:41.542000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:32:41.542000+00:00",
+      "Editor": "",
+      "alertpull": 3.5,
+      "minorpull": 5,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1470383,
+      "globalid": "e09947ab-291b-4e14-816a-f3982e7c1ae5",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 0.52,
+      "rain_fall": 3.2,
+      "CreationDate": "2026-08-07T21:32:34.771000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:32:34.771000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
+    {
+      "objectid": 1470382,
+      "globalid": "8fde1944-ae87-4124-afa9-6ed75a974755",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Manampitiya",
+      "water_level": -0.1,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:32:22.827000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:32:22.827000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4.3,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1470381,
+      "globalid": "15a709a7-74dd-488b-ad05-358dd8675f04",
+      "basin": "Kirindi Oya",
+      "gauge": "Wellawaya",
+      "water_level": 0.89,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:32:07.323000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:32:07.323000+00:00",
+      "Editor": "",
+      "alertpull": 4.4,
+      "minorpull": 5.4,
+      "majorpull": 5.9
+    },
+    {
+      "objectid": 1470380,
+      "globalid": "dc59d8dc-df78-476c-8232-c04c08c35369",
+      "basin": "Kalu Ganga",
+      "gauge": "Kalawellawa (Millakanda)",
+      "water_level": 2.78,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:31:52.825000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:31:52.825000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.5,
+      "majorpull": 8
+    },
+    {
+      "objectid": 1470379,
+      "globalid": "3056670a-ad93-4518-8057-646f21a85d9a",
+      "basin": "Kelani Ganga",
+      "gauge": "Deraniyagala",
+      "water_level": 1.04,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:31:38.875000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:31:38.875000+00:00",
+      "Editor": "",
+      "alertpull": 4.8,
+      "minorpull": 5.8,
+      "majorpull": 7
+    },
+    {
+      "objectid": 1470378,
+      "globalid": "dd08dd1f-0fcf-4383-923f-a7b447526096",
+      "basin": "Walawe Ganga",
+      "gauge": "Moraketiya",
+      "water_level": 0.72,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:31:23.177000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:31:23.177000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 5,
+      "majorpull": 7
+    },
+    {
+      "objectid": 1470377,
+      "globalid": "0159a988-4215-4ce4-8102-b2775a2e6bf6",
+      "basin": "Kirindi Oya",
+      "gauge": "Kuda Oya",
+      "water_level": 0.94,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:31:22.372000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:31:22.372000+00:00",
+      "Editor": "",
+      "alertpull": 6.9,
+      "minorpull": 8.4,
+      "majorpull": 8.8
+    },
+    {
+      "objectid": 1470376,
+      "globalid": "bb03d464-1e28-4d6f-a61f-06424a7f49fb",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Peradeniya",
+      "water_level": 3.76,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:31:15.527000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:31:15.527000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 7,
+      "majorpull": 9
+    },
+    {
+      "objectid": 1470375,
+      "globalid": "19c9a0e6-ae1b-43e6-93a3-8a6cd9666640",
+      "basin": "Kumbukkan Oya",
+      "gauge": "Nakkala",
+      "water_level": 0.56,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:31:09.414000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:31:09.414000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1470374,
+      "globalid": "3c7fdde5-11fb-4a87-a4ca-6ea6dd34856e",
+      "basin": "Heda Oya",
+      "gauge": "Siyambalanduwa",
+      "water_level": 0.16,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-07T21:30:13.175000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-07T21:30:13.175000+00:00",
+      "Editor": "",
+      "alertpull": 4.5,
+      "minorpull": 6,
+      "majorpull": 7
+    },
     {
       "objectid": 1470373,
       "globalid": "a4ed2e23-8d62-4ab9-a17c-d050e7e5a5ef",
@@ -254,8 +854,8 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-07T20:33:05.026000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-07T20:33:05.026000+00:00",
-      "Editor": "",
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
       "alertpull": 6.5,
       "minorpull": 7.5,
       "majorpull": 9.5
@@ -644,8 +1244,8 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-07T19:34:27.849000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-07T19:34:27.849000+00:00",
-      "Editor": "",
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
       "alertpull": 6.5,
       "minorpull": 7.5,
       "majorpull": 9.5
@@ -1064,8 +1664,8 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-07T18:36:37.404000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-07T18:36:37.404000+00:00",
-      "Editor": "",
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
       "alertpull": 6.5,
       "minorpull": 7.5,
       "majorpull": 9.5
@@ -1904,8 +2504,8 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-07T17:32:29.345000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-07T17:32:29.345000+00:00",
-      "Editor": "",
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
       "alertpull": 6.5,
       "minorpull": 7.5,
       "majorpull": 9.5
@@ -2489,8 +3089,8 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-07T16:31:20.195000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-07T16:31:20.195000+00:00",
-      "Editor": "",
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
       "alertpull": 6.5,
       "minorpull": 7.5,
       "majorpull": 9.5
@@ -2894,8 +3494,8 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-07T15:32:54.408000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-07T15:32:54.408000+00:00",
-      "Editor": "",
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
       "alertpull": 6.5,
       "minorpull": 7.5,
       "majorpull": 9.5
@@ -3374,8 +3974,8 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-07T14:34:45.312000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-07T14:34:45.312000+00:00",
-      "Editor": "",
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
       "alertpull": 6.5,
       "minorpull": 7.5,
       "majorpull": 9.5
@@ -3989,8 +4589,8 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-07T13:34:28.799000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-07T13:34:28.799000+00:00",
-      "Editor": "",
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
       "alertpull": 6.5,
       "minorpull": 7.5,
       "majorpull": 9.5
@@ -4484,8 +5084,8 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-07T12:33:13.147000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-07T12:33:13.147000+00:00",
-      "Editor": "",
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
       "alertpull": 6.5,
       "minorpull": 7.5,
       "majorpull": 9.5
@@ -5264,8 +5864,8 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-07T11:32:34.099000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-07T11:32:34.099000+00:00",
-      "Editor": "",
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
       "alertpull": 6.5,
       "minorpull": 7.5,
       "majorpull": 9.5
@@ -5579,8 +6179,8 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-07T10:41:15.940000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-07T10:41:15.940000+00:00",
-      "Editor": "",
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
       "alertpull": 6.5,
       "minorpull": 7.5,
       "majorpull": 9.5
@@ -5849,8 +6449,8 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-07T10:33:18.396000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-07T10:33:18.396000+00:00",
-      "Editor": "",
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
       "alertpull": 6.5,
       "minorpull": 7.5,
       "majorpull": 9.5
@@ -6329,8 +6929,8 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-07T09:34:20.375000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-07T09:34:20.375000+00:00",
-      "Editor": "",
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
       "alertpull": 6.5,
       "minorpull": 7.5,
       "majorpull": 9.5
@@ -7079,8 +7679,8 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-07T08:33:19.354000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-07T08:33:19.354000+00:00",
-      "Editor": "",
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
       "alertpull": 6.5,
       "minorpull": 7.5,
       "majorpull": 9.5
@@ -7544,8 +8144,8 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-07T07:34:16.460000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-07T07:34:16.460000+00:00",
-      "Editor": "",
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
       "alertpull": 6.5,
       "minorpull": 7.5,
       "majorpull": 9.5
@@ -8249,8 +8849,8 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-07T06:33:34.028000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-07T06:33:34.028000+00:00",
-      "Editor": "",
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
       "alertpull": 6.5,
       "minorpull": 7.5,
       "majorpull": 9.5
@@ -8984,8 +9584,8 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-07T05:33:43.763000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-07T05:33:43.763000+00:00",
-      "Editor": "",
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
       "alertpull": 6.5,
       "minorpull": 7.5,
       "majorpull": 9.5
@@ -9524,8 +10124,8 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-07T04:33:41.805000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-07T04:33:41.805000+00:00",
-      "Editor": "",
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
       "alertpull": 6.5,
       "minorpull": 7.5,
       "majorpull": 9.5
@@ -10079,11 +10679,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-07T03:33:47.203000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-07T03:33:47.203000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1469701,
@@ -10694,11 +11294,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-07T02:33:56.852000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-07T02:33:56.852000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1469660,
@@ -11309,11 +11909,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-07T01:35:42.579000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-07T01:35:42.579000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1469619,
@@ -12104,11 +12704,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-07T00:32:12.087000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-07T00:32:12.087000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1469566,
@@ -12374,11 +12974,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-06T23:43:56.047000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-06T23:43:56.047000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1469548,
@@ -13124,11 +13724,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-06T22:32:39.284000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-06T22:32:39.284000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1469498,
@@ -13679,11 +14279,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-06T21:32:42.088000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-06T21:32:42.088000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1469461,
@@ -13889,11 +14489,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-06T20:49:50.235000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-06T20:49:50.235000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1469447,
@@ -14459,11 +15059,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-06T19:36:50.609000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-06T19:36:50.609000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1469409,
@@ -14939,11 +15539,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-06T18:37:53.095000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-06T18:37:53.095000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1469377,
@@ -15854,11 +16454,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-06T17:32:13.390000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-06T17:32:13.390000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1469316,
@@ -16379,11 +16979,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-06T16:32:09.860000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-06T16:32:09.860000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1469281,
@@ -16949,11 +17549,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-06T15:32:10.218000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-06T15:32:10.218000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1469243,
@@ -17399,11 +17999,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-06T14:32:31.443000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-06T14:32:31.443000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1469213,
@@ -17939,11 +18539,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-06T13:32:19.445000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-06T13:32:19.445000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1469177,
@@ -18464,11 +19064,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-06T12:33:15.482000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-06T12:33:15.482000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1469142,
@@ -19259,11 +19859,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-06T11:32:16.410000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-06T11:32:16.410000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1469089,
@@ -19874,11 +20474,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-06T10:32:13.524000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-06T10:32:13.524000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1469048,
@@ -20279,11 +20879,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-06T09:34:48.563000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-06T09:34:48.563000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1469020,
@@ -20984,11 +21584,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-06T08:32:54.215000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-06T08:32:54.215000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1468973,
@@ -21404,11 +22004,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-06T07:34:57.216000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-06T07:34:57.216000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1468945,
@@ -22034,11 +22634,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-06T06:35:11.594000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-06T06:35:11.594000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1468903,
@@ -22814,11 +23414,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-06T05:32:52.012000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-06T05:32:52.012000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1468851,
@@ -23489,11 +24089,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-06T04:32:05.561000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-06T04:32:05.561000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1468806,
@@ -23954,11 +24554,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-06T03:33:46.876000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-06T03:33:46.876000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1468775,
@@ -24629,11 +25229,11 @@
       "rain_fall": 1,
       "CreationDate": "2026-08-06T02:33:50.970000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-06T02:33:50.970000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1468730,
@@ -25094,11 +25694,11 @@
       "rain_fall": 0.5,
       "CreationDate": "2026-08-06T01:36:24.828000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-06T01:36:24.828000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1468699,
@@ -25679,11 +26279,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-06T00:37:22.497000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-06T00:37:22.497000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1468660,
@@ -26594,11 +27194,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-05T23:32:46.315000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-05T23:32:46.315000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1468599,
@@ -27014,11 +27614,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-05T22:33:17.158000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-05T22:33:17.158000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1468571,
@@ -27569,11 +28169,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-05T21:32:56.143000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-05T21:32:56.143000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1468534,
@@ -28004,11 +28604,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-05T20:35:39.057000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-05T20:35:39.057000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1468505,
@@ -28619,11 +29219,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-05T19:33:03.162000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-05T19:33:03.162000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1468464,
@@ -29084,11 +29684,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-05T18:33:53.829000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-05T18:33:53.829000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1468433,
@@ -29699,11 +30299,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-05T17:32:21.544000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-05T17:32:21.544000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1468392,
@@ -30059,11 +30659,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-05T16:34:17.738000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-05T16:34:17.738000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1468368,
@@ -30764,11 +31364,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-05T15:32:48.559000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-05T15:32:48.559000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1468321,
@@ -31214,11 +31814,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-05T14:33:57.079000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-05T14:33:57.079000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1468291,
@@ -31739,11 +32339,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-05T13:34:43.980000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-05T13:34:43.980000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1468256,
@@ -32369,11 +32969,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-05T12:33:39.732000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-05T12:33:39.732000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1468214,
@@ -32999,11 +33599,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-05T11:33:08.634000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-05T11:33:08.634000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1468172,
@@ -33644,11 +34244,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-05T10:33:25.755000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-05T10:33:25.755000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1468129,
@@ -34139,11 +34739,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-05T09:33:33.989000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-05T09:33:33.989000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1468096,
@@ -34844,11 +35444,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-05T08:33:01.447000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-05T08:33:01.447000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1468049,
@@ -35384,11 +35984,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-05T07:33:59.337000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-05T07:33:59.337000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1468013,
@@ -35879,11 +36479,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-05T06:34:21.851000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-05T06:34:21.851000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1467980,
@@ -36614,11 +37214,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-05T05:33:59.690000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-05T05:33:59.690000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1467931,
@@ -37289,11 +37889,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-05T04:33:48.133000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-05T04:33:48.133000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1467886,
@@ -37829,11 +38429,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-05T03:33:58.863000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-05T03:33:58.863000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1467850,
@@ -38369,11 +38969,11 @@
       "rain_fall": 1,
       "CreationDate": "2026-08-05T02:35:27.094000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-05T02:35:27.094000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1467814,
@@ -38969,11 +39569,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-05T01:36:00.024000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-05T01:36:00.024000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1467774,
@@ -39884,11 +40484,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-05T00:32:08.119000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-05T00:32:08.119000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1467713,
@@ -40334,11 +40934,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-04T23:32:16.305000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-04T23:32:16.305000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1467683,
@@ -40739,11 +41339,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-04T22:33:48.410000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-04T22:33:48.410000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1467656,
@@ -41444,11 +42044,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-04T21:32:27.484000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-04T21:32:27.484000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1467609,
@@ -42389,11 +42989,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-04T19:32:46.055000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-04T19:32:46.055000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1467546,
@@ -42659,11 +43259,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-04T18:37:19.434000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-04T18:37:19.434000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1467528,
@@ -43454,11 +44054,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-04T17:32:32.677000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-04T17:32:32.677000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1467475,
@@ -43964,11 +44564,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-04T16:32:32.167000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-04T16:32:32.167000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1467441,
@@ -44669,11 +45269,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-04T15:32:11.777000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-04T15:32:11.777000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1467394,
@@ -45134,11 +45734,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-04T14:32:15.481000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-04T14:32:15.481000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1467363,
@@ -45674,11 +46274,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-04T13:32:32.189000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-04T13:32:32.189000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1467327,
@@ -46049,11 +46649,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-04T12:33:44.516000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-04T12:33:44.516000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1467302,
@@ -46709,11 +47309,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-04T11:33:09.409000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-04T11:33:09.409000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1467258,
@@ -47294,11 +47894,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-04T10:33:42.340000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-04T10:33:42.340000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1467219,
@@ -47894,11 +48494,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-04T09:33:41.793000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-04T09:33:41.793000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1467179,
@@ -48524,11 +49124,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-04T08:33:48.804000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-04T08:33:48.804000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1467137,
@@ -49079,11 +49679,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-04T07:34:40.132000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-04T07:34:40.132000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1467100,
@@ -49949,11 +50549,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-04T06:32:28.703000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-04T06:32:28.703000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1467042,
@@ -50429,11 +51029,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-04T05:32:57.273000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-04T05:32:57.273000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1467010,
@@ -50969,11 +51569,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-04T04:33:48.751000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-04T04:33:48.751000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1466974,
@@ -51554,11 +52154,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-04T03:33:15.202000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-04T03:33:15.202000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1466935,
@@ -52199,11 +52799,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-04T02:34:00.267000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-04T02:34:00.267000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1466892,
@@ -52724,11 +53324,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-04T01:34:18.039000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-04T01:34:18.039000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1466857,
@@ -53249,11 +53849,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-04T00:37:20.799000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-04T00:37:20.799000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1466822,
@@ -53924,11 +54524,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-03T23:35:13.307000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-03T23:35:13.307000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1466777,
@@ -54524,11 +55124,11 @@
       "rain_fall": 0.3,
       "CreationDate": "2026-08-03T22:34:37.977000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-03T22:34:37.977000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1466737,
@@ -54869,11 +55469,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-03T21:42:55.596000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-03T21:42:55.596000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1466714,
@@ -55619,11 +56219,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-03T20:35:25.039000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-03T20:35:25.039000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1466664,
@@ -56069,11 +56669,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-03T19:34:44.149000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-03T19:34:44.149000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1466634,
@@ -56429,11 +57029,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-03T18:36:26.554000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-03T18:36:26.554000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1466610,
@@ -57224,11 +57824,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-03T17:32:55.947000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-03T17:32:55.947000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1466557,
@@ -57479,11 +58079,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-03T16:38:30.903000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-03T16:38:30.903000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1466540,
@@ -58199,11 +58799,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-03T15:34:25.384000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-03T15:34:25.384000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1466492,
@@ -58604,11 +59204,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-03T14:41:26.602000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-03T14:41:26.602000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1466465,
@@ -59309,11 +59909,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-03T13:34:48.487000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-03T13:34:48.487000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1466418,
@@ -60044,11 +60644,11 @@
       "rain_fall": 0.3,
       "CreationDate": "2026-08-03T12:32:56.974000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-03T12:32:56.974000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1466369,
@@ -60419,11 +61019,11 @@
       "rain_fall": 0.2,
       "CreationDate": "2026-08-03T11:35:50.628000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-03T11:35:50.628000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1466344,
@@ -61124,11 +61724,11 @@
       "rain_fall": 0.3,
       "CreationDate": "2026-08-03T10:33:56.415000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-03T10:33:56.415000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1466297,
@@ -61784,11 +62384,11 @@
       "rain_fall": 0.5,
       "CreationDate": "2026-08-03T09:34:16.262000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-03T09:34:16.262000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1466253,
@@ -62444,11 +63044,11 @@
       "rain_fall": 0.8,
       "CreationDate": "2026-08-03T08:33:32.443000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-03T08:33:32.443000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1466209,
@@ -62984,11 +63584,11 @@
       "rain_fall": 2,
       "CreationDate": "2026-08-03T07:34:17.013000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-03T07:34:17.013000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1466173,
@@ -63614,11 +64214,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-03T06:33:40.736000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-03T06:33:40.736000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1466131,
@@ -64214,11 +64814,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-03T05:33:25.248000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-03T05:33:25.248000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1466091,
@@ -64769,11 +65369,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-03T04:35:36.606000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-03T04:35:36.606000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1466054,
@@ -65444,11 +66044,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-03T03:34:36.135000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-03T03:34:36.135000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1466009,
@@ -66029,11 +66629,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-03T02:35:22.959000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-03T02:35:22.959000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1465970,
@@ -66509,11 +67109,11 @@
       "rain_fall": 0.5,
       "CreationDate": "2026-08-03T01:37:41.775000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-03T01:37:41.775000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1465938,
@@ -67394,11 +67994,11 @@
       "rain_fall": 1,
       "CreationDate": "2026-08-03T00:32:21.621000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-03T00:32:21.621000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1465878,
@@ -67919,11 +68519,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-02T23:33:18.458000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-02T23:33:18.458000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1465843,
@@ -68414,11 +69014,11 @@
       "rain_fall": 1.2,
       "CreationDate": "2026-08-02T22:32:12.744000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-02T22:32:12.744000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1465810,
@@ -68864,11 +69464,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-02T21:34:14.793000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-02T21:34:14.793000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1465780,
@@ -69434,11 +70034,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-02T20:34:31.745000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-02T20:34:31.745000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1465742,
@@ -69929,11 +70529,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-02T19:34:28.459000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-02T19:34:28.459000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1465709,
@@ -70229,11 +70829,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-02T18:39:30.270000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-02T18:39:30.270000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1465689,
@@ -71129,11 +71729,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-02T17:32:16.975000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-02T17:32:16.975000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1465629,
@@ -71609,11 +72209,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-02T16:32:14.777000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-02T16:32:14.777000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1465597,
@@ -72209,11 +72809,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-02T15:32:11.353000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-02T15:32:11.353000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1465557,
@@ -72779,11 +73379,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-02T14:32:13.553000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-02T14:32:13.553000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1465519,
@@ -73274,11 +73874,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-02T13:32:20.120000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-02T13:32:20.120000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1465486,
@@ -73739,11 +74339,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-02T12:33:13.066000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-02T12:33:13.066000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1465455,
@@ -74339,11 +74939,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-02T11:34:03.237000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-02T11:34:03.237000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1465415,
@@ -74879,11 +75479,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-02T10:34:21.234000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-02T10:34:21.234000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1465379,
@@ -75584,11 +76184,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-02T09:33:01.425000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-02T09:33:01.425000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1465332,
@@ -76274,11 +76874,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-02T08:32:50.783000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-02T08:32:50.783000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1465286,
@@ -76709,11 +77309,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-02T07:34:16.305000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-02T07:34:16.305000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1465257,
@@ -77279,11 +77879,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-02T06:34:03.563000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-02T06:34:03.563000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1465219,
@@ -77909,11 +78509,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-02T05:33:11.674000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-02T05:33:11.674000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1465177,
@@ -78209,11 +78809,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-02T04:52:17.068000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-02T04:52:17.068000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1465157,
@@ -78959,11 +79559,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-02T03:34:54.405000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-02T03:34:54.405000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1465106,
@@ -79634,11 +80234,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-02T02:34:29.606000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-02T02:34:29.606000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1465061,
@@ -80249,11 +80849,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-02T01:34:27.347000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-02T01:34:27.347000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1465020,
@@ -80969,11 +81569,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-02T00:32:09.234000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-02T00:32:09.234000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1464972,
@@ -81599,11 +82199,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-01T23:32:53.212000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-01T23:32:53.212000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1464930,
@@ -82034,11 +82634,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-01T22:34:07.098000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-01T22:34:07.098000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1464901,
@@ -82634,11 +83234,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-01T21:34:41.481000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-01T21:34:41.481000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1464861,
@@ -82844,11 +83444,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-01T20:52:16.459000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-01T20:52:16.459000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1464847,
@@ -83399,11 +83999,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-01T19:38:47.699000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-01T19:38:47.699000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1464810,
@@ -83954,11 +84554,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-01T18:35:51.266000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-01T18:35:51.266000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1464773,
@@ -84704,11 +85304,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-01T17:32:25.570000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-01T17:32:25.570000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1464723,
@@ -85214,11 +85814,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-01T16:32:26.941000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-01T16:32:26.941000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1464689,
@@ -85814,11 +86414,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-01T15:32:16.619000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-01T15:32:16.619000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1464649,
@@ -86369,11 +86969,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-01T14:32:13.972000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-01T14:32:13.972000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1464612,
@@ -86864,11 +87464,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-01T13:32:23.790000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-01T13:32:23.790000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1464579,
@@ -87404,11 +88004,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-01T12:32:51.930000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-01T12:32:51.930000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1464543,
@@ -87944,11 +88544,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-01T11:34:04.207000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-01T11:34:04.207000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1464507,
@@ -88574,11 +89174,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-01T10:33:19.087000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-01T10:33:19.087000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1464465,
@@ -89129,11 +89729,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-01T09:33:31.126000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-01T09:33:31.126000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1464428,
@@ -89879,11 +90479,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-01T08:33:02.443000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-01T08:33:02.443000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1464378,
@@ -90419,11 +91019,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-01T07:34:18.161000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-01T07:34:18.161000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1464342,
@@ -90944,11 +91544,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-01T06:35:16.314000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-01T06:35:16.314000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1464307,
@@ -91649,11 +92249,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-01T05:33:47.181000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-01T05:33:47.181000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1464260,
@@ -92309,11 +92909,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-01T04:33:42.987000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-01T04:33:42.987000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1464216,
@@ -92864,11 +93464,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-01T03:33:52.714000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-01T03:33:52.714000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1464179,
@@ -93494,11 +94094,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-01T02:33:20.965000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-01T02:33:20.965000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1464137,
@@ -94109,11 +94709,11 @@
       "rain_fall": 0,
       "CreationDate": "2026-08-01T01:34:26.865000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-01T01:34:26.865000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1464096,
@@ -94679,11 +95279,11 @@
       "rain_fall": 0.7,
       "CreationDate": "2026-08-01T00:35:34.607000+00:00",
       "Creator": "",
-      "EditDate": "2026-08-01T00:35:34.607000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
+      "EditDate": "2026-08-07T21:15:49.293000+00:00",
+      "Editor": "irrigationgis",
+      "alertpull": 6.5,
+      "minorpull": 7.5,
+      "majorpull": 9.5
     },
     {
       "objectid": 1464058,
@@ -96064,456 +96664,6 @@
       "alertpull": 1.4,
       "minorpull": 1.7,
       "majorpull": 2.8
-    },
-    {
-      "objectid": 1463966,
-      "globalid": "4a8721a0-5d27-457c-9c38-da3947db52f6",
-      "basin": "Kalu Ganga",
-      "gauge": "Ellagawa",
-      "water_level": 4.75,
-      "rain_fall": 9.4,
-      "CreationDate": "2026-07-31T21:44:30.381000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:44:30.381000+00:00",
-      "Editor": "",
-      "alertpull": 10,
-      "minorpull": 10.7,
-      "majorpull": 12.2
-    },
-    {
-      "objectid": 1463965,
-      "globalid": "2a8d6d8a-492e-4d06-bf17-72e3a64f35b5",
-      "basin": "Kelani Ganga",
-      "gauge": "Nagalagam Street",
-      "water_level": 2.5,
-      "rain_fall": 0,
-      "CreationDate": "2026-07-31T21:43:02.364000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:43:02.364000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1463964,
-      "globalid": "bcf2134c-7dc3-4548-8ac4-b82d9c208deb",
-      "basin": "Gin Ganga",
-      "gauge": "Baddegama",
-      "water_level": 1.52,
-      "rain_fall": 0,
-      "CreationDate": "2026-07-31T21:42:50.377000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:42:50.377000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
-      "minorpull": 4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1463963,
-      "globalid": "cddac7ae-9156-49fd-b9a9-b741f8598223",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 2.29,
-      "rain_fall": 0,
-      "CreationDate": "2026-07-31T21:39:18.814000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:39:18.814000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1463962,
-      "globalid": "b2edb6b0-2466-4279-be6c-f321fb1c7f9f",
-      "basin": "Kelani Ganga",
-      "gauge": "Hanwella",
-      "water_level": 0.68,
-      "rain_fall": 6.9,
-      "CreationDate": "2026-07-31T21:39:13.530000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:39:13.530000+00:00",
-      "Editor": "",
-      "alertpull": 7,
-      "minorpull": 8,
-      "majorpull": 10
-    },
-    {
-      "objectid": 1463961,
-      "globalid": "95908850-946d-4ae6-9b62-46513862a7df",
-      "basin": "Kelani Ganga",
-      "gauge": "Holombuwa",
-      "water_level": 0.92,
-      "rain_fall": 2.2,
-      "CreationDate": "2026-07-31T21:38:01.224000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:38:01.224000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 3.4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1463960,
-      "globalid": "a3c0834a-91b1-4e61-b281-ac510d322bfd",
-      "basin": "Gin Ganga",
-      "gauge": "Thawalama",
-      "water_level": 1.83,
-      "rain_fall": 0,
-      "CreationDate": "2026-07-31T21:37:39.245000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:37:39.245000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1463959,
-      "globalid": "905d95eb-b57f-4570-9aaf-58c049c8d456",
-      "basin": "Kalu Ganga",
-      "gauge": "Rathnapura",
-      "water_level": 1.4,
-      "rain_fall": 1.9,
-      "CreationDate": "2026-07-31T21:37:31.501000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:37:31.501000+00:00",
-      "Editor": "",
-      "alertpull": 5.2,
-      "minorpull": 7.5,
-      "majorpull": 9.5
-    },
-    {
-      "objectid": 1463958,
-      "globalid": "1dfcdaf3-b4c5-4176-b2df-1792d035c489",
-      "basin": "Kelani Ganga",
-      "gauge": "Glencourse",
-      "water_level": 9.76,
-      "rain_fall": 7.2,
-      "CreationDate": "2026-07-31T21:37:08.544000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:37:08.544000+00:00",
-      "Editor": "",
-      "alertpull": 15,
-      "minorpull": 16.5,
-      "majorpull": 19
-    },
-    {
-      "objectid": 1463957,
-      "globalid": "78eec3ff-8634-4d32-906b-88ee2558095b",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 2.1,
-      "rain_fall": 7.4,
-      "CreationDate": "2026-07-31T21:36:56.503000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:36:56.503000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1463956,
-      "globalid": "2c6490f4-eeaf-46fe-a948-8f25c7bfbe70",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Nawalapitiya",
-      "water_level": 3.95,
-      "rain_fall": 35.8,
-      "CreationDate": "2026-07-31T21:35:49.002000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:35:49.002000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
-      "minorpull": 5,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1463955,
-      "globalid": "72035d9e-3227-4f78-9c74-3deba445005c",
-      "basin": "Kelani Ganga",
-      "gauge": "Kithulgala",
-      "water_level": 2.35,
-      "rain_fall": 30,
-      "CreationDate": "2026-07-31T21:35:42.167000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:35:42.167000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1463954,
-      "globalid": "ef1b14ea-a4ae-4b2a-8b0f-50fe1039e38e",
-      "basin": "Maha Oya",
-      "gauge": "Badalgama",
-      "water_level": 1.81,
-      "rain_fall": 0,
-      "CreationDate": "2026-07-31T21:35:11.789000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:35:11.789000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.2,
-      "majorpull": 9.6
-    },
-    {
-      "objectid": 1463953,
-      "globalid": "4f3e5d36-769d-4e1c-8d9a-9201f75dcb1f",
-      "basin": "Maha Oya",
-      "gauge": "Giriulla",
-      "water_level": 0.81,
-      "rain_fall": 0,
-      "CreationDate": "2026-07-31T21:33:25.522000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:33:25.522000+00:00",
-      "Editor": "",
-      "alertpull": 5.5,
-      "minorpull": 6.5,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1463952,
-      "globalid": "67632905-97e4-48d8-897c-83a562e1a7ef",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Thaldena",
-      "water_level": 0.08,
-      "rain_fall": 0,
-      "CreationDate": "2026-07-31T21:33:19.192000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:33:19.192000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
-    },
-    {
-      "objectid": 1463951,
-      "globalid": "cd7234c4-e1a3-41b4-8c00-6145db809462",
-      "basin": "Kelani Ganga",
-      "gauge": "Deraniyagala",
-      "water_level": 1.48,
-      "rain_fall": 12.7,
-      "CreationDate": "2026-07-31T21:33:17.823000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:33:17.823000+00:00",
-      "Editor": "",
-      "alertpull": 4.8,
-      "minorpull": 5.8,
-      "majorpull": 6.4
-    },
-    {
-      "objectid": 1463950,
-      "globalid": "5199c5a7-bc23-46ba-b01f-a42ecdc24d1a",
-      "basin": "Kirindi Oya",
-      "gauge": "Kuda Oya",
-      "water_level": 0.93,
-      "rain_fall": 0,
-      "CreationDate": "2026-07-31T21:32:59.709000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:32:59.709000+00:00",
-      "Editor": "",
-      "alertpull": 6.9,
-      "minorpull": 8.4,
-      "majorpull": 8.8
-    },
-    {
-      "objectid": 1463949,
-      "globalid": "0ea595cb-799d-4d2d-aa55-3fe1c971ba83",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Manampitiya",
-      "water_level": -0.14,
-      "rain_fall": 0,
-      "CreationDate": "2026-07-31T21:32:44.105000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:32:44.105000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4.3,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1463948,
-      "globalid": "b478e2ac-7224-4ce6-a68b-566d7e35438d",
-      "basin": "Kirindi Oya",
-      "gauge": "Wellawaya",
-      "water_level": 0.48,
-      "rain_fall": 0,
-      "CreationDate": "2026-07-31T21:32:32.904000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:32:32.904000+00:00",
-      "Editor": "",
-      "alertpull": 4.4,
-      "minorpull": 5.4,
-      "majorpull": 5.9
-    },
-    {
-      "objectid": 1463947,
-      "globalid": "d93e9463-61cd-4376-8dea-dd58067a5545",
-      "basin": "Yan Oya",
-      "gauge": "Horowpothana",
-      "water_level": 1.2,
-      "rain_fall": 0,
-      "CreationDate": "2026-07-31T21:32:29.912000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:32:29.912000+00:00",
-      "Editor": "",
-      "alertpull": 6,
-      "minorpull": 7.5,
-      "majorpull": 10.5
-    },
-    {
-      "objectid": 1463946,
-      "globalid": "4fea87a9-7a4d-42f4-bbad-f6cbabecbe57",
-      "basin": "Menik Ganga",
-      "gauge": "Katharagama",
-      "water_level": -0.24,
-      "rain_fall": 0,
-      "CreationDate": "2026-07-31T21:32:10.334000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:32:10.334000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 4.6,
-      "majorpull": 6.5
-    },
-    {
-      "objectid": 1463945,
-      "globalid": "0425eb82-aa55-4f04-8f42-0e47dfcf6602",
-      "basin": "Ma Oya",
-      "gauge": "Yaka Wewa",
-      "water_level": 0.42,
-      "rain_fall": 0,
-      "CreationDate": "2026-07-31T21:32:01.673000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:32:01.673000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1463944,
-      "globalid": "5121b261-8005-43ef-a67e-3da0dce83b0b",
-      "basin": "Deduru Oya",
-      "gauge": "Moragaswewa",
-      "water_level": -0.03,
-      "rain_fall": 0,
-      "CreationDate": "2026-07-31T21:32:00.706000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:32:00.706000+00:00",
-      "Editor": "",
-      "alertpull": 4.75,
-      "minorpull": 6,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1463943,
-      "globalid": "f58c6f65-d0f1-43e3-9afc-87e9ad88d1ce",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 0.91,
-      "rain_fall": 0,
-      "CreationDate": "2026-07-31T21:31:57.371000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:31:57.371000+00:00",
-      "Editor": "",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
-    },
-    {
-      "objectid": 1463942,
-      "globalid": "cf753e71-dec7-481c-99ac-7a32fbf44c03",
-      "basin": "Walawe Ganga",
-      "gauge": "Moraketiya",
-      "water_level": 0.78,
-      "rain_fall": 0,
-      "CreationDate": "2026-07-31T21:31:48.412000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:31:48.412000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 5,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1463941,
-      "globalid": "b4669f5d-9772-494d-a83e-1ec0a5a2f507",
-      "basin": "Heda Oya",
-      "gauge": "Siyambalanduwa",
-      "water_level": 0.16,
-      "rain_fall": 0,
-      "CreationDate": "2026-07-31T21:31:45.855000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:31:45.855000+00:00",
-      "Editor": "",
-      "alertpull": 4.5,
-      "minorpull": 6,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1463940,
-      "globalid": "4d47597e-aa3b-489f-9fbf-26e5f7d88a11",
-      "basin": "Kirindi Oya",
-      "gauge": "Thanamalwila",
-      "water_level": 0.01,
-      "rain_fall": 0,
-      "CreationDate": "2026-07-31T21:31:40.727000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:31:40.727000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 5.5
-    },
-    {
-      "objectid": 1463939,
-      "globalid": "9085708f-6c4c-4c3b-b5bf-67c403056ab9",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Peradeniya",
-      "water_level": 2.46,
-      "rain_fall": 8.2,
-      "CreationDate": "2026-07-31T21:31:34.850000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:31:34.850000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 7,
-      "majorpull": 9
-    },
-    {
-      "objectid": 1463938,
-      "globalid": "a09f80b7-cbcc-4cba-a1c1-95320fe6903c",
-      "basin": "Kumbukkan Oya",
-      "gauge": "Nakkala",
-      "water_level": 0.54,
-      "rain_fall": 0,
-      "CreationDate": "2026-07-31T21:30:31.777000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:30:31.777000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1463937,
-      "globalid": "11abe176-5f56-4ead-8a22-c09ed5d43dda",
-      "basin": "Heda Oya",
-      "gauge": "Siyambalanduwa",
-      "water_level": 0.16,
-      "rain_fall": 0,
-      "CreationDate": "2026-07-31T21:22:24.148000+00:00",
-      "Creator": "",
-      "EditDate": "2026-07-31T21:22:24.148000+00:00",
-      "Editor": "",
-      "alertpull": 4.5,
-      "minorpull": 6,
-      "majorpull": 7
     }
   ]
 }
