@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-08-08T20:49:04.177454+00:00",
+  "last_updated_utc": "2026-08-08T21:13:09.944970+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6453,
+  "record_count": 6455,
   "records": [
+    {
+      "objectid": 1471306,
+      "globalid": "adc2491d-03cb-4b10-abbe-18baf1d6248e",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 1.1,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-08T20:55:01.857000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-08T20:55:01.857000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
+    {
+      "objectid": 1471305,
+      "globalid": "100db1f0-0dac-4fd1-8dfa-2e015730c180",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 1.1,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-08T20:55:00.362000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-08T20:55:00.362000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
+    {
+      "objectid": 1471304,
+      "globalid": "03250b59-8f8d-4c3a-b0f1-14e07843b63e",
+      "basin": "Heda Oya",
+      "gauge": "Siyambalanduwa",
+      "water_level": 0.15,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-08T20:50:19.485000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-08T20:50:19.485000+00:00",
+      "Editor": "",
+      "alertpull": 4.5,
+      "minorpull": 6,
+      "majorpull": 7
+    },
     {
       "objectid": 1471303,
       "globalid": "aa71bdf9-3601-4010-97fc-6413610ef15a",
@@ -96784,21 +96829,6 @@
       "alertpull": null,
       "minorpull": null,
       "majorpull": null
-    },
-    {
-      "objectid": 1464848,
-      "globalid": "60af58c6-9807-4bce-b289-e1d6cd51660a",
-      "basin": "Kelani Ganga",
-      "gauge": "Hanwella",
-      "water_level": 4.13,
-      "rain_fall": 0,
-      "CreationDate": "2026-08-01T20:52:16.459000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-07T21:15:49.293000+00:00",
-      "Editor": "irrigationgis",
-      "alertpull": 6.5,
-      "minorpull": 7.5,
-      "majorpull": 9.5
     }
   ]
 }
