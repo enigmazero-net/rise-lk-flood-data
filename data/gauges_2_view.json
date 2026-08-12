@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-08-12T21:55:58.310395+00:00",
+  "last_updated_utc": "2026-08-12T22:31:10.494690+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6464,
   "records": [
+    {
+      "objectid": 1475034,
+      "globalid": "0e1f5ede-6f5a-411d-b8a2-1f7e0cefb7e3",
+      "basin": "Gal Oya",
+      "gauge": "Ampara",
+      "water_level": 0,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-12T22:30:57.933000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-12T22:30:57.933000+00:00",
+      "Editor": "",
+      "alertpull": null,
+      "minorpull": null,
+      "majorpull": null
+    },
+    {
+      "objectid": 1475033,
+      "globalid": "f6d5fee6-25a8-420d-ba69-25dd59cb08c0",
+      "basin": "Gin Ganga",
+      "gauge": "Thawalama",
+      "water_level": 1.58,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-12T22:20:41.955000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-12T22:20:41.955000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1475032,
+      "globalid": "210d2694-90d7-4fe6-99c5-cf76a94f6ca5",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.62,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-12T22:02:07.039000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-12T22:02:07.039000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
     {
       "objectid": 1475031,
       "globalid": "6a58a30f-fc54-40d1-a020-06f9752a9f40",
@@ -96919,51 +96964,6 @@
       "alertpull": 6.9,
       "minorpull": 8.4,
       "majorpull": 8.8
-    },
-    {
-      "objectid": 1468564,
-      "globalid": "8c89b3c2-7943-4c47-9153-5b6ce48e2dec",
-      "basin": "Heda Oya",
-      "gauge": "Siyambalanduwa",
-      "water_level": 0.14,
-      "rain_fall": 0,
-      "CreationDate": "2026-08-05T22:30:38.902000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-05T22:30:38.902000+00:00",
-      "Editor": "",
-      "alertpull": 4.5,
-      "minorpull": 6,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1468563,
-      "globalid": "a68e1352-724c-46e4-950a-5c2c3bb03482",
-      "basin": "Gal Oya",
-      "gauge": "Ampara",
-      "water_level": 0,
-      "rain_fall": 0,
-      "CreationDate": "2026-08-05T22:30:32.084000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-05T22:30:32.084000+00:00",
-      "Editor": "",
-      "alertpull": null,
-      "minorpull": null,
-      "majorpull": null
-    },
-    {
-      "objectid": 1468562,
-      "globalid": "dcc11e0f-7ba4-4135-b786-321ee40d7892",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 1.58,
-      "rain_fall": 0,
-      "CreationDate": "2026-08-05T22:15:03.630000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-05T22:15:03.630000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
