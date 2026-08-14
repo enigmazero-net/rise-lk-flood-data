@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-08-14T22:45:25.571658+00:00",
+  "last_updated_utc": "2026-08-14T23:00:09.029835+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6447,
+  "record_count": 6444,
   "records": [
+    {
+      "objectid": 1476894,
+      "globalid": "bc7b9f9f-cb8e-4fce-beb1-2aedb40d140e",
+      "basin": "Gal Oya",
+      "gauge": "Ampara",
+      "water_level": 0,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-14T22:52:06.985000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-14T22:52:06.985000+00:00",
+      "Editor": "",
+      "alertpull": null,
+      "minorpull": null,
+      "majorpull": null
+    },
     {
       "objectid": 1476893,
       "globalid": "7490c3bc-c57a-47cf-b076-34c34606f0d5",
@@ -96649,66 +96664,6 @@
       "alertpull": 5,
       "minorpull": 7,
       "majorpull": 9
-    },
-    {
-      "objectid": 1470444,
-      "globalid": "e1e41762-69fb-4a22-a772-6a312fda53e5",
-      "basin": "Kelani Ganga",
-      "gauge": "Deraniyagala",
-      "water_level": 1.03,
-      "rain_fall": 0,
-      "CreationDate": "2026-08-07T22:58:07.367000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-07T22:58:07.367000+00:00",
-      "Editor": "",
-      "alertpull": 4.8,
-      "minorpull": 5.8,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1470443,
-      "globalid": "f0721706-841d-4349-8b5c-91a01c74636d",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 2.5,
-      "rain_fall": 13.1,
-      "CreationDate": "2026-08-07T22:52:53.389000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-07T22:52:53.389000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1470442,
-      "globalid": "85dfb8bb-ea90-4413-8369-102b2bbea4f4",
-      "basin": "Aththanagalu Oya",
-      "gauge": "Dunamale",
-      "water_level": 0.58,
-      "rain_fall": 0,
-      "CreationDate": "2026-08-07T22:49:25.070000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-08T03:44:22.977000+00:00",
-      "Editor": "IEHydrology",
-      "alertpull": 3.3,
-      "minorpull": 4.4,
-      "majorpull": 5.5
-    },
-    {
-      "objectid": 1470441,
-      "globalid": "64484eab-6554-4f4a-90f0-5a0b6e39ce23",
-      "basin": "Menik Ganga",
-      "gauge": "Katharagama",
-      "water_level": -0.22,
-      "rain_fall": 0,
-      "CreationDate": "2026-08-07T22:45:28.455000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-07T22:45:28.455000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 4.6,
-      "majorpull": 6.5
     }
   ]
 }
