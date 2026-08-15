@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-08-15T21:52:50.673860+00:00",
+  "last_updated_utc": "2026-08-15T22:09:09.001566+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6439,
+  "record_count": 6440,
   "records": [
+    {
+      "objectid": 1477784,
+      "globalid": "36c1ea9f-502a-4346-af94-cdada8198555",
+      "basin": "Kalu Ganga",
+      "gauge": "Putupaula",
+      "water_level": 0.84,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-15T22:00:35.245000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-15T22:00:35.245000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 5
+    },
     {
       "objectid": 1477783,
       "globalid": "ddabfd5e-598f-48f3-ba15-6d7f5cbe6806",
