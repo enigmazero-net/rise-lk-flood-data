@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-08-15T17:45:32.438584+00:00",
+  "last_updated_utc": "2026-08-15T17:57:21.927702+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6428,
+  "record_count": 6429,
   "records": [
+    {
+      "objectid": 1477639,
+      "globalid": "2ada253e-9c0a-4845-b61b-9795302e744f",
+      "basin": "Maduru Oya",
+      "gauge": "Padiyathalawa",
+      "water_level": 0.07,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-15T17:48:16.844000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-15T17:48:16.844000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 4.5,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1477638,
+      "globalid": "5c3e9642-03ee-4049-b28d-cd35d0bcd464",
+      "basin": "Kelani Ganga",
+      "gauge": "Norwood",
+      "water_level": 0.69,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-15T17:48:00.898000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-15T17:48:00.898000+00:00",
+      "Editor": "",
+      "alertpull": 1.5,
+      "minorpull": 3,
+      "majorpull": 4.5
+    },
     {
       "objectid": 1477637,
       "globalid": "9fce4bd1-4cfb-45af-b42b-b59812120a2f",
@@ -96409,21 +96439,6 @@
       "alertpull": 4.5,
       "minorpull": 6,
       "majorpull": 7
-    },
-    {
-      "objectid": 1471204,
-      "globalid": "161d9640-f15f-4e25-9191-f7a925d54bbf",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 4.04,
-      "rain_fall": 0,
-      "CreationDate": "2026-08-08T17:48:27.867000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-08T17:48:27.867000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
