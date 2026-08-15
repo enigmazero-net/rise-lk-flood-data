@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-08-15T19:09:28.933207+00:00",
+  "last_updated_utc": "2026-08-15T19:31:04.881321+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6432,
   "records": [
+    {
+      "objectid": 1477682,
+      "globalid": "008221bd-4f94-4039-a437-f75dae15ab0a",
+      "basin": "Kirindi Oya",
+      "gauge": "Wellawaya",
+      "water_level": 0.57,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-15T19:30:08.308000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-15T19:30:08.308000+00:00",
+      "Editor": "",
+      "alertpull": 4.4,
+      "minorpull": 5.4,
+      "majorpull": 5.9
+    },
+    {
+      "objectid": 1477681,
+      "globalid": "8de7c1ac-ebb1-4beb-a01b-1778b504cb8b",
+      "basin": "Menik Ganga",
+      "gauge": "Katharagama",
+      "water_level": -0.26,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-15T19:23:18.344000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-15T19:23:18.344000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 4.6,
+      "majorpull": 6.5
+    },
     {
       "objectid": 1477680,
       "globalid": "2cce5242-428a-4648-8b6c-979318a2260f",
@@ -96454,36 +96484,6 @@
       "alertpull": 3,
       "minorpull": 4.3,
       "majorpull": 6
-    },
-    {
-      "objectid": 1471245,
-      "globalid": "b4e11244-bff4-435d-aaf7-d4cb959ceceb",
-      "basin": "Gal Oya",
-      "gauge": "Ampara",
-      "water_level": 0,
-      "rain_fall": 0,
-      "CreationDate": "2026-08-08T19:31:02.640000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-08T19:31:02.640000+00:00",
-      "Editor": "",
-      "alertpull": null,
-      "minorpull": null,
-      "majorpull": null
-    },
-    {
-      "objectid": 1471244,
-      "globalid": "f5ba8c6c-a3cf-4b7f-aa15-4378fec92209",
-      "basin": "Nilwala Ganga",
-      "gauge": "Thalgahagoda",
-      "water_level": 0.76,
-      "rain_fall": 0,
-      "CreationDate": "2026-08-08T19:30:43.660000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-08T19:30:43.660000+00:00",
-      "Editor": "",
-      "alertpull": 1.4,
-      "minorpull": 1.7,
-      "majorpull": 2.8
     }
   ]
 }
