@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-08-15T07:55:48.411750+00:00",
+  "last_updated_utc": "2026-08-15T08:15:16.008831+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6437,
+  "record_count": 6436,
   "records": [
+    {
+      "objectid": 1477252,
+      "globalid": "2d4a54c4-b235-41ca-ac39-063f9b623ae3",
+      "basin": "Malwathu Oya",
+      "gauge": "Thanthirimale",
+      "water_level": 0.71,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-15T08:11:42.960000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-15T08:11:42.960000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.8,
+      "majorpull": 7.8
+    },
     {
       "objectid": 1477251,
       "globalid": "600993af-0908-4e4f-b98b-d21db6cf9a31",
@@ -96529,36 +96544,6 @@
       "alertpull": 4.5,
       "minorpull": 6,
       "majorpull": 7
-    },
-    {
-      "objectid": 1470810,
-      "globalid": "68e9624e-6cb4-4a6a-b85b-17a10cbcaedd",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 3.07,
-      "rain_fall": 0,
-      "CreationDate": "2026-08-08T07:59:42.947000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-08T07:59:42.947000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
-    },
-    {
-      "objectid": 1470809,
-      "globalid": "ca958a0b-d9e3-4d1b-acc3-e229d6812722",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 3.07,
-      "rain_fall": 0,
-      "CreationDate": "2026-08-08T07:56:28.861000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-08T07:56:28.861000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
