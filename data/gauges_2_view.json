@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-08-15T09:52:52.412039+00:00",
+  "last_updated_utc": "2026-08-15T10:10:58.837633+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6436,
+  "record_count": 6437,
   "records": [
+    {
+      "objectid": 1477335,
+      "globalid": "c162cbf2-0d2b-4968-9f99-08f1504610bf",
+      "basin": "Malwathu Oya",
+      "gauge": "Thanthirimale",
+      "water_level": 0.7,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-15T09:53:19.226000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-15T09:53:19.226000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.8,
+      "majorpull": 7.8
+    },
     {
       "objectid": 1477334,
       "globalid": "a3f0236b-777c-45bb-ab75-e5b7408305d7",
