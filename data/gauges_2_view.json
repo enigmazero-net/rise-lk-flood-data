@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2026-08-16T03:55:43.678644+00:00",
+  "last_updated_utc": "2026-08-16T04:25:30.644475+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6437,
+  "record_count": 6435,
   "records": [
     {
       "objectid": 1478018,
@@ -96529,36 +96529,6 @@
       "alertpull": 6.9,
       "minorpull": 8.4,
       "majorpull": 8.8
-    },
-    {
-      "objectid": 1471579,
-      "globalid": "cad4516c-b8f7-4bce-9288-47936c42ed23",
-      "basin": "Nilwala Ganga",
-      "gauge": "Urawa",
-      "water_level": 0.3,
-      "rain_fall": 3.2,
-      "CreationDate": "2026-08-09T04:06:04.616000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-09T04:06:04.616000+00:00",
-      "Editor": "",
-      "alertpull": 2.5,
-      "minorpull": 4,
-      "majorpull": 6
-    },
-    {
-      "objectid": 1471578,
-      "globalid": "300ca4e4-2e83-449e-b94a-9d6358ccab8c",
-      "basin": "Gin Ganga",
-      "gauge": "Baddegama",
-      "water_level": 2.33,
-      "rain_fall": 0,
-      "CreationDate": "2026-08-09T04:04:51.493000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-09T04:04:51.493000+00:00",
-      "Editor": "",
-      "alertpull": 3.5,
-      "minorpull": 4,
-      "majorpull": 5
     }
   ]
 }
