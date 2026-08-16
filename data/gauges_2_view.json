@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-08-16T05:50:12.394509+00:00",
+  "last_updated_utc": "2026-08-16T06:20:32.936000+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6433,
+  "record_count": 6435,
   "records": [
+    {
+      "objectid": 1478099,
+      "globalid": "e8f3af6a-b8c3-40ac-a3be-cc1077a283f4",
+      "basin": "Malwathu Oya",
+      "gauge": "Thanthirimale",
+      "water_level": 0.7,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-16T06:02:39.633000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-16T06:02:39.633000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.8,
+      "majorpull": 7.8
+    },
+    {
+      "objectid": 1478098,
+      "globalid": "d4b91edb-c4fd-4681-83d6-30c35086c2a5",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.28,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-16T05:51:59.852000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-16T05:51:59.852000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
+    {
+      "objectid": 1478097,
+      "globalid": "984ed015-2cbd-4d2d-9e40-b5ceaac33b20",
+      "basin": "Kalu Ganga",
+      "gauge": "Ellagawa",
+      "water_level": 5.29,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-16T05:51:37.894000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-16T05:51:37.894000+00:00",
+      "Editor": "",
+      "alertpull": 10,
+      "minorpull": 10.7,
+      "majorpull": 12.2
+    },
     {
       "objectid": 1478096,
       "globalid": "bf2408c2-7632-4b9c-bb94-147481bd0b84",
@@ -96484,21 +96529,6 @@
       "alertpull": 5,
       "minorpull": 6.8,
       "majorpull": 7.8
-    },
-    {
-      "objectid": 1471660,
-      "globalid": "93a0aac6-78da-491a-bc34-c6c86038df97",
-      "basin": "Mahaweli Ganga",
-      "gauge": "Manampitiya",
-      "water_level": -0.13,
-      "rain_fall": 0,
-      "CreationDate": "2026-08-09T06:15:04.920000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-09T06:15:04.920000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4.3,
-      "majorpull": 6
     }
   ]
 }
