@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-08-16T19:42:48.140169+00:00",
+  "last_updated_utc": "2026-08-16T19:55:48.198013+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6435,
+  "record_count": 6437,
   "records": [
+    {
+      "objectid": 1478635,
+      "globalid": "274e4762-2869-4bd8-814b-2a2390a09494",
+      "basin": "Kelani Ganga",
+      "gauge": "Deraniyagala",
+      "water_level": 0.92,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-16T19:47:47.046000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-16T19:47:47.046000+00:00",
+      "Editor": "",
+      "alertpull": 4.8,
+      "minorpull": 5.8,
+      "majorpull": 7
+    },
+    {
+      "objectid": 1478634,
+      "globalid": "f8ce7c6c-34f4-4a80-bb91-99c992b7194f",
+      "basin": "Kalu Ganga",
+      "gauge": "Kalawellawa (Millakanda)",
+      "water_level": 2.62,
+      "rain_fall": 6.9,
+      "CreationDate": "2026-08-16T19:45:43.377000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-16T19:45:43.377000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.5,
+      "majorpull": 8
+    },
+    {
+      "objectid": 1478633,
+      "globalid": "73e89723-8551-4d1f-927d-34eaedea2c94",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 0.42,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-16T19:44:20.361000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-16T19:44:20.361000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
     {
       "objectid": 1478632,
       "globalid": "714c1894-1a13-44b7-bbf6-8be1895812d5",
@@ -96514,21 +96559,6 @@
       "alertpull": 6,
       "minorpull": 7.5,
       "majorpull": 10.5
-    },
-    {
-      "objectid": 1472194,
-      "globalid": "6c9dd337-68f1-446a-95ac-6d7ba748f4e5",
-      "basin": "Kalu Ganga",
-      "gauge": "Putupaula",
-      "water_level": 0.58,
-      "rain_fall": 0,
-      "CreationDate": "2026-08-09T19:54:25.728000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-09T19:54:25.728000+00:00",
-      "Editor": "",
-      "alertpull": 3,
-      "minorpull": 4,
-      "majorpull": 5
     }
   ]
 }
