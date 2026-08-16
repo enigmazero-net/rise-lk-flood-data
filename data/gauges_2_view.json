@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-08-16T17:43:28.423165+00:00",
+  "last_updated_utc": "2026-08-16T17:56:10.242574+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6436,
   "records": [
+    {
+      "objectid": 1478563,
+      "globalid": "78e7e1f7-b9c4-4048-aff0-891397470d5a",
+      "basin": "Kelani Ganga",
+      "gauge": "Nagalagam Street",
+      "water_level": 0.5,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-16T17:44:01.656000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-16T17:44:01.656000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 7
+    },
     {
       "objectid": 1478562,
       "globalid": "effaa548-2d1d-418e-943e-33774b2c8a76",
@@ -96529,21 +96544,6 @@
       "alertpull": 4,
       "minorpull": 5,
       "majorpull": 6
-    },
-    {
-      "objectid": 1472123,
-      "globalid": "c8c78484-908c-4ea3-85f6-3e17b010c3e3",
-      "basin": "Kelani Ganga",
-      "gauge": "Glencourse",
-      "water_level": 10.73,
-      "rain_fall": 0.5,
-      "CreationDate": "2026-08-09T17:44:01.425000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-09T17:44:01.425000+00:00",
-      "Editor": "",
-      "alertpull": 15,
-      "minorpull": 15.5,
-      "majorpull": 19
     }
   ]
 }
