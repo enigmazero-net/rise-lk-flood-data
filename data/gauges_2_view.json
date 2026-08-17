@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-08-17T19:54:50.776758+00:00",
+  "last_updated_utc": "2026-08-17T20:13:48.593289+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6422,
   "records": [
+    {
+      "objectid": 1479535,
+      "globalid": "7b728daf-2968-46ca-afb5-c00ab6600844",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.2,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-17T20:04:09.013000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-17T20:04:09.013000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
     {
       "objectid": 1479534,
       "globalid": "5c5811a5-9fa4-456d-b0ae-ea2fdfabb42b",
@@ -96319,21 +96334,6 @@
       "alertpull": 1.5,
       "minorpull": 3,
       "majorpull": 4.5
-    },
-    {
-      "objectid": 1473111,
-      "globalid": "2d35b4ed-77e2-4d1a-b0e2-cea36fe7dc33",
-      "basin": "Gal Oya",
-      "gauge": "Ampara",
-      "water_level": 0,
-      "rain_fall": 0,
-      "CreationDate": "2026-08-10T19:59:14.746000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-10T19:59:14.746000+00:00",
-      "Editor": "",
-      "alertpull": null,
-      "minorpull": null,
-      "majorpull": null
     }
   ]
 }
