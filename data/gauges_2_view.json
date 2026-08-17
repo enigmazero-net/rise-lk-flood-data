@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-08-17T13:50:14.588306+00:00",
+  "last_updated_utc": "2026-08-17T14:16:30.004159+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6427,
   "records": [
+    {
+      "objectid": 1479329,
+      "globalid": "20ed1a55-3ea1-4087-95f6-1d474b72547d",
+      "basin": "Kalu Ganga",
+      "gauge": "Kalawellawa (Millakanda)",
+      "water_level": 2.58,
+      "rain_fall": 1,
+      "CreationDate": "2026-08-17T13:54:42.248000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-17T13:54:42.248000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.5,
+      "majorpull": 8
+    },
+    {
+      "objectid": 1479328,
+      "globalid": "a65b37ec-144a-470d-beaf-f218fa6d279b",
+      "basin": "Nilwala Ganga",
+      "gauge": "Pitabeddara",
+      "water_level": 0.47,
+      "rain_fall": 1.2,
+      "CreationDate": "2026-08-17T13:51:46.299000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-17T13:51:46.299000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 6.5
+    },
     {
       "objectid": 1479327,
       "globalid": "2a47043e-5cde-438e-b807-ee7f014b77a3",
@@ -96379,36 +96409,6 @@
       "alertpull": 3.3,
       "minorpull": 4.4,
       "majorpull": 5.5
-    },
-    {
-      "objectid": 1472899,
-      "globalid": "c14c9712-2c8e-4afa-a292-42948709f8f4",
-      "basin": "Kalu Ganga",
-      "gauge": "Kalawellawa (Millakanda)",
-      "water_level": 3.14,
-      "rain_fall": 0,
-      "CreationDate": "2026-08-10T13:52:51.963000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-10T13:52:51.963000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6.5,
-      "majorpull": 8
-    },
-    {
-      "objectid": 1472898,
-      "globalid": "14e84fe7-de91-4c40-a926-d2dd0786cfc0",
-      "basin": "Kalu Ganga",
-      "gauge": "Magura",
-      "water_level": 1.78,
-      "rain_fall": 0,
-      "CreationDate": "2026-08-10T13:52:15.907000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-10T13:52:15.907000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
