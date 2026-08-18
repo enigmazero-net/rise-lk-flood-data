@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-08-18T11:46:48.302681+00:00",
+  "last_updated_utc": "2026-08-18T12:02:21.730083+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6406,
   "records": [
+    {
+      "objectid": 1480155,
+      "globalid": "a44639a1-4841-49dc-8cd8-30e30d250d04",
+      "basin": "Nilwala Ganga",
+      "gauge": "Thalgahagoda",
+      "water_level": 0.33,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-18T11:51:34.178000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-18T11:51:34.178000+00:00",
+      "Editor": "",
+      "alertpull": 1.4,
+      "minorpull": 1.7,
+      "majorpull": 2.8
+    },
     {
       "objectid": 1480154,
       "globalid": "d79b0ab4-6901-4dd2-85af-3dfcf519f5b4",
@@ -96075,21 +96090,6 @@
       "CreationDate": "2026-08-11T12:30:13.740000+00:00",
       "Creator": "",
       "EditDate": "2026-08-11T12:30:13.740000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
-    },
-    {
-      "objectid": 1473747,
-      "globalid": "bd5f973c-23dc-4bc3-ae18-b30b775c031a",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.63,
-      "rain_fall": 0,
-      "CreationDate": "2026-08-11T11:51:12.424000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-11T11:51:12.424000+00:00",
       "Editor": "",
       "alertpull": 4,
       "minorpull": 5,
