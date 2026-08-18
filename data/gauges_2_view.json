@@ -1,9 +1,9 @@
 {
-  "last_updated_utc": "2026-08-18T15:56:06.837450+00:00",
+  "last_updated_utc": "2026-08-18T16:20:13.681948+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6412,
+  "record_count": 6409,
   "records": [
     {
       "objectid": 1480310,
@@ -96139,51 +96139,6 @@
       "alertpull": 6,
       "minorpull": 7.5,
       "majorpull": 10.5
-    },
-    {
-      "objectid": 1473899,
-      "globalid": "eacc642c-d7c5-4f00-b7ca-e62af6c2a3d0",
-      "basin": "Menik Ganga",
-      "gauge": "Katharagama",
-      "water_level": -0.27,
-      "rain_fall": 0,
-      "CreationDate": "2026-08-11T16:00:47.240000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-11T16:00:47.240000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 4.6,
-      "majorpull": 6.5
-    },
-    {
-      "objectid": 1473898,
-      "globalid": "7daee483-eb35-4b6b-84e8-9dce34ff9c03",
-      "basin": "Menik Ganga",
-      "gauge": "Katharagama",
-      "water_level": -0.27,
-      "rain_fall": 0,
-      "CreationDate": "2026-08-11T16:00:40.931000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-11T16:00:40.931000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 4.6,
-      "majorpull": 6.5
-    },
-    {
-      "objectid": 1473897,
-      "globalid": "3dcc34dd-d10f-43c0-88cb-cd0c3af6e94b",
-      "basin": "Menik Ganga",
-      "gauge": "Katharagama",
-      "water_level": -0.27,
-      "rain_fall": 0,
-      "CreationDate": "2026-08-11T16:00:35.258000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-11T16:00:35.258000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 4.6,
-      "majorpull": 6.5
     }
   ]
 }
