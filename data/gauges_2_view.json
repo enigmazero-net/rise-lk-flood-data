@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-08-18T17:45:24.295381+00:00",
+  "last_updated_utc": "2026-08-18T18:02:18.500814+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6400,
+  "record_count": 6402,
   "records": [
+    {
+      "objectid": 1480376,
+      "globalid": "da2b6a51-1f69-4335-b470-8f6e2743abed",
+      "basin": "Kelani Ganga",
+      "gauge": "Kithulgala",
+      "water_level": 1.8,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-18T17:47:36.085000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-18T17:47:36.085000+00:00",
+      "Editor": "",
+      "alertpull": 3,
+      "minorpull": 4,
+      "majorpull": 6
+    },
+    {
+      "objectid": 1480375,
+      "globalid": "6089ec60-92e3-4e00-a098-6fb511f66fdd",
+      "basin": "Kalu Ganga",
+      "gauge": "Ellagawa",
+      "water_level": 5.5,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-18T17:46:57.512000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-18T17:46:57.512000+00:00",
+      "Editor": "",
+      "alertpull": 10,
+      "minorpull": 10.7,
+      "majorpull": 12.2
+    },
     {
       "objectid": 1480374,
       "globalid": "de630eb5-9f20-49d8-96a4-e3f03275949f",
