@@ -1,10 +1,40 @@
 {
-  "last_updated_utc": "2026-08-18T19:58:05.689286+00:00",
+  "last_updated_utc": "2026-08-18T20:18:52.713987+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6410,
   "records": [
+    {
+      "objectid": 1480451,
+      "globalid": "a6048c7b-e4b0-429f-bad6-f3fac1076eb0",
+      "basin": "Gin Ganga",
+      "gauge": "Thawalama",
+      "water_level": 1.42,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-18T20:09:08.959000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-18T20:09:08.959000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1480450,
+      "globalid": "47287b5a-78fb-48e3-aec0-c96de344d4e6",
+      "basin": "Mahaweli Ganga",
+      "gauge": "Nawalapitiya",
+      "water_level": 1.41,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-18T20:01:32.157000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-18T20:01:32.157000+00:00",
+      "Editor": "",
+      "alertpull": 3.5,
+      "minorpull": 5,
+      "majorpull": 6
+    },
     {
       "objectid": 1480449,
       "globalid": "dab579da-49ca-4b5b-91d7-bb22bf3b3d91",
@@ -96124,36 +96154,6 @@
       "alertpull": 15,
       "minorpull": 15.5,
       "majorpull": 19
-    },
-    {
-      "objectid": 1474039,
-      "globalid": "05547fae-0931-4fec-a037-21f8ba5fc0f1",
-      "basin": "Kelani Ganga",
-      "gauge": "Nagalagam Street",
-      "water_level": 1.7,
-      "rain_fall": 0,
-      "CreationDate": "2026-08-11T20:12:06.791000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-11T20:12:06.791000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 7
-    },
-    {
-      "objectid": 1474038,
-      "globalid": "fae20b86-ed44-42b2-8172-d5f1e09f61c8",
-      "basin": "Nilwala Ganga",
-      "gauge": "Panadugama",
-      "water_level": 2.68,
-      "rain_fall": 0,
-      "CreationDate": "2026-08-11T20:00:11.907000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-11T20:00:11.907000+00:00",
-      "Editor": "",
-      "alertpull": 5,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
