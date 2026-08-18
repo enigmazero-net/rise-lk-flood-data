@@ -1,10 +1,55 @@
 {
-  "last_updated_utc": "2026-08-18T20:42:26.919335+00:00",
+  "last_updated_utc": "2026-08-18T21:00:40.928173+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6409,
+  "record_count": 6411,
   "records": [
+    {
+      "objectid": 1480486,
+      "globalid": "da973419-85ea-482b-b68a-ba854e5cd1b1",
+      "basin": "Kelani Ganga",
+      "gauge": "Deraniyagala",
+      "water_level": 0.85,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-18T20:48:30.188000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-18T20:48:30.188000+00:00",
+      "Editor": "",
+      "alertpull": 4.8,
+      "minorpull": 5.8,
+      "majorpull": 7
+    },
+    {
+      "objectid": 1480485,
+      "globalid": "5e4a255b-e747-4268-b1e8-77a1984ae56b",
+      "basin": "Nilwala Ganga",
+      "gauge": "Panadugama",
+      "water_level": 2.38,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-18T20:46:50.723000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-18T20:46:50.723000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
+    {
+      "objectid": 1480484,
+      "globalid": "ee9b3767-fb0e-41f5-93d9-6729afb894c8",
+      "basin": "Kelani Ganga",
+      "gauge": "Nagalagam Street",
+      "water_level": 1,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-18T20:45:46.470000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-18T20:45:46.470000+00:00",
+      "Editor": "",
+      "alertpull": 4,
+      "minorpull": 5,
+      "majorpull": 7
+    },
     {
       "objectid": 1480483,
       "globalid": "5a0854d5-a909-4b04-b553-b5fa12ed6f1e",
@@ -96124,21 +96169,6 @@
       "alertpull": 3,
       "minorpull": 4,
       "majorpull": 5
-    },
-    {
-      "objectid": 1474073,
-      "globalid": "64f8bcc5-fa8c-43e2-b4e6-7cf6157d0773",
-      "basin": "Gin Ganga",
-      "gauge": "Thawalama",
-      "water_level": 1.61,
-      "rain_fall": 0.5,
-      "CreationDate": "2026-08-11T20:50:09.200000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-11T20:50:09.200000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 6,
-      "majorpull": 7.5
     }
   ]
 }
