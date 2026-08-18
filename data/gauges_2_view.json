@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-08-18T10:59:11.619948+00:00",
+  "last_updated_utc": "2026-08-18T11:24:48.072456+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
   "record_count": 6408,
   "records": [
+    {
+      "objectid": 1480116,
+      "globalid": "0c253597-216e-48a0-b9d9-c953c50beb77",
+      "basin": "Kumbukkan Oya",
+      "gauge": "Nakkala",
+      "water_level": 0.59,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-18T11:00:32.731000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-18T11:00:32.731000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6,
+      "majorpull": 7.5
+    },
     {
       "objectid": 1480115,
       "globalid": "179d11e1-b1a9-454c-99cc-86a6c5a82119",
@@ -96109,21 +96124,6 @@
       "alertpull": 6.9,
       "minorpull": 8.4,
       "majorpull": 8.8
-    },
-    {
-      "objectid": 1473706,
-      "globalid": "9f9d5035-892b-49b3-a6cd-9cc19e9f103e",
-      "basin": "Nilwala Ganga",
-      "gauge": "Pitabeddara",
-      "water_level": 0.65,
-      "rain_fall": 0,
-      "CreationDate": "2026-08-11T11:12:41.971000+00:00",
-      "Creator": "",
-      "EditDate": "2026-08-11T11:12:41.971000+00:00",
-      "Editor": "",
-      "alertpull": 4,
-      "minorpull": 5,
-      "majorpull": 6.5
     }
   ]
 }
