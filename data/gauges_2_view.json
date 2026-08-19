@@ -1,10 +1,25 @@
 {
-  "last_updated_utc": "2026-08-19T14:58:29.121877+00:00",
+  "last_updated_utc": "2026-08-19T15:28:27.627313+00:00",
   "source": "rise_lk_gauges_scraper",
   "source_url": "https://services3.arcgis.com/J7ZFXmR8rSmQ3FGf/arcgis/rest/services/gauges_2_view/FeatureServer/0",
   "where": "",
-  "record_count": 6405,
+  "record_count": 6406,
   "records": [
+    {
+      "objectid": 1481194,
+      "globalid": "5f5c8153-65b0-4571-a645-35e9dfa84bd9",
+      "basin": "Kalu Ganga",
+      "gauge": "Kalawellawa (Millakanda)",
+      "water_level": 1.87,
+      "rain_fall": 0,
+      "CreationDate": "2026-08-19T14:58:46.228000+00:00",
+      "Creator": "",
+      "EditDate": "2026-08-19T14:58:46.228000+00:00",
+      "Editor": "",
+      "alertpull": 5,
+      "minorpull": 6.5,
+      "majorpull": 8
+    },
     {
       "objectid": 1481193,
       "globalid": "75892518-96dc-4478-b161-e04b88a2b502",
